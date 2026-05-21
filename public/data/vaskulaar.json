@@ -932,7 +932,7 @@
         "a": "kirurgiline ravi kuldstandard kui sümptomaatiline ja stenoos üle 70%",
         "b": "kui on sümptomaatiline ja stenoos 70%, siis teed endarterektoomia"
       },
-      "answer": "b",
+      "answer": "a, b — mõlemad väited on õiged. Sümptomaatilise unearteri stenoosi (≥70%) puhul on karotiidi endarterektoomia (CEA) kuldstandard ja näidustatud ravi; valikud A ja B kirjeldavad sama põhimõtet erinevate sõnadega.",
       "type": "mc",
       "sources": [
         "quizlet:870677240"

@@ -1,0 +1,5648 @@
+{
+  "section": "trauma",
+  "count": 406,
+  "questions": [
+    {
+      "id": "c489f925f94d",
+      "section": "trauma",
+      "question": "Galeazzi murd",
+      "choices": {
+        "a": "prox ulna murd + radiuse pea nihestusega",
+        "b": "radiuse dist. ⅓ murd + ulna dist. osa nihestus"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "5c03ee9e6140",
+      "section": "trauma",
+      "question": "Mida teeb patella?",
+      "choices": {
+        "a": "jalavenituse abistamine",
+        "b": "jalasirutuse abistamine,",
+        "c": "raskuse viimine üle põlve",
+        "d": "stabiliseerib külgmisi sidemeid"
+      },
+      "answer": "b, c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "94aae324c1e0",
+      "section": "trauma",
+      "question": "Mis on plõksuv sõrm?",
+      "choices": {
+        "a": "Stenoseeriv tenosünoviit",
+        "b": "Infektsioosne tenosünoviit",
+        "c": "Reumatoidartriit"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "18bf880f292a",
+      "section": "trauma",
+      "question": "Verekaotus reieluu murru korral",
+      "choices": {
+        "a": "500-1000 ml",
+        "b": "1000-2000 ml",
+        "c": "2000-3000 ml"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "c85159634d75",
+      "section": "trauma",
+      "question": "Ägeda tenosünoviidi esmane ravi",
+      "choices": {
+        "a": "kortisooni süst",
+        "b": "NSAID + külmakompressioon",
+        "d": "operatsioon",
+        "e": "taastusravi",
+        "c": "operatsioon"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "fc146c3cbf92",
+      "section": "trauma",
+      "question": "Heberdeni sõlmede lokalisatsioon",
+      "choices": {
+        "a": "DIP liigeste piirkonnas",
+        "b": "PIP liigeste piirkonnas"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "32d0843aefd3",
+      "section": "trauma",
+      "question": "Tibia platoomurru visualiseerimine",
+      "choices": {
+        "a": "röntgen",
+        "b": "KT",
+        "c": "MRT"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "cab823779f1a",
+      "section": "trauma",
+      "question": "Tüüpiline kunstliku puusaliigese nihestus",
+      "choices": {
+        "a": "eesmine",
+        "b": "tagumine",
+        "c": "lateraalne",
+        "d": "mediaalne"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "af00de2b5230",
+      "section": "trauma",
+      "question": "Küünarliigese nihestus on kõige sagedamini",
+      "choices": {
+        "a": "eesmine",
+        "b": "lateraalne",
+        "c": "posteromediaalne",
+        "d": "tagumine/posterolateraalne)"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "980c81f36110",
+      "section": "trauma",
+      "question": "Milline närv kulgeb mediaalselt küünarnukil",
+      "choices": {
+        "a": "n. radius",
+        "b": "n. ulnaris",
+        "c": "n. medius"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "c1971914ad65",
+      "section": "trauma",
+      "question": "Proksimaalse reieluu murru sagedaseim olukord",
+      "choices": {
+        "a": "kukub jalalt",
+        "b": "kukub toolilt",
+        "c": "kukub voodist"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "2b40a5185d95",
+      "section": "trauma",
+      "question": "Tibia platoomurru korral esinev ohtlik seisund",
+      "choices": {
+        "a": "luumurd nihkega",
+        "b": "kompartment sündroom",
+        "c": "n. radiuse vigastus"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "556e78e3a71c",
+      "section": "trauma",
+      "question": "Kuidas ravid küünarliigese 2 fragmendilist murdu?",
+      "choices": {
+        "a": "K varras + pingeling",
+        "b": "Traatling",
+        "c": "kruvid"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "3f02bd4ed5b9",
+      "section": "trauma",
+      "question": "Mis närv saab kahjustada karpaalkanali sündroomi korral",
+      "choices": {
+        "a": "n. medianus",
+        "b": "n. ulnaris",
+        "c": "n. radialis"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "e7f329e2c0c8",
+      "section": "trauma",
+      "question": "Kuidas kirjeldad hallux valguse puhul suure varba asendit?",
+      "choices": {
+        "a": "valgus ja supinatsioon",
+        "b": "valgus ja pronatsioon",
+        "c": "valgus ja ekstensioon",
+        "d": "valgus ja fleksioon"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "3da41bd7ec59",
+      "section": "trauma",
+      "question": "Radiuse murd distaalselt dislokatsiooniga dorsaalsele nimetatakse",
+      "choices": {
+        "a": "Colles",
+        "b": "Smith",
+        "c": "Chauffeur"
+      },
+      "answer": "a.",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "a9392957d369",
+      "section": "trauma",
+      "question": "Vanal naisel radiuse tüüpilise koha murd, mis on plaaniline tegevus",
+      "choices": {
+        "a": "KT",
+        "b": "MRT",
+        "c": "Rö",
+        "d": "densitomeetria"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "bfda822bf733",
+      "section": "trauma",
+      "question": "Millised 2 sõrme on enamjaolt haaratud contractura dupuytreni korral",
+      "choices": {
+        "a": "I, II ja III",
+        "b": "III ja IV",
+        "c": "IV ja V",
+        "d": "IV ja V"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "ffb1337a0cd7",
+      "section": "trauma",
+      "question": "Mida tuleks teha lahtise sääreluu murru korral infektsiooni vältimiseks?",
+      "choices": {
+        "a": "kohene haavakorrastus",
+        "b": "kohene antibiootikumravi",
+        "c": "kohene osteosüntees",
+        "d": "kohene immobiliseerimine"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "e025ecd34e0f",
+      "section": "trauma",
+      "question": "Glükoosamiini prep:",
+      "choices": {
+        "a": "on kasulikud kõhre AV toetajad ja pärsivad artroosi prog.",
+        "b": "omavad kasulikku toimet isegi menisirebenditel, aga aihnult koos kondroitiinsulfaadiga",
+        "c": "ei oma tõenduspõhisust ning on sama head kui platseebo",
+        "d": "avaldavad toimet alles megaannustes"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "e611eb372c8c",
+      "section": "trauma",
+      "question": "Hallux valguse nurk?",
+      "choices": {
+        "a": "4",
+        "b": "9",
+        "c": "15",
+        "d": "21"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "f94fac2ec0b9",
+      "section": "trauma",
+      "question": "Hüaluroonhappe süstid:",
+      "choices": {
+        "a": "omab paremat toimet kui jõutreening artroosile",
+        "b": "võib teatud juhtudel segada glükokortikoididega, nt kenalog",
+        "c": "sama hea kui platseebo",
+        "d": "toimivad pigem II-IIIst artroosile",
+        "e": "efusioonis põlve süstimise eelselt ppeaks põlve enne efusioonist tühjaks punkteerima",
+        "f": "ei ole soovitatud, kuna palju kt-sid"
+      },
+      "answer": "b,d,e",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "6a94dfede78e",
+      "section": "trauma",
+      "question": "Milline väide on õige:",
+      "choices": {
+        "a": "mensiki õmblemine ei ole kulutõhus tegevus",
+        "b": "menski korvisang-tüüpi rebend tuleb resetseerida",
+        "c": "meniski resektsiooni järgselt tõuseb artroosi risk põlveliigeses mitu korda",
+        "d": "meniski rebendeid peaks kindlasti käsitlema kirurgiliselt"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "f044c4742ad5",
+      "section": "trauma",
+      "question": "Hallux valgus tekib kui",
+      "choices": {
+        "a": "1. varba telg kaugeneb 2. varba teljest",
+        "b": "1. varba telg läheneb 2. varba teljele"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d90b3a43687f",
+      "section": "trauma",
+      "question": "Mis on spondülolistees?",
+      "choices": {
+        "1": "Lülisamba lülide kompressioon",
+        "2": "Lülisamba lülide nihkumine teineteise suhtes",
+        "3": "Processus trasnversuste murd",
+        "a": "Processus transversuse murd",
+        "b": "Lülikaare resorbtsioon",
+        "c": "Ühe seljalüli nihkumine teise suhtes",
+        "d": "Lülikeha kompressioonmurd"
+      },
+      "answer": "2) Lülisamba lülide nihkumine teineteise suhtes",
+      "type": "mc",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "723e0af0e4da",
+      "section": "trauma",
+      "question": "Osteoblastid pärinevad..",
+      "choices": {
+        "a": "monotsüütidest (osteoklastid)",
+        "b": "mesenhümaalsetest tüvirakkudest",
+        "c": "osteotsüütidest,",
+        "d": "osteoklastidest"
+      },
+      "answer": "Mesenhümaalsetest tüvirakkudest.",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "9474fd608958",
+      "section": "trauma",
+      "question": "Bicepsi distaalne kinnituskoht",
+      "choices": {
+        "a": "tuberositas radii",
+        "b": "processus coronoideus",
+        "c": "tuberositas ulnae"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d9a0f8d4b041",
+      "section": "trauma",
+      "question": "Koksartroosi puhul ei esine...",
+      "choices": {
+        "a": "liigespilu ahenemine,",
+        "b": "krepitatsioonid",
+        "c": "degeneratiivsed tsüstid reieluu peas,",
+        "d": "Liigesepilu laienemine",
+        "e": "reieluupea tsüstilised muutused",
+        "f": "10-15. min hommikune jäikus",
+        "g": "kõhrealune skleroseerumine"
+      },
+      "answer": "Liigesepilu laienemine",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "11485d03dbf0",
+      "section": "trauma",
+      "question": "Küünarnuki osteosünteesi valik",
+      "choices": {
+        "a": "plaat",
+        "b": "nael",
+        "c": "pingeling",
+        "d": "K-varras"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "2820042c6081",
+      "section": "trauma",
+      "question": "Osteoblastid millest pärinevad:",
+      "choices": {
+        "a": "monotsüütides,",
+        "b": "mesenhümaalsetest tüvirakkudest",
+        "c": "osteotsüütidest,",
+        "d": "osteoklastidest"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "801071871082",
+      "section": "trauma",
+      "question": "Proksimaalse reieluumurru ravi?",
+      "choices": {
+        "a": "Operatsioon",
+        "b": "Voodirežiim",
+        "c": "Säästev režiim",
+        "d": "Palliatiivne ravi"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "ed81527fed21",
+      "section": "trauma",
+      "question": "Millist tüüpi kollageen on luus?",
+      "choices": {
+        "a": "I",
+        "b": "II",
+        "c": "VI",
+        "d": "XII"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "1dabb735442e",
+      "section": "trauma",
+      "question": "Acetabulumi murdude opi näidustus",
+      "choices": {
+        "a": "protrusioontüüpi murd",
+        "b": "tagumise samba murd",
+        "c": "eesmise seina murd",
+        "d": "aste liigespinnas üle 2mm"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "e556033dd648",
+      "section": "trauma",
+      "question": "Mis on osteoklastide eellasrakud?",
+      "choices": {
+        "a": "Osteotsüüdid",
+        "b": "Mesenhümaalsed tüvirakud",
+        "c": "Monotsüüdid"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "f86f791fffd3",
+      "section": "trauma",
+      "question": "Millist tüüpi kollageen on kõhres?",
+      "choices": {
+        "a": "I",
+        "b": "II",
+        "c": "VI",
+        "d": "XII"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "419eb1ec2743",
+      "section": "trauma",
+      "question": "Õlas saavad kõige tihedamini vigastada",
+      "choices": {
+        "a": "kapsel",
+        "b": "sidemed",
+        "c": "kõõlused",
+        "d": "lihased"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "4d18edab2ecd",
+      "section": "trauma",
+      "question": "Reieluukaela murru peamine riskifaktor",
+      "choices": {
+        "a": "vanus",
+        "b": "sugu",
+        "c": "osteoporoos"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "2ee285bb94c3",
+      "section": "trauma",
+      "question": "Hallux valguse operatsiooninäidustus?",
+      "choices": {
+        "a": "Jalg on kosmeetiliselt kole vaadata",
+        "b": "Jalanõud ei mahu jalga",
+        "c": "Valu",
+        "d": "Patsient peab kannale toetuma"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "bb55ad55067e",
+      "section": "trauma",
+      "question": "Osteoporoosi puhul kus tüüpiliselt murd:",
+      "choices": {
+        "a": "kodarluu dist osas",
+        "b": "lülisambas",
+        "c": "Kolju",
+        "d": "roided"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "0852a1c31fa3",
+      "section": "trauma",
+      "question": "Trendelenburg sign näitab mille vigastust?",
+      "choices": {
+        "a": "Puusa abduktorid",
+        "b": "Puusa adduktorid",
+        "c": "Puusa ekstensioon",
+        "d": "Puusa fleksioon"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "a14566d97e5a",
+      "section": "trauma",
+      "question": "Diskisopistuse kirurgilise ravi näidustus on",
+      "choices": {
+        "a": "L5-S1 diski sopistus foraminaalsel",
+        "b": "L5-S1 diski sopistus tsentraalsel",
+        "c": "L5-S1 diski sopistus ekstraforaminaalsel",
+        "d": "Cauda equina sündroom"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "1cb80e443ef0",
+      "section": "trauma",
+      "question": "Hüppeliigese artroosi kõige sagedasem põhjus",
+      "choices": {
+        "a": "osteomüeliidi järgne",
+        "b": "primaarne",
+        "c": "reumaatiline",
+        "d": "posttraumaatiline"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "eabc2cf5b3a6",
+      "section": "trauma",
+      "question": "Puusaliigese artroskoopia ei ole näidustatud?",
+      "choices": {
+        "a": "puusa labrumi vigastuse korral",
+        "b": "puusaliigese artroosi korral",
+        "c": "puusaliigese konromatoosi (liigeses olevate vabakehade) korral",
+        "d": "femoroatsetabulaarse pitsumise korral"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "e949d5e31a97",
+      "section": "trauma",
+      "question": "Pika toruluu murru korral tuleb immobiliseerida",
+      "choices": {
+        "a": "proksimaalne",
+        "b": "distaalne",
+        "c": "mõlemad",
+        "d": "Mitte kumbki"
+      },
+      "answer": "mõlemad liigesed",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "5de5471ac25a",
+      "section": "trauma",
+      "question": "Reieluu murru hiline ortopeediline tüsistus vms",
+      "choices": {
+        "a": "ei saa enam jalale toetuda",
+        "b": "jalg jääb lühemaks",
+        "c": "tekib osteonekroos",
+        "d": "kaardunud reieluu"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "41931b35268f",
+      "section": "trauma",
+      "question": "Mis tekib hallux valguse korral kõige sagedamini?",
+      "choices": {
+        "a": "II varba haamervarvas",
+        "b": "Pöia varus seis"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "f10820e3d3e5",
+      "section": "trauma",
+      "question": "Millised meniskivigastused paranevad, s.t. õmmeldes?",
+      "choices": {
+        "a": "perifeersed, mis on hästi vaskulariseeritud",
+        "b": "perifeersed, mis on avaskulariseeritud",
+        "c": "tsentraalsed, mis on avaskulariseeritud",
+        "d": "kõik paranevad"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "bce20427db9e",
+      "section": "trauma",
+      "question": "Tüüpiline jala asetus reie proksimaalse murru korral",
+      "choices": {
+        "a": "painutus + siserotatsioon",
+        "b": "painutus + abduktsioon",
+        "c": "lühenenud ja välisrotatsioon"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "50e69ab860cd",
+      "section": "trauma",
+      "question": "Dupuytren kontraktuuri kohta \"kõige õigem\" väide?",
+      "choices": {
+        "a": "Põhjustab rasket kontraktuuri ravist hoolimata",
+        "b": "Aeglaselt progresseeruv",
+        "c": "Vajab üks hetk amputatsiooni"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "95bdfeb3dd67",
+      "section": "trauma",
+      "question": "Mida kujutab endast ainevahetuslikult osteomalaatsia?",
+      "choices": {
+        "a": "D-vitamiini puudus",
+        "b": "A-vitamiini puudus",
+        "c": "Luude hapruse haigus",
+        "d": "Hea luu mineraalkoostis"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "27361cf5ec74",
+      "section": "trauma",
+      "question": "Lateraalse epikondüliidi mingi iseloomulik tunnus vms?",
+      "choices": {
+        "a": "valu sirutamisel küünarliigesest",
+        "b": "valu painutamisel küünarliigesest",
+        "c": "valu randme painutamisel vastu survet",
+        "d": "valu randme sirutamisel vastu survet"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "dc3de16be6f5",
+      "section": "trauma",
+      "question": "Enamik lülisambamurde torakolumbaalosas jääb vahemikku",
+      "choices": {
+        "a": "Th 12-L5",
+        "b": "Th 11- L2",
+        "c": "Th9-L1",
+        "d": "L3-L5"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "b545b235a285",
+      "section": "trauma",
+      "question": "Seljavalude puhul on väikseima kasuteguriga ravimeetod",
+      "choices": {
+        "a": "jõutreening",
+        "b": "manuaalterapia",
+        "c": "biopsühhosotsiaalse ravimudeli rakendamine",
+        "d": "magnetravi"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "86ef9c53c485",
+      "section": "trauma",
+      "question": "Lülisamba manipulatsioonidel tekkivad raksatused on tingitud",
+      "choices": {
+        "a": "süütud, ei seostu ühegi konkreetse patoloogiaga, kuid nende ülemäärane esilekutsumine ei ole soovitatav",
+        "b": "multifidus lihase kõõluse libisemisest üle proc spinosuse serva",
+        "c": "diskisopistuse reponeerumisest",
+        "d": "lülikeha subluksatsiooni reponeerumisest"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "a859a45354dc",
+      "section": "trauma",
+      "question": "Mis mõjutab reieluukaela murru puhul kõige enam prognoosi?",
+      "choices": {
+        "a": "Üksi elamine",
+        "b": "Kaasnevad haigused",
+        "c": "Jalg varus asendis pärast operatsiooni",
+        "d": "Operatsioonieelselt on olnud dislokatsiooni luuotste vahel"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "5d9fc4927147",
+      "section": "trauma",
+      "question": "Patsient saab tõsta kätt ainult 90 kraadini. Mis lihase vigastus?",
+      "choices": {
+        "a": "M. supraspinatus",
+        "b": "Biitsepts",
+        "c": "Triitseps",
+        "d": "M. coracobrachialis"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "a1c1cfb5812a",
+      "section": "trauma",
+      "question": "Kuidas diagnoosida õlapiirkonna lihaste (pehmete kudede) vigastusi?",
+      "choices": {
+        "a": "MRT",
+        "b": "Visualiseerivat uuringut ei ole vaja teha",
+        "c": "RÖ"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "3642d67f8419",
+      "section": "trauma",
+      "question": "Pika toruluu murru korral tuleb immobiliseerida milline/millised liigesed:",
+      "choices": {
+        "a": "proksimaalne",
+        "b": "distaalne",
+        "c": "mõlemad",
+        "d": "Mitte kumbki"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "fee1a58f3745",
+      "section": "trauma",
+      "question": "Millest sõltub kõige rohkem reieluu subkapitaalse murru opi järgne taastumine:",
+      "choices": {
+        "a": "pt elab üksi,",
+        "b": "kaasuvad haigused",
+        "c": "opile eelnevalt on olnud dislokatsioon luuotste vahel",
+        "d": "varusseisu jääb luu"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "2de01299b761",
+      "section": "trauma",
+      "question": "Endoproteesimise edukus hinnatakse mille järgi (enim toimub paranemine milles):",
+      "choices": {
+        "a": "Funktsiooni paranemine",
+        "b": "Valu kadu",
+        "c": "Sai anatoomiliselt õige"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "434f38978b11",
+      "section": "trauma",
+      "question": "80-aastane proua kukub sirutatud käele. Millise vigastuse ta tõenäoliselt saab?",
+      "choices": {
+        "a": "N. medianus",
+        "b": "N. radialis",
+        "c": "N. ulnaris",
+        "d": "Kõik eelnevad"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "65b2eaa16c78",
+      "section": "trauma",
+      "question": "80-aastane proua kukub sirutatud käele. Millise vigastuse ta tõenäoliselt saab?",
+      "choices": {
+        "a": "Randme tüüpilise koha sirutusmurru",
+        "b": "Randme tüüpilise koha painutusmurru",
+        "c": "Lodiluu murru"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "84833bb67672",
+      "section": "trauma",
+      "question": "Miks paranevad ristatisideme vigastused halvemini kui lateraalse sideme vigastused?",
+      "choices": {
+        "a": "ristatisidemetel on parem verevarustus,",
+        "b": "ristatisidemel on halvem verevarustus,",
+        "c": "ristatisidemed on lühemad,",
+        "d": "ristatisidemed rebenevad keskelt aga lateraalsidemetele on iseloomulik kinnituskoha lahti rebenemine vms"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "c9c1fed72b97",
+      "section": "trauma",
+      "question": "Intertrohhanteerne murd, milline nimetatutest on ebastabiilne (killustunud see ei ole)",
+      "choices": {
+        "a": "Suure posteromediaalse fragmendiga murrud,",
+        "b": "subtrohhanteersele ulatuv murrujoon,",
+        "c": "põikimurd, mis ulatub mediaalselt nii lateraalsele kui posterioorsele."
+      },
+      "answer": "b,c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "4993c7de2956",
+      "section": "trauma",
+      "question": "AO klassifikatsiooni järgi kompressioonmurru (A1) ja mittetäieliku purustusmurru (A3) erinevus on?",
+      "choices": {
+        "a": "A3 puhul on haaratud ka keskmine sammas. A1-l ei ole",
+        "b": "A3 puhul on haaratud närvijuured, A1-l ei ole",
+        "c": "A3 puhul on haaratud mõlemad lõpp-plaadid, A1-l ei ole",
+        "d": "A3 puhul on haaratud tagumine pingeling (PLC), A1-l ei ole"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "f6f05fed1d11",
+      "section": "trauma",
+      "question": "Koksartroosi (?) korral kiirgub sagedasti valu puusast põlve. Millisest närvist on see tingitud?",
+      "choices": {
+        "a": "N. femoralis",
+        "b": "N. ishiadicus",
+        "c": "N. obturatorius"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d5e4ac8ef8ef",
+      "section": "trauma",
+      "question": "Reieluukaela murdude puhul on üle 60a patsientidel esmavalikuks endoproteesimine järgmise murrutüübi puhul",
+      "choices": {
+        "a": "Pauwels 2",
+        "b": "Pauwels 3",
+        "c": "Garden 4",
+        "d": "Garden 1"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d5e334a295fe",
+      "section": "trauma",
+      "question": "M24 laupkokkupõrge. Autost välja lõigates valu vasaku puusa piirkonnas, vasaku jalg sundasendis, siserotatsioonis, lühenenud",
+      "choices": {
+        "a": "tegemist on reieluukaela murruga. Vajab kohest endoproteesimist.",
+        "b": "Tegemist on vasaku puusaliigese luksatsiooniga (dashboard injury) ja tagumise seina murruga. Vajab kohest reponeerimist hiljem plaatosteosünteesi.",
+        "c": "Tegemist onpertrohhanteerse murruga. Vajab kohest amputatsiooni.",
+        "d": "Tegemist on vaagnaringi murruga (lateral compression III). Vajab kohest välisfiksaatorit."
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "cdc7913e2aa0",
+      "section": "trauma",
+      "question": "M12 skolioos avastatud 10aastaselt (deformatsioon olnud 10kraadi), nüüd deformatsioon süvenenud (hetkel 25 kraadi). Mis ravitaktika valida?",
+      "choices": {
+        "a": "taastusravi: magnetravi, UH",
+        "b": "personaalortroos ja sage jälgimine",
+        "c": "kirurgiline ravi",
+        "d": "sekkuda pole vaja, aga jälgida 1x a"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "f21c2ba0335c",
+      "section": "trauma",
+      "question": "ACL defitsiitne põlv (ACL rebend), mida ei ole opitud või on opi järgselt tekkinud massiivne järellokusmine/grafti lüüs vms - mida ei saa teha?",
+      "choices": {
+        "a": "jõusaalis suurte raskustega treenida",
+        "b": "teha pöördliikumisi",
+        "c": "joosta pikemat distantsi",
+        "d": "minna süvakükki"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "07f312e00c0a",
+      "section": "trauma",
+      "question": "Raske avarii, suure luu murd (reieluu), opereeritud. Järgmisel päeval skleeradel petehhiad ja kas oli teadvus hägune ja tahhüpnoe. Kahtlustad mida?",
+      "choices": {
+        "a": "KATE",
+        "b": "Rasvemboolia sündroom",
+        "c": "Pneumonia",
+        "d": "arvestades juhtunut norm"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "5def6ed67349",
+      "section": "trauma",
+      "question": "Suusk libiseb rajalt maha, suusataja kukub sirge ja roteeritud jalaga. Hiljem tekib valu ja sirutamise takistus jalas, mis vigastusega on kõige tõenäolisemalt tegemist?",
+      "choices": {
+        "a": "Mediaalse meniski rebend",
+        "b": "Trochenterite murd",
+        "c": "Sääreluu murd",
+        "d": "Reieluu kondüüli murd"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "a6d4c1b6f2d1",
+      "section": "trauma",
+      "question": "M13 kergejõustiklane 60m jooksul tundnud reie tagaküljes äkilist valu ja kuulnud raksatust. Jalale toetumine vaevaline. Uurimisel fleksioon põlvest nõrgem, ekstensioon puusast nõrgem.",
+      "choices": {
+        "a": "tegemist spina iliaca ant inf avulsioonmurruga - teen vaagen inlet rö",
+        "b": "tegemist lihasrebendiga - teen UH",
+        "c": "tegemist tub. ossis ischii avulsioonmurruga - teen vaagen AP rö",
+        "d": "tegemist lihasrebendiga - tellin MRT plan korras"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "92b651f41e11",
+      "section": "trauma",
+      "question": "M46 leiti maast teadvusetuna, intubeeritud, kerges šokis, saanud 1,5l NaCl lahust, sellega RR95/70 mmHg, fr 110x, anamnees ebaselge. EMOs esmasel läbivaatusel parema jala kanna tugev turse ja hematoom, deformeerunud ja ebastab reis, ka säär. Millist vigastusmustrit kahtlustan ja mida plaanin edasi?",
+      "choices": {
+        "a": "vaagnaringi vigastus open book, eemaldada vaagnavöö, et testida vaagna stabiilsust",
+        "b": "acetabulumi vigastus, eemaldada vaagnavöö, et testida vaagna stabiilsust",
+        "c": "acetabulumi vigastus, pt suunata trauma KTsse",
+        "d": "vaagnaringi vigastus vertical shear, pt suunara trauma KTsse"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "12cbd9310264",
+      "section": "trauma",
+      "question": "Kalluses on...",
+      "choices": {
+        "a": "palju veresooni",
+        "b": "vähe veresooni"
+      },
+      "answer": "a) palju veresooni",
+      "type": "mc",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5791998a392b",
+      "section": "trauma",
+      "question": "Mis on Monteggia murd?",
+      "choices": {
+        "a": "Ulna murd proksimaalsel koos radiuse pea nihestusega",
+        "b": "Ulna murd proksimaalsel koos radiuse murruga",
+        "c": "Ulna nihestus randmeliigesest ja radiuse murd",
+        "d": "Ulna murd distaalsel koos radiuse pea nihestusega"
+      },
+      "answer": "a) Ulna murd proksimaalsel koos radiuse pea nihestusega",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "aaba4e86f12a",
+      "section": "trauma",
+      "question": "14. Mehhanoteraapia on",
+      "choices": {
+        "a": "füsioloogilise protsess, mille käigus mehhaanilise koormuse poolt esile kutsutud koe paranemine ja remodelleerumine tõstab selle koormustaluvust;",
+        "b": "perifeersete närvide pitsumiste puhul rakendatav tehnika, mille eesmärk on neid mobiliseerida (libisemist soodustada);",
+        "c": "Manuaalteraapia tehnika, mille eesmärk on liigese artrokinemaatika soodustamine;",
+        "d": "isheemilisel kompressioonil põhinev pehmekoetehnika, mida peamiselt rakendatakse müofastsiaalse valusündroomi ravis."
+      },
+      "answer": "a) füsioloogilise protsess, mille käigus mehhaanilise koormuse poolt esile kutsutud koe paranemine ja remodelleerumine tõstab selle koormustaluvust; (see vist oli kirjutatud inglise keeles Prommiku ettekandes)",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "159c1189ffb6",
+      "section": "trauma",
+      "question": "Rotaatormanseti lihased",
+      "choices": {
+        "a": "Supraspinatus",
+        "b": "infraspinatus",
+        "c": "deltoideus",
+        "d": "teres minor",
+        "e": "teres major",
+        "f": "subscapularis"
+      },
+      "answer": "a, b, d, f",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2f996bd7f517",
+      "section": "trauma",
+      "question": "Bicepsi pead kinnituvad",
+      "choices": {
+        "a": "Tuberositas supraglenoidale - pikk pea",
+        "b": "Tuberositas supraglenoidale - lühike pea",
+        "c": "tuberositas infraglenoidale - pikk pea",
+        "d": "Processus coracoideus - lühike pea",
+        "e": "Processus coracoideus - pikk pea"
+      },
+      "answer": "a, d",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "70e1d9440283",
+      "section": "trauma",
+      "question": "Äge alajäsemete isheemia",
+      "choices": {
+        "a": "jäseme perfusiooni järsk vähenemine, mis ohustab alajäseme eluvõimelisust, sümptomid olnud max 2 nädalat",
+        "b": "jäseme perfusiooni järsk vähenemine, mis ohustab alajäseme eluvõimelisust, sümptomid olnud max 1 nädal",
+        "c": "jäseme perfusiooni järsk vähenemine, mis ohustab alajäseme eluvõimelisust, sümptomid olnud >2 nädala"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "806afea69b7e",
+      "section": "trauma",
+      "question": "Meniski vigastuse uuring:",
+      "choices": {
+        "a": "MRT",
+        "b": "CT",
+        "c": "RÖ"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4d7c932490a8",
+      "section": "trauma",
+      "question": "Missugune on Monteggia murd",
+      "choices": {
+        "a": "prox ulna murd + radiuse pea nihestusega",
+        "b": "radiuse dist. ⅓ murd + ulna dist. osa nihestus"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8c1b975e413f",
+      "section": "trauma",
+      "question": "Reieluu epifüsaarne nihestus",
+      "choices": {
+        "a": "reponeerida ja kips",
+        "b": "plaasterekstensioon ja kips",
+        "c": "osteosüntees in situ"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0b2ed0326172",
+      "section": "trauma",
+      "question": "Randme murruga kipsikihtide arv",
+      "choices": {
+        "a": "6-8",
+        "b": "10-12",
+        "c": "14-16",
+        "d": "16-18"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4558d4540a9d",
+      "section": "trauma",
+      "question": "Ligamentum cruciatum anterior ül:",
+      "choices": {
+        "a": "takistab säärel ette vajuda",
+        "b": "takistab säärl taha vajuda",
+        "c": "pärsib rotatsiooni",
+        "d": "takistab mediaalset anterioorset nihet"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7b2e19024925",
+      "section": "trauma",
+      "question": "Kuidas diagnoosida ja ravida Colles murdu?",
+      "choices": {
+        "a": "Röntgen, operatsioon kips ja füsioteraapia 6 nädala pärast",
+        "b": "Röntgen, paigaldus, kips ja kohe algus füsioteraapiaga",
+        "c": "KT + ...",
+        "d": "MRT + ..."
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cec8c235bd64",
+      "section": "trauma",
+      "question": "Reieluu murru hiline ortopeediline tüsistus",
+      "choices": {
+        "a": "ei saa enam jalale toetuda",
+        "b": "jalg jääb lühemaks",
+        "c": "tekib osteonekroos",
+        "d": "kaardunud reieluu"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ad0f0b67de5b",
+      "section": "trauma",
+      "question": "Acetabulumi murru kõige sagedasem tüsistus:",
+      "choices": {
+        "a": ">50% postraumaatiline koksartroos",
+        "b": ">50% osteonekroos",
+        "c": ">50% proteesi nihe",
+        "d": ">50% vaagnavõõtme ebastabiilsus"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7e69f49b8e70",
+      "section": "trauma",
+      "question": "Milline põletus lastel vaja hospitaliserimist",
+      "choices": {
+        "a": "pindmine 3-5%",
+        "b": "pindmine üle 5%",
+        "c": "sügav küünarvarre piirkonnas 0,5% kehapindalast",
+        "d": "kõik põletused vajavad lastel hospitaliseerimist"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b794903551ab",
+      "section": "trauma",
+      "question": "20. Milline on ägeda tenosünoviidi esmane ravi",
+      "choices": {
+        "a": "Külmaaplikatsioonid ja NSAID ravi",
+        "b": "Kortisooni süst",
+        "c": "Taasusravi",
+        "d": "Operatsioon"
+      },
+      "answer": "a) Külmaaplikatsioonid ja NSAID ravi",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "37d9393aebe7",
+      "section": "trauma",
+      "question": "Lateraalse epikondüliidi mingi iseloomulik tunnus",
+      "choices": {
+        "a": "valu sirutamisel küünarliigesest",
+        "b": "valu painutamisel küünarliigesest",
+        "c": "valu randme painutamisel vastu survet",
+        "d": "valu randme sirutamisel vastu survet"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6b68d32a05ea",
+      "section": "trauma",
+      "question": "Reieluu proksimaalse murru eelistatuim ravimeetod",
+      "choices": {
+        "1": "Op",
+        "2": "Konservatiivne",
+        "3": "Palliatiivne"
+      },
+      "answer": "1. Op",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5f28442b590d",
+      "section": "trauma",
+      "question": "Colles murru korral, milline närv saab vigastada?",
+      "choices": {
+        "a": "N. medianus",
+        "b": "N. radialis",
+        "c": "N. ulnaris",
+        "d": "Kõik eelnevad"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1b47749e484c",
+      "section": "trauma",
+      "question": "radiuse processus styloideuse intraartikulaarne murd",
+      "choices": {
+        "a": "Colles",
+        "b": "Smith",
+        "c": "Chauffeur"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fd1c67cbc909",
+      "section": "trauma",
+      "question": "46. Mis on kinnitunud kuhugi küünarvarre tagaküljele?",
+      "choices": {
+        "1": "M. tritseps",
+        "2": "Trapezius",
+        "3": "Teres rotataori asi mida ei eksisteeri :D",
+        "4": "Mingi a-tähega asi, mida ma esimest korda lugesin mingi acocococo nh lol"
+      },
+      "answer": "1) M. tritseps",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bf25d56a69f1",
+      "section": "trauma",
+      "question": "Esharatoomia tehakse millise staadiumi põletuse korral",
+      "choices": {
+        "a": "naha täispaksuses põletus - III, IV staadium",
+        "b": "1. astme e. erütematoosse põletuse puhul",
+        "c": "tsirkulaarse põletuse puhul",
+        "d": "2. astme B põletuse puhul",
+        "e": "sügavate põletuste puhul"
+      },
+      "answer": "a, c, e",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cd7fe319b86e",
+      "section": "trauma",
+      "question": "Mis närv saab kahjustada kubitaalkanali sündroomi korral",
+      "choices": {
+        "a": "n. medianus",
+        "b": "n. ulnaris",
+        "c": "n. radialis"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9795a4638489",
+      "section": "trauma",
+      "question": "Millist meniskiosa vigastuse korral saab meniskit õmmelda",
+      "choices": {
+        "a": "perifeerset, sest seal on olemas verevarustsus,",
+        "b": "perifeerset, sest see on avaskulaarne,",
+        "c": "tsentraalset, sest see on avaskulaarne,",
+        "d": "kõiki meniskiosasd"
+      },
+      "answer": "a) perifeerset, sest seal on olemas verevarustsus,",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fa604535da1f",
+      "section": "trauma",
+      "question": "dist.fragmendi nihkumine dorsaalsele (kahvel deformatsioon)",
+      "choices": {
+        "a": "Colles",
+        "b": "Smith",
+        "c": "Chauffeur"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "809a8a26e48f",
+      "section": "trauma",
+      "question": "dist.fragmendi nihkumine volaarsele (aialabida deformatsioon)",
+      "choices": {
+        "a": "Colles",
+        "b": "Smith",
+        "c": "Chauffeur"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fce17b1b71fa",
+      "section": "trauma",
+      "question": "Millises neist toimub lastel kõige kiirem luumurru paranemine",
+      "choices": {
+        "a": "reieluupea",
+        "b": "distaalne sääreluu",
+        "d": "proksimaalne humerus",
+        "e": "sõrmeluud"
+      },
+      "answer": "d\n- lisaks paranevad neil kiiresti distaalne reieluu, proksimaalne tibia",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "416a0270f996",
+      "section": "trauma",
+      "question": "Sääre diafüüsimurru intramedullaarse naela sagedaseim tüsistus:",
+      "choices": {
+        "a": "valu sääre ees osas, põlves",
+        "b": "valu sääre tagaosas (veenilaiendid)",
+        "c": "anteromediaalne ebastabiilsus (meniski + ACL ja MCL vigastus)",
+        "d": "esimese sahtli sümptom (ACL rebend)"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "96df8c24b19d",
+      "section": "trauma",
+      "question": "Radiuse murd distaalselt dislokatsiooniga palmaarsele nimetatakse",
+      "choices": {
+        "a": "Colles",
+        "b": "Smith",
+        "c": "Chauffeur"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cdbd9c0e48b0",
+      "section": "trauma",
+      "question": "19. Missugused käelaba luud on haaratud nn. poksija murru korral?",
+      "choices": {
+        "a": "III ja IV metakarpaal",
+        "b": "IV ja V metakarpaal",
+        "c": "I ja II metakarpaal",
+        "d": "II ja III metakarpaal"
+      },
+      "answer": "b) IV ja V metakarpaal",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a205ce70f863",
+      "section": "trauma",
+      "question": "Missugune on vanemaealise reieluu proksimaalse murru tekkemehhanism",
+      "choices": {
+        "a": "Kukkumine toolilt",
+        "b": "Jalalt kukkumine",
+        "c": "Kukkuminetreppidel",
+        "d": "Voodist väljakukkumine"
+      },
+      "answer": "b) Jalalt kukkumine",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7f8dbb527e33",
+      "section": "trauma",
+      "question": "Kõige sagedasem Acetabulumi murru järgne hilistüsisus \n1.Koksartroos",
+      "choices": {
+        "2": "Infektsioon",
+        "3": "Proteesi nihkumine"
+      },
+      "answer": "1.Koksartroos",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a5c4e365a5a3",
+      "section": "trauma",
+      "question": "Multitrauma pt, liiklusõnnetus, lahtine reieluumurd. Mis on käsitlus?",
+      "choices": {
+        "a": "Plaat-osteosüntees",
+        "b": "Väline fiksaator",
+        "c": "AB ja haava korrastus"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b680cfeaa966",
+      "section": "trauma",
+      "question": "Reieluu diafüüsi lahtine murd polütraumaga patsiendil - millega ravida?",
+      "choices": {
+        "1": "Nael + haava korrastus + AB",
+        "2": "Ei vaja operatiivset ravi",
+        "3": "Plaat + haava korrastus + AB",
+        "4": "Välisfiksaator"
+      },
+      "answer": "4) Välisfiksaator",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "649def465b00",
+      "section": "trauma",
+      "question": "11. Missugust liikuvust hoiab ära (kontrollib) lig. cruciatum anterior?",
+      "choices": {
+        "a": "Hoiab ära rotatsioonid",
+        "b": "Sääreluu ettepoole nihkumist",
+        "c": "Sääreluu mediaalsele nihkumist",
+        "d": "Sääreluu tahapoole nihkumist"
+      },
+      "answer": "b) Sääreluu ettepoole nihkumist",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "11a215cfdcf0",
+      "section": "trauma",
+      "question": "Milline neist esineb hallux valguse korral vms (ei tea täpset sõnastust)",
+      "choices": {
+        "a": "Põlvekontraktuur",
+        "b": "Haamervarvas",
+        "c": "Teise varba varus seis vms"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e720730bcfaf",
+      "section": "trauma",
+      "question": "16. Missugused sõrm(ed) on haaratud tavaliselt Dupuytreni haiguse korral?",
+      "choices": {
+        "a": "IV ja V sõrm",
+        "b": "I sõrm",
+        "c": "III ja IV sõrm",
+        "d": "II ja III sõrm"
+      },
+      "answer": "a) IV ja V sõrm",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "368b151dde03",
+      "section": "trauma",
+      "question": "15. Missugune on enimlevinud infektsioonitekitaja inimese hammustuse korral?",
+      "choices": {
+        "a": "Eikenella Corrodens",
+        "b": "Staphylococcus aureus",
+        "c": "Proteus Vulgaris",
+        "d": "Streptococcus pyogenes"
+      },
+      "answer": "a) Eikenella Corrodens",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0cc72ee48cc7",
+      "section": "trauma",
+      "question": "Hüppeliigese piirkonna sagedaseim liigese nihestus (ei mäleta täpset sõnastust)",
+      "choices": {
+        "a": "eesmine ristatiside ACL",
+        "b": "PCL",
+        "c": "MCL",
+        "d": "talofibulaarsideme...."
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7c5713b0ae79",
+      "section": "trauma",
+      "question": "Tibia diafüüsi murru intramedullaarse naelastamise korral kõige sagedasem tüsistus",
+      "choices": {
+        "1": "Esineb põlve tagumise osa valu >50 %",
+        "2": "Esineb põlve eesmise osa valu >50 %",
+        "3": "Esineb medio lateraalne ebastabiilus >50"
+      },
+      "answer": "2. Esineb põlve eesmise osa valu >50 %",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5a1998e74a7d",
+      "section": "trauma",
+      "question": "Kandluu murru puhul on operatiivse ravi näidustuseks nurga mõõtmine, mille nimi on:",
+      "choices": {
+        "a": "Cyma",
+        "b": "Böhler",
+        "c": "Lisfranc",
+        "d": "Hawkins"
+      },
+      "answer": "b) Böhler",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0d815685bee2",
+      "section": "trauma",
+      "question": "Mingi case moodi asi ja siis küsiti, kuidas tuleb sõrme murru korral kipslahas teha vms.",
+      "choices": {
+        "a": "fikseerid kaks sõrme, vooder vahele jne",
+        "b": "fikseerin ühe sõrme",
+        "c": "fikseerin kõik sõrmed"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c3959f965dad",
+      "section": "trauma",
+      "question": "17. Missugune kuvamise moodus on sääreluu platoo murru osteosünteesi planeerimiseks kõige sobilikum?",
+      "choices": {
+        "a": "MRT",
+        "b": "Röntgen",
+        "c": "Sonograafia",
+        "d": "Kompuutertomograafia"
+      },
+      "answer": "d) Kompuutertomograafia",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2fc13c21d7a5",
+      "section": "trauma",
+      "question": "M25 suusatab. Suusatades parem jalg läheb rajalt välja. Painutatud jalg keerdub ja sirutub järsku. Milline on tõenäoliseim vigastus?",
+      "choices": {
+        "a": "Mediaalse meniski vigastus",
+        "b": "Vasaku põnda murd",
+        "c": "Mingi tibia murd",
+        "d": "Parema põnda murd"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6d8380b5242e",
+      "section": "trauma",
+      "question": "Mis mõjutab reieluukaela murru puhul kõige enam prognoosi? Millest sõltub kõige rohkem reieluu subkapitaalse murru opi järgne taastumine?",
+      "choices": {
+        "a": "Üksi elamine",
+        "b": "Kaasnevad haigused",
+        "c": "Jalg varus asendis pärast operatsiooni",
+        "d": "Operatsioonieelse dislokatsiooni ulatus"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2559b7693cd3",
+      "section": "trauma",
+      "question": "18. Vanemaealine naine on saanud kodarluu distaalse murru (tüüpilise koha murru) ja esmased uuringud ning luumurru raviga on alustatud. Missuguse uuringu peaks täiendavalt plaanilises korras veel tellima?",
+      "choices": {
+        "a": "Röntgen",
+        "b": "Dexa/luutihedus mõõtmine",
+        "c": "Kompuutertomograafia",
+        "d": "MRT"
+      },
+      "answer": "b) Dexa/luutihedus mõõtmine",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bc0243cac96d",
+      "section": "trauma",
+      "question": "N27 kukkus hobuse seljast paremale küljele. Valu vaagna- ja puusapiirkonnas. Ise püsti ei saa. Kiirabi saabudes hemodünaamiliselt stabiilne, neuroloogiliselt leidu ei tuvasta. Kiirabi paigaldanud vaagnavöö. EMOs tehtud trauma CT. EMOs tehtud trauma CT. Millise vaagnaringi vigastusega on tegemist?",
+      "choices": {
+        "a": "Vertical Shear",
+        "b": "Open Book III",
+        "c": "Lateral Compression II",
+        "d": "Open Book I"
+      },
+      "answer": "c) Lateral Compression II (?)",
+      "type": "mc",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e0df2f425ca1",
+      "section": "trauma",
+      "question": "Monteggia murd...",
+      "choices": {},
+      "answer": "ulna murd + radiuse proksimaalne luksatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740",
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "0ba5f60e4a8f",
+      "section": "trauma",
+      "question": "Smith murd",
+      "choices": {},
+      "answer": "dist.fragmendi nihkumine palmaarsele (aialabida deformatsioon, käsi palmarfleksioonis)",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "ff5c939f1cfc",
+      "section": "trauma",
+      "question": "Colles murd",
+      "choices": {},
+      "answer": "dist.fragmendi nihkumine dorsaalsele (kahvel deformatsioon)",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "ae8d8fd4a979",
+      "section": "trauma",
+      "question": "Artrodees ehk",
+      "choices": {},
+      "answer": "Liigeste jäigastamine",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "3e2eff9d0e4a",
+      "section": "trauma",
+      "question": "Chauffer murd",
+      "choices": {},
+      "answer": "radiuse processus styloideuse intraartikulaarne murd",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "0073edac8fff",
+      "section": "trauma",
+      "question": "Külmumise ravi",
+      "choices": {},
+      "answer": "Soojendamine tsentraalselt perifeersele",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "7ba6c96e7ce3",
+      "section": "trauma",
+      "question": "Ottawa reegelid",
+      "choices": {},
+      "answer": "- Hüppeliigese Rö on mõtet võtta aint siis kui on valu malleolaarses piirkonnas JA palpatoorselt valu lateraalse või med. malleooli tagumis-alumises osas VÕI võimetus teha rohkem kui 4 sammu (1 lisast piisab, et teha Rö)\n- Jala Rö on mõtet teha aint siis, kui on valu tarsaalpiirkonnas + valu naviculares VÕI 5. metatarsaalluu põhimikus VÕI patsient ei saa teha rohkem kui 4 sammu ( 1 lisast piisab)",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d0b8dfc1b9fa",
+      "section": "trauma",
+      "question": "Rangluumurru ravi",
+      "choices": {},
+      "answer": "Konserv: 8-kujuline ling ja immobilisats; \nKirurg: plaat ja nael",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "85a62fa514ad",
+      "section": "trauma",
+      "question": "Koksartroosi ravi",
+      "choices": {},
+      "answer": "trenn, kehakaalu kaotamine ja NSAIDid",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "7037e3a18cc3",
+      "section": "trauma",
+      "question": "Osteomüeliidi ravi",
+      "choices": {},
+      "answer": "AB (oksatsilliiin)",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "540b02e9bd40",
+      "section": "trauma",
+      "question": "Dünamiseerimine ehk",
+      "choices": {},
+      "answer": "staatilise kruvi eemaldamine dünaamilise kruvi kõrvalt",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "1340f934211c",
+      "section": "trauma",
+      "question": "Luumurru tüsistused",
+      "choices": {},
+      "answer": "Närvikahjustus, mittepranemine, kontraktuur, ebaliiges",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "94a82cffca09",
+      "section": "trauma",
+      "question": "Komppöia komponendid",
+      "choices": {},
+      "answer": "- Pes equiunus\n- Pes adductus\n- Pes supinatus\n- Pes cavus",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "47b0ff9e012c",
+      "section": "trauma",
+      "question": "Biitsepsi lähtekohad",
+      "choices": {},
+      "answer": "tuberositas supraglenoidale - caput longus, processus coracoideus - lühike pea",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "783d2c2df7a4",
+      "section": "trauma",
+      "question": "Skolioosi raskusastmed",
+      "choices": {},
+      "answer": "I - kuni 10 %\nII - 10-25%, roidekühm\nIII - 25-40% kiillüli\nIV üle 40% (spondüloartroos)",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "432d3efaff1d",
+      "section": "trauma",
+      "question": "Kassihammustuse bakter",
+      "choices": {},
+      "answer": "Pasteurella multocida",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "9f47645e6008",
+      "section": "trauma",
+      "question": "Sündaktüülia võib olla",
+      "choices": {},
+      "answer": "membranoosne\nkutaanne\nossaalne",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "8f28ac049308",
+      "section": "trauma",
+      "question": "Lamppöid võib kaasneda:",
+      "choices": {},
+      "answer": "- reumatoidartriidile\n- peroneaallihaste spastilisusele\n- tarsaalluude kaasasündinud anomaaliale",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "47447371adc6",
+      "section": "trauma",
+      "question": "Rotaatormanseti lihased =",
+      "choices": {},
+      "answer": "m. supra- ja infraspinatus, m. subscapularis, m. teres minor",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "f07e9c0bd665",
+      "section": "trauma",
+      "question": "Dislokatsiooni tüübid (4)",
+      "choices": {},
+      "answer": "Ad axim, ad latum, ad longitudinem, ad peripheriam",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "0287ee7b790d",
+      "section": "trauma",
+      "question": "Rangluumurdude tüsistused",
+      "choices": {},
+      "answer": "Paranemise häire + naha perf",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "4ec1650b2f8a",
+      "section": "trauma",
+      "question": "Inimese hammustuse bakter",
+      "choices": {},
+      "answer": "Eikenella",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "8fcb9b949887",
+      "section": "trauma",
+      "question": "Komppöia ravi peab algama",
+      "choices": {},
+      "answer": "vahetult pärast sündi",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "70e62d6cfdf5",
+      "section": "trauma",
+      "question": "Hallux valguse korral on...",
+      "choices": {},
+      "answer": "Suurvarba telg pööratud II varba poole",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "fe77c9f12b05",
+      "section": "trauma",
+      "question": "Luumurdude tüsistus eakatel",
+      "choices": {},
+      "answer": "Hüpostaatiline pneumoonia",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "a2889de347ee",
+      "section": "trauma",
+      "question": "Mitu lihast rotaatormansetis?",
+      "choices": {},
+      "answer": "4",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "5347e8f8d84c",
+      "section": "trauma",
+      "question": "Millal võib NSAIDe soovitada?",
+      "choices": {},
+      "answer": "Artoosiga, meniskirebendiga, postop meniski resektsiooni järgselt, postop intraartikulaarse murru osteosünteesi järgselt",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "b3d9ae677114",
+      "section": "trauma",
+      "question": "Puusaliigese prk murrud jaotus",
+      "choices": {},
+      "answer": "- Intrakapsulaarsed (reieluu pea ja kael)\n- Ekstrakapsulaarsed (intertrohhanteersed, subtrohhanteersed)",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "4c348550263a",
+      "section": "trauma",
+      "question": "Põlvevigastuse \"õnnetu triaad\"",
+      "choices": {},
+      "answer": "eesmine ristatiside + mediaalne side + mediaalne menisk",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "e0581f5abb5e",
+      "section": "trauma",
+      "question": "Osteoartroosi tunnused (4Loss)",
+      "choices": {},
+      "answer": "subkondraalne skleroos + subkondraalsed tsüstid + liigesepilu kitsemine + osteofüüdid",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "f7c6ee2f5b8d",
+      "section": "trauma",
+      "question": "Bouchard sõlmede lokalisatsioon",
+      "choices": {},
+      "answer": "PIP",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "516f03955140",
+      "section": "trauma",
+      "question": "Luu pikikasv toimub peamiselt...",
+      "choices": {},
+      "answer": "epifüüsi plaadist",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "bedc1c51d1a6",
+      "section": "trauma",
+      "question": "Calcaneuse murru kahtlusel mõõdad",
+      "choices": {},
+      "answer": "Böhleri nurga lateraalülesvõttel: norm on 20-40 kraadi, alla selle impaktsioonmurd",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "1b34c818b967",
+      "section": "trauma",
+      "question": "Abaluu alumise nurga kõrgus vastab",
+      "choices": {},
+      "answer": "Th7 lülile",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "f05cc008708b",
+      "section": "trauma",
+      "question": "Komppöia op.ravi meetodid (4=kpmp)",
+      "choices": {},
+      "answer": "- Kannakõõluse plastikat\n- Pehmete kudede mediaalset vabastamist\n- M. tibialis anteriori transpositsiooni\n- Pöialuude kiilresektsiooni",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "de994b68b895",
+      "section": "trauma",
+      "question": "Sääreluumurrud ravi - konserv vs op",
+      "choices": {},
+      "answer": "Konserv: kipsimmob ja skelettekstensioon\nOper: diafüüsi murd = naelad, epifüüsi = plaat, lahtine = välisfiksaator",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "92d1e1203ede",
+      "section": "trauma",
+      "question": "Lülisamba sekundaarsed kõverused on",
+      "choices": {},
+      "answer": "Tservikaal ja lumbaalkõverused",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "ea4d2058ae36",
+      "section": "trauma",
+      "question": "Reieluukaela murruga võib esineda...",
+      "choices": {},
+      "answer": "tsentraalne luksatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "69c5b80a3877",
+      "section": "trauma",
+      "question": "Osteoporoosile tüüpiline murd asub...",
+      "choices": {},
+      "answer": "Kodarluu distaalses osas",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "eb53bfa02b27",
+      "section": "trauma",
+      "question": "Reieluukaela murdude klassifikatsioon",
+      "choices": {},
+      "answer": "Gardner I - impaktsioonmurd, osaline\nGardner II - mittedislotseeritud (kuid täielik) murd\nGardner III - Täielik kuid < 50% dislotseerunud murd\nGardner IV - > 50% dislots murd",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "077cea0e794a",
+      "section": "trauma",
+      "question": "Epikondüliidi kõige olulisem ravivõte",
+      "choices": {},
+      "answer": "Selgitada välja põhjus ja korrigeerida koormusi",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "94d0a34c347d",
+      "section": "trauma",
+      "question": "Klassifikatsioonid hüppeliiges ja tibia",
+      "choices": {},
+      "answer": "Hüppeliiges - Weber\nTibia - Schatzker",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "690f6ce35c9a",
+      "section": "trauma",
+      "question": "Malleolaarmurd: stabiilsuse kriteeriumid",
+      "choices": {},
+      "answer": "- On isoleeritult lateraalses, mediaalses või tagumises malleoolis. \n- Ei kaasu ligamentide vigastust\n- Ei ole dislokatsioone",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "f87f5a46dae2",
+      "section": "trauma",
+      "question": "Poksijakäsi (millised kaks metakarpaali)?",
+      "choices": {},
+      "answer": "4 ja 5",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "cf3d5b4a7d34",
+      "section": "trauma",
+      "question": "Contractura dupaytreniga seotud struktuur",
+      "choices": {},
+      "answer": "palmaaraponeuroos",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "a5e40c98b4f2",
+      "section": "trauma",
+      "question": "Primaarne paranemine (esialgne ja täielik)",
+      "choices": {},
+      "answer": "Esialgne - 3 ndl\nTäielik - 6 ndl",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "ca120e5df194",
+      "section": "trauma",
+      "question": "Reumatoidartriidis esimesed muutused - kus",
+      "choices": {},
+      "answer": "sünoviaalmembraanis",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "41bcc7b04897",
+      "section": "trauma",
+      "question": "Haavade kirurgilise töötluse parim aeg on...",
+      "choices": {},
+      "answer": "esimese 6h jooksul pärast vigastust",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "7d2842b8f6ae",
+      "section": "trauma",
+      "question": "Mille kohta kehtib Gardneri klassifikatsioon?",
+      "choices": {},
+      "answer": "Reieluukaela murrud",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "fe0f257289f0",
+      "section": "trauma",
+      "question": "Mida tähendab sekvester osteomüeliidi korral?",
+      "choices": {},
+      "answer": "Eluvõimetu luu tükki",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "53d9854b0594",
+      "section": "trauma",
+      "question": "Pehmete kudede vigastus: hindamine (millega?)",
+      "choices": {},
+      "answer": "UH ja MRT",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "abb1ca5bf6c4",
+      "section": "trauma",
+      "question": "Puusaliigese luksatsiooni kõige sagedasem vorm",
+      "choices": {},
+      "answer": "Tagumine-ülemine",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "5efb0d7a4938",
+      "section": "trauma",
+      "question": "Lülisamba primaarsed kõverused sünnimomendil on",
+      "choices": {},
+      "answer": "Torakaal- ja sakraalkõverus",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d42d715200e3",
+      "section": "trauma",
+      "question": "Bicepsi pead kinnituvad (distaalne kinnituskoht)",
+      "choices": {},
+      "answer": "tuberositas radii",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "bfadf31eb532",
+      "section": "trauma",
+      "question": "Muskulaarse kõõrkaela op tehakse tavaliselt ....",
+      "choices": {},
+      "answer": "m. sternocleidomastoideusel",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "2a763683a2e9",
+      "section": "trauma",
+      "question": "Komppöia raviks varases staadiumis kasutatakse..",
+      "choices": {},
+      "answer": "korrigeerivaid mähiseid",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "77ea31529e66",
+      "section": "trauma",
+      "question": "Mis näitab kõige rohkem endoproteesimise edukust?",
+      "choices": {},
+      "answer": "Valu kadumine",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "900ea9524531",
+      "section": "trauma",
+      "question": "Meetod, mida ei kasutata reumatoidartriidi raviks",
+      "choices": {},
+      "answer": "Suure liigese artrodrees",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "7622e64ce58f",
+      "section": "trauma",
+      "question": "Žguti max. pealoleku aeg jäsmee veretustamiseks on",
+      "choices": {},
+      "answer": "poolteist tundi",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "56e36d0d94f6",
+      "section": "trauma",
+      "question": "Reieluu proksimaalse epifüüsi osteokondropaatia ehk",
+      "choices": {},
+      "answer": "Legg-Calve PerthesIseloomulik:\n- Reieluupea fragmentatsioon\n- Reieluupea lamenemine\n- Ebaregularne epifüsaarjoon",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "c6334fe15a0f",
+      "section": "trauma",
+      "question": "Mis on halva haavaparanemise suurim riskifaktor vms?",
+      "choices": {},
+      "answer": "suitsetamine",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "e1533cabf330",
+      "section": "trauma",
+      "question": "Mis pole õige idiopaatilise torakaalskolioosi korral?",
+      "choices": {},
+      "answer": "Võimalik on lülide nihkumine defekti tõttu pars interarticularises",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "9675e9e026d9",
+      "section": "trauma",
+      "question": "Reieluu killustunud ja saastunud murd: mis ravimeetod?",
+      "choices": {},
+      "answer": "Välisfiksaator",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "122fec19deb8",
+      "section": "trauma",
+      "question": "Kubitaalkanali sündroomi puhul mis närv saab kahjustada?",
+      "choices": {},
+      "answer": "n. ulnaris",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "ca481126d5cf",
+      "section": "trauma",
+      "question": "Lülisamba kompressioonmurdude sagedasemad esinemispaikmed",
+      "choices": {},
+      "answer": "Th11-12, L1",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "909356c8aceb",
+      "section": "trauma",
+      "question": "Peamine vaagnat frontaaltasapinnas stabiliseeriv lihas on",
+      "choices": {},
+      "answer": "m. gluteus medius",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d13fa6ed81e6",
+      "section": "trauma",
+      "question": "Mis on karpaalkanalisündroomi kõige sagedasem sümptom?",
+      "choices": {},
+      "answer": "Tuimus/surin sõrmedes",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "11d0f72881d5",
+      "section": "trauma",
+      "question": "Reieluu subkapitaalse murru opi järgne taastumine sõltub...",
+      "choices": {},
+      "answer": "Luu residuaalsest varusseisust",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "5fe72c48a6fa",
+      "section": "trauma",
+      "question": "Õlaliigese nihestus (mille järgi hindad, repositsioneerid?)",
+      "choices": {},
+      "answer": "Hindamine: Hamiltoni meetod\nRepositsioon: Kocher",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "8cae27203bb2",
+      "section": "trauma",
+      "question": "ebastabiilne intertrohhanteeriline murd - mis on iseloomulik?",
+      "choices": {},
+      "answer": "Lühenenud ja välisrotatsioonis",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "b04aa915ce24",
+      "section": "trauma",
+      "question": "Reieluupea juveniilse epifüseolüüsi kindlaim diagnostikameetod",
+      "choices": {},
+      "answer": "Rö lateraalprojektsioonis",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "f9e9f7241dd4",
+      "section": "trauma",
+      "question": "Millisel juhul teostatakse endoproteesimist? reieluu milline murd",
+      "choices": {},
+      "answer": "Mediaalne reieluukaela murd (asept nekroosi oht) + subkapitaalne murd)",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d3e225ea8976",
+      "section": "trauma",
+      "question": "Löök painutatud põlve puhul sääreluu ülemisele osale põhjustab...",
+      "choices": {},
+      "answer": "Põlve tagumise ristatisideme vigastus",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "eca35c0621fb",
+      "section": "trauma",
+      "question": "Milline organi vigastub kõige sagedamini vaagnaluu murdude korral?",
+      "choices": {},
+      "answer": "Ureeter",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d777c9dda7b4",
+      "section": "trauma",
+      "question": "Reieluu proksimaalse osa murru puhul endoproteesimine näidustatud, kui",
+      "choices": {},
+      "answer": "Esineb subkapitaalne dislokatsiooniga murd (Gardner III-IV?)",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "495254d7d8e6",
+      "section": "trauma",
+      "question": "Sääreluu murd ulatusliku pehmekoe trauma ja saastunud: mis asendisse??",
+      "choices": {},
+      "answer": "Välisfiksatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "10359461c79a",
+      "section": "trauma",
+      "question": "Hüppeliigese prk vigastuse täpsemaks hindamiseks vaja teha üks järgnevatest",
+      "choices": {},
+      "answer": "AP röntgenogramm siserotatsioonis säärega 15-20 kraadi",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "336e2b354cda",
+      "section": "trauma",
+      "question": "Artrodkoopilise vs lahtise supraspinatuse taastamise erinevus kaugtulemustes",
+      "choices": {},
+      "answer": "pole vahet (funktsionaalselt on tulemus sama)",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "bab0fd08302b",
+      "section": "trauma",
+      "question": "Kontsakingadega trepist alla astumise pealt jala väänamine, mida tuleks kahtlustada",
+      "choices": {},
+      "answer": "Lisfranc vigastust",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "e57fce8390c7",
+      "section": "trauma",
+      "question": "Eesmise ristataisideme (ACL) vigastuse tuvastamiseks amb. vastuvõtul on mis test hea?",
+      "choices": {},
+      "answer": "Lachman",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "2de036bd71a4",
+      "section": "trauma",
+      "question": "Küki viimased kraadid valulikud. Kanda vastu tagumikku panna ei saa valu tõttu. Mis patoloogia?",
+      "choices": {},
+      "answer": "Meniski rebend",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "06ead753c8e5",
+      "section": "trauma",
+      "question": "Hüppeliigese tüüpilise vigastusmeh (supinatsioon väänamine) puhul tuleks kahtlustada lisaks ATFL (eesmine talofibulaarside) rebendile ...",
+      "choices": {},
+      "answer": "taluse ostekondraalset murdu",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "297096d85af4",
+      "section": "trauma",
+      "question": "N57 valu ja liikumisulatuse piirang paremas õlas, mis tekkinud 3kuud tagasi. Traumat eitab. Milline on edasine õige tegevus ja mis see on?",
+      "choices": {},
+      "answer": "ROM testimisel selge liikumisulatuse piiratus ja tugev valu lõppasendites - see on külmunud õlg (adhesiivne kapsuliit)",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "2570ec221aaa",
+      "section": "trauma",
+      "question": "12a poiss põlveliiges turses ja valus, mis progresseerunud 4kuu jooksul. Tehtud UH uuring, kus nähtud pehmete kudede turset. Põlv vaatlusel turses, õrnalt soojem. Liikuvus põlvest normis. Mis on?",
+      "choices": {},
+      "answer": "Kahtlustan osteosarkoomi - tellin rö põlvest 2 suunas",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "b84f1771e44c",
+      "section": "trauma",
+      "question": "N74 parema puusaliigese endoprotees paigaldatud 6k tagasi anterolateraalses (direct lateral) juurdepääsu kaudu. Nüüd tekkinud süvenev lonkamine. Trendelenburgi sümpt pos (ei suuda seista ühel jalal - ei suuda hoida vaagent horisontaalis). Valu rohkem lateraalsel suure trochanteri juures.",
+      "choices": {},
+      "answer": "Tegemist on gluteus mediuse kõõluse õmbluse katkemisega - vajab MRT - vb op.ravi",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600",
+        "quizlet:921237115"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "734f53c15bf2",
+      "section": "trauma",
+      "question": "ADL ehk",
+      "choices": {},
+      "answer": "activities of daily living",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "92bc05122b58",
+      "section": "trauma",
+      "question": "TENS...",
+      "choices": {},
+      "answer": "nahakaudne elektriline närvistimulatsioon, vähendab valu ja suurendab liikuvust OA korral",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "980bddba8ba5",
+      "section": "trauma",
+      "question": "ROM ehk",
+      "choices": {},
+      "answer": "range of motion",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4f8cc98de56b",
+      "section": "trauma",
+      "question": "ENMG ehk",
+      "choices": {},
+      "answer": "elektroneuromüograafia, kasutatakse nt närvi taastumise hindamiseks",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fe7fe6ae1b17",
+      "section": "trauma",
+      "question": "torkehaav",
+      "choices": {},
+      "answer": "tekitajaks kitsas terav ese, vigastus kitsal alal, servad irvakil, sügavust pole näha",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "20237def6049",
+      "section": "trauma",
+      "question": "Osteon...",
+      "choices": {},
+      "answer": "luustruktuuri põhiühik",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "47a9245e8a94",
+      "section": "trauma",
+      "question": "Rahiit...",
+      "choices": {},
+      "answer": "luu ainevahetushaigus",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b6b2705e516d",
+      "section": "trauma",
+      "question": "TLICS ehk",
+      "choices": {},
+      "answer": "thoracolumbar injury classification and severity score",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "20d375ebe70f",
+      "section": "trauma",
+      "question": "C murd...",
+      "choices": {},
+      "answer": "dislokatsiooniga",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "245e1cdbc80b",
+      "section": "trauma",
+      "question": "Entees...",
+      "choices": {},
+      "answer": "kõõluse, sideme või fastsia kinnituskoht luul",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "aee2cdc3c9ff",
+      "section": "trauma",
+      "question": "A0 murd...",
+      "choices": {},
+      "answer": "\"süütu\" avulsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5c5ed9b76aa5",
+      "section": "trauma",
+      "question": "A1 murd...",
+      "choices": {},
+      "answer": "kompressioonmurd (1 lõppplaat, ainult eesmine sammas)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cd5412219981",
+      "section": "trauma",
+      "question": "A2 murd...",
+      "choices": {},
+      "answer": "split-murd (mõlemad lõppplaadid)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d40390c4862a",
+      "section": "trauma",
+      "question": "A3 murd...",
+      "choices": {},
+      "answer": "mittetäielik purustusmurd",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "043ab89b13ce",
+      "section": "trauma",
+      "question": "A4 murd...",
+      "choices": {},
+      "answer": "täielik purustusmurd",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8a6e8e5ff4c6",
+      "section": "trauma",
+      "question": "B1 murd...",
+      "choices": {},
+      "answer": "chance murd (lõhe)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "25656b81e86b",
+      "section": "trauma",
+      "question": "B2 murd...",
+      "choices": {},
+      "answer": "tagumise pingelingu vigastus",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "276f980b262e",
+      "section": "trauma",
+      "question": "Moribund...",
+      "choices": {},
+      "answer": "haige, kes on suremas",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3b65491d46bd",
+      "section": "trauma",
+      "question": "Osteofüüt...",
+      "choices": {},
+      "answer": "luukasvis",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8d5269bf3b48",
+      "section": "trauma",
+      "question": "Artrodees...",
+      "choices": {},
+      "answer": "liigese jäigastamine",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "12add112f974",
+      "section": "trauma",
+      "question": "Eksostoos...",
+      "choices": {},
+      "answer": "luuline moodustis (kukekannus jne)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4102af60b739",
+      "section": "trauma",
+      "question": "Volaarne ehk",
+      "choices": {},
+      "answer": "ventraalne",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2a06e97edeec",
+      "section": "trauma",
+      "question": "Luuinfarkt...",
+      "choices": {},
+      "answer": "ohtlik luu degeneratsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d59541cda7f6",
+      "section": "trauma",
+      "question": "Kõhre kiud...",
+      "choices": {},
+      "answer": "elastiin ja 2. tüüpi kollageen",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f5adffeded3a",
+      "section": "trauma",
+      "question": "Gonartroos...",
+      "choices": {},
+      "answer": "põlveliigese artroos",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2c6bc37de696",
+      "section": "trauma",
+      "question": "Spondüloos...",
+      "choices": {},
+      "answer": "krooniline liigne surve kaelalülidele",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "67e957c68d86",
+      "section": "trauma",
+      "question": "Hemartroos...",
+      "choices": {},
+      "answer": "veriliiges",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7d0fe10c7cff",
+      "section": "trauma",
+      "question": "Hoffa keha...",
+      "choices": {},
+      "answer": "patellatagune rasvkude",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6feb3fc23add",
+      "section": "trauma",
+      "question": "Paresteesia...",
+      "choices": {},
+      "answer": "\"sipelgate jooksmine\"",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f31ab6e5ff09",
+      "section": "trauma",
+      "question": "Osteotoomia...",
+      "choices": {},
+      "answer": "luutelge või liigesenurka korrigeeriv operatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6d31878b835a",
+      "section": "trauma",
+      "question": "Sarkopeenia...",
+      "choices": {},
+      "answer": "vanusest põhjustatud lihase massi ja jõu kadu",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9b710a462176",
+      "section": "trauma",
+      "question": "Piloni murd...",
+      "choices": {},
+      "answer": "hüppeliigese killustunud (k.a lahtine) murd",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e62207bb3aab",
+      "section": "trauma",
+      "question": "põletuse astmed",
+      "choices": {},
+      "answer": "1- epidermaalne, kahjustunud ainult epidermis\n2a- pindmine dermaalne, villid, erepunane haavapõhi\n2b- sügav dermaalne, haavapõhi valkjas punane, hemorraagilised täpid\n3- sügav, pruunika värvusega, kõva nahkjas nekroos\n4- subfastsiaalne",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "26dbb271f445",
+      "section": "trauma",
+      "question": "Kõhre tüübid...",
+      "choices": {},
+      "answer": "- hüaliinkõhr\n- elastne kõhr\n- kiudkõhr",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "78376121509d",
+      "section": "trauma",
+      "question": "Calve haigus...",
+      "choices": {},
+      "answer": "reieluupea kärbumine (esineb lastel)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4d986f372aa3",
+      "section": "trauma",
+      "question": "Spina bifida...",
+      "choices": {},
+      "answer": "selgroo ebatäielik kokkukasvamine (esineb lastel)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "babf456e4c43",
+      "section": "trauma",
+      "question": "Coccygodynia...",
+      "choices": {},
+      "answer": "sabakondi valu, mis põhjustab istumisraskusi (esineb noortel täiskasvanutel)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4f6ace3b47ae",
+      "section": "trauma",
+      "question": "Osteomüeliit...",
+      "choices": {},
+      "answer": "luupõletik",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "997cd7a04f45",
+      "section": "trauma",
+      "question": "Külmunud õlg...",
+      "choices": {},
+      "answer": "idiopaatilise põletiku tagajärjel kangeks jäänud õlg",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "503182ca67d5",
+      "section": "trauma",
+      "question": "Spondülodees...",
+      "choices": {},
+      "answer": "kahe või enama lülikeha ühendamine",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f2310e6b65d4",
+      "section": "trauma",
+      "question": "Spondülolüüs...",
+      "choices": {},
+      "answer": "lülikaare lüüs",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d507de01b66e",
+      "section": "trauma",
+      "question": "Kõhres ei ole...",
+      "choices": {},
+      "answer": "veresooni ja närve",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d0093dc017f5",
+      "section": "trauma",
+      "question": "Pageti haigus...",
+      "choices": {},
+      "answer": "luud kasvavad tavapärasest suuremaks ja muutuvad hapramaks",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a9d236fd4356",
+      "section": "trauma",
+      "question": "Artroplastika...",
+      "choices": {},
+      "answer": "liigesepinna asendamine",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4a0bbcf7acbe",
+      "section": "trauma",
+      "question": "Caleazzi murd...",
+      "choices": {},
+      "answer": "radiuse murd + ulna distaalne luksatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b01500ba8d49",
+      "section": "trauma",
+      "question": "Sidekoe tüübid...",
+      "choices": {},
+      "answer": "- päris sidekude\n- kõhr\n- luu\n- veri",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "673d5b9feed5",
+      "section": "trauma",
+      "question": "Liigese tüübid...",
+      "choices": {},
+      "answer": "- sünartroos (kolju)\n- amfiartroos (sümfüüs, lülivahed)\n- diartroos (liikuv)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fc4add27a856",
+      "section": "trauma",
+      "question": "Spinaalstenoos...",
+      "choices": {},
+      "answer": "lülisambakanali kitsenemine (esineb noortel täiskasvanutel)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f9bad30781fa",
+      "section": "trauma",
+      "question": "Osteomalaatsia...",
+      "choices": {},
+      "answer": "luupehmenemine",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8c9d1162e599",
+      "section": "trauma",
+      "question": "Radikulopaatia...",
+      "choices": {},
+      "answer": "närvijuure kahjustuse sündroom",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9efa555c0aeb",
+      "section": "trauma",
+      "question": "Traatserklaas ehk",
+      "choices": {},
+      "answer": "traatling",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c72ce8498362",
+      "section": "trauma",
+      "question": "Lisfranci murd...",
+      "choices": {},
+      "answer": "luksatsioon hüppeliigeses, vajab kiiret ravi",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6346f9986852",
+      "section": "trauma",
+      "question": "Antiflogistikum...",
+      "choices": {},
+      "answer": "palaviku- või põletikuvastane ravim",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a333e1f13b95",
+      "section": "trauma",
+      "question": "Fassettsündroom...",
+      "choices": {},
+      "answer": "spondüloartroosi tõttu kiirgub valu tuharasse ja kubemesse",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "79e1f9134c3b",
+      "section": "trauma",
+      "question": "Reiteri sündroom...",
+      "choices": {},
+      "answer": "reaktiivne artriit (infektsioonist põhjustatud)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4cd986d837af",
+      "section": "trauma",
+      "question": "Myelomeningocele...",
+      "choices": {},
+      "answer": "spina bifida alatüüp, mille puhul seljaaju sopistub seljale",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e04a823b9a3e",
+      "section": "trauma",
+      "question": "Marfani sündroom...",
+      "choices": {},
+      "answer": "sidekoe haigus, sümptomiks jäsemete ülekasv",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f86b90fc5a07",
+      "section": "trauma",
+      "question": "Spondülodistsiit...",
+      "choices": {},
+      "answer": "lülisamba põletik (infektsioosne)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9a87e9136b06",
+      "section": "trauma",
+      "question": "Lodiluu murd esineb",
+      "choices": {},
+      "answer": "sagedamini noorematel",
+      "type": "open",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fdfa28a61b91",
+      "section": "trauma",
+      "question": "colles murru kohta;",
+      "choices": {},
+      "answer": "Colles' murd = distaalse radiuse murd dorsaalse nihkega, tüüpiliselt väljasirutatud käele kukkumisel; iseloomulik 'kahvli'-deformatsioon. Ravi: repositsioon ja kips, ebastabiilsel kirurgia.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "e79f3ab9498c",
+      "section": "trauma",
+      "question": "Sidekoed arenevad...",
+      "choices": {},
+      "answer": "mesenhüümist",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d24a20bf926a",
+      "section": "trauma",
+      "question": "Maiseonneuve murd...",
+      "choices": {},
+      "answer": "hüppeliiges subluksatsioonis, aga murd kas kõrgemal või vigastatud sündesmoos",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5b49c6f2544b",
+      "section": "trauma",
+      "question": "DeQuervain sündroom:",
+      "choices": {},
+      "answer": "Finkelstein test positiivne jne",
+      "type": "open",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5f7ad593da09",
+      "section": "trauma",
+      "question": "Mehhanoteraapia.....",
+      "choices": {},
+      "answer": "liigese koormamine, et suudaks kanda rohkem raskust",
+      "type": "open",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d7e219474f19",
+      "section": "trauma",
+      "question": "Patoloogiline murd...",
+      "choices": {},
+      "answer": "muust kahjustusest (nt metastaasid, bisfosfonaadi ületarvitamine) tekkinud murrud",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cb6e2638b1ed",
+      "section": "trauma",
+      "question": "Pöördartroplastika...",
+      "choices": {},
+      "answer": "liigese vahetamisel on selle liikuvad osad \"tagurpidi\" (nt õlas)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "dcac4a7104d0",
+      "section": "trauma",
+      "question": "hallux valgus küsimus",
+      "choices": {},
+      "answer": "Hallux valgus = suure varba (I varvas) lateraalne deviatsioon I metatarsofalangeaalliigeses koos mediaalse 'bunioni' tekkega. Ravi: algul konservatiivne (jalatsid, ortoosid), püsiva vaevuse korral kirurgiline korrektsioon (osteotoomia).",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai",
+      "explanation": "Algne kirje oli ainult teemamärge ('hallux valgus küsimus') — siin on teema põhifaktid.",
+      "needs_review": true
+    },
+    {
+      "id": "5f88e9231912",
+      "section": "trauma",
+      "question": "Luukasvajaid esineb...",
+      "choices": {},
+      "answer": "harva",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ff34ee1ad056",
+      "section": "trauma",
+      "question": "Ligg. flavum asuvad...",
+      "choices": {},
+      "answer": "lülide vahel",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "310539252b18",
+      "section": "trauma",
+      "question": "Scheuermanni haigus...",
+      "choices": {},
+      "answer": "selgroo luustumishäire, mistõttu võib tekkida rinna hüperküfoos (esineb noortel), Cobb > 45 kraadi, esinemissagedus 1 : 100",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0e7845e5ed22",
+      "section": "trauma",
+      "question": "Liigese regressioon...",
+      "choices": {},
+      "answer": "narkoosi all liidete lahtirebimine jäset liigutades",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "64527afdb7b0",
+      "section": "trauma",
+      "question": "millal tsirkulaarkips?",
+      "choices": {},
+      "answer": "Tsirkulaarne kips pannakse tavaliselt alles pärast ägeda turse taandumist (esmalt lahas/poolkips), st stabiilse murru korral — vältimaks kompartmentsündroomi ja kompressiooni.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "2376ebf3c74d",
+      "section": "trauma",
+      "question": "Luumetastaase esineb...",
+      "choices": {},
+      "answer": "sageli",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0a5af4355b03",
+      "section": "trauma",
+      "question": "Kompartment-sündroom...",
+      "choices": {},
+      "answer": "- lihasturse ja kaasnev veresoonte pitsumine\n- sageli koos paresteesiatega\n- rõhk > 30 mmHg",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "22cabd0f2410",
+      "section": "trauma",
+      "question": "Kuhu kiirgub puusavalu?",
+      "choices": {},
+      "answer": "Kubemesse ja / või küljele",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a67253c35cde",
+      "section": "trauma",
+      "question": "Viskosuplementatsioon...",
+      "choices": {},
+      "answer": "liigesevedeliku asendusravi",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "26e5ca4105af",
+      "section": "trauma",
+      "question": "Lihtsa murru omadused...",
+      "choices": {},
+      "answer": "2 fragmenti ja üks murrujoon",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "539ad51e411e",
+      "section": "trauma",
+      "question": "Indirektne paranemine...",
+      "choices": {},
+      "answer": "kallusega paranemine",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7c9a98ecbe92",
+      "section": "trauma",
+      "question": "Ehlers-Danlos sündroom...",
+      "choices": {},
+      "answer": "liigselt veniv nahk, logisevad liigesed jms",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bda9135dc098",
+      "section": "trauma",
+      "question": "Puusa ja õla \"tihend\" ehk",
+      "choices": {},
+      "answer": "labrum",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cd92132c2721",
+      "section": "trauma",
+      "question": "NSAID-ide kõrvaltoimed...",
+      "choices": {},
+      "answer": "- maohaavandid\n- neerukahjustus\n- vererõhu tõus\n- verevedeldus \n- luu generatsiooni pärssimine",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8f34503afa5d",
+      "section": "trauma",
+      "question": "Osgood-schlatteri tõbi...",
+      "choices": {},
+      "answer": "tibia osaline luustumisdefekt",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "578c0e71c699",
+      "section": "trauma",
+      "question": "Osteogenesis imperfecta...",
+      "choices": {},
+      "answer": "kollageeni on vähe või see on defektne",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "09a003ff3ce0",
+      "section": "trauma",
+      "question": "Anküloseeriv spondüliit...",
+      "choices": {},
+      "answer": "põletikuline haigus, mis haarab ka muud organismi (esineb noortel täiskasvanutel)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1a26d82af53c",
+      "section": "trauma",
+      "question": "Kui kiiresti taastub närv?",
+      "choices": {},
+      "answer": "1 mm päevas",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7f079057d3c7",
+      "section": "trauma",
+      "question": "Capsula articularis asub...",
+      "choices": {},
+      "answer": "jätketevahelises orvas",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1cd33022c69f",
+      "section": "trauma",
+      "question": "Õlaliigese antefleksioon...",
+      "choices": {},
+      "answer": "käte eessirutuses üles viimine",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ea2e808ecc0c",
+      "section": "trauma",
+      "question": "Küünarnuki pinnale kinnitub",
+      "choices": {},
+      "answer": "m. triceps",
+      "type": "open",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f53b0c048a65",
+      "section": "trauma",
+      "question": "Diski sopistuse raviks on...",
+      "choices": {},
+      "answer": "resektsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b4c563ebbcfa",
+      "section": "trauma",
+      "question": "Mida kahjsutab osteoartroos?",
+      "choices": {},
+      "answer": "liigest tervikuna",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "dc57ef63bed0",
+      "section": "trauma",
+      "question": "Labakäe artroosile viitab...",
+      "choices": {},
+      "answer": "valu kokkupuutel jahedaga",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "185f71946931",
+      "section": "trauma",
+      "question": "Bisfosfonaati kasutatakse...",
+      "choices": {},
+      "answer": "osteoporoosi raviks",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2de640ad4127",
+      "section": "trauma",
+      "question": "Kruvi ei panda sildplaadi...",
+      "choices": {},
+      "answer": "keskele (üleminekuossa)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "31eddc9ea10f",
+      "section": "trauma",
+      "question": "Postop. deliiriumi tekitab...",
+      "choices": {},
+      "answer": "ravimata äge valu",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cd3273543fac",
+      "section": "trauma",
+      "question": "Ligg. interspinosus asuvad...",
+      "choices": {},
+      "answer": "spinade vahel",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6fb00bcf0e30",
+      "section": "trauma",
+      "question": "Kuhu ei panda üldiselt kipsi?",
+      "choices": {},
+      "answer": "Varvaste ja sõrmede distaalse otsa murdudele",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "62e3e625180e",
+      "section": "trauma",
+      "question": "Halvasti paranev kämblaluu...",
+      "choices": {},
+      "answer": "lodiluu",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "890c65716cfb",
+      "section": "trauma",
+      "question": "Kompartment-sündroomi ravi...",
+      "choices": {},
+      "answer": "fastsiotoomia",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "778e81528f70",
+      "section": "trauma",
+      "question": "Randme liikuvuse hindamine...",
+      "choices": {},
+      "answer": "käed keha ette kokku peopesadega (\"palvetamine\") ja käeselgadega, kummagi puhul 90 kraadi",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "abfba301399e",
+      "section": "trauma",
+      "question": "Naela ja plaadi erinevused...",
+      "choices": {},
+      "answer": "- nael - luule sarnasem, ühtlasem jõudude suund\n- plaat - killustunud murdude sildamiseks, kalluse tekitamiseks",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c9d0e4434e37",
+      "section": "trauma",
+      "question": "Osteoartroosi ravipüramiid...",
+      "choices": {},
+      "answer": "1. füsioteraapia + paratsetamool\n2. NSAID-id\n3. liigesesüstid (kortikosteroidid), viskosuplementatsioon, opioidid\n4. osteotoomia / artrodees",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7390cbc74e81",
+      "section": "trauma",
+      "question": "de quervani haiguse sümptomid",
+      "choices": {},
+      "answer": "De Quervaini tenosünoviit: valu ja turse randme radiaalküljel (proc. styloideus radii kohal), valu pöidla liigutamisel/haaramisel; positiivne Finkelsteini test.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "07dae675b5c5",
+      "section": "trauma",
+      "question": "Lig. longitudinale ant. asub...",
+      "choices": {},
+      "answer": "lülikehade ees",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0edc1eb3add2",
+      "section": "trauma",
+      "question": "Mille vahel asub fassettliiges?",
+      "choices": {},
+      "answer": "processus articularis superior ja inferior",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6adbe8dcee91",
+      "section": "trauma",
+      "question": "Osteoartroosi kolm sümptomit...",
+      "choices": {},
+      "answer": "- hommikune jäikus (põletikulise variandi korral)\n- õhtune valu\n- valu teke koormusel\n- liikuvuse piiratus",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c43ff75a5e45",
+      "section": "trauma",
+      "question": "Poolproteesi pluss ja miinus...",
+      "choices": {},
+      "answer": "lukseerub kordades harvem, aga hõõrdumise oht suurem",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "294996e4239f",
+      "section": "trauma",
+      "question": "Heterotroopne ossifikatsioon...",
+      "choices": {},
+      "answer": "patoloogiline luu moodustumine pehmes koes",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d721565399d9",
+      "section": "trauma",
+      "question": "Murru kirjeldamise 5 omadust...",
+      "choices": {},
+      "answer": "- lahtine / kinnine\n- lihtne / keeruline (komplitseeritud)\n- liigest haarav / liigest mittehaarav\n- muid struktuure haarav / isoleeritud\n- varasemalt terve pt / mitte",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "54431d421035",
+      "section": "trauma",
+      "question": "Küretaaž ehk ekskohleatsioon...",
+      "choices": {},
+      "answer": "luutuumori korral kasutatav kahjustusesisene kirurgiline protseduur",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0ed1df783dc9",
+      "section": "trauma",
+      "question": "Luukude tekib / koosneb millest?",
+      "choices": {},
+      "answer": "Osteoblastidest / osteotsüütidest",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "726f4c83393f",
+      "section": "trauma",
+      "question": "Lig. longitudinale post. asub...",
+      "choices": {},
+      "answer": "lülikehade taga",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d594cfd4b64b",
+      "section": "trauma",
+      "question": "M. gluteus mediuse funktsioon...",
+      "choices": {},
+      "answer": "vaagna stabiliseerimine vastaspoole jalal seistes",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a043c3c67e1a",
+      "section": "trauma",
+      "question": "Kõhrkude tekib / koosneb millest?",
+      "choices": {},
+      "answer": "Kondroblastidest / kondrotsüütidest",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "72048b5aafc7",
+      "section": "trauma",
+      "question": "Ligg. intertransversarii asuvad...",
+      "choices": {},
+      "answer": "transversuste vahel",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e4416a16d3b3",
+      "section": "trauma",
+      "question": "Weberi klassifikatsiooni määrab...",
+      "choices": {},
+      "answer": "hüppeliigese murdude tüübid",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d55ab061e44b",
+      "section": "trauma",
+      "question": "Vaagna sügavuseks loetakse vahet...",
+      "choices": {},
+      "answer": "sacrumi keskosa ja puusaliigese keskosa vahel",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "da8858d14333",
+      "section": "trauma",
+      "question": "Mille vahel on alumine hüppeliiges?",
+      "choices": {},
+      "answer": "Kontsluu ja kandluu",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "75d8060c878d",
+      "section": "trauma",
+      "question": "Mis on piiratud koksartroosi korral?",
+      "choices": {},
+      "answer": "Siserotatsioon puusast",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "55d292bac7ca",
+      "section": "trauma",
+      "question": "Mitu kihti kipsi pannakse (vahemik)?",
+      "choices": {},
+      "answer": "8 - 12",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9927f9f10fe7",
+      "section": "trauma",
+      "question": "N. ulnarise kahjustusele viitavad...",
+      "choices": {},
+      "answer": "- poole 4. ja 5. sõrme tundlikkuse langus\n- sõrmed ei suuda teineteise suhtes abdutseeruda / addutseeruda (laiali ajada ja kokku minna)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3a3c06a9a838",
+      "section": "trauma",
+      "question": "Küünarliigese norm liikuvusulatus...",
+      "choices": {},
+      "answer": "0 - 150 kraadi",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4ee69f2cdf72",
+      "section": "trauma",
+      "question": "N. radialise kahjustusele viitavad...",
+      "choices": {},
+      "answer": "- rippranne\n- sõrmi ei saa sirutada\n- ei saa \"pöialt näidata\"",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3f0617724203",
+      "section": "trauma",
+      "question": "N. medianuse kahjustusele viitavad...",
+      "choices": {},
+      "answer": "- karpaalkanaliisündroom\n- 1. - 3. ja poole 4. sõrme tundlikkuse langus\n- sõrmede vastandamise raskused",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1a80a54305a0",
+      "section": "trauma",
+      "question": "Schatzkeri klassifikatsioon määrab...",
+      "choices": {},
+      "answer": "sääre proksimaalsete murru tüübi",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6b9909af919b",
+      "section": "trauma",
+      "question": "Tüüpiline puusa luksatsiooni põhjus...",
+      "choices": {},
+      "answer": "dashboard injury",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b015bae6fd33",
+      "section": "trauma",
+      "question": "Sekundaarsed osteoartroosi põhjused...",
+      "choices": {},
+      "answer": "- liigese mehhaaniline kokkusobimatus\n- põletik\n- luuhaigused\n- endokrinopaatiad\n- metaboolsed häired\n- hemofiilia (hemartroos)\n- neuropaatilised",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4f72bcf1621b",
+      "section": "trauma",
+      "question": "Mille abil diagnoositakse gonartroosi?",
+      "choices": {},
+      "answer": "- põlvevalu\n- röntgenis osteofüüdid\n- OA-le tüüpiline sünoviaalvedelik \n- 40+ vanus\n- hommikune jäikus < 30min\n- krigin liigutamisel",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "df442bfb5573",
+      "section": "trauma",
+      "question": "Millise OA raviks kasutatakse NSAID-e?",
+      "choices": {},
+      "answer": "reaktiivse sünoviidi",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7cc2a601c730",
+      "section": "trauma",
+      "question": "Suure toruluu paranemine võtab aega...",
+      "choices": {},
+      "answer": "ligi pool aastat",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3bd12f578573",
+      "section": "trauma",
+      "question": "Mitu ühikut on ohtlik Hgb järsk langus?",
+      "choices": {},
+      "answer": "50",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "82c891773bc3",
+      "section": "trauma",
+      "question": "Mille abil diagnoositakse koksartroosi?",
+      "choices": {},
+      "answer": "- puusavalu\n- röntgenis osteofüüdid\n- settereaktsioon < 20 mm/h\n- röntgenis liigesepilu ahenemine",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c1da62cd385b",
+      "section": "trauma",
+      "question": "Mille abil diagnoositakse labakäe OA-d?",
+      "choices": {},
+      "answer": "- valu või jäikus\n- rohkem kõva kude\n- MKF-liigese turse\n- liigeste deformatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2620327a0ecc",
+      "section": "trauma",
+      "question": "Valuliku küünevigastuse korral tuleb...",
+      "choices": {},
+      "answer": "sellesse auk teha (surve vähendamiseks)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e931f603ef86",
+      "section": "trauma",
+      "question": "Kuidas testitakse puusa siserotatsiooni?",
+      "choices": {},
+      "answer": "Pt on selili, puus + põlv 90 kraadi all, säärt keeratakse väljapoole (pos = koksartroos, neg = spondüloartroos)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2794ffd056bf",
+      "section": "trauma",
+      "question": "Milline kahjustus esineb artriidi puhul?",
+      "choices": {},
+      "answer": "Erosiivne",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1fd553bb267b",
+      "section": "trauma",
+      "question": "Resektsioonartroplastika puhul langeb...",
+      "choices": {},
+      "answer": "jäseme jõudlus",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b6aafb591498",
+      "section": "trauma",
+      "question": "Kompartment-sündroomi peamine sümptom...",
+      "choices": {},
+      "answer": "väga tugev valu",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "970692b8d386",
+      "section": "trauma",
+      "question": "Artroosi kõige olulisem ravinäidustus...",
+      "choices": {},
+      "answer": "valu",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bccbe2da11ab",
+      "section": "trauma",
+      "question": "Degenerative disk disease'i puhul disk...",
+      "choices": {},
+      "answer": "degenereerub ja kaotab elastsuse",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4868173ff25f",
+      "section": "trauma",
+      "question": "Mis on vajalik osteoartroosi diagnoosiks?",
+      "choices": {},
+      "answer": "- loetleda kahjustatud liigesed\n- röntgen\n- hinnata reaktiivse põletiku esinemist\n- määrata funktsionaalse puudulikkuse aste (kui palju elu segab)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6a4537221c60",
+      "section": "trauma",
+      "question": "Antegraadne / retrograadne naelastamine...",
+      "choices": {},
+      "answer": "suunaga ülevalt alla / alt üles",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9f0d7de3ea66",
+      "section": "trauma",
+      "question": "Puusaliigese tavaline lukseerumise suund...",
+      "choices": {},
+      "answer": "taha",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "faa7b528bc36",
+      "section": "trauma",
+      "question": "Milline protseduur on ravi UH-ga OA korral?",
+      "choices": {},
+      "answer": "Sügavsoojendav",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b426fc4365c5",
+      "section": "trauma",
+      "question": "Millise kipsi puhul kasutatakse kipsisaagi?",
+      "choices": {},
+      "answer": "Nii loodusliku kui sünteetilise",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1ba184dff576",
+      "section": "trauma",
+      "question": "Mis põhjustab sageli metatarsaalluude murde?",
+      "choices": {},
+      "answer": "Ülekoormus",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "56a6923d2d2f",
+      "section": "trauma",
+      "question": "Millise OA aspekti puhul aitab hüaluroonhape?",
+      "choices": {},
+      "answer": "Leevendab mehaanilisest kõhre ärritusest tekkinud valu",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "886b181081a5",
+      "section": "trauma",
+      "question": "Alkoholi võõrutusnähtude raviks kasutatakse...",
+      "choices": {},
+      "answer": "diasepaami",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7368d810b6b3",
+      "section": "trauma",
+      "question": "Kuidas käib radioulnaarse liikuvuse hindamine?",
+      "choices": {},
+      "answer": "Käed küünarliigesest ette tõstetud, pronatsioon ja supinatsioon mõlemad 90 kraadi",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c86fb25dba9b",
+      "section": "trauma",
+      "question": "mis põletus valutundetu, tihke, valkjas? (III)",
+      "choices": {},
+      "answer": "III astme (täispaksuse) põletus — valutu (närvilõpmed hävinud), kuiv/tihke, valkjas või söestunud nahk.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "38cd95fded86",
+      "section": "trauma",
+      "question": "Mis piirkonnas esinevad sageli lahtised murrud?",
+      "choices": {},
+      "answer": "Sääreluu distaalne osa",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5e16b0e85034",
+      "section": "trauma",
+      "question": "Mida mõjutab alati generaliseerunud osteoartoos?",
+      "choices": {},
+      "answer": "Selga",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1284759cec76",
+      "section": "trauma",
+      "question": "Kui kaua kivistub looduslik / sünteetiline kips?",
+      "choices": {},
+      "answer": "24 h / 30 min",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7163807367e5",
+      "section": "trauma",
+      "question": "MIllisest kolmest kohast katsutakse käel pulsse?",
+      "choices": {},
+      "answer": "- ranne (a. radialis)\n- küünarliigese sisepind (a. brachialis)\n- kaenlaalune (a. axillaris)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "db75a012a73e",
+      "section": "trauma",
+      "question": "Teiste kudede traumadega kaasneb lihastoonuse...",
+      "choices": {},
+      "answer": "langus",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "67ceda032c0d",
+      "section": "trauma",
+      "question": "Metallist võõrkeha ümber tekkinud must \"raam\"...",
+      "choices": {},
+      "answer": "lüütiline tsoon",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "027bcce56e91",
+      "section": "trauma",
+      "question": "Selgroo röntgeni hindamisel tuleb vaadelda... (3)",
+      "choices": {},
+      "answer": "- ühte lüli võrdluses selle naabritega \n- lõppplaatide paralleelsust\n- diskide vahesid",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "310939d102db",
+      "section": "trauma",
+      "question": "Millist traumat ei tasu sündmuskohal reponeerida?",
+      "choices": {},
+      "answer": "Õla luksatsiooni",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "74b328442c27",
+      "section": "trauma",
+      "question": "Mille defitsiit tekib eakatel ägeda haiguse puhul?",
+      "choices": {},
+      "answer": "Valgu",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6a7a4ceab3ba",
+      "section": "trauma",
+      "question": "Smithi murru korral läheb kips kummale poole kätt?",
+      "choices": {},
+      "answer": "Peopesa poole",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f89c6c0df380",
+      "section": "trauma",
+      "question": "hüppeliigese väänamisel mis side tavaliselt katki?",
+      "choices": {},
+      "answer": "Lig. talofibulare anterius (ATFL, eesmine talofibulaarside) — sagedaim vigastus hüppeliigese inversioon-väänamisel.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "2d1b33971540",
+      "section": "trauma",
+      "question": "Vaagnamurru tüüp: vertical shear (Young-Burgess)...",
+      "choices": {},
+      "answer": "Googelda pilt",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ef421f29d103",
+      "section": "trauma",
+      "question": "Mis sidemed peavad alles jääma põlve pindproteesil?",
+      "choices": {},
+      "answer": "Külgsidemed (lig. collateralis med. / lat.)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "870f61a9de09",
+      "section": "trauma",
+      "question": "Ebaliigest diagnoositakse pikema aja jooksul kui...",
+      "choices": {},
+      "answer": "mõned nädalad",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "10363914fbd3",
+      "section": "trauma",
+      "question": "Lahtiste luumurdude korral tuleb ravimitest anda...",
+      "choices": {},
+      "answer": "valuvaigisti, profülaktiline AB, teetanuse vaktsiin",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "13e67ad391af",
+      "section": "trauma",
+      "question": "Millist ravi vajab reeglina reieluu distaalne murd?",
+      "choices": {},
+      "answer": "Operatiivset",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3d263b8ca52b",
+      "section": "trauma",
+      "question": "Vaagnamurru tüüp: AP kompressioon (Young-Burgess)...",
+      "choices": {},
+      "answer": "Googelda pilt",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4515f578925f",
+      "section": "trauma",
+      "question": "Mida tehakse skolioosi operatiivsel ravil selgrooga?",
+      "choices": {},
+      "answer": "Jäigastatakse",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b5dd22a03e63",
+      "section": "trauma",
+      "question": "Colles'i murru korral läheb kips kummale poole kätt?",
+      "choices": {},
+      "answer": "Käeseljale",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2d3eaab9c0e6",
+      "section": "trauma",
+      "question": "Pöidlaliigese kulumise hindamise klassifikatsioon...",
+      "choices": {},
+      "answer": "Eatoni klassifikatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b6c75ef61de4",
+      "section": "trauma",
+      "question": "Põletikulise liigesehaiguse minimaalne ravikestus...",
+      "choices": {},
+      "answer": "3 - 4 nädalat",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a8deadf2e9f2",
+      "section": "trauma",
+      "question": "Mis \"astmega\" saadetakse liigesesisesed murrud opile?",
+      "choices": {},
+      "answer": "> 2 mm",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c40d1664a111",
+      "section": "trauma",
+      "question": "Millist murdu ei esine madala energiaga trauma korral?",
+      "choices": {},
+      "answer": "Reieluu diafüüsi",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b6edfde4b98a",
+      "section": "trauma",
+      "question": "Fiksaatorid peavad olema paigutatud teineteise suhtes...",
+      "choices": {},
+      "answer": "ülekattega",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3dd041edb8b0",
+      "section": "trauma",
+      "question": "Vaagnamurru tüüp: lateraalkompressioon (Young-Burgess)...",
+      "choices": {},
+      "answer": "Googelda pilt",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "30b363e94a8c",
+      "section": "trauma",
+      "question": "Suurema vaagna kalde korral on L5 ja S1 lülide ühendus...",
+      "choices": {},
+      "answer": "halvem",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "00f05afb8466",
+      "section": "trauma",
+      "question": "Milliste liigeste puhul kasutatakse peamiselt artrodeesi?",
+      "choices": {},
+      "answer": "Sõrmeliigesed, hüppeliiges",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cce5bf6921c2",
+      "section": "trauma",
+      "question": "Mootorratta õnnetus, lahtise reieluu diafüüsi murd: (ravi)",
+      "choices": {},
+      "answer": "väline fiksatsioon ja AB.",
+      "type": "open",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e8a8841e8148",
+      "section": "trauma",
+      "question": "Osteogenesis imperfecta puhul on normaalne murdude sagedus...",
+      "choices": {},
+      "answer": "üks iga eluaasta kohta",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f1c7d798cdd3",
+      "section": "trauma",
+      "question": "Õlaliigese siserotatsiooni toimimisel saab inimene viia käed...",
+      "choices": {},
+      "answer": "tuharale, nimmepiirkonda ja vastaspoole abaluu alla (peopesad kehast eemal)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "573fd442cb2b",
+      "section": "trauma",
+      "question": "Õlaliigese välisrotatsiooni toimimisel saab inimene viia käed...",
+      "choices": {},
+      "answer": "suu, kõrva ja kukla juurde",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4aebd78defa4",
+      "section": "trauma",
+      "question": "Milline on kõige sagedasem Salter-Harris murru tüüp? (1, 2, 3, 4)",
+      "choices": {},
+      "answer": "2",
+      "type": "open",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b759f87843c1",
+      "section": "trauma",
+      "question": "Kehaasend suudab korrigeerida jäsemete pikkuse erinevust kuni ... cm",
+      "choices": {},
+      "answer": "2 cm",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "63f7f5940a74",
+      "section": "trauma",
+      "question": "Millise liigese artroosi puhul tuleb kindlasti stabiilsusteste teha?",
+      "choices": {},
+      "answer": "Põlve",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c2b2bf7c650d",
+      "section": "trauma",
+      "question": "Mida võib metformiin stressireaktsioonil (nt opi korral) põhjustada?",
+      "choices": {},
+      "answer": "Neerupuudulikkust",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f8a7af9991d3",
+      "section": "trauma",
+      "question": "Karpaalkanalisündroomi korral on väga suure tundlikkusega sümptom...",
+      "choices": {},
+      "answer": "öövalud",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e808a037ec8c",
+      "section": "trauma",
+      "question": "mis liiges kõige parema liikuvusega? (keraliiges, pöörlev liiges, …)",
+      "choices": {},
+      "answer": "Keraliiges (sfääriline liiges, nt õlaliiges) — suurima liikuvusega liigese tüüp (liikumine kõigis tasapindades).",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "e62a2cf9cd64",
+      "section": "trauma",
+      "question": "Miinimum ja maksimum Hgb opile lubamiseks enne / pärast... VAATA ÜLE!",
+      "choices": {},
+      "answer": "100 / 70 - 80",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "591fe764689c",
+      "section": "trauma",
+      "question": "Reieluukaela haprusmurru korral on kui paljudel kognitiivne defitsiit?",
+      "choices": {},
+      "answer": "Kuni pooltel",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "01d6b5da256c",
+      "section": "trauma",
+      "question": "Mille suhtes tuleb kortikosteroidide kasutamisel olla ettevaatlik? (2)",
+      "choices": {},
+      "answer": "- ümbritsevate kudede atroofia (nt kõhre, kui tegu liigesesisese süstiga)\n- depoopreparaat, seega korduval manustamisel üleannustamise oht",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "510ce29d5631",
+      "section": "trauma",
+      "question": "Isheemia 6 P-d (aitavad hinnata ka kompartment-sündroomi esinemist)...",
+      "choices": {},
+      "answer": "- pallor / paleness (kahvatus)\n- pain\n- paresteesia\n- paralüüs\n- pulsi kadumine\n- poikilotermia (temperatuuri kõikumine)",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7b3fad3e053c",
+      "section": "trauma",
+      "question": "Kas suurem on radiaalne või ulnaarne deviatsioon (lehvitamisliigutus)?",
+      "choices": {},
+      "answer": "Ulnaarne",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "640834541e19",
+      "section": "trauma",
+      "question": "Milline lihas saab tõenäoliselt vigastada colles (kodarluu sirutusmurd) tõttu?",
+      "choices": {},
+      "answer": "M. extensor pollicis longuse kõõluse rebend",
+      "type": "open",
+      "sources": [
+        "quizlet:921237115"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9e86a5529619",
+      "section": "trauma",
+      "question": "DISH ehk diffuse idiopathic skeletal hyperostosis ehk anküloseeriv hüperostoos...",
+      "choices": {},
+      "answer": "lülisamba eesmise pikiligamendi kaltsifitseerumine, hiljem luustumine",
+      "type": "open",
+      "sources": [
+        "quizlet:1125701740"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9fdccc0d0cab",
+      "section": "trauma",
+      "question": "Suurte toruluu murd, järgmisel päeval skleeradel petehhiad, tahhüpnoe, teadvusehäire",
+      "choices": {},
+      "answer": "Rasvemboolia sündroom",
+      "type": "open",
+      "sources": [
+        "quizlet:592285600"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c9a5bd7f178d",
+      "section": "trauma",
+      "question": "mis organ saab kõige enam kahjustatud vaagna trauma korral (ureetra, ureeter, põis…)",
+      "choices": {},
+      "answer": "Kusiti (ureetra) — vaagnamurru korral sagedaim kahjustatud kuseteede organ (eriti meestel tagumine ureetra); kahjustuda võib ka põis. Ureeter on vaagnatraumas harva vigastatud.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai",
+      "explanation": "Põis on samuti tugev kandidaat — tasub üle kontrollida.",
+      "needs_review": true
+    },
+    {
+      "id": "9a0789eb4547",
+      "section": "trauma",
+      "question": "lahtise luumurruga trauma milline ravitaktika? (välisfiksaator + haava korrastus + ab)",
+      "choices": {},
+      "answer": "Lahtine murd: erakorraline haava puhastus/debridement, murru stabiliseerimine (sageli välisfiksaatoriga), varane antibiootikum ja teetanuse profülaktika.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "86c10eb1d8b4",
+      "section": "trauma",
+      "question": "kus teismelistel kõige sagedamini murd pikas toruluus? (metafüüsis, epifüüsis, diafüüsis jne)",
+      "choices": {},
+      "answer": "Metafüüs — kasvueas on luu nõrgim metafüüsi/kasvuplaadi piirkonnas (sagedaim kasvuplaadimurd on Salter-Harris II tüüp, mis ulatub metafüüsi).",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "7ca448c453ce",
+      "section": "trauma",
+      "question": "skolioosi ravi, mis vale (pikad variandid, aga vist see et skolioosi operatsioon on lihtne ja kiire protseduur)",
+      "choices": {},
+      "answer": "Vale väide on, et skolioosi operatsioon on lihtne ja kiire protseduur — tegelikult on lülisamba korrektsioon-fiksatsioon ulatuslik ja keeruline operatsioon.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "73d57c03beb0",
+      "section": "trauma",
+      "question": "mingi pikk küsimus sellest kuidas panna sõrmed kipsi (vist et paned haige sõrme ja selle kõrval oleva sõrme kipsi + nende vahele paned mingi kaitseside vms)",
+      "choices": {},
+      "answer": "Vigastatud sõrm immobiliseeritakse koos kõrvaloleva terve sõrmega ('buddy'-fiksatsioon); nende vahele asetatakse pehme kaitseside naha hõõrdumise vältimiseks.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "920d2d9abfde",
+      "section": "trauma",
+      "question": "mingi küsimus millega tegeleb lihas ja skeletifusio??? imelikud vastused aga õige vist see kus oli närvid, lihased, luud, sidemed, liigesed jne ühesõnaga kus närvid ka olid;",
+      "choices": {},
+      "answer": "Õige vastusevariant oli see, mis hõlmas lisaks lihastele, luudele, sidemetele ja liigestele ka närve — st liikumisaparaadi terviklik kirjeldus koos närvidega.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai",
+      "explanation": "Algne küsimus/variandid olid ebamäärased (üliõpilase märkme põhjal) — tasub üle kontrollida.",
+      "needs_review": true
+    }
+  ]
+}

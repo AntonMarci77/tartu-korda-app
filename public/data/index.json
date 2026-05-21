@@ -1,0 +1,52 @@
+{
+  "section_order": [
+    "vaskulaar",
+    "uroloogia",
+    "lastekirurgia",
+    "uldkirurgia",
+    "trauma"
+  ],
+  "stats": {
+    "vaskulaar": {
+      "total": 335,
+      "mc": 93,
+      "with_answer": 335,
+      "needs_review": 2,
+      "multi_source": 45
+    },
+    "uroloogia": {
+      "total": 344,
+      "mc": 101,
+      "with_answer": 344,
+      "needs_review": 0,
+      "multi_source": 3
+    },
+    "lastekirurgia": {
+      "total": 325,
+      "mc": 188,
+      "with_answer": 325,
+      "needs_review": 1,
+      "multi_source": 66
+    },
+    "uldkirurgia": {
+      "total": 334,
+      "mc": 21,
+      "with_answer": 334,
+      "needs_review": 0,
+      "multi_source": 4
+    },
+    "trauma": {
+      "total": 406,
+      "mc": 121,
+      "with_answer": 406,
+      "needs_review": 3,
+      "multi_source": 159
+    }
+  },
+  "totals": {
+    "questions": 1744,
+    "mc": 524,
+    "with_answer": 1744,
+    "needs_review": 6
+  }
+}

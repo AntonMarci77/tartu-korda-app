@@ -1,0 +1,4123 @@
+{
+  "section": "uldkirurgia",
+  "count": 334,
+  "questions": [
+    {
+      "id": "7f80d0556fcf",
+      "section": "uldkirurgia",
+      "question": "Valgejoone songa ravi",
+      "choices": {
+        "a": "ei vaja ravi",
+        "b": "kirurgiline"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "416560b165dc",
+      "section": "uldkirurgia",
+      "question": "kassi kriimustus bakter",
+      "choices": {
+        "a": "Pasteurella multocida",
+        "b": "Bartonella henselae",
+        "c": "Eikenella corroden"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4b0ba08968a5",
+      "section": "uldkirurgia",
+      "question": "Söögitoru akalaasia ravi",
+      "choices": {
+        "a": "trunkaalne vagotoomia",
+        "b": "diafragma säärte lähendamine",
+        "c": "Helleri kardiomüotoomia"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4ec1650b2f8a",
+      "section": "uldkirurgia",
+      "question": "Inimese hammustuse bakter",
+      "choices": {
+        "a": "Pasteurella multocida",
+        "b": "Bartonella henselae",
+        "c": "Eikenella corrodens"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "afa4ca977d48",
+      "section": "uldkirurgia",
+      "question": "Primaarse peritoniidi põhjus",
+      "choices": {
+        "a": "anaeroobne infektsioon",
+        "b": "enteriit",
+        "c": "perforatsioon"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e3213aeaee51",
+      "section": "uldkirurgia",
+      "question": "Cross-matchi kohta mis on tõene",
+      "choices": {
+        "a": "doonori lümfotsüüdid lisatakse retsipiendi plasmale",
+        "b": "doonori plasma rakud lisatakse retsipiendi plasmale",
+        "c": "doonori makrofaagid lisatakse retsipiendi plasmale"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "10db410abbf4",
+      "section": "uldkirurgia",
+      "question": "Mis on ägeda kolangiidi sümptomid?",
+      "choices": {
+        "a": "Ikterus",
+        "b": "sapikoolikas/koolikavalu",
+        "c": "palavik",
+        "d": "kõik eelnevad"
+      },
+      "answer": "d\n- ehk esineb Charcot' triaad",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0ef1cd5731ce",
+      "section": "uldkirurgia",
+      "question": "Kroonilise anaalfissuuri ravi esmavalik",
+      "choices": {
+        "a": "mingid lokaalsed salvid",
+        "b": "Ca kanali blok ja glütseriinsalvid",
+        "c": "botuliini süst",
+        "d": "sfinkteri müotoomia)"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2ba817659cd8",
+      "section": "uldkirurgia",
+      "question": "Alvarado skoori kasutatakse mille jaoks",
+      "choices": {
+        "a": "appenditsiidi diagnoosi tõenäosus",
+        "b": "kirurgilise või konservatiivse ravi vahel valimine",
+        "c": "peritoniidi diagnostikas"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f87f5a46dae2",
+      "section": "uldkirurgia",
+      "question": "Poksijakäsi (millised kaks metakarpaali)?",
+      "choices": {
+        "a": "1. ja 2.",
+        "b": "3, 4, 5",
+        "c": "4. ja 5."
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "44f02c9aa459",
+      "section": "uldkirurgia",
+      "question": "Milline ei ole GERD kirurgilise ravi valikus",
+      "choices": {
+        "a": "Niesseni avatud",
+        "b": "suletud fundoplikatsioon",
+        "c": "Toupet fundoplikatsioon",
+        "d": "1 müotoomia"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "688da2989e64",
+      "section": "uldkirurgia",
+      "question": "Osteomüeliidi diagnostika kuldstandard lastel",
+      "choices": {
+        "a": "MRT",
+        "b": "Rö",
+        "c": "kliiniline"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f9c2c855cbca",
+      "section": "uldkirurgia",
+      "question": "Millise kilpnäärme vähi marker on kaltsitoniin?",
+      "choices": {
+        "a": "follikulaarne",
+        "b": "papillaarne",
+        "c": "medullaarne",
+        "d": "anaplastne"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ce70eeea132d",
+      "section": "uldkirurgia",
+      "question": "Nekrotiseeriv pankreatiit. Millise uuringu teed?",
+      "choices": {
+        "a": "KT natiivis",
+        "b": "KT kontrastiga",
+        "c": "UH",
+        "d": "MRT"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "07cabd23b8c0",
+      "section": "uldkirurgia",
+      "question": "Culleni ja Grey Turner'i sign tekib mille korral",
+      "choices": {
+        "a": "krooniline pankreatiit",
+        "b": "äge pankreatiit",
+        "c": "äge apenditsiit"
+      },
+      "answer": "b \n- viitab retroperitoneaalruumi hemorraagiale",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "306141571410",
+      "section": "uldkirurgia",
+      "question": "Millise inkontinentsi korral medikamentoosne ravi",
+      "choices": {
+        "a": "stressinkontinents",
+        "b": "ülevoolu-inkontinents",
+        "c": "tunginkontinents"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "eaa4fbfd9b00",
+      "section": "uldkirurgia",
+      "question": "Mis järgmistest mikroobidest on oportunistlik tekitaja:",
+      "choices": {
+        "a": "polüomaviirus",
+        "b": "Pneumocystis jiroveci",
+        "c": "Mycobacterius tuberculosis",
+        "d": "kõik on oportunistlikud"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ece6b46fb9ee",
+      "section": "uldkirurgia",
+      "question": "Milline on bariaatrilise kirurgia valikravi, kui kaasub GERD",
+      "choices": {
+        "a": "sleeve",
+        "b": "bypass",
+        "c": "banding",
+        "d": "kõik eelnevad"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d7e0765b8740",
+      "section": "uldkirurgia",
+      "question": "Milline väide ei ole siirdamise (ägeda äratõukereaktsiooni) kohta õige",
+      "choices": {
+        "a": "humoraalne äge äratõuge on parema prognoosiga kui rakuline",
+        "b": "esmavaliku raviks suurtes doosides glükokortikoide",
+        "c": "tekib halva ravisoostumise tõttu",
+        "d": "alguses asümptomaatiline"
+      },
+      "answer": "a\n\nÄge äratõuge - rakuline suht hea prognoosiga, humoraalne halvaga\nRakulise äratõuke ravi prednisoloon, polüklonaalsed Ak, humoraalse korral Ak eemaldamine, IVIG",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7c9aadbc6f01",
+      "section": "uldkirurgia",
+      "question": "Terav valu defekatsiooni ajal ja järel, pühkides hele veri, mis on diagnoos",
+      "choices": {
+        "a": "anaalfissuur",
+        "b": "sisemised hemorroidid",
+        "c": "fistul)"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f8891fec5560",
+      "section": "uldkirurgia",
+      "question": "Mehel 2 päeva tagasi tekkinud valu pärakus, vaatlusel asümmeetriliselt ühe poole punetus ja turse. Mis on tegevus?",
+      "choices": {
+        "a": "sigmoidoskoopia",
+        "b": "anesteesias mädakolde avamine",
+        "c": "antibiots",
+        "d": "KT"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1cc495ccfe5b",
+      "section": "uldkirurgia",
+      "question": "Empüeem",
+      "choices": {},
+      "answer": "Olemasolevates piirdunud \"ruumides\" (pleuraõõs, liiges, sapipõis) tekkiv mädapõletik.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268",
+        "quizlet:924561195"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d992c1785946",
+      "section": "uldkirurgia",
+      "question": "Abstsess",
+      "choices": {},
+      "answer": "* piirdunud mädapõletik. Ümbritsevatest kudedest eraldatud granulatsioonivalliga\n* üldised ja lokaalsed põletikutunnused, fluktuatsioon\n* R: intsisioon ja dreneerimine",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268",
+        "quizlet:924561195"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "90eb45c6d939",
+      "section": "uldkirurgia",
+      "question": "Koosteveri",
+      "choices": {},
+      "answer": "On eelkõige vastsündinute ravis kasutatav täisvere koostisele vastav verekomponent, mille saamiseks ühendatakse erütrotsüüdid ja värskelt külmutatud plasma.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268",
+        "quizlet:924561195"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "5b6ce786bd11",
+      "section": "uldkirurgia",
+      "question": "Krüopretsipitaat",
+      "choices": {},
+      "answer": "... on värskelt külmutatud plasma kontsentreerimise teel saadud verekomponent, mis sisaldab krüoglobuliinidena hüübimisprotsessis osalevaid plasma valke \n• Sisaldab fibrinogeeni, fibronektiini, F VIII, F XIII, von Willebrand´i faktorit",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268",
+        "quizlet:924561195"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "da23614e0246",
+      "section": "uldkirurgia",
+      "question": "ab",
+      "choices": {},
+      "answer": "ennetame SSI, I ja II pk tsefalosporiinid, 30-60 mini enne, 3 ja 4 klass, 2 klass (va plaaniline \nlaporoskoopiline koletsüstektoomia), 1 klass (implataadiga + neuro/kardio)",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9bc5f6179514",
+      "section": "uldkirurgia",
+      "question": "Sega",
+      "choices": {},
+      "answer": "diabeetiline (neuropaatia + mikroangiopaatia)",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "73c60e00a5e0",
+      "section": "uldkirurgia",
+      "question": "TRALI",
+      "choices": {},
+      "answer": "äge transfusiooniga seotud kopsukahjustus",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "39477d6660fd",
+      "section": "uldkirurgia",
+      "question": "iileus",
+      "choices": {},
+      "answer": "soolesulgus",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "42eb65041815",
+      "section": "uldkirurgia",
+      "question": "Seroom",
+      "choices": {},
+      "answer": "Haava sekreediga ja lümfiga täidetud õõs haava piirkonnas \n Tekkepõhjused : lümfiteede ulatuslik vigastus, haava taskud \n Raviks punktsioon, kerge kompressioonside kordumisel drenaaz",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4abe27fe6dad",
+      "section": "uldkirurgia",
+      "question": "Keloid",
+      "choices": {},
+      "answer": "Arm, mis kasvab üle haava servade \n Omab geneetilist predispositsiooni (sagedamini aafriklastel) \n Koosneb peamiselt kollageenist, keskosas atsellulaarne, laienenud servades fibroblastid \n Ravi : head ei ole, ekstsisioon viib praktiliselt alati keloidi taastekkele Steroidi süstimine keloidi võib protsessi algfaasis olla edukas",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "18c0a9ecdf9e",
+      "section": "uldkirurgia",
+      "question": "Haavad",
+      "choices": {},
+      "answer": "puhas, puhas-saastunud, saastunud, reostunud",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3d26860d93f4",
+      "section": "uldkirurgia",
+      "question": "Mastiit",
+      "choices": {},
+      "answer": "* 90% laktatsioonimastiit\n* infektsioon endogeenne, lümfogeenne või piimajuha kaudu\n* R: rinna tühjaks lüpsmine, AB\n* imetamist katkestada pole vaja* võib abstsedeeruda",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7b2dc59b41fd",
+      "section": "uldkirurgia",
+      "question": "Akuutne",
+      "choices": {},
+      "answer": "tõeline rakuline T-rakud, 5-15 päeva, funkt langus ja põletik",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a60b40f1c3c1",
+      "section": "uldkirurgia",
+      "question": "keratiit",
+      "choices": {},
+      "answer": "silma sarvkesta põletik, laugude spasm ja pisaravool",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "52a9da6c89e1",
+      "section": "uldkirurgia",
+      "question": "glaukoom",
+      "choices": {},
+      "answer": "- silmasisese rõhu tõus\n- nägemine halveneb, kaob täielikult\n- patsient vaatab nagu läbi tunneli, pilt on hägune\n- silmas esineb valu\n- pupill laienenud, ei reageeri valgusele\n- lisa sümptomid on iiveldus, oksendamine, peavalu",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6263c48f00b8",
+      "section": "uldkirurgia",
+      "question": "katarakt",
+      "choices": {},
+      "answer": "- silmalääts hägune, valgus ei pääse silma\n- nägemine hägune ja tuhmunud\n- silmaläätse eemaldus",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "dfba1d1bf538",
+      "section": "uldkirurgia",
+      "question": "Aseptika",
+      "choices": {},
+      "answer": "Aseptika on meetod mille printsiip põhineb sellel,et kõik,mis haavaga kokku puutub oleks tehtud eelnevalt pisikutevabaks e.steriilseks. Põhimeetod on steriliseerimine",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a43940715e90",
+      "section": "uldkirurgia",
+      "question": "Äge haav",
+      "choices": {},
+      "answer": "- Kõik haava paranemisefaasid kulgevad korrapäraselt ja õigeaegselt \n- Suurem mitogeenne aktiivsus \n- Harva haavas biofilm",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e5c92a0638c3",
+      "section": "uldkirurgia",
+      "question": "Hematoom",
+      "choices": {},
+      "answer": "Verega täitunud õõs haavas \n Põhjused : puudulik hemostaas, hüübimishäired, mitteadekvaatne drenaaz \n Ravi: suuremad hematoomid evakueeritakse op.teel aseptilistes tingimustes Vedelat verd võib punkteerida. Evakueerimata hematoomil infitseerumise oht",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cd0ae5316a68",
+      "section": "uldkirurgia",
+      "question": "furunkel",
+      "choices": {},
+      "answer": "* follikulaarse infektsiooni levik subkutaansesse koesse\n* iseloomulik tsentraalse nekroosi kujunemine\n* nägu, selg, tuharad\n* R: AB seep, lokaalne AB, vajadusel süsteemne, abstsessi kujunemisel kirurgia",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d46d996d242a",
+      "section": "uldkirurgia",
+      "question": "flegmoon",
+      "choices": {},
+      "answer": "• Piirdumata infiltratiivselt leviv mädapõletik \n• Tekitajad nii aeroobid kui anaeroobid \n• Tüüpilised põletikusümptomid \n• Varane laialdane avamine, nekrektoomia",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "de9d4dcb5e00",
+      "section": "uldkirurgia",
+      "question": "Maliigne",
+      "choices": {},
+      "answer": "nahavähk, harv, agresiivne, valu, veritsus, lamerakk-kartsinoom, põletus, M.Marjolini",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e15b3a94cc07",
+      "section": "uldkirurgia",
+      "question": "klassi I",
+      "choices": {},
+      "answer": "puhas, inf 2% (kilpnääre, veresooned, song, ortopeedia)",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c0e6cc369574",
+      "section": "uldkirurgia",
+      "question": "klass II",
+      "choices": {},
+      "answer": "puhas-saastunud, inf 10% (GI, Gi, Resp avatud)",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e7ee9f39fc6f",
+      "section": "uldkirurgia",
+      "question": "klass IV",
+      "choices": {},
+      "answer": "reostunud/infitseerunud; inf 40%, (seedetrakti perforatsioon, abstsess - põletik, traumaatiline koos nekroosiga üle 4h)",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "67915b7e6f70",
+      "section": "uldkirurgia",
+      "question": "Ganglion",
+      "choices": {},
+      "answer": "Liigeste piirkonnas geelja sisuga täidetud tsüst",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3323bd4057fd",
+      "section": "uldkirurgia",
+      "question": "lõikehaav",
+      "choices": {},
+      "answer": "tegu on lahtise haavaga, tekitatud õhukese terava esemega, seravad on siledad ja irvakil, haavapõhi on...",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9eaba57ec918",
+      "section": "uldkirurgia",
+      "question": "raidehaav",
+      "choices": {},
+      "answer": "lahtine haav, tekitatud terava ja raske esemega löömisest või raiumisest, võib olla sügav, servad..., haavapõhi...",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "60efbfb9eee4",
+      "section": "uldkirurgia",
+      "question": "Haavandid",
+      "choices": {},
+      "answer": "1) arteriaalne\n2) venoosne\n3) neurotroofiline\n4) maliigne\n5) segatüüpi\n6) mikrobiaalne",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6cc0fa16ecdb",
+      "section": "uldkirurgia",
+      "question": "Karbunkel",
+      "choices": {},
+      "answer": "* konflueeruvad furunklid\n* laialdane nekroosiga mädapõletik, võib tungida ka läbi fastsia* kukal, selg, tuharad\n* R: laialdane kirurgiline avamine, nekrektoomia, dreneerimine, AB",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f0b79298169a",
+      "section": "uldkirurgia",
+      "question": "Impetiigo",
+      "choices": {},
+      "answer": "* pindmine mädainf\n* väikestel lastel\n* lokaliseerub näol, jäsemetel\n* R: hea hügieen, lokaalselt AB salv",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ea6b83457d20",
+      "section": "uldkirurgia",
+      "question": "klass III",
+      "choices": {},
+      "answer": "saastunud, inf 20%, (põletik - äge koletsüstiit, jämesool, lahtine luumurd, hammustus)",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "600ba4b50362",
+      "section": "uldkirurgia",
+      "question": "Kõhuvalu",
+      "choices": {},
+      "answer": "vistseraalne, parietaalne ,ekstra- abdominaalne",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5e8c77d88bd5",
+      "section": "uldkirurgia",
+      "question": "peritoniit",
+      "choices": {},
+      "answer": "kõhukelmepõletik",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6147b1b2253e",
+      "section": "uldkirurgia",
+      "question": "Tselluliit",
+      "choices": {},
+      "answer": "Naha ja nahaaluskoe infektsioon, mis iseloomustub polümorfonukleaarsete leukotsüütide infitratsiooniga, kuid mädapõletikku ei esine. Tekitajaks hemolüütiline streptokokk, S. aureus või S. epidermidis. Nahk punetav, soe turseline, mõõdukalt kõrge palavik.\n* Naha ja nahaaluskoe infektsioon\n* mittemädane\n* selge piirdumiseta punetus, turse, lokaalne temp tõus, palavik\n* R: AB",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "df111f29b338",
+      "section": "uldkirurgia",
+      "question": "Krooniline",
+      "choices": {},
+      "answer": "veresoonte kahjustus, rakuline + seroloogiline",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "497376e24526",
+      "section": "uldkirurgia",
+      "question": "Tüsistused",
+      "choices": {},
+      "answer": "Hematoom\nSeroom (pole sügavalt õmmeldud)\nHaavaservade nekroos (liigne pinge, kuiv, märg - inf)\nDehistsents (armisong)/ eventratsioon (song välja, varajane) - 4-14 p, serooshemoraagiline, \n(Haava) infektsioon (Surgical site infection, SSI) - pindmine 30p, süva 30 p kuni aasta, organi (stafülokokkus, enterokokkus, e.coli, p.aeruginosa)\nHüpertroofiline arm/keloid (piiridest välja) - fibrooskude vohab",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fcfa70d68b59",
+      "section": "uldkirurgia",
+      "question": "Haava ravi",
+      "choices": {},
+      "answer": "vältida inf, kiire pahanemine; primaarne, edasilükatud primaarne nädal, sekundaarne\nvoolav vesi 24h pärast",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "81b1846d977c",
+      "section": "uldkirurgia",
+      "question": "OctaplasLG",
+      "choices": {},
+      "answer": "Kasutatakse samamoodi kui VKP, Säilib < -18 Co 4 aastat",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f37f088cd162",
+      "section": "uldkirurgia",
+      "question": "põrutushaav",
+      "choices": {},
+      "answer": "kinnine haav, tekib põrutuse või löögi tulemusel, servad on purustatud",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e33d61e36e43",
+      "section": "uldkirurgia",
+      "question": "rebimishaav",
+      "choices": {},
+      "answer": "lahtine haav, naha liigsest rebimisest, servad ebakorrapäralised sopistunud, näha rebitud nahalapid, suur infitseerumise oht",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2d15f9f38548",
+      "section": "uldkirurgia",
+      "question": "pankreatiit",
+      "choices": {},
+      "answer": "äge kõhunäärme põletik",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a56b4b02c39a",
+      "section": "uldkirurgia",
+      "question": "Antiseptika",
+      "choices": {},
+      "answer": "Antiseptika on meetod,mille eesmärgiks on haigustekitajad haavas, naha pinnal,arsti kätel ja meditsiinilistel instrumentidel või esemetel vähendada ning võimalusel hävitada. Põhimeetod desinfitseerimine- vähendab mikroobide hulka kuid ei pruugi inaktiveerida viiruseid ja bakterite spoore.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9294dfd49a45",
+      "section": "uldkirurgia",
+      "question": "Follikuliit",
+      "choices": {},
+      "answer": "* karvafolliiklite mädapõletik\n* punased sügelevad või valulikud paapulid või mädavillid d 2-5mm\n* habe, selja ülaosa, tuharad\n* R: AB seep, lokaalselt AB",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8d831723d9a9",
+      "section": "uldkirurgia",
+      "question": "erüsiipelas",
+      "choices": {},
+      "answer": "* roospõletik\n* tselluliidi vorm\n* erütematoosne, villiline, gangrenoosne vorm\n* teravalt piirdunud minimaalselt nahapinnast kõrgem punetus, turse, valu, vappekülmaga febriilne palavik\n* R: AB\nA grupi β hemolüütiline streptokokk",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "656bc5f73b77",
+      "section": "uldkirurgia",
+      "question": "Clostridium",
+      "choices": {},
+      "answer": "Leidub jämesooles, Gram+, spoorid, põhjustab peamiselt gaasgangreeni.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0cc083ab6a2e",
+      "section": "uldkirurgia",
+      "question": "Hidradeniit",
+      "choices": {},
+      "answer": "• Higinäärmete mädapõletik \n• Stafülokokid \n• Kaenlaalune piirkond, kubeme piirkond, perineum \n• Antibakteriaalne seep, harva vajalik kirurgiline avamine",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e8d22a9c7e94",
+      "section": "uldkirurgia",
+      "question": "anaallõhe on",
+      "choices": {},
+      "answer": "fissuur",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "60a24519ed41",
+      "section": "uldkirurgia",
+      "question": "põletikuvalu",
+      "choices": {},
+      "answer": "apenditsiit, pankreatiit",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "16f67f5d901a",
+      "section": "uldkirurgia",
+      "question": "lömastushaav",
+      "choices": {},
+      "answer": "lahtine haav, tekib nt autoavariis",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4198e23c5db1",
+      "section": "uldkirurgia",
+      "question": "Kell süsteem",
+      "choices": {},
+      "answer": "• K antigeen esineb 8-9% inimestel (K+ ) \n• Tugeva immunogeensusega \n• Anti-K antikehad IgG tüüpi",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "31ea0eb65dc5",
+      "section": "uldkirurgia",
+      "question": "Coombsi test",
+      "choices": {},
+      "answer": "Praegusel ajal peetakse indirektset antiglobuliintesti (IAT) ehk kaudset Coombs`i testi, kus erütrotsüüdid on suspendeeritud madala ioontugevusega lahuses (LISS), kliiniliselt oluliste antikehade avastamisel sobivaimaks selle kiiruse, tundlikkuse ja spetsiifilisuse tõttu.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d70fa02bd7bb",
+      "section": "uldkirurgia",
+      "question": "Panariitsium",
+      "choices": {},
+      "answer": "Sõrmede ja labakäe mädapõletik \n• Stafülokokid, segainfektsioon \n• Eelnevalt sageli torkevigastus või muu haav \n• Alguses piirdunud abstsedeeruv põletik, võib kujuneda flegmoon",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "71d4f04938a3",
+      "section": "uldkirurgia",
+      "question": "Gaasgangreen",
+      "choices": {},
+      "answer": "• Clostridium perfringens (80 %), Clostridium septicum (20 %) \n• Müonekroos \n• Soodustavad faktorid: suur kudede trauma, laskevigastused, torkehaavad, vereringehäired \n• Valu, turse, krepitatsioon, lillakad laigud, hemorraagilise sisaldisega villid, septiline seisund • Diagnoos põhineb kliinilisel pildil! \n• Kiire kirurgiline ravi, AB ravi",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "623965681d1e",
+      "section": "uldkirurgia",
+      "question": "Äge kõhuvalu",
+      "choices": {},
+      "answer": "varem mittediagnoositud valu, mis on tekkinud äkki ja on kestnud vähem kui 5 päeva (tavaliselt vähem kui 48 t) Kõhuvalu, mis püsib rohkem kui 6 tundi, omab tavaliselt kirurgilist tähendust.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "54d07bc50bd7",
+      "section": "uldkirurgia",
+      "question": "v. venenatum",
+      "choices": {},
+      "answer": "mürgistushaav",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "93f17d044309",
+      "section": "uldkirurgia",
+      "question": "v. laceratum",
+      "choices": {},
+      "answer": "rebimishaav",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9a7fa94c0d00",
+      "section": "uldkirurgia",
+      "question": "äge etmoidiit",
+      "choices": {},
+      "answer": "- valu ninajuure piirkonnas, silmade vahel ja silmamuna taga\n- silmalaugude punetus ja turse\n- palavik, eritis ninast",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7233e9b49488",
+      "section": "uldkirurgia",
+      "question": "konjunktiviit",
+      "choices": {},
+      "answer": "silma sidekesta põletik, laud on kokku kleepunud eritisest, võõrkeha tunne silmas",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e0014935bc78",
+      "section": "uldkirurgia",
+      "question": "keskõrva osad",
+      "choices": {},
+      "answer": "trummiõõs, n facialis, antrum mastoideum",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "44c4272ddc5a",
+      "section": "uldkirurgia",
+      "question": "hammustushaav",
+      "choices": {},
+      "answer": "tavaliselt looma hammustuse tagajärg, lahtine haav, võib kergelt infitseeruda, servad ebakorrapärased",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c87d0ac7fbe3",
+      "section": "uldkirurgia",
+      "question": "divertikuliit",
+      "choices": {},
+      "answer": "soolesopististe põletik, esineb palavik, iiveldus, oksendamine, vasakul alakõhus valu, hellus",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "03979b73788f",
+      "section": "uldkirurgia",
+      "question": "Alexis Carrel",
+      "choices": {},
+      "answer": "Mittestenoseerivad ots-otsaga ja otsküljega veresoonte anastomoosid - kirurgilise tehnika areng organsiirdamises",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3f9f0f0237cc",
+      "section": "uldkirurgia",
+      "question": "Peritendiniit",
+      "choices": {},
+      "answer": "Kõõluseümbrise põletik",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "aa9e6a8beff7",
+      "section": "uldkirurgia",
+      "question": "Inimhammustus",
+      "choices": {},
+      "answer": "Eikenella corrodens.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "230982491bd1",
+      "section": "uldkirurgia",
+      "question": "Kasvaja levik",
+      "choices": {},
+      "answer": "Vastavalt algkoe suhtes levikule on võimalik eristada \n1) carcinoma in situ't (kasvaja on preinvasiivses staadiumis, piirdunud basaalmembraaniga, intraepiteliaane)\n2) varajast invasiivset vähki (väljunud basaalmembraani seatud piiridest, jõudnud submucosa'sse, aga mitte lihaskihti)\n3) väljendunud invasiivset vähki (kasvab veresoontesse ja lümfisoontesse). Edasi tuumor metastaseerub.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "632efa0a799d",
+      "section": "uldkirurgia",
+      "question": "Vulnus morsum",
+      "choices": {},
+      "answer": "hammustushaav",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "60ffd5179f7f",
+      "section": "uldkirurgia",
+      "question": "vaba plastika",
+      "choices": {},
+      "answer": "õhukese naha ja täisnaha - liigesed, nägu,",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b56d793af2b1",
+      "section": "uldkirurgia",
+      "question": "Lokaalne lapp",
+      "choices": {},
+      "answer": "V-Y plastika, koe ekspander",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4dc09032826c",
+      "section": "uldkirurgia",
+      "question": "Vereanalüüsid",
+      "choices": {},
+      "answer": "kliiniline veri, Na, K, Glc, kreatiniin, uurea, CRV",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e65599d2e18f",
+      "section": "uldkirurgia",
+      "question": "Vasamale nihe",
+      "choices": {},
+      "answer": "neutrofiilide tõus",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ea3873552235",
+      "section": "uldkirurgia",
+      "question": "keskkõhus valu",
+      "choices": {},
+      "answer": "peensoole põletik, gastriit, pankreatiit, mao või kaksteissõrmiksoole haavand, song",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7928d6294855",
+      "section": "uldkirurgia",
+      "question": "Jenkini reegel",
+      "choices": {},
+      "answer": "õmblusmaterjal peab olema 4x haava pikkust",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7005bfcebf4e",
+      "section": "uldkirurgia",
+      "question": "Kehri sümptoom",
+      "choices": {},
+      "answer": "diafragma ärritus (hemoperitoneum)",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4368c7acf38e",
+      "section": "uldkirurgia",
+      "question": "Sterilisatsioon",
+      "choices": {},
+      "answer": "1) kuum sterilisatsioon - autoklaav\n2) külm sterilisatsioon - Kiiritus Gamma kiirtega",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "99401a38c032",
+      "section": "uldkirurgia",
+      "question": "Krooniline haav",
+      "choices": {},
+      "answer": "- Pikenenud põletikufaas \n- Kui paraneb siis arm tavaliselt fibrootiline ja hüpertroofiline \n- Kõrgem proinflammatoorsete tsütokiniinide ja MMP tase \n- 60-80 % haavades biofilm",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a26065cccfef",
+      "section": "uldkirurgia",
+      "question": "Haava sümptomid",
+      "choices": {},
+      "answer": "Üldised : äge aneemia, shokk,infektsioon \n Lokaalsed: verejooks,valu,koedefekt",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1157992b360c",
+      "section": "uldkirurgia",
+      "question": "Kassi hammustus",
+      "choices": {},
+      "answer": "Pasteurella multocida.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "de743bcbfe14",
+      "section": "uldkirurgia",
+      "question": "Koera hammustus",
+      "choices": {},
+      "answer": "Staphylococcus intermedius.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fa8920641972",
+      "section": "uldkirurgia",
+      "question": "Virchowi triaad",
+      "choices": {},
+      "answer": "1) verevoolu aeglustumine,\n2) verehüübivuse suurenemine\n3) endoteeli kahjustus",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "236a5e6482fa",
+      "section": "uldkirurgia",
+      "question": "Murphy sümptoom",
+      "choices": {},
+      "answer": "äge koletsüstiit",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "58a8e8c17667",
+      "section": "uldkirurgia",
+      "question": "Äge pankreatiit",
+      "choices": {},
+      "answer": "Cullen, Grey-turner; seerumi amülaasi ja/või lipaasi enam kui 3x tõus",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "db37462e026b",
+      "section": "uldkirurgia",
+      "question": "Murphy sümptom",
+      "choices": {},
+      "answer": "iseloomustub kõhu paremas ülakvadrandis sügaval palpatsioonil tekkiva sissehigamise takistusena, mida täheldatakse ägeda koletsüstiidi korral",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6fb317f8d167",
+      "section": "uldkirurgia",
+      "question": "Morbus Marjolini",
+      "choices": {},
+      "answer": "Haavandist või nahakahjustusest (kroonilised, võivad aastaid ilma paranemiseta kesta) areneb pahaloomuline kasvaja",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "93a73edc30b4",
+      "section": "uldkirurgia",
+      "question": "Adjuvantteraapia",
+      "choices": {},
+      "answer": "Adjuvantteraapia - kasvajavastane lisaravi osadel patsientidel peale kuratiivset kirurgilist ravi. Adjuvantne kemoteraapia (mikrometastaaside ravi). Adjuvantne (lokaalne) radioteraapia.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1189ee7bdb12",
+      "section": "uldkirurgia",
+      "question": "v. sclopectarium",
+      "choices": {},
+      "answer": "laskehaav",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "abd7a89b457c",
+      "section": "uldkirurgia",
+      "question": "Neurotroofilised",
+      "choices": {},
+      "answer": "valutu, kiiresti tekkiv, paranemistendensite, kanna piirkonnas",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b35ff35a9325",
+      "section": "uldkirurgia",
+      "question": "perforatsioon ehk",
+      "choices": {},
+      "answer": "soolemulgustus",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "85ce2718f7ba",
+      "section": "uldkirurgia",
+      "question": "lümfangiidi puhul",
+      "choices": {},
+      "answer": "tekivad kehale punased vöödid, lümfisõlmed on valulikud ja turses",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7ddb54469bed",
+      "section": "uldkirurgia",
+      "question": "Põletiku tunnused",
+      "choices": {},
+      "answer": "Tumor, rubor, calor, dolor, functio laesa.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "644e247f9f64",
+      "section": "uldkirurgia",
+      "question": "Blumbergi sümptom",
+      "choices": {},
+      "answer": "Peritoniit",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5dd9344020d9",
+      "section": "uldkirurgia",
+      "question": "Carcinoma in situ",
+      "choices": {},
+      "answer": "kasvaja on preinvasiivses staadiumis, piirdunud basaalmembraaniga, intraepiteliaane",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "792220f1f045",
+      "section": "uldkirurgia",
+      "question": "Rovsingi sümptoom",
+      "choices": {},
+      "answer": "äge appenditsiit",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7438d9820675",
+      "section": "uldkirurgia",
+      "question": "Valu järsk algus",
+      "choices": {},
+      "answer": "iseloomulik perforeerunudseedetraktile või ruptureerunud kõhuaordi aneurüsmile",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "826ab50a7c9a",
+      "section": "uldkirurgia",
+      "question": "Rovsingi sümptom",
+      "choices": {},
+      "answer": "kõhu vasema alakvadrandi palpatsioonil tugevneb valu McBurney punktis, mis võib viidata ägedale apenditsiidile",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7e2f2e01d0ef",
+      "section": "uldkirurgia",
+      "question": "luumurru sümptomid",
+      "choices": {},
+      "answer": "valu, turse, verevalum, luudeformatsioon, ebanormaalne liikuvus",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b491bcf2c2e8",
+      "section": "uldkirurgia",
+      "question": "Antiseptika rajaja",
+      "choices": {},
+      "answer": "Lister",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9a33ae29e07f",
+      "section": "uldkirurgia",
+      "question": "Klass I puhas haav",
+      "choices": {},
+      "answer": "* kirurgiline haav\n* resp. / GI / GU trakti pole avatud\n* primaarselt suletud\n* infektsiooni risk <2%",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "edd74b39edf5",
+      "section": "uldkirurgia",
+      "question": "Neoadjuvantne ravi",
+      "choices": {},
+      "answer": "Neoadjuvantne ravi - kemo- ja/või radioteraapia enne operatsiooni. Näiteks jämesoole vähi korral adjuvantne kemoteraapia (radioteraapia pole kasutatav). Rektumi vähi korral neoadjuvantne ja adjuvantne radioteraapia.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ab13cc491a82",
+      "section": "uldkirurgia",
+      "question": "Fournieri gangreen",
+      "choices": {},
+      "answer": "• Väliste genitaalide ja perineumi piirkonna nekrotiseeriv fastsiit \n• Enamasti polümikroobne \n• Infektsiooni lähtekoht tavaliselt perianaalne piirkond või GU trakt \n• Võib levida kõhu eesseinale, reitele, perirektaalsele, gluteaalpiirkonda ja harva ka retroperitoneumi \n• Kui väljendunud peenise ja skrootumi haaratus, siis vajalik epitsüstostoomi rajamine \n• Vajadusel kolostoomi rajamine",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9937e1792f94",
+      "section": "uldkirurgia",
+      "question": "Haavade paranemine",
+      "choices": {},
+      "answer": "Hemostaas (hüüve), põletik (24h), proliferatsioon - granulatsioonkude (kollageen, angiogenees, fibroplastid), küpsemine (veesisaldus, metaboolne aktiivsus langeb, kollageen III -> I)",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fc82b0dfc81b",
+      "section": "uldkirurgia",
+      "question": "Blumbergi sümptom",
+      "choices": {},
+      "answer": "hetkeline valu tugevnemine palpatsiooni kohal,mis tekib järsul kõhuseina surve lõpetamisel . See viitab parietaalse peritoneumi põletikule. Kui see sümptom on täheldatav üle kogu kõhu saame rääkida üldperitoniidist",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9536388ed013",
+      "section": "uldkirurgia",
+      "question": "Ogilvie's sündroom",
+      "choices": {},
+      "answer": "paralüütiline käärsoole iileus ilma sulguseta\n\n-‹ teke -› metaboolsed seisundid, ravimid",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2380ce373706",
+      "section": "uldkirurgia",
+      "question": "perforatsiooni valu",
+      "choices": {},
+      "answer": "haavandi perforatsioon, peritoniit",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "674b9d43926f",
+      "section": "uldkirurgia",
+      "question": "Venoossed haavandid",
+      "choices": {},
+      "answer": "Ebaregulaarse servaga, tingitud veenihaigustest (veenide obstruktsioon), peamiselt sääre 1/3 osas (mediaalne peks), paranevad konservatiivse raviga visalt, põhjas on granulatsioonikude, ei ole valusad. Niisked.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ba5da5f3b327",
+      "section": "uldkirurgia",
+      "question": "Maliigsed haavandid",
+      "choices": {},
+      "answer": "Põhjustatud kasvajast (lamerakuline vähk). Algselt beniigsed, siis maliigsed. Iseloomustab valu, veritsus,kõrgenenud serv.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bd28d86bf51a",
+      "section": "uldkirurgia",
+      "question": "Segatüüpi haavandid",
+      "choices": {},
+      "answer": "neuropaatia + vaskulaarne kahjustus. Nt diabeetiline haavand. \nNB! Neurotroofiliste ja segatüüpi haavandite tekkes ongi oluline valu puudumine. Häiritud sensoorse tundlikkuse tõttu ei võimalda patsiendil tajuda, millal tekib survest tingitud koekahjustus ja haavand.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f2f3f96ed8ce",
+      "section": "uldkirurgia",
+      "question": "Haava serva nekroos",
+      "choices": {},
+      "answer": "Põhjused : halb õmblustehnika, vereringehäired, liigne kudede trauma, ebasobiv lõige \n Ravi: kuiva nekroosi korral hoia haav kuivalt kuni nekroos piirdub \nMärja nekroosi korral nekroos eemaldatakse edasine ravi antiseptiliste lahuste ja salviga",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7a4e77e79801",
+      "section": "uldkirurgia",
+      "question": "Hüpertroofiline arm",
+      "choices": {},
+      "answer": "Armid,mis ei ületa haava piire kuid on kõrgemad \n Sagedamini painutuspindadel, jäsemetel, rinnal, kaelal Ravi: rõhkside, laserteraapia, silikoon \"sheet\" Sil- K, reekstsisioon koos primaarse sulgemisega",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e188376ff0ea",
+      "section": "uldkirurgia",
+      "question": "Iliopsoase sümptom",
+      "choices": {},
+      "answer": "valu teke ( tugevnemine) paremal alakõhusparema puusa hüperekstensioonil (võib viidata retrotsökaalsele apenditsiidile)",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "12a9a9105ce5",
+      "section": "uldkirurgia",
+      "question": "Obturatori sümptom",
+      "choices": {},
+      "answer": "valu tekib parema painutatud puusa sisemisel rotatsioonil ( võib viidata põletikulise ussripiku vaagna lokalisatsioonile)",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9b8e020a8132",
+      "section": "uldkirurgia",
+      "question": "TNM klassifikatsioon",
+      "choices": {},
+      "answer": "T- mõõtmed ja leviku ulatus\nN- metastaaside olemasolu\nM- kaugmetastaaside olemasolu",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1836898c1526",
+      "section": "uldkirurgia",
+      "question": "Isotransplantatsioon",
+      "choices": {},
+      "answer": "- on kudede või organite ülekandmine teisele geneetiliselt identsele organismile",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "01f42d1ad59a",
+      "section": "uldkirurgia",
+      "question": "Antiseptika meetodid",
+      "choices": {},
+      "answer": "1) Mehhaaniline antiseptika - haava esmane töötlus.\n2) Füüsikaline antiseptika - füsioteraapia, hüpertoonilised lahused, dreenid.\n3) Keemiline antiseptika - antiseptilised lahused haava loputamiseks (nt kloorheksidiin)\n4) Bioloogiline antiseptika - antibiootikumide kasutamine, antitoksilised seerumid.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d7d489949c99",
+      "section": "uldkirurgia",
+      "question": "Haava õmbluse liigid",
+      "choices": {},
+      "answer": "Esmane e. primaarne õmblus (pärast esmast töötlust ) \n Edasilükatud primaarne õmblus (4-7p.) Haav jääb pärast esmast töötlust lahti, see võimaldab sekreedi vaba äravoolu, lahti jäetud haav muutub resistentseks infektsioonile \n Sekundaarne õmblus (>8p.) siin haava servade retraktsioon, vajadus enne õmblust nahaservi mobiliseerida, kui ei piisa, katta naha vabaplastikaga või nihutusplastikaga",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2a5d7c2e0d6f",
+      "section": "uldkirurgia",
+      "question": "krooniline tonsilliit",
+      "choices": {},
+      "answer": "kurgumandlite parenhüümi infeksiotoksiline kahjustus",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "349d6184242c",
+      "section": "uldkirurgia",
+      "question": "paremal ülakõhus valu",
+      "choices": {},
+      "answer": "koletsüstiit, sapikivitõbi, kopsupõletik",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a63e17a77fd9",
+      "section": "uldkirurgia",
+      "question": "vasakul ülakõhus valu",
+      "choices": {},
+      "answer": "kopsupõletik, maohaavand, pankreatiit, perinefriit",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3fc54d5a51d6",
+      "section": "uldkirurgia",
+      "question": "paremal alakõhus valu",
+      "choices": {},
+      "answer": "apenditsiit, chrohni tõbi, emakaväline rasedus",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e5e51f20e5ca",
+      "section": "uldkirurgia",
+      "question": "vasakul alakõhus valu",
+      "choices": {},
+      "answer": "divertikuliit, kõhukinnisus, pärasoole vähk, ärritatud soole sündroom",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "aa7e26d4fe2e",
+      "section": "uldkirurgia",
+      "question": "Autotransplantatsioon",
+      "choices": {},
+      "answer": "on kudede või organite tagasikandmine samale organismile",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7f504194a63f",
+      "section": "uldkirurgia",
+      "question": "Allotransplantatsioon",
+      "choices": {},
+      "answer": "on kudede või organite ülekandmine ühelt organismilt teisele sama liigi esindajale",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ab01e8a772cf",
+      "section": "uldkirurgia",
+      "question": "Haava ravi põhimõtted",
+      "choices": {},
+      "answer": "Vältida haavainfektsiooni \n Saavutada haava kiire paranemine koos funktsiooni taastumisega \nEsmane e. primaarne haava kirurgiline töötlus esimese 6 tunni jooksul. Teisene kirurgiline töötlus toimub juba infitseeritud haavas ning sellisel juhul on soovitav haav ajutiselt lahti jätta",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7301b5b272c2",
+      "section": "uldkirurgia",
+      "question": "Roospõletikku tekitab",
+      "choices": {},
+      "answer": "Streptococcus pyogenes",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "11abdfbfd6e8",
+      "section": "uldkirurgia",
+      "question": "Metastaseerimise teed",
+      "choices": {},
+      "answer": "Lümfiteede kaudu (regionaalne ja kaugsiire). \nVenoosse süsteemi kaudu. \nIntrakanalikulaarne ehk luminaalne (seroosõõntes).",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "25671b3817e8",
+      "section": "uldkirurgia",
+      "question": "ABO süsteemi avastaja",
+      "choices": {},
+      "answer": "Landsteiner",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2b287a1157e6",
+      "section": "uldkirurgia",
+      "question": "Ksenotransplantatsioon",
+      "choices": {},
+      "answer": "on kudede või organite ülekandmine ühelt organismilt teise liigi esindajale",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "401f3666c8f0",
+      "section": "uldkirurgia",
+      "question": "Doonorluse printsiibid",
+      "choices": {},
+      "answer": "elundeid ja kudesid võib eemaldada, kui surnud isik avaldas eluajal tahet loovutada surmajärgselt elundeid või kudesid siirdamiseks või puuduvad andmed selle kohta, et ta oleks olnud selle vastu",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7ab0aaf4a66d",
+      "section": "uldkirurgia",
+      "question": "Kudede regeneratsioon:",
+      "choices": {},
+      "answer": "rasvarakkude tsentrifuugimine ja tüvirakkude kasutamine",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ac2c7d9f0c5f",
+      "section": "uldkirurgia",
+      "question": "Arteriaalsed haavandid",
+      "choices": {},
+      "answer": "Tingitud arterite haigustest (ateroskleroos), mis põhjustab isheemia (toitainete ja O2 puuduse. Kuivad, teravalt makreeritud, väikesed. Granulatsioonikude puudub. Jalad on külmad. Neid iseloomustab kuiv pind - on kaetud paksu, kuiva, musta nekroosiga. Arteriaalse haavandi kahtluse korral tuleb uurida jala temperatuuri (kas on jahedam) ning palpeerida pulssi.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c2f8e71e3543",
+      "section": "uldkirurgia",
+      "question": "Täisnaha transplantaat",
+      "choices": {},
+      "answer": "Täispaks nahatransplantaat on sama paks kui doonorpind ja sisaldab kõiki kolme naha kihti. Nahatükk eemaldatakse skalpelliga ja õmmeldakse kokkuTäispaksu nahatrantsplantaati võib võtta kubemepiirkonnast, õlavarre siseküljest, kõrva tagant (näopiirkonna jaoks), ptoosi ehk silmalaugude allavaje korral ülalaugudelt, samuti supraklavikulaarselt",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c5482167ad08",
+      "section": "uldkirurgia",
+      "question": "Rh süsteemi avastamine",
+      "choices": {},
+      "answer": "1940. a. avastasid dr. Landsteiner ja Wiener Rh-faktori",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2b88cfbf5be0",
+      "section": "uldkirurgia",
+      "question": "Hüperbaarne hapnikravi",
+      "choices": {},
+      "answer": "Inhibeerib bakterite kasvu, kuid mitte toksiinide produktsiooni • Marginaalne efekt ainult klostridaalse infektsiooni korral",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "dd47fbc02db8",
+      "section": "uldkirurgia",
+      "question": "Plastikakirurgia mõiste",
+      "choices": {},
+      "answer": "kirurgia ala, mis tegeleb deformeeritud/hävinud kehaosade või kudede taastamise, parandamisega ning kasutab selleks kudede taastamise, ümberpaigutamise ja siirdamise meetodeid. T",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "687b1810fa9e",
+      "section": "uldkirurgia",
+      "question": "Mikrobiaalsed haavandid",
+      "choices": {},
+      "answer": "Põhjustajaks on infektsioon (s. aureus). Iseloomustab mäda",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e75f357044b6",
+      "section": "uldkirurgia",
+      "question": "Üldised haava sümptomid",
+      "choices": {},
+      "answer": "1) šokk\n2) aneemia\n3) infektsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8767adae1ab6",
+      "section": "uldkirurgia",
+      "question": "Haava paranemise liigid",
+      "choices": {},
+      "answer": "Haava paranemine toimub kas kudede \n1) regeneratsiooni teel, s.t. samasuguse koe moodustamise teel (epiteel, limaskest, sidekude, luud, kõõlused) või \n2) reparatsiooni teel, kus defekt asendatakse armkoega. Nii toimub parenhümatoossetes organites, vöötlihastes, ajus.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a6206c5dcee3",
+      "section": "uldkirurgia",
+      "question": "Õhukese nahalapi paksus",
+      "choices": {},
+      "answer": "0,25-0,7 mm",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ba690e01c8d1",
+      "section": "uldkirurgia",
+      "question": "Tsüklosporiini avastaja",
+      "choices": {},
+      "answer": "Jean Borel",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0c50ca5f294a",
+      "section": "uldkirurgia",
+      "question": "ABO veregrupi määramine",
+      "choices": {},
+      "answer": "1) Otsene reaktsioon \nReagentide anti-A ja anti-B abil määratakse erütrotsüüdi pinnal asuvad antigeenid \n2) Pöördreaktsioon \nStandarderütrotsüütidega määratakse uuritava vere seerumis antikehad",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0def846672a6",
+      "section": "uldkirurgia",
+      "question": "aretriaalsed, venoossed",
+      "choices": {},
+      "answer": "arteriaalsed - regulaarne, labajalal, nekrootiline põhi;\nvenoosne - ebaregulaarne, säärel, granuloosne",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e318bce64beb",
+      "section": "uldkirurgia",
+      "question": "oblitereeruv endarteriit",
+      "choices": {},
+      "answer": "jalaartereid ummistav põletik",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2e0bf496fe5a",
+      "section": "uldkirurgia",
+      "question": "Organsiirdamise eeldused",
+      "choices": {},
+      "answer": "I. kirurgilise tehnika areng \nII koe äratõukereaktsiooni väljaselgitamisele ja sellega arvestamisele \nIII immuunreaktsiooni modulleerimisoskuse omandasmisele\nIV doonorluse ja siirdamise aktsepteerimisele ühiskonnas",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "40a3cd99c7d3",
+      "section": "uldkirurgia",
+      "question": "Defekti sulgemine sõltub",
+      "choices": {},
+      "answer": "1) haavast\n2) ümbritsevate kudede seisundist\n3) vormi ja funktsiooni nõuetest",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e98c18a84a99",
+      "section": "uldkirurgia",
+      "question": "Klass III saastunud haav",
+      "choices": {},
+      "answer": "* värskelt traumaatiline haav, mis tekkinud suhteliselt puhtas kk-s\n* kirurgiline haav suure saastusega GI traktist või mittemädase põletiku esinemine\n* infektsiooni risk <20%",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d0288976bf31",
+      "section": "uldkirurgia",
+      "question": "Ägeda kõhu põhisümptomid",
+      "choices": {},
+      "answer": "1) Äkki tekkinud kõhuvalu. \n2) Soolepassaaži häired. \n3) Kiiresti halvenev üldseisund.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f689f8cf6c26",
+      "section": "uldkirurgia",
+      "question": "Graft vs Host reaktsioon",
+      "choices": {},
+      "answer": "TEKKEPÕHJUSEKS immuunkompetentsed lümfotsüütid ülekantavas veres. Ohustatud on immuunkomprimeeritud patsiendid, mis ei suuda võõraid lümfotsüüte kahjutustada. ENNETAMISEKS veretoodete kiiritamine 25 gray'se kiirgusega.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e7b7387a9f01",
+      "section": "uldkirurgia",
+      "question": "Järsku tekkinud kõhuvalu",
+      "choices": {},
+      "answer": "• Järsk algus - intraabdominaalne katastroof \nKõhuaordi aneurüsmi ruptuur \nÕõnesorgani perforatsioon \nEktoopilise raseduse ruptuur",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b4932186963a",
+      "section": "uldkirurgia",
+      "question": "Tsüklosporiini avastamine",
+      "choices": {},
+      "answer": "Siirdamise areng sai võimalikuks tänu tsüklosporiini avastamisele 1969 Hans Peter Fray ja selle immunosupressiinse toime demonstreerimisele1972.a. Jean Boreli poolt",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "53bc2957414b",
+      "section": "uldkirurgia",
+      "question": "Lokaalsed haava sümptomid",
+      "choices": {},
+      "answer": "1) verejooks \n2) valu\n3) koedefekt",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "40a47633a0ce",
+      "section": "uldkirurgia",
+      "question": "Haava paranemise protsess",
+      "choices": {},
+      "answer": "1) hemostaasi faas (hemostasis): veresoonte konstriktsioon. Protrombiin→trombiiniks ,mis konverteerib fibrinogeeni fibriiniks\n2) põletiku faas (inflammation): Neutrofiilid on esimesed migreeruvad rakud haava, järgnevad monotsüüdid, mis diferentseeruvad makrofaagideks. tsütokiinide ja kasvufaktorite vabanemine. Haava puhastumine fagotsütoosi käigus\n3) proliferatsioonifaas (proliferation): moodustub granulatsioonkude. Fibroblastid ja endoteelirakud on peamised rakud ,mis prolifereeruvad. ibroblastid sünteesivad kollageeni. Endoteelirakud moodustavad uusi kapillaare angiogeneesi protsessis\n4) haava küpsemisfaas (remodeling): Kollageen kootub. Veesisaldus haavas väheneb. Kapillaaride regressioon. Punane arm → valge arm. Peale 3 kuud haaval 80 % mittevigastatud naha tugevusest ja enam ei suurene. Lõpptulemus arm, mis vähem elastne kui normaalne nahk ei sisalda karvafolliikleid ega higinäärmeid",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "95e5e684a127",
+      "section": "uldkirurgia",
+      "question": "K + ERS mitte üle kanda :",
+      "choices": {},
+      "answer": "• Lastele \n• Fertiilses eas naistele \n• Korduvaid ülekandeid vajavatele patsientidele \n• Sensibiliseeritud patsientidele",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "831ad91da395",
+      "section": "uldkirurgia",
+      "question": "Plastikakirurgia püramiid",
+      "choices": {},
+      "answer": "Primaarne sulgemine, vaba plastika, lokaalne lapp, kauglapp, regeneratiivne meditsiin",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5b376ded221e",
+      "section": "uldkirurgia",
+      "question": "ägedale koletsüstiidile",
+      "choices": {},
+      "answer": "Ortneri sümptom",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d0974a1954ca",
+      "section": "uldkirurgia",
+      "question": "ägeda apenditsiidi ravi on",
+      "choices": {},
+      "answer": "erakorraline operatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ca8f7e16c7c8",
+      "section": "uldkirurgia",
+      "question": "Äge koe äratõukereaktsioon",
+      "choices": {},
+      "answer": "- on juhitav spetsiifiliste tsütotoksiliste T-lümfotsüütide ja mittespetsiifiliste NK T-lümfotsüütide poolt \n- nende genereerimine toimub retsipiendi organismis 5 kuni 15 päevaga \n- on tõeline rakuline koe äratõukereaktsioon -\n avaldub siirdatud organi funktsiooni languse ja üldise põletikulise reaktsioonina\n- rakuline: CD8 T-rakud MHC vastu (IV tüüpi)",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "67ee9b3b4ff7",
+      "section": "uldkirurgia",
+      "question": "Rekonstruktsiooni püramiid",
+      "choices": {},
+      "answer": "1) Primaarne sulgemine\n2) Vaba plastika\n3) Koeekspander\n4) Paikne lapp\n5) Kauglapp\n6) Kudede regeneratsioon tüvirakkudega",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "18fc8f867854",
+      "section": "uldkirurgia",
+      "question": "Sepsise tüsistused (EKSAM)",
+      "choices": {},
+      "answer": "1) Septiline shokk\n2) hulgiorganpuudulikkus \n3) äge endotoksiline metaboolne ensefalopaatia.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "11589957ae0f",
+      "section": "uldkirurgia",
+      "question": "Värskelt külmutatud plasma",
+      "choices": {},
+      "answer": "Sisaldab hüübimisfaktoreid, fibrinolüüsi-ensüüme ja nende inhibiitoreid aktiivses vormis",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d1872c6510f3",
+      "section": "uldkirurgia",
+      "question": "haavandi ja erosiooni vahe",
+      "choices": {},
+      "answer": "haavand läbib tunica muscularis mucosae, erosioon on rohkem pindmisem defekt (ei läbi seda)",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4a0de920693d",
+      "section": "uldkirurgia",
+      "question": "peritoniidi kliiniline pilt",
+      "choices": {},
+      "answer": "palavik, kuiv keel, valu, hingeldus",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4736ae91055b",
+      "section": "uldkirurgia",
+      "question": "Haava paranemise tüsistused",
+      "choices": {},
+      "answer": "Seroom \n Hematoom \n Haava serva nekroos \n Haava dehistsents, eventratsioon \n Infektsioon haavas (mädase eritise esinemine haavas) Hüpertroofiline arm \n Keloid",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "813f482882bc",
+      "section": "uldkirurgia",
+      "question": "Klass IV infitseerunud haav",
+      "choices": {},
+      "answer": "* traumaatiline haav koe nekroosiga\n* eelnev infektsioon\n* seedetrakti perforatsioon\n* infektsiooni risk 40%",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1797aa111872",
+      "section": "uldkirurgia",
+      "question": "Haavainfektsiooni sümptomid",
+      "choices": {},
+      "answer": "Punetus \n Turse \n Valulikkus (palpatoorne) \n Temperatuuri tõus, põletikumarkerite tõus",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "479a76b8ba56",
+      "section": "uldkirurgia",
+      "question": "Mittespetsiifiline kõhuvalu",
+      "choices": {},
+      "answer": "Tingitud mitteorgaanilistest põhjustest ja on iseeneslikult mööduv. Diagnoositav alles siis, kui kirurgilised, günekoloogilised jt orgaanilised haigused on välistatud. Tavaliselt on valu taga diagnoosimata viirusinfektsioonid ja kerged bakteriaalsed infektsioonid, psühhosomaatiline valu, helmintoosid.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8a8be7cee0c0",
+      "section": "uldkirurgia",
+      "question": "Haavandite klassifikatsioon",
+      "choices": {},
+      "answer": "aretriaalsed, venoossed, neurotroofilised, segatüüpi, mikrobiaalsed, maliigsed",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f19bc24c1147",
+      "section": "uldkirurgia",
+      "question": "Kassihammus, koera, inimese",
+      "choices": {},
+      "answer": "pasteurella multosiida, stafülokokkus intermedius, eikenella korrodens",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "06648175c9d0",
+      "section": "uldkirurgia",
+      "question": "luumurru paranemist takistab",
+      "choices": {},
+      "answer": "aneemia, diabeet, avitaminoos, emotsionaalne labiilsus",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cf07c6d94143",
+      "section": "uldkirurgia",
+      "question": "pankreatiidi kliiniline pilt",
+      "choices": {},
+      "answer": "vöökujuline valu, oksendamine, eelnenud suur söömine või joomine, kõhukinnisus",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "509fed4615d0",
+      "section": "uldkirurgia",
+      "question": "Steriliseerimine autoklaavis",
+      "choices": {},
+      "answer": "Autoklaav on kamber, kus õhk on asendatav puhta küllastatud auruga rõhu all. Õhk eemaldatakse enne auru lisamist või autoklaavi all asub klapp, kust õhk järjest väljub (klapp sulgub, kui kõik õhk on väljas). Autoklaavimise efektiivsus sõltub sellest, kas kogu õhk on eelnevalt välja pumbatud, veeauru küllastatusest ning sellest, kui sügavale esemesiseste pragude/eseme osade vahele saab aur tungida. Kuuma veeauru kasutamine on tõhusam kui kuiv kuumus, sest reaktiivsed veemolekulid denatureeruvad valke pöördumatult, lõhkudes vesiniksidemeid peptiidrühmade vahel ka suhteliselt madalal temperatuuril.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2770c24ff620",
+      "section": "uldkirurgia",
+      "question": "Haavainfektsiooni liigid (2)",
+      "choices": {},
+      "answer": "Pindmine haavainfektsioon - infektsioon piirdub naha ja nahaaluse koega; esinevad põletikunähud haavas ja mädaeritus haavakanali pindmisest osast. \nSüva haavainfektsioon - infektsioon haarab sügavad pehmed koed (fastsiad, lihased), esineb mädaeritus haavakanalist või abstsess haavakanali sügavamas osas. Sageli süsteemsed nähud.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f4df85b49515",
+      "section": "uldkirurgia",
+      "question": "Adjuvantne ravi kasvajaravis",
+      "choices": {},
+      "answer": "Kasvajavastane lisaravi, mida kasutatakse osadel patsientisel peale kuratiivset kirurgilist ravi (radio- või kemoteraapia). Neo-adjuvantne ravi - keemia- või radioteraapia enne operatsiooni.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0ee210ec5338",
+      "section": "uldkirurgia",
+      "question": "Äge hemolüütiline reaktsioon",
+      "choices": {},
+      "answer": "PÕHJUSEKS on patsiendi antikehade reageerimine ülekantavate erütrotsüütide antigeenidega. Reaktsioon ilmneb ülekande ajal või mõni tund pärast seda. Anti-A ja anti-B IgM reageerimisel A- ja B-antigeenidega aktiveerub komplement ning toimub intravaskulaarne hemolüüs. IgG põhjustavad enamasti ekstravasaalset hemolüüsi.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ad2705111167",
+      "section": "uldkirurgia",
+      "question": "immuunreaktsiooni mõjutamine",
+      "choices": {},
+      "answer": "Retsipiendi immuunsüsteemi eelnev\nväljaselgitamine ja maksimaalne sobitamine\ndoonori immuunsüsteemiga - HLA; ravimid - immunosupressandid",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fbc7923ff18f",
+      "section": "uldkirurgia",
+      "question": "Verekomponentide kiiritamine",
+      "choices": {},
+      "answer": "Võib tekkida „transplantaat-peremehe vastu\" („graft versus host\")\nreaktsioon, inaktiveerib lümfotsüüdid,",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e1dab925f06a",
+      "section": "uldkirurgia",
+      "question": "ägeda pankreatiidiga patsient",
+      "choices": {},
+      "answer": "oksendab alati",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ed7aab832232",
+      "section": "uldkirurgia",
+      "question": "kiiritusproktiit võib tekkida",
+      "choices": {},
+      "answer": "seedetrakti alaosa verejooksu korral",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b082ba1e29d3",
+      "section": "uldkirurgia",
+      "question": "Ortotroopne transplantatsioon",
+      "choices": {},
+      "answer": "on doonororgani siirdamine retsipiendi eemaldatud organi asemele",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "98fc9fbed16d",
+      "section": "uldkirurgia",
+      "question": "Üliäge koe äratõukereaktsioon",
+      "choices": {},
+      "answer": "- võib tekkida eelnevalt sensibiliseeritud retsipiendil: retsipiendil on olemas IgM tüüpi antikehad võõra HLA vastu (II tüüpi reaktsioon)\n- toimub reaktsioon retsipiendi tsütotoksiliste antikehade ja transplantaadi antigeense struktuuri vahel - on spetsiifiline seroloogiline äratõukereaktsioon \n- siirdatud organ hävitatakse minutite kuni tundidega - veresooned tromboseeruvad",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ceaae95b0f8b",
+      "section": "uldkirurgia",
+      "question": "Klass II puhas-saastunud haav",
+      "choices": {},
+      "answer": "* kirurgiline haav\n* resp / GI / GU trakt avatud kontrollitud tingimustes, kuid saastust ei esinunud\n* infektsiooni risk <10%",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bc5cefc51b4b",
+      "section": "uldkirurgia",
+      "question": "Keloid ja hüpertroofiline arm",
+      "choices": {},
+      "answer": "* Kollageeni sünteesi ja lammutamise vaheline düsbalanss\n* Kosmeetiline defekt ja funktsioonihäire\n* Esinevad ainult inimestel",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "558ac4b920a0",
+      "section": "uldkirurgia",
+      "question": "Rh süsteemis on ... antigeeni",
+      "choices": {},
+      "answer": "Rh süsteemis on 6 erinevat antigeeni: Cc, Dd, Ee (tegelikult d-antigeen tähendab lihtsalt seda, et D-antigeeni pole). Emalt saadakse 3 ja isalt samuti 3 antigeeni. Kromosoomis on antigeenid kõrvuti, päranduvad aheldatult, kui üks ühik. Rh antigeenid on IgG.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "69f01cc54891",
+      "section": "uldkirurgia",
+      "question": "Nekrotiseerivad infektsioonid",
+      "choices": {},
+      "answer": "Nekrotiseeriv tselluliit - ei haara lihast\n Nekrotiseeriv fastsiit - monomikrobiaalne, polümikrobiaalne (aeroobid, anaeroobid - perifringes hüperbaarne O2 ravi pärast), pesuvedelik, \nFournier gangreen - väliste genitaalide ja perineumi piirkonnanekrotiseeriv fastsiit, polümikr, \nNekrotiseeriv müosiit - lihas;\ngaasgangreen - c. perfringens, müonekroos",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2c95ffd163c7",
+      "section": "uldkirurgia",
+      "question": "Haava paranemine esmaspingsalt",
+      "choices": {},
+      "answer": "* Enamasti kirurgiline haav\n* Haavaservad lähendatud\n* Paranemine toimub ilma tüsistusteta\n* Sidekoe moodustumine\n* Haava kontraktsiooni ei esine\n* Minimaalne epitelisatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "67d4c48d28f3",
+      "section": "uldkirurgia",
+      "question": "Paranemise I faas - mis rakud?",
+      "choices": {},
+      "answer": "Neutrofiilid + monotsüüdid (→ makrofaagid).",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b226c916a328",
+      "section": "uldkirurgia",
+      "question": "Õmblusmaterjali jaotus (EKSAM)",
+      "choices": {},
+      "answer": "• Resorbeeruvad ja mitteresorbeeruvad \n• Mono- ja polüvilamendid \n• Ligatuur- ja õmblusniidid \n• Naturaalsed ja sünteetilised",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7d7747a98ff1",
+      "section": "uldkirurgia",
+      "question": "mis on haavandi penetratsioon?",
+      "choices": {},
+      "answer": "perforatsiooni variant, kus haavand mulgustub naaberorganisse (mitte vabasse kõhuõõnde)\n\n-› nt maksa, rasvikusse jms",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1df467351bd9",
+      "section": "uldkirurgia",
+      "question": "Kolangiit - diagnostika + ravi",
+      "choices": {},
+      "answer": "KOLEDOHHOLITIAAS\n- ühissapijuhakivitõbi\n- kivid:\n 1) primaarkivid (de novo tekkega ühissapijuhas)\n\n 2) sekundaarkivid (pärinevad sapipõiest)\n\nKOLANGIIT\n-› kui lisandub infektsioon\n- sümptomid:\n 1) Charcot triaad (valu paremal roidekaare all, palavik, ikterus) + Reynolds pentaad (Charcot triaad + šokk ja segasus)\n\nRAVI\n1) üldine toetav ravi, AB\n2) sapidrenaaž (kui ei lahene konservatiivselt )\n3) ERCP (kivide eemaldamiseks)\n4) laparoskoopiline koletsüstektoomia (kui pt-l sapipõis veel alles) - retsidiivi vältimiseks",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "db27efd7a08a",
+      "section": "uldkirurgia",
+      "question": "Anaallõhe - diagnostika + ravi",
+      "choices": {},
+      "answer": "ANAALLÕHE (anaalfissuur)\n- anaalkanali limaskesta defekt linea dentata-st distaalsemal (väljaspool)\n\n- esineb sagedamini just noortel ja keskealistel\n\n- areneb defekatsioonil tekkinud pindmisest rebendist -› seesmine sfinkter on kõrge toonusega -› takistab rebendi paranemist\n\n- sümptomid: väga terav valu defekatsiooni ajal ja pärast defekatsiooni -› hirm seoses defekatsiooniga, heleda vere eritus\n\nDIAGNOSTIKA\n1) kliinilise pildi ja vaatluse alusel\n2) võimalusel teha rektaalne palpatsioon + anoskoopia\n\nRAVI - ägedas faasis\n1) konservatiivne ravi\n - soe istevann\n - lokaalsed anesteetikumid\n\nRAVI - kroonilises faasis\n1) keemiline sfinkterotoomia\n - nitroglütseriinsalv\n - diltiaseemsalv\n - botoxi süstimine\n\n2) kirurgiline sfinkterotoomia\n - seesmine sfinkterotoomia koos või ilma fissuuri ekstsisioonita",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "44c44fb90ade",
+      "section": "uldkirurgia",
+      "question": "heterotroopne transplantatsioon",
+      "choices": {},
+      "answer": "- on doonororgani alternatiivse lokalisatsiooniga siirdamine retsipiendile",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2cffa41e7a67",
+      "section": "uldkirurgia",
+      "question": "Haava paranemine teisaspingsalt",
+      "choices": {},
+      "answer": "* Lahtised haavad\n* Granulatsioonkoe moodustumine\n* Haava kontraktsioon\n* Epiteelirakkude migreerumine",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "23d0e1d172a9",
+      "section": "uldkirurgia",
+      "question": "Sepsise ravi põhimõtted (EKSAM)",
+      "choices": {},
+      "answer": "1) Infektsiooni allika kontroll\n2) antimikrobiaalne teraapia\n3) hemodünaamika toetamine\n4) organtoetus (kunstlik ventilatsioon, dialüüs), \n5) rahustid/analgeesia vajadusel, adekvaatne toitmine.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "52f9cda1cb49",
+      "section": "uldkirurgia",
+      "question": "Hiline hemolüütiline reaktsioon",
+      "choices": {},
+      "answer": "Kord tekkinud alloantikehade tiiter võib aja jooksul langeda ja mitte enam sõeltesti või sobivusprooviga määratav olla. Sensibiliseerumine võib toimuda eelnevate raseduste või vereülekannete tagajärjel. Uue antigeeni lisandumise korral tekivad uued antikehad ja see võtab aega. Kui antikehade tiiter on piisav, saabub reaktsioon. Ilmneb 24h kuni 14p hiljem.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d9a7aea93ff3",
+      "section": "uldkirurgia",
+      "question": "mis on haavandi fistuleerumine?",
+      "choices": {},
+      "answer": "perforatsiooni variant, kus haavand mulgustub naabruses olevasse õõnesorganisse\n\n-› nt jämesoolde",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d9f0fe825ccf",
+      "section": "uldkirurgia",
+      "question": "sekundaarse peritoniidi põhjused",
+      "choices": {},
+      "answer": "põletik, perforatsioon, vigastus, vereringehäire",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "95651b28b93e",
+      "section": "uldkirurgia",
+      "question": "Rinnanäärme plastika näidustused",
+      "choices": {},
+      "answer": "1) kaasasündinud: Polandi sündroom (üks rind väiksem), polümastia, günekomastia, torujad rinnad, asümmeetria\n2) Rindade hüpertroofia\n3) Trauma\n4) Infektsioon\n5) Kasvajad\n6) lõtvus",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "19f053d64a1e",
+      "section": "uldkirurgia",
+      "question": "Pestud erütrotsüüdid suspensioon",
+      "choices": {},
+      "answer": "2-6 kraadi, 24h",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e0e4cba91f9f",
+      "section": "uldkirurgia",
+      "question": "Värskelt külmutatud plasma - VKP",
+      "choices": {},
+      "answer": "Sisaldab hüübimisfaktoreid, fibrinolüüsi-ensüüme ja nende inhibiitoreid aktiivses vormis; -25kraadi 3a; -18 kuni -25 3kuud; AB - plasma",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "01973dd41ef7",
+      "section": "uldkirurgia",
+      "question": "Kolelitiaas - diagnostika + ravi",
+      "choices": {},
+      "answer": "KOLELITIAAS\n- ehk sapikivitõbi\n\n- kivid:\n 1) kolesteroolikivid (10%)\n 2) pigmentkivid (10%)\n 3) segakivid (80%)\n\nKLIINILINE PILT\n- sapikoolik (episoodiline valu ülakõhus/parema roidekaare all -› kiirgab paremale selga või õlga)\n\n- iiveldus, oksendamine (just peale rasvase toidu söömist ja öösiti)\n\n- palavik (ainult kaasneva infektsiooni korral)\n\n- ikterus (sapi staasist)\n\n- positiivne Murphy (valu paremal subkostaalsel palpeerides ja sissehingates) ja Ortner (valu perkuteerides)\n\n- analüüsides tõusnud bilirubiin ja ALP (aluseline fosfataas)\n\nDIAGNOSTIKA\n1) UH (valikmeetod)\n - visualiseerib kõiki kivitüüpe\n - saab näha sapipõie seina paksust, kive põie sees\n\n2) KT\n - näeb ainult pigmentkive\n\n3) MRCP\n - kõige tundlikum sapiteid visualiseeriv uuring (kuid pole kättesaadav ning on kallis)\n\n4) ERCP\n - kasutatakse kui plaanis uuringuga samaaegselt rakendada ravivõtteid (kivide purustus jms)\n - minnakse suust sisse duodenumisse -› papilla vateri -› sealt süstitakse sisse kontrasti ja visualiseeruvad sapiteed",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d59a876dd204",
+      "section": "uldkirurgia",
+      "question": "Krooniline koe äratõukereaktsioon",
+      "choices": {},
+      "answer": "- on aeglane protsess, mis kliiniliselt väljenduselt ulatub tagasihoidlikest sümptoomidest kuni kroonilise transplantaadi puudulikkuseni \n- mikroskoopiliselt pakseneb organi veresoonte sein kuni sulguseni, parenhüümi rakud hävivad ja vohab fibrooskude \n- siin toimib nii rakuline kui seroloogiline (antikehade poolt juhitav) spetsiifiline äratõukereaktsioon\n- väikeste arterite skleroseerumine, ahenemine, koe fibroseerumine",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a4c3403790da",
+      "section": "uldkirurgia",
+      "question": "Nahatransplanteerimise põhimõtted",
+      "choices": {},
+      "answer": "1) siirdeala peab olema piisava verevarustusega;\n2) siirdeala ja siiriku vahel peab olema täielik kontakt;\n3) siirdatud ala peab olema paranemise ajal täielikult immobiliseeritud;\n4) siirdamissängis peab olema suhteliselt vähe baktereid.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a4b7e23051af",
+      "section": "uldkirurgia",
+      "question": "Alloantikehad ehk immunoantikehad",
+      "choices": {},
+      "answer": "- tekivad immuunvastusena võõra antigeeni sattumisel organismi • vereülekande järgselt • raseduse / sünnituse ajal loote erütrotsüütide sattumisel ema vereringesse \n• IgG tüüpi \n• väiksem molekulmass \n• läbivad platsentat \n• annavad kaitse infektsioonide vastu •\n aktiivne transport algab teisel rasedustrimestril ja kestab kuni sünnini \n• aktiivsed +37Co juures",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ec0a1d383174",
+      "section": "uldkirurgia",
+      "question": "Moore` postoperatiivsed perioodid",
+      "choices": {},
+      "answer": "IIfaas - traumafaas, kataboolne periood 2...7 päeva. Sõltub operatsiooni mahust. Rakumass väheneb (muskulatuuri arvelt), jõuetus, nõrkus, väsimus, unisus, immobilisatsioon, peristaltika puudumine (operatsioonid kõhukoopas), temperatuuri tõus, pulsisageduse tõus.\n II faas - pöördepunkt/üleminekufaas 2...3 nädal. Söögiisu tõuseb, suureneb huvi ümbritseva vastu, peristaltika taastub, pulss ja temperatuur normaliseerub. IIII faas - anaboolne faas e. paranemise periood (3...10 nädal). Söögiisu suureneb, lihasmass taastub. \nIV faas - rasvadepoode taastumine (päevi, kuid, sageli koduse ravi käigus).",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f31c015e01ee",
+      "section": "uldkirurgia",
+      "question": "Organstansplatatsiooni võimalused",
+      "choices": {},
+      "answer": "Auto, iso, allo, kseno; orto - hetero",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e5e385143fe7",
+      "section": "uldkirurgia",
+      "question": "Trombotsüütide kontsentraat - TRK",
+      "choices": {},
+      "answer": "BC-TRK, Afereesi-TRK; +20-+24 kraadi, nädal loksudes,",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "acd1947236c5",
+      "section": "uldkirurgia",
+      "question": "Rinna rekonstruktsiooni võimalused",
+      "choices": {},
+      "answer": "1) Protees - rind on taastatud püsiimplantaadiga. Eeldusel, et rind on väike\n2) Koevenitusekspander\n3) jalamilapid: LD (latissimus dorsi), TRAM (m.rectus abdominis)\n4) mikrovaskulaarsed lapid - DIEP - a. epigastrica inferior profunda (perforator flap) ja SIEA - a. epigastrica inferior superficialis. Võetakse veresoont, nahka, rasva - ilma lihaseta.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "55a0cf8524c0",
+      "section": "uldkirurgia",
+      "question": "MIllise haava põhjustavad leelised",
+      "choices": {},
+      "answer": "- põhjustavad kollikvatsiooni nekroosi,valkjas,klaasjas sügavale ulatuv kudede veeldumine",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "560338e8cd84",
+      "section": "uldkirurgia",
+      "question": "Haava dehistsents ja eventratsioon",
+      "choices": {},
+      "answer": "Dehistsents - osaline või täielik haava lahtiminek\n* Varajane fastsia dehistsents → eventratsioon\n* Hiline fastsia dehistsents → armisong\n* Tehnilised faktorid, patsiendi poolsed riskifaktorid, kõrge vanus, meessugu, KOK, astsiit, aneemia, erakorraline operatsioon, haava infektsioon\n\n Eventratsioon - kui prolabeeruvad haavast kõhukoopa elundid \n Põhjused: nõrk armkoe teke haavas,õmblustehnika vead, postop köhimine oksendamine soodustab adipoossus, infektsioon haavas \n Ravi: haava revisioon nekroosi eemaldamiseks, uus õmblus eventratsiooni korral",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a2bc6766dd1c",
+      "section": "uldkirurgia",
+      "question": "Transfusioonijärgne septiline šokk",
+      "choices": {},
+      "answer": "PÕHJUSTAB bakteriaalne verepreparaadi saastumine, mis võib juhtuda doonori bakterieemia või doonori nahalt mikroorgansmidega saastumisel. Kõik bakteriaalsed kasvud ei anna kliinilist väljundit, kuna osa baktereid ei põhjusta sümptomeid, või baktereid võib olla liiga vähe. Reaktsiooni modifitseerivad ka patsiendile antavad ravimid. Erütrotsüütide suspensiooni võivad saastada Yersinia enterocolica (50%) ja Pseudomonas fluorescens (27%). Gram-negatiivsete bakterite lagunemisel vabanevad endotoksiinid, mis põhjustavad kogu sümptomaatikat.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ed92debc57c6",
+      "section": "uldkirurgia",
+      "question": "süva SSI (surgical site infection)",
+      "choices": {},
+      "answer": "• Tekib 30 päeva jooksul pärast operatsiooni või aasta jookul, juhul kui kasutati võõrkeha \n• Haarab fastsiat, lihaseid \n• Mädane eritus \n• Haava dehistsents, palavik ja/või lokaliseerunud valu \n• Abstsess või muu infektsioonitunnus",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "463b372f9ae0",
+      "section": "uldkirurgia",
+      "question": "Mittenekrotiseeruvad infektsioonid",
+      "choices": {},
+      "answer": "impetiigo, tselluliit, erüsiipelas, abstsess, karbunkel, furunkel",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a41fcdd1cef3",
+      "section": "uldkirurgia",
+      "question": "Antibiootikumravi põhimõte (EKSAM)",
+      "choices": {},
+      "answer": "1. Toimib tõenäolistele infektsioonitekitajatele \n2. Saadakse piisavad kontsentratsioonid opereeritavates kudedes \n3. Vähe kõrvaltoimeid \n4. Hinnalt mõõdukas \n5. Ei kuulu septiliste infektsioonide raviks kasutusel olevate laia toimespektriga ravimite hulka",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "beb7b6dcaf2a",
+      "section": "uldkirurgia",
+      "question": "Organtransplatatsiooni näidustused",
+      "choices": {},
+      "answer": "Maks - C-hepatiit, maksakartsioom, äge puudulikkus - parakas",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "48f9b13310b6",
+      "section": "uldkirurgia",
+      "question": "Mittenekrotiseerivad infektsioonid",
+      "choices": {},
+      "answer": "tselluliit - aureus, pyogenes , erüsiipelas/ roos -selge piir ja kõrgeb A klassi beetahemolüütiline steptokokk erütematoosne (tavaliseim), Villiline, Gangrenoosne; erüsipeloid - sõrmed, \nImpetiigo - pindmine mädane\nFollikuliit - 2-5mm\nfurunkel - subkutaansesse mädane\nkarbunkel - laatuvad furunklid, neroosiga, fastiasse, dreneerimine\nAbstess - piirdunud mädapõletik, intsisioon ja dreneerimine\nFlegmoon - piirdumata mädapõletik (aeroobid, anaeroobid)\nLümfangiit- soonte\nLümfadeniit - sõlme \nHidradeniit - higinäärmed\nPanariitsium - sõrmed, labakäsi\nMastiit - piimajuha\nOsteomüeliit - luupõletik",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7788f45f0330",
+      "section": "uldkirurgia",
+      "question": "Pülorostenoos - diagnostika + ravi",
+      "choices": {},
+      "answer": "PÜLOROSTENOOS\n- tekib kauakestnud haavandtõve korral\n- tüübid:\n 1) funktsionaalse läbimatusega stenoos\n - haavandi ägenemise korral (turse, spasm)\n - võib olla ajutine\n\n 2) orgaanilise läbimatusega stenoos\n - tekkinud on sidekoeline armistumine (korduvad haavandi ägenemised)\n - valendik ei taasta oma läbitavust\n\n\nDIAGNOSTIKA\n1) haiguse anamnees\n\n2) endoskoopiline uuring\n - näha toidujääke, maovoltide lamenemist\n - näha püloruse stenoosi, gastroskoop ei läbi\n - biopsia võtmise võimalus maliigsuse kahtlusel (vähemalt 8)\n\n3) röntgen (tühiülesvõte kontrastainega)\n - magu ületäitunud, täis kontrastainet\n\n\nRAVI\n1) konservatiivne ravi\n - nädala vältel\n - PPI (haavandi ravi)\n - nasogastraalaspiratsioon (mao dekompressioon)\n - toitmine (enteraalselt sondiga/parenteraalselt)\n\n-› nädala pärast tuleb teha otsus (kas lahenes või vajab kirurgilist käsitlust)\n\n2) endoskoopiline ravi\n - balloondilatatsioon\n\n3) kirurgiline ravi\n - vagotoomia + dreneeriv operatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "850331dfa36c",
+      "section": "uldkirurgia",
+      "question": "abstsessi põhjused paremal alakõhus",
+      "choices": {},
+      "answer": "apenditsiit, haavandi perforatsioon, regionaalne enteriit",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f79a7d5bff8e",
+      "section": "uldkirurgia",
+      "question": "abstsessi põhjused vasakul alakõhus",
+      "choices": {},
+      "answer": "divertikuliit, haavandiline koliit",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "756d27c9dd96",
+      "section": "uldkirurgia",
+      "question": "kollikvatsiooninekroosi põhjustavad",
+      "choices": {},
+      "answer": "leelised",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "441d2947fc0d",
+      "section": "uldkirurgia",
+      "question": "Rekonstruktsiooni püramiid: kauglapp",
+      "choices": {},
+      "answer": "vaskulariseeritud koe ülekanne, puudub baas, kasutatakse kui lokaalsete kudedega pole võimalik defekti sulgeda",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "42003e7099dc",
+      "section": "uldkirurgia",
+      "question": "Koe äratõukereaktsioon, hüperakuutne",
+      "choices": {},
+      "answer": "ak olemas, minutid kuni tunnid; organi hävitamine, seroloogiline ag-ak",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8d1ff9d92c89",
+      "section": "uldkirurgia",
+      "question": "oblitereeruvat endarteriiti soodustab",
+      "choices": {},
+      "answer": "suitsetamine",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4df760ce8da4",
+      "section": "uldkirurgia",
+      "question": "Ägeda kõhukoopa kirurgilised haigused",
+      "choices": {},
+      "answer": "- kõhukoopa organite põletikud \n- Õõnesorganite perforatsioonid \n- Haigused, mis on seotud peristalteeruva organi valendiku sulgusega \n- Kõhukoopa organite vereringe häirega kulgevad haigused \n- Verejooksud seedetrakti või ka kõhukoopasse",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3869bd6dc15d",
+      "section": "uldkirurgia",
+      "question": "Kardia akalaasia - diagnostika + ravi",
+      "choices": {},
+      "answer": "KARDIA AKALAASIA\n- tegemist söögitoru motoorika häirega, mille korral ringlihased ei kontrakteeru korralikult ja söögitoru alumine sfinkter ei suuda enam lõõgastuda\n- põhjus: AIH, närvirakkude degen. (tegelikkuses teadmata)\n\n- peamiseks sümptomiks neelamisraskus (düsfaagia)\n- jagatakse tüüp 1-3 (3 raskeim)\n\n\nDIAGNOSTIKA\n1) endoskoopia\n - näha spastilist laienenud söögitoru alaosa\n - saame välistada mehaanilise takistuse (nt kasvaja)\n\n2) söögitoru manomeetria\n - jälgida söögitoru peristaltikat (puudub)\n\n3) ösofagramm\n - patsient neelab kontrasti (baarium) ja röntgenis vaadatakse videost\n - linnunoka kontuur (lehtritaoline kitsenemine), lainenenud söögitoru\n\n\nRAVI\n- eesmärgiks sulgurlihast lõõgastada (rõhku langetada)\n\n1) medikamentoosne ravi\n - Ca-kanali blokaatorid (nifedipiin)\n - nitraadid\n\n2) endoskoopiline ravi\n - söögitoru alumise osa dilatatsioon ballooniga\n - botoxi süstid alumisse sulgurlihasesse\n\n3) kirurgiline ravi\n - ösofagaalne müotoomia (lõigatakse läbi liigselt jäigastunud lihased):\n a) POEM (peroraalne endoskoopiline müotoomia)\n b) Helleri müotoomia (laparoskoopiliselt) -› lõigatakse läbi kõik lihased kuni limaskestani, valikmeetod",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d78e8ea52bf0",
+      "section": "uldkirurgia",
+      "question": "Äge koletsüstiit - diagnostika + ravi",
+      "choices": {},
+      "answer": "ÄGE KOLETSÜSTIIT\n- sapipõie äge põletik (tekib sapikivitõve tüsistusena)\n\nSÜMPTOMID\n- püsiv (›6h) valu paremal roidekaare all või ülakõhus -› kiirgab paremale selga/õlga\n- iiveldus, oksendamine\n- palavik\n\nDIAGNOSTIKA\n1) testid\n - Murphy (palpeerides paremal roietel valu)\n - Ortner (perkussioon valus)\n\n2) UH\n - sapipõie seina paksus ›3cm\n - turse sapipõie ümber\n\nRAVI\n1) üldine toetav ravi, AB\n2) laparoskoopiline koletsüstektoomia",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f2ca8358ef99",
+      "section": "uldkirurgia",
+      "question": "Pilonidaalsiinus - diagnostika + ravi",
+      "choices": {},
+      "answer": "PILONIDAALSIINUS\n- nahapinnast madalam ägeda/kroonilise korduva abstsessi lahenemisel tekkiv siinus perianaal/sakraalpiirkonnas\n\n- esineb pigem nooremas eas (tihedama karvakasvuga meestel)\n\nkarvafolliikulid infitseeruvad -› tekib obstruktsioon ja põletik -› põletikukolle avaneb subkutaansesse koesse -› tekib abstsess\n\nDIAGNOSTIKA\n1) kliinilise pildi alusel\n2) vajadusel UH, KT või MRT\n\nRAVI\nägeda abstsessi ravi:\n1) kirurgiline puhastus ja drenaaž + AB\n\nkorduvalt infitseeruv siinus:\n1) kirurgiline likvideerimine (tsüst eemaldatakse)",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "beda22787daf",
+      "section": "uldkirurgia",
+      "question": "haavandi perforatsiooni tüsistuseks on",
+      "choices": {},
+      "answer": "sekundaarne peritoniit",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "370ae77c14df",
+      "section": "uldkirurgia",
+      "question": "Neurotroofiline ehk troofiline haavand",
+      "choices": {},
+      "answer": "Tekkes on oluline närvikahjustus (häiritud perifeerne tundlikkus, tekivad seal, kus on pidevalt surve). Niisugused haavandid tekivad kiiresti ning neil pole paranemistendentsi. Nekroos puudub, kuid haavandid armistuvad tugevasti, granulatsioonkude on väga vähene või puudub hoopiski. Lokaliseerub enamasti kanna ja labajala juures. Valutu",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "afbaacc6de46",
+      "section": "uldkirurgia",
+      "question": "Organtransplantatsiooni põhiprobleemid",
+      "choices": {},
+      "answer": "1) Hüperakuutne koe äratõukereaktsioon - eelnevalt sensibiliseerunud retsipient. Mõni tund\n2) Akuutne - on juhitav spetsiifiliste tsütotoksiliste T-lümfotsüütide ja mittespetsiifiliste NK T-lümfotsüütide poolt, 5-15 päeva\n3) Krooniline - mikroskoopiliselt pakseneb organi veresoonte sein kuni sulguseni, parenhüümi rakud hävivad ja vohab fibrooskude, kuud kuni aastad",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2b922cec5348",
+      "section": "uldkirurgia",
+      "question": "Milliseid haavasid põhjustavad happed?",
+      "choices": {},
+      "answer": "Happed- põhjustavad valuliku tiheda kuiva koorikuga koagulatsiooni nekroosi",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c18577e83809",
+      "section": "uldkirurgia",
+      "question": "pindmine SSI (surgical site infection)",
+      "choices": {},
+      "answer": "Tekib 30 päeva jooksul pärast operatsiooni \n• Piirdub naha ja nahaaluskoega \n• Mädane eritus \n• Positiivsed MB külvid \n• Valu/turse/punetus/lokaalne temp. tõus",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8b7100410427",
+      "section": "uldkirurgia",
+      "question": "Preoperatiivne AB profülaktika (EKSAM)",
+      "choices": {},
+      "answer": "• Puhastel haavadel teha, kui kasutatakse võõrkeha või kui SSI teke oleks katastroofiliste tagajärgedega (neurokirurgia, südamekirurgia) \n• Puhas-saastunud haavadel, väljaarvatud plaanilise laparoskoopilise koletsüstektoomia korral \n• Kõikidel klass III/IV haavadel",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d13b41203a1b",
+      "section": "uldkirurgia",
+      "question": "Filtreeritud erütrotsüüdid suspensioon",
+      "choices": {},
+      "answer": "2-6 kraadi, 35 päeva",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "109a86fa3ad2",
+      "section": "uldkirurgia",
+      "question": "Rekonstruktsiooni püramiid: paikne lapp",
+      "choices": {},
+      "answer": "Ebaadekvaatse verevarustusega pinnale. Lapil oma verevarustus ja sisaldab erinevaid kudesid, mille kaudu toimub verevarustsus. Olemas on baas, mille kaudu toimub toimb verevarustus",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "79141b9b9ab1",
+      "section": "uldkirurgia",
+      "question": "mis on Grey Turneri ja Culleni sümptom?",
+      "choices": {},
+      "answer": "Grey Turner\n-› hematoom küljel\n\nCullen \n-› hematoom naba ümber \n\n-› indikeerib hemorraagilist pankrease nekroosi pmst ???",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d466c3edeee0",
+      "section": "uldkirurgia",
+      "question": "Dünaamiline iileus - diagnostika + ravi",
+      "choices": {},
+      "answer": "DÜNAAMILINE = PARALÜÜTILINE IILEUS\n- neurogeenne soole peristaltika häire (mehaaniline obstruktsioon ja strangulatsioon puuduvad)",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e46a53bdaa3b",
+      "section": "uldkirurgia",
+      "question": "seedetrakti alaosa verejooksude põhjused",
+      "choices": {},
+      "answer": "trauma, hemorroidid, kasvaja, haavandiline koliit, divertikuloos",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3a0e8a39ad9b",
+      "section": "uldkirurgia",
+      "question": "Rekonstruktsiooni püramiid: Koeekspander",
+      "choices": {},
+      "answer": "mehhanilise surva abil venitatakse kude välja, säilib koe tekstuur, karvasibulad. Kasutatakse rinna ilukirurgias. Kasutatakse erineva suuruse ja kujuga isotoonilise lahusega täidetud silikoonestomeeri implantaate.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "207e5cee1872",
+      "section": "uldkirurgia",
+      "question": "Äge tranfusiooniga seotud kopsukahjustus",
+      "choices": {},
+      "answer": "TEKKEPÕHJUSEKS on doonori veres leiduvad leukotsüütide HLA-vastased antikehad, mis reageerivad patsiendi neutrofiilidega. Komplement aktiveerub ja kahjustab endoteeli, veresoonte läbilaskvus suureneb, sh kopsudes. TRALI võib esineda kõikide suure plasmasisaldusega veretoodete ülekandel.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "147099eb7b21",
+      "section": "uldkirurgia",
+      "question": "Kasvajate histoloogiline kassifikatsioon",
+      "choices": {},
+      "answer": "Grade 0 - astet pole võimalik hinnata \nGrade 1 - hästi diferentseerunud \nGrade 2 - keskmiselt diferentseerunud \nGrade 3 - vähene diferentseerumisaste \nGrade 4 - mittediferentseerunud (anaplastiline)",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "96f4f80e3bfc",
+      "section": "uldkirurgia",
+      "question": "Paranemine esmaspingsalt, teisaspingsalt",
+      "choices": {},
+      "answer": "kirurgiline, lahtine",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "23869bb172f1",
+      "section": "uldkirurgia",
+      "question": "Mehaaniline ikterus - diagnostika + ravi",
+      "choices": {},
+      "answer": "MEHAANILINE IKTERUS\n- mehaaniliste põhjuste (koledohholitiaasi, sapiteede kasvaja või striktuuri) tõttu tekkinud kolestaasist tingitud kollatõbi\n\nDIAGNOSTIKA\n1) UH\n2) KT\n3) MRCP\n4) ERCP\n\nRAVI\n1) ERCP (kolestaasi lahendamiseks)\n2) laparoskoopiline koletsüstektoomia\n\n-› valik sõltub ikteruse tekkimise etioloogiast",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f13dc79b2ddb",
+      "section": "uldkirurgia",
+      "question": "vahelduv lonkamine on iseloomulik millele",
+      "choices": {},
+      "answer": "oblitereeruvale endaarteriidile",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9a19ffaba16a",
+      "section": "uldkirurgia",
+      "question": "Rekonstruktsiooni püramiid: vaba plastika",
+      "choices": {},
+      "answer": "Nahasiirik eemaldatakse ja viiakse soovitud kohale. Revaskularisatsiooni ei tehta. Algul difusioon, seejärel angiogenees. Täielik isoleeritud doonorpinna verevarustsusest",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c5254eb6923c",
+      "section": "uldkirurgia",
+      "question": "Kirurgiliste haavade klassifikatsioon (4)",
+      "choices": {},
+      "answer": "* Klass I puhas\n* Klass II puhas - saastunud\n* Klass III saastunud\n* Klass IV reostunud/infitseerunud",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "03c0dd5d5e04",
+      "section": "uldkirurgia",
+      "question": "Kirurgilise infektsiooni ravi põhireeglid",
+      "choices": {},
+      "answer": "1) Põletikukoldele rahu andmine. \n2) Mädale väljavoolu võimaldamine kirurgilisel teel (ka punktsioon). \n3) Antibakteriaalne ravi vastavalt tekitajale.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0ceca1cfd179",
+      "section": "uldkirurgia",
+      "question": "Kõhuõõne tömp trauma - diagnostika + ravi",
+      "choices": {},
+      "answer": "Diagnostika: hemodünaamika hindamine, FAST-ultraheli, stabiilsel patsiendil kõhu KT (kontrastiga). Ravi: ebastabiilsel patsiendil erakorraline laparotoomia; stabiilsel solidorganikahjustus sageli konservatiivselt (jälgimine, vajadusel angioembolisatsioon).",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "5aae5a907edb",
+      "section": "uldkirurgia",
+      "question": "Mesenteriaalisheemia - diagnostika + ravi",
+      "choices": {},
+      "answer": "MESENTERIAALISHEEMIA\n- mesenteriaalveresoonte oklusioon (äge või krooniline), mis põhjustab soole isheemiat\n\nTEKKEPÕHJUSED\n1) arteriaalne embol (40%) - südame klapirikked, virvendusarütmia jms\n2) arteriaalne tromboos (30%) - ateroskleroos\n3) mitteoklusiovne isheemia (15%) - südamepuudulikkus, šokk\n4) venoosne tromboos (15%) - koagulopaatiad\n\nDIAGNOSTIKA\n1) laboratoorsed analüüsid\n - tõusnud D-dimeeride tase\n2) KT-angiograafia \n\nRAVI\näge vorm:\n1) kiire revaskularisatsioon\n - endovaskulaarne revaskularisatsioon (kateeterjuhitud trombolüüs, balloondilatatsioon, stentimine)\n\n - kirurgiline revaskularisatsioon (embolektoomia, trombektoomia, nekrootilise soole resektsioon)",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "640607abd7d5",
+      "section": "uldkirurgia",
+      "question": "Haavade klassifikatsioon etioloogia alusel",
+      "choices": {},
+      "answer": "* Mehhaaniline\n* Keemiline\n* Termiline\n* Kiiritushaav",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2f82dd2884fb",
+      "section": "uldkirurgia",
+      "question": "Haavade liigitus infitseerituse astme järgi",
+      "choices": {},
+      "answer": "Puhas [0...2 %] - ei lähe trakti, pole põletikku. \nPuhas-saastunud [2...10 %] - lähme trakti, kus pole põletikku. \nSaastunud [10...20 %] - lähme trakti, kus põletik; luumurd; hammustus. \nReostunud-infitseeritud [20...40 %] - mustad (\"dirty\") haavad. nt apenditsiit",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9d48e2494090",
+      "section": "uldkirurgia",
+      "question": "Verejooksu klassifikatsioon lähtekoha alusel",
+      "choices": {},
+      "answer": "Arteriaalne, venoosne, kapillaarne, südameverejooks",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3f28867e4ab6",
+      "section": "uldkirurgia",
+      "question": "Pestud erütrotsüütide suspensiooni näidustus",
+      "choices": {},
+      "answer": "1) Talumatus plasmavalkude suhtes, näiteks antikehad IgA või teiste plasmavalkude vastu \n2) Eelnevalt verekomponentide ülekandel esinenud rasked allergilised reaktsioonid",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bb1e0c799b53",
+      "section": "uldkirurgia",
+      "question": "Kirurgilise ägeda kõhuvalu klassifikatsioon",
+      "choices": {},
+      "answer": "1. põletikulised haigused\n2. õõnesorgani perforatsioon\n3. mehaaniline obstruktsioon : ekstraluminaalne, intramuraalne, intraluminaalne\n4. verejooks : intraluminaalne, intraperitonealne\n5. verevarustuse häire (isheemia)",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6436c62a2c64",
+      "section": "uldkirurgia",
+      "question": "Kõhuõõne läbistav trauma - diagnostika + ravi",
+      "choices": {},
+      "answer": "Diagnostika: peritoniidi / hemodünaamilise ebastabiilsuse / eviratsiooni hindamine, stabiilsel KT. Ravi: peritoniidi, ebastabiilsuse, eviratsiooni või laskehaava korral erakorraline eksploratiivne laparotoomia; valitud stabiilseid torkehaavu võib jälgida.",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "450fbc7fc9b6",
+      "section": "uldkirurgia",
+      "question": "Iileus - klassifikatsioon + diagnostika + ravi",
+      "choices": {},
+      "answer": "IILEUS (SOOLESULGUS)\n- soole läbimatuse seisund\n\nKLASSIFIKATSIOON\n1) etioloogia alusel\n- mehaaniline iileus\n- paralüütiline iileus\n- strangulatsiooniiileus\n\n2) kulu alusel\n- äge\n- krooniline\n\n3) lokalisatsiooni alusel\n- peensoole iileus\n- jämesoole iileus\n\n4) sulguse astme alusel\n- osaline iileus\n- täielik iileus\n\nDIAGNOSTIKA\n1) röntgen (natiivis)\n - vedeliku-gaasi peeglid",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d5641acc75a0",
+      "section": "uldkirurgia",
+      "question": "Rekonstruktsiooni püramiid: primaarne sulgemine",
+      "choices": {},
+      "answer": "haava pindala on väike ja ümbritsevate kudede elastsus ja seisund võimaldavad haaval paraneda",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "72fbc2c738ef",
+      "section": "uldkirurgia",
+      "question": "Mis on keloidi ja hüpetroofilise armi erinevus?",
+      "choices": {},
+      "answer": "Hüpertroofiline arm ei ulatu üle haava piiride, keloid kasvab üle haava servade.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "541eb551d0dd",
+      "section": "uldkirurgia",
+      "question": "peale bariaatriat, millal saavutatakse kehakaal",
+      "choices": {},
+      "answer": "Maksimaalne kaalulangus (kaalu nadiir) saavutatakse tavaliselt ~12–24 kuud pärast bariaatrilist operatsiooni.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "fd0780738e78",
+      "section": "uldkirurgia",
+      "question": "Kui suur protsent on puhta haava infektsiooniks?",
+      "choices": {},
+      "answer": "0 ... 2%",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a4166093413f",
+      "section": "uldkirurgia",
+      "question": "tegi esimese eduka siirdamise 1883.a (kilpnääre)",
+      "choices": {},
+      "answer": "T.Kocher",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "54363c747d17",
+      "section": "uldkirurgia",
+      "question": "Peensoole iileus - põhjused + diagnostika + ravi",
+      "choices": {},
+      "answer": "PÕHJUSED\n1) ekstraluminaalsed\n - liited (enimlevinud põhjus)\n - songad\n - kasvajad\n - abstsessid\n\n2) intramuraalsed\n - Crohni tõbi\n - põletikulised striktuurid\n - kongenitaalsed häired\n\n3) intraluminaalsed\n - sapikivid\n - võõrkehad\n\nDIAGNOSTIKA\n1) röntgen \n2) KT (lisauuring)\n\nRAVI\n1) konservatiivne ravi (üldine toetav)\n - infusioon\n - analgeesia\n - NG-sond\n\n2) endoskoopia\n - võõrkehade eemaldamine\n - stenoosi (kasvaja) stentimine\n\n3) kirurgiline\n - kui iileus ei lahene konservatiivse ravi foonil 24h jooksul (või tegemist juba tüsistunud iileusega)",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6ce34f5e55ab",
+      "section": "uldkirurgia",
+      "question": "Jämesoole iileus - põhjused + diagnostika + ravi",
+      "choices": {},
+      "answer": "PÕHJUSED\n1) ekstraluminaalne\n - songad\n - liited\n - abstsessid\n - kasvajad\n - volvulus\n\n2) intramuraalne\n - kasvajad\n - divertikuliit\n - crohni tõbi \n\n3) intraluminaalne\n - võõrkehad\n - fekaalmasside pitsumine\n\nDIAGNOSTIKA\n1) röntgen\n\nRAVI\n1) konservatiivne ravi\n - infusioon\n - NG-sond\n\n2) kirurgiline\n - Hartmanni op\n - resektsioon koos primaarse anastomoosiga",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "569ae4c56639",
+      "section": "uldkirurgia",
+      "question": "Transfusioonijärgsed anafülaktilised reaktsioonid",
+      "choices": {},
+      "answer": "PÕHJUSEKS patsiendil esinevad antikehad (IgE) plasmavalkude vastu. Tavaliselt esineb kaasasündinud IgA puudulikkuse korral, kus reageerivad anti-IgA antikehad.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "29d81436a930",
+      "section": "uldkirurgia",
+      "question": "Äge apenditsiit - diagnostika + ravi + tüsistused",
+      "choices": {},
+      "answer": "ÄGE APENDITSIIT\n- ehk ussripiku põletik\n- sagedaseim erakorraline kõhukoopa kirurgiline patoloogia\n- algselt valu epiagastriumis -› liigub paremale alakõhtu\n\nKLASSIFIKATSIOON HAIGUSE RASKUSE ALUSEL\n1. aste - põletikuline apendiks\n\n2. aste - gangrenoosne apendiks\n\n3. aste - perforatiivne vaba vedelikuga apendiks\n\n4. aste - perforatiivne abstsedeerunud apendiks\n\n5. aste - perforatiivne difuusne peritoniit\n\n\nDIAGNOSTIKA\n1) kõhu palpatsioon + testid\n - valu McBurney punktis\n - kõhulihaste pinge\n - pos Blumberg (vajutus ja järsk lahtilaskmine paremal alakõhus)\n - pos Rovsing\n - pos Dunphy (kõhuvalu suureneb köhimisel)\n - pos obturaatorsümptom\n - pos psoassümptom\n\n2) UH (rasedad, lapsed)\n - kui ussripiku laius on ›6cm -› apendiks?\n\n3) KT (vist valikmeetod?)\nRAVI\n\nTÜSISTUSED",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "88059cb0e504",
+      "section": "uldkirurgia",
+      "question": "Millist tüüpi kollageen on luus? - I, II, VI, XII?",
+      "choices": {},
+      "answer": "I",
+      "type": "open",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "16aa4fa67d1d",
+      "section": "uldkirurgia",
+      "question": "Divertikuloos ja divertikuliit - diagnostika + ravi",
+      "choices": {},
+      "answer": "Hinchey klassifikatsioon - divertikuliidi raskuse hindamine\n\nHinchey I - perikooliline flegmoon/abstsess\n\nHinchey II - vaagna abstsess\n\nHinchey III - purulentne peritoniit\n\nHinchey IV - fekaalne peritoniit",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "289c798f3e3e",
+      "section": "uldkirurgia",
+      "question": "Millist tüüpi kollageen on kõhres? - I, II, VI, XII?",
+      "choices": {},
+      "answer": "II",
+      "type": "open",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ceeeeab98528",
+      "section": "uldkirurgia",
+      "question": "alakõhu piirkonna naha, rasvkoe ja lihase siirdamine",
+      "choices": {},
+      "answer": "TRAM lapp",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0d260259c3a7",
+      "section": "uldkirurgia",
+      "question": "Anti-A ja anti-B antikehad ilmuvad alles .... elukuul",
+      "choices": {},
+      "answer": "Antigeenid on määratavad juba enne sündi, aga Anti-A ja anti-B antikehad ilmuvad alles 4. - 6. elukuul",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2b791c15ae88",
+      "section": "uldkirurgia",
+      "question": "Vereülekande kõrvaltoimed /\ntransfusioonireaktsioonid",
+      "choices": {},
+      "answer": "• külmavärinad\n• palavik\n• hingamisraskus\n• šokk\n• valud rinnus või seljas\n• või muud nähud, mida ei saa seostada patsiendi põhihaigusega",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9702a87de54e",
+      "section": "uldkirurgia",
+      "question": "Peptilise haavandi perforatsioon - diagnostika + ravi",
+      "choices": {},
+      "answer": "PEPTILISE HAAVANDI PERFORATSIOON\n- kaksteistsõrmiksoole/mao seina defekt, mis läbib kõik organi seina kihid ja maosisu satub vabasse kõhuõõnde -› põhjustab peritoniiti\n\n- kuni 30% letaalsusega haigus\n- faasid (peritoniidi faasid):\n\n1) ALGFAAS (esimesed 2 h)\n - järsu algusega tugev kõhuvalu (epigastrium -› üle kõhu)\n - valu võib kiirguda õlgadesse\n - tahhükardia, pulsilaine nõrgenemine\n\n2) TEINE FAAS (2-12h)\n - valu väheneb (peritoneum sekreteerib ja lahjendab kõhuõõnde sattunud happelist maosisu)\n - ülakõhuvalu, mis ägeneb liigutamisel\n - laudkõva kõht\n\n3) KOLMAS FAAS (›12h)\n - suureneb kõhupuhitus (dünaamiline ileus)\n - kõhuvalu ja pinge võivad väheneda\n - palavik, hüpovoleemia -› KVS kollaps\n\n\nDIAGNOSTIKA\n1) kliiniline pilt\n - väga haigusele spetsiifiline\n\n2) röntgen tühiülesvõte\n - näha vaba gaas diafragmaalusi\n - veeslahustuva kontrastiga saab tuvastada jätkuvat leket\n\n3) KT\n - kui jääb veel ebaselgeks (tuvastab ka väga väiksed vaba gaasi kogused, mida röntgen ei näita)\n\n\nRAVI\n- kui tegemist üldperitoniidiga, siis 100% näidustatud kirurgiline ravi\n\n1) konservatiivne ravi (kui pole üldperitoniid või kui kohe ei ole võimalik operatsiooni teha)\n - nasogastraalne aktiivne aspiratsioon\n - PPI\n - AB-ravi\n - infusioon \n\n2) kirurgiline ravi\n - laparoskoopiline/avatud\n - perforeerunud haavandi üleõmblus\n - vagotoomia + dreneeriv lõikus",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2b37a71d4590",
+      "section": "uldkirurgia",
+      "question": "Kilpnäärme kirurgilised haigused - diagnostika + ravi",
+      "choices": {},
+      "answer": "HEALOOMULISED\nHüpertüreoidism\n1) Gravesi tõbi (autoimmuunne haigus -› TRAb stimuleerib TSH retseptorit -› suureneb ka T3 ja T4 tootmine)\n\n2) Plummeri tõbi (toksiline multinodulaarne struuma - noodulid toodavad iseseisvalt TSH-st sõltumata kilpnäärmehormoone)\n\n3) toksiline adenoom (üksik noodul, mis toodab iseseisvalt kilpnäärmehormoone) \n\n-› ravi: türeostaatikumid (inhibeerivad kilpnäärmehormoonide tootmist), radioaktiivne jood (hävitab kilpnäärmekudet), kirurgiline ravi (kui muu ei tööta, patsient tahab kirurgiat)\n\nHüpotüreoidism\n1) Hashimoto türeoidiit (autoimmuunne haigus)\n\nPAHALOOMULISED\n1) Papillaarne (75%)\n\n2) Follikulaarne (10-20%)\n - selle puhul ei tehta peennõelbiopsiat (kuna tegemist tsütoloogilise uuringuga ja see vähivariant ei ole tsütoloogiliselt eristatav tavaliselt kilpnäärmekoest)\n\n3) Medullaarne (2%)\n - C-rakuline -› seega kaltsitoniin tuumorimarkerina\n - kiire lümfogeense levikuga\n - MEN\n\n4) Aplastiline (mittediferentseerunud)\n - koheselt IV staadiumi vähk\n - 85% sureb 1 aastaga",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "837985fc1aef",
+      "section": "uldkirurgia",
+      "question": "Anorektaalne abstsess ja fistulid - diagnostika + ravi",
+      "choices": {},
+      "answer": "ANOREKTAALNE ABSTSESS\n- rektumi ümbruskoe kapseldunud infektsioonikolle, mis tekib enamasti anaalkrüptides anaalnäärme ummistumisel\n\n- kaasnevalt mädane/verine eritus, valu (defekatsioonist sõltumatu), survetunne, turse jne\n\nDIAGNOSTIKA\n1) kliinilise pildi alusel\n\nRAVI\n1) kolde avamine\n2) AB ravi (vajadusel)\n\n-› pärast mädakolde paranemist kujuneb tavaliselt välja fistul\n\nFISTUL\n- vajab sageli kirurgilist ravi (sümptomaatilised fistulid)\n- põhimõte: fistuli seesmise avause sulgemine ja anaalsfinkteri säilitamine)",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c6edd9287f03",
+      "section": "uldkirurgia",
+      "question": "soolesulguse peamine põhjus (liited, divertikuloos, …)",
+      "choices": {},
+      "answer": "Liited (adhesioonid) — peensoolesulguse sagedaim põhjus (sageli eelnenud kõhuoperatsioonide järgselt).",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "67fb57cfab24",
+      "section": "uldkirurgia",
+      "question": "Söögitoru veenilaiendite verejooks - diagnostika + ravi",
+      "choices": {},
+      "answer": "SÖÖGITORU VEENILAIENDITE VEREJOOKS\n- riskifaktor: portaalhüpertensioon\n\nmaksa patoloogia -› maksa sidekoestumine -› vere ümbersuunamine söögitoru veresoonte kaudu -› äkiline rõhu tõus veenilaiendites -› spontaanne hemorraagia\n\nDIAGNOSTIKA\n1) kliiniline pilt\n - valutu massiivne veriokse/meleena\n - üldsümptomid\n\n2) endoskoopia\n - diagnoosi kinnitamiseks\n\n\nRAVI\n1) toetav ravi\n - infusioon, lisa O2, NG-aspiratsioon\n - plasma, vasoaktiivsed ained\n\n2) tamponaad (ajutise lahendusena)\n - Blakemore sond\n\n3) endoskoopiline ravi\n - skleroseeriv ravi (alkohol, muud sklerosandid)\n - ligeerimine (kummiligatuurid) -› ideaalis 12h jooksul\n\n4) muud meetodid\n - juhul, kui endoskoopiline ravi ei õnnestu\n - TIPS (transjugulaarne intrahepaatiline portosüsteemne šunt)\n - perkutaanne transhepaatiline embolisatsioon\n - kirurgiline venoosne šunteerimine\n - ösofagogastraalne devaskularisatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0fc9e70bcd79",
+      "section": "uldkirurgia",
+      "question": "SIRS (systematic inflammatory response syndrome) (EKSAM)",
+      "choices": {},
+      "answer": "1) Temperatuur > 38 °C või < 36 °C. \n2) Tahhükardia > 90 /min. \n3) Tahhüpnoe > 20 /min. \n4) PaCO2 < 32 mmHg. \n5) WBC > 12 E9/l või < 4 E9/l, 10 % noorvorme veres.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2f48d5c40589",
+      "section": "uldkirurgia",
+      "question": "Tiheda kuiva koorikuga koagulatsiooninekroosi põhjustavad",
+      "choices": {},
+      "answer": "happed",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1527018a3855",
+      "section": "uldkirurgia",
+      "question": "peptiliste haavandite kirurgilise ravi meetodid (täpsemalt)",
+      "choices": {},
+      "answer": "DEFINITIIVNE KIRURGILINE RAVI\n-› muudab haavandi patogeneesi \n-› vähendab maohaoppe sekretsiooni\n\n1) vagotoomia + dreneeriv operatsioon\n - erinevad variandid (trunkaalne, proksimaalne, selektiivne vagotoomia)\n -› trunkaalne (magu innerveerivad n. vaguse eesmine ja tagumine tüvi -› need lõigatakse läbi -› maohaoppe sekretsioon väheneb\n - dreneeriv op vajalik, kuna vaguse läbilõikamisel häirub mao motoorne funktsioon (atooniline magu) -› tehakse nt püloroplastika (et vähendada takistust)\n\n2) antrumektoomia\n - võtab ära gastriini stimuleeriva toime\n - mao antrumiosa eemaldatakse\n - Billroth I ja Billroth II\n\n3) subtotaalne maoresektsioon\n - harva kasutusel\n - eemaldakse osa mao parietaalrakkude massist (HCl tootmise vähendamine)\n\n\nMITTEDEFINITIIVNE KIRURGILINE RAVI (lokaalne)\n-› ei muuda haavandi patogeneesi\n-› vajab lisaks kirurgiale täies mahus ka medikamentoosset ravi\n\n1) perforeerunud haavandi üleõmblus\n\n2) verejooksuga haavandi põhja läbiõmblus/väljalõikamine",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1132f860271d",
+      "section": "uldkirurgia",
+      "question": "Söögitoru lahisongad - klassifikatsioon + diagnostika + ravi",
+      "choices": {},
+      "answer": "SÖÖGITORU LAHISONG\n- ehk hiatus hernia\n- mao ja gastroösofageaal-üleminekukoha osaline/täielik ulatumine läbi diafragma ava rindkereõõnde\n- põhjus: lihaste muutused, trauma, suurenenud intraabdominaalne rõhk\n- tihti asümptomaatiline, võib pitsuda!\n- võib tekitada GERD sümptomaatikat\n\n\nKLASSIFIKATSIOON\n1) libisev song (95%)\n2) paraösofageaalne song (5%)\n\nLIBISEV SONG\n- gastroösofageaalne üleminek libiseb osaliselt koos maoga läbi diafragma\n- songasisu dünaamiline (libiseb edasi-tagasi)\n- pitsumine ebatüüpiline, esineb GERD sümptomaatikat\n- võib esineda igas vanuses patsientidel\n\nPARAÖSOFAGEAALNE SONG\n- mao fundus liigub läbi diafragma üles (gastroösofageaalne üleminekukoht ei liigu oma kohalt)\n- kuna sfinkteri töö ei häiru, siis refluksi ei esine\n- võib esineda pitsumist!\n- esineb rohkem eakatel patsientidel\n\n\nDIAGNOSTIKA\n1) röntgen rindkerest\n - näha maomulli rinnakus\n\n2) gastroskoopia\n - söögitoru otsene visualiseerimine\n - saab vajadusel võtta ka biopsiat (kahtlus Barretile)\n\n3) ösofagramm\n - baariumi neelamise ajal tehtud röntgenvideo söögitorust\n\n4) söögitoru pH-meetria\n\n5) söögitoru manomeetria\n\n\nRAVI\n1) jälgimine\n - asümptomaatilised väikese pitsumisriskiga (libisev song) haiged ei vaja kohest kirurgilist lahendamist\n\n2) PPI-ravi (või antatsiidid)\n - kui haiget häirivad GERD-sümptomid\n\n3) kirurgiline ravi (fundoplikatsioon)\n - kui tegemist paraösofageaalse songaga (pitsumise oht)\n - kui tegemist libiseva songaga + esinevad sümptomid, mis ei allu PPI-ravile\n - operatsioon tehakse laparoskoopiliselt\n\n-› magu reponeeritakse õigele kohale -› suurenenud avaus diafragmas parandatakse -› tehakse fundoplikatsioon (Nissen 360 - mao fundus keeratakse ümber söögitoru alumise osa)",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8d7257e5ba09",
+      "section": "uldkirurgia",
+      "question": "Krooniline pankreatiit - kirurgilise ravi näidustused + ravi",
+      "choices": {},
+      "answer": "KROONILINE PANKREATIIT\n- kroonilise kuluga põletikuline ja fibroseeriv kõhunäärme haigus\n\n- põhjustatud korduvate ägeda pankreatiidi atakkide tagajärjena\n\n- kude kahjustub, fibroseerub, tekivad kaltsifikaadid\n\n- peamine põhjus -› alkoholi kuritarvitamine\n\nKIRURGILISE RAVI NÄIDUSTUSED:\n\n\nRAVI\n- pankrease pea resektsioon\n- Whipple\n- pankrease saba osa resektsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "62910add3e95",
+      "section": "uldkirurgia",
+      "question": "transfusioonijärgne mittehemolüütiline temperatuurireaktsioon",
+      "choices": {},
+      "answer": "PÕHJUSEKS on enamasti eelnevalt raseduste või vereülekannetega tekkinud leukotsüütide vastased antikehad, mis reageerivad doonori leukotsüütidega. Reaktsiooni käigus vabanevad tsütokiinid tekitavad palaviku.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2bb3c242b9ad",
+      "section": "uldkirurgia",
+      "question": "trauma järel esinev verevalumite infitseerimine võib põhjustada",
+      "choices": {},
+      "answer": "abstsessi",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f9fdec9971a6",
+      "section": "uldkirurgia",
+      "question": "PREOPERATIIVNE HINNANG PATSIENDILE: - mis süsteemi kasutatakse?",
+      "choices": {},
+      "answer": "PREOPERATIIVNE HINNANG PATSIENDILE: kasutatakse ASA hindamissüsteemi. \nASA I - terve patsient, \nASA II - kerge süsteemne haigus ilma olulise funktsionaalse häireta; \nASA III - mõõdukas süsteemne haigus koos funktsionaalse häirega, \nASA IV - raske süsteemne haigus, pidevalt eluohtlik, ASA V - moribund, ebatõenäoline, et elab >24h, sõltumata kas opereerida või mitte",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b86579609707",
+      "section": "uldkirurgia",
+      "question": "Peritoniit - klassifikatsioon + patogenees + diagnostika + ravi",
+      "choices": {},
+      "answer": "PERITONIIT\n- parietaalse ja/või vistseraalse peritoneumi põletikuline või mädane reaktsioon mikroobsele või keemilisele ärritajale\n- sümptomid: äge kõhuvalu, oksendamine, isutus, sundasend, palavik, laudkõva pinges kõht\n\n\nKLASSIFIKATSIOON\n1) primaarne peritoniit (1% - harvaesinev)\n - infektsioon levib hematogeenselt kõhukelmele\n - enamasti tingitud bakteriaalsest infektsioonist (SBP - spontaanne bakteriaalne peritoniit)\n - kaasuvana portaalhüpertensioon + mad. albumiiniga astsiit (SAAG › 11 g/L)\n - astsiidivedelik kontamineerub bakteritega!\n - oluline arvutada SAAG (seerum-astsiit albumiini gradient)\n\n2) sekundaarne peritoniit (kõige sagedasem vorm)\n - peritoneum kontamineerub seedetraktist või väliskeskkonnast pärinevate mikroobidega\n - sagedaseimaks põhjuseks perforeerunud appendix\n - võib olla fekaalne, purulentne, keemiline, biliaarne, mekooniumist tingitud\n\n3) tertsiaarne peritoniit\n - peritoniit, mis on taastekkinud (või pika kuluga)\n\n\nPATOGENEES (apenditsiidi näitel)\nobstruktsioon/põletik -› bakterite ülekasv ja intraluminaalse rõhu tõus -› isheemia -› barjääride nõrgenemine -› bakterite liikumine appendixist peritoneaalõõnde -› mäda ja fekaalid -› põletik -› lokaalne peritoniit -› difuusne peritoniit\n\nDIAGNOSTIKA\n1) anamnees\n2) objektiivne uurimine\n - laudkõva kõht, sundasend, peristaltika vähenemine\n3) vereanalüüsid\n - tõusnud CRV, leukotsütoos\n4) röntgen\n - tühiülesvõte perf. välistamiseks (otsime kõhus vaba gaasi)\n5) UH\n6) KT\n - näha peritoneumi paksenemist, vaba gaasi, astsiiti\n7) paratsentees\n\n\nRAVI\nprimaarne peritoniit:\n- paratsentees + astsiidivedeliku drenaaž\n- AB-ravi!\n\nsekundaarne peritoniit:\n- kirurgiline + medikamentoosne\n- kolde kontroll (laparoskoopia/laparotoomia)\n- vajadusel \"second look\" 24-48h pärast\n- perkutaanne drenaaž\n- AB ravi!",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "83fbfe25b8ee",
+      "section": "uldkirurgia",
+      "question": "Hemorroidid - klassifikatsioon + sümptomid + diagnostika + ravi",
+      "choices": {},
+      "answer": "HEMORROIDID\n- pärasoole lõpposa submukoossete veenikomude paksenemisest tingitud healoomulised vohandid (haigusest hakatakse rääkima, kui hemorroidid põhjustavad sümptomeid)\n\n- hemorroididele on iseloomulik arteriaalne veritsus\n\n- esineb 3 hemorroidaalkomu, mis esinevad kõigil inimestel (kl 3, 7 ja 11 suunal)\n\nKLASSIFIKATSIOON\n1) välised - linea dentatast allpool, valutundlikud\n\n2) sisemised - linea dentatast kõrgemal, pole valutundlikud\n\n3) segatüüpi - samaaegselt esinevad mõlemat tüüpi hemorroidid\n\nSÜMPTOMID\nvälised hemorroidid:\n- harva sümptomaatilised\n- sügelus, eritis (hügieeniprobleemid)\n\nseesmised hemorroidid:\n- valutu vereeritus defekatsiooni ajal\n- kipitustunne, sügelus\n- tahtmatu gaasieritus\n- prolaps\n\nseesmiste hemorroidide staadiumid:\nI - laienenud komud, mis ei prolabeeru\nII - komud prolabeeruvad defekatsioonil, kuid reponeeruvad spontaanselt\nIII - prolabeerunud komud, mis on manuaalselt reponeeritavad\nIV - püsib prolabeerumine, ei saa reponeerida\n\nDIAGNOSTIKA\n1) vaatlus\n2) rektaalne palpatsioon\n3) anoskoopia\n\nRAVI\n1) konservatiivne ravi\n - hügieen\n - defekatsiooniõpetus\n - istevannid jms\n\nseesmiste hemorroidide ravi:\nI ja II staadium\n - skleroteraapia, kummiligatuurid, elektriline koagulatsioon\n\nIII ja IV staadium\n - operatiivne ravi (Milligan-Morgan, Ferguson, PPH jt)",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d4be9ab33c38",
+      "section": "uldkirurgia",
+      "question": "patsiendi ülakõhus on terav valu, palavikku ei ole, laudkõva kõht",
+      "choices": {},
+      "answer": "haavandi perforatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8223d4ae03c4",
+      "section": "uldkirurgia",
+      "question": "süsteem, mille järgi antakse patsiendile enne operatsiooni hinnang",
+      "choices": {},
+      "answer": "ASA süsteem",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8fc37aca166d",
+      "section": "uldkirurgia",
+      "question": "Nasokomiaalsetest infektsioonidest moodustab kõige suurema osa (40%)",
+      "choices": {},
+      "answer": "kuseteede infektsioonid",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5d0117ea9fe6",
+      "section": "uldkirurgia",
+      "question": "Oluline bakterite arv infektsiooni avaldumiseks >10 5 koe grammi kohta",
+      "choices": {},
+      "answer": "Oluline bakterite arv infektsiooni avaldumiseks >10 5 koe grammi kohta",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4a0c92b4d061",
+      "section": "uldkirurgia",
+      "question": "pahaloomuliste kasvajate klassifikatsioon,levikut iseloomustav süsteem",
+      "choices": {},
+      "answer": "TNM\nT = tuumori suurus ja sissekasv ümbritsevatesse kudedesse. \nN = lümfisõlmede haaratus. \nM = metastaasid\n- 4 staadiumit",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "448cb2df8a1f",
+      "section": "uldkirurgia",
+      "question": "mis on anaalpiirkonna abstsessi avamise tüsistus? (sügelus, fistul, lõhe …)",
+      "choices": {},
+      "answer": "Perianaalfistul (fistula) — sage perianaalabstsessi avamise/dreneerumise järgne tüsistus.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "4aee3b59e17c",
+      "section": "uldkirurgia",
+      "question": "Peptiline haavand - kirurgilise ravi näidustused + kirurgilise ravi meetodid",
+      "choices": {},
+      "answer": "PEPTILINE HAAVAND\n- limaskesta põletikulise valliga defekt, mis läbib tunica muscularis mucosae\n- haavandid jaotatakse suuruse järgi:\n 1) standardsuurusega haavandid (‹2cm)\n 2) giganthaavandid (›2cm)\n\n- tekkepõhjused:\n 1) H. Pylori infektsioon\n 2) NSAIDide kasutamine\n 3) idiopaatiline \n\n- sümptomaatika: düspepsia, ülakõhuvalu (võib kiirguda selga)\n duodenaalhaavandi valu esineb tühja kõhuga (öösiti)\n mao ja pülorusehaavandi valu esineb pärast sööki\n\n- duodenaalhaavand enam levinud kui maohaavand\n- duodenaalhaavand (25-55a), mao (40-70a)\n\n- diagnostika:\n 1) endoskoopia (gastroskoopia)\n - duodenaalhaavandi korral biopsiat tavaliselt ei võeta\n - maohaavandi korral võetakse ALATI biopsia\n\nÜLDINE RAVI\n1) medikamentoosne ravi \n - PPI-d või H2R-blokaatoritega \n - tüsistumata haavandi korral kuni 14 päeva\n - tüsistunud haavandi korral 4-8 ndl\n\n2) kolmikravi\n - H. Pylori infektsiooni korral\n - PPI + klaritromütsiin + amoksitsilliin/metronidasool\n - ravi kestab 14 päeva\n\n3) säilitusravi\n - PPI-dega\n - keerukate haavandite puhul kasutusel (ravile halvasti alluvad)\n\n\nKIRURGILISE RAVI NÄIDUSTUSED\n- rakendatakse pigem haavandi tüsistuste korral\n\n1) haavandi perforatsioon (kohene kirurgiline ravi)\n2) haavandi verejooks (ei vaja reeglina kohest kirurgilist lahendamist)\n3) haavandist tingitud stenoos (ja muud variandid ei tööta - balloondilatatsioon, konservatiivne ravi)\n\nmuud näidustused:\n4) haavantõbi ei allu ravile\n5) kahtlus maligniteedile\n6) patsiendi eelistus, ebameeldivad kõrvaltoimed jms\n\n\nKIRURGILISE RAVI MEETODID\ndefinitiivsed meetodid (muudavad haavandi patogeneesi)\n1) vagotoomia + dreneeriv operatsioon\n2) antrumektoomia\n3) subtotaalne maoresektsioon\n\nmittedefinitiivsed meetodid (ei muuda haavandi patogeneesi)\n1) perforeerunud haavandi üleõmblus\n2) veritseva haavandi põhja läbiõmblus",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8cca49def75e",
+      "section": "uldkirurgia",
+      "question": "mis diagnostikaga saab vaba gaasi kõige paremini diagnoosida? (KT, MRT, Rö…)",
+      "choices": {},
+      "answer": "KT (kompuutertomograafia) — kõige tundlikum vaba õhu (perforatsiooni) tuvastamiseks, tundlikum kui püstine natiivülesvõte.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "56e2ec5dc607",
+      "section": "uldkirurgia",
+      "question": "peale millist bariaatrilist operatsiooni songa risk? (sleeve, bypass, pael …)",
+      "choices": {},
+      "answer": "Maovähendus möödajuhtega (Roux-en-Y gastric bypass) — sisemise songa (internal hernia, mesenteriaalsete defektide tõttu) suurim risk.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "8d0ef18077eb",
+      "section": "uldkirurgia",
+      "question": "patsient on tarvitanud 2 nädalat alkoholi, söönud palju, kurdab vöökujulist valu",
+      "choices": {},
+      "answer": "äge pankreatiit",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "df49895c575d",
+      "section": "uldkirurgia",
+      "question": "Angioomid\nPüogeenne granuloom\nLipoom\nMelanotsüütneevus\nNahapaksendid ja -sarved",
+      "choices": {},
+      "answer": "1. Kapillaarne proliferatsioon\n2. Beniigne vaskulaarne tuumor\n3. Beniigne küpsetest rasvarakkudest tuumor\n4. Beniigne melanotsüütide proliferatsioonist tekkinud nahatuumor",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f13c5ecea335",
+      "section": "uldkirurgia",
+      "question": "millal esinevad kõrvetised (reflukshaigusega, akalaasiga, akalaasiaga välistatud, …)",
+      "choices": {},
+      "answer": "Reflukshaiguse (GERD) korral — kõrvetised on gastroösofageaalse reflukshaiguse iseloomulik sümptom.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "705ba93f23d1",
+      "section": "uldkirurgia",
+      "question": "Äge pankreatiit - klassifikatsioon + kliiniline pilt + diagnostika + ravi + tüsistused",
+      "choices": {},
+      "answer": "ÄGE PANKREATIIT\n- autodigestiooni toimel tekkiv ägeda kuluga pankrease põletikuline haigus\n\n- etioloogia:\n 1) sapikivid (60%)\n 2) alkoholi liigtarvitamine (30%)\n 3) ERCP-järgselt\n\nKLASSIFIKATSIOON\n1) interstitsiaalne turseline (90%)\n\n2) nekrotiseeriv (10%) - oluliselt raskema kuluga\n\n\n1) kerge (75-80%) - ei esine nekroosi ega lokaalseid-süsteemseid tüsistusi, organpuudulikkust ei teki\n\n2) raske (20-25%) - süsteemsed/lokaalsed tüsistused (nekroos, pseudotsüst, abstsess), tekib organpuudulikkus\n\nKLIINILINE PILT\n- kõhuvalu (tugev järsk vöötaoline valu epigastriumis, püsiv, kiirgub selga)\n- iiveldus, oksendamine\n- tahhükardia\n- muud sümptomid\n\nDIAGNOSTIKA\ndiagnoosi saab panna, kui esineb kaks kolmest:\n1) iseloomulik vöötaoline valu\n2) lipaasi/amülaasi vähemalt 3x tõus\n3) radioloogiliselt pankreatiidile vastav leid\n\nUH (biliaarse etioloogia kinnitamiseks)\n\nkontrastiga KT (valikmeetod!)\n\nRAVI\n1) agressiivne infusioonravi\n2) valuravi\n3) muud medikamendid\n\n4) ERCP - biliaarse etioloogiaga pankreatiidi korral (24h jooksul)\n\n5) kirurgiline ravi - tüsistuste ohjamiseks! (nekrektoomia jms)\n\nTÜSISTUSED\n1) peripankreaatiline vedelikukogum\n2) pseudotsüstid\n3) abstsessid\n4) infitseeritud nekroos\n5) GI verejooks\n6) soolesulgus\n7) peritoniit \njms",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "65a05acec895",
+      "section": "uldkirurgia",
+      "question": "mis ei ole volvuluse riskitegur? (kõrge vanus, kõhukinnisus, lühike sigmasool, liited)",
+      "choices": {},
+      "answer": "Lühike sigmasool EI ole riskitegur — sigmavolvuluse risk on hoopis pikal/liigutaval sigmal (dolihhosigma). Riskitegurid on kõrge vanus, krooniline kõhukinnisus jm.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "bf306fcfd530",
+      "section": "uldkirurgia",
+      "question": "mis on akalaasia ravi (balloondilatatsioon, Helleri müotoomia, botoxi süst, kõik need)",
+      "choices": {},
+      "answer": "Kõik need — pneumaatiline (balloon)dilatatsioon, Helleri müotoomia (sh POEM) ja botuliintoksiini süst on kõik akalaasia ravivõimalused (valik sõltub patsiendist).",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "b5991a0cc696",
+      "section": "uldkirurgia",
+      "question": "millist soolesulgust iseloomustab perioodilised kramplikud valud kindla lokalisatsiooniga?",
+      "choices": {},
+      "answer": "obturatsiooni iileus",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "82e67be162d2",
+      "section": "uldkirurgia",
+      "question": "Refluksösofagiit - klassifikatsioon + kirurgilise ravi näidustused + kirurgilise ravi meetodid",
+      "choices": {},
+      "answer": "REFLUKSÖSOFAGIIT (GERD)\n- krooniline happelise maosisu tagasivool söögitorru\n- põhjus: lõtvunud alumine ösofageaalsfinkter + soolhappe liigne sekretsioon\n- väjendub kõrvetistena (2 või enam päeva nädalas), võib muutuda patoloogiliseks (Barret' söögitoru)\n\nKLASSIFIKATSIOON (Los Angelese klassifikatsioon)\n- arvestab erosioonide suurust + limaskesta pindala haaratust\n- kasutatakse endoskoopial refluksösofagiidi hindamiseks\n\nA raskusaste - kerge\nB raskusaste - kerge\nC raskusaste - raske\nD raskusaste - raske\n\nDIAGNOSTIKA\n1) prooviravi PPI-ga \n - kui sümptomid kaovad, siis tegemist GERD-iga\n - otsus tehakse kliinilise pildi alusel (‹55a patsientidel)\n\n2) gastroskoopia (valikuuring)\n - võimalus võtta söögitorust biopsia (Barret´ kahtlus)\n - muutus nähtav ~50% (seega kui leiu puudumine EI VÄLISTA haiguse esinemist)\n - tehakse ›55a patsientidele või kui PPI-ravi ei ole toimet avaldanud\n\n3) söögitoru pH-meetria\n - jälgitakse 24h jooksul\n\n4) söögitoru manomeetria\n - söögitou üleminul maoks rõhkude mõõtmine\n\n5) ösofagramm (baariumi neelamise video)\n - näeb peptilisi haavandeid\n\nKIRURGILISE RAVI NÄIDUSTUSED\n- raskekujuline ösofagiit (C/D), mis ei allu medikamentoossele ravile\n- GERD jätkuv sümptomaatika maksimaalse medikamentoosse ravi foonil\n- tüsistunud GERD (Barret', striktuur, veritsus)\n- kaasuv hiatus hernia\n- patsient ei soovi medikamentoosset ravi \n- PPI kõrvaltoimed\n\n-› samas tuleks meeles pidada, et kui PPI üldse ei aita, siis ka operatiivse ravi efektiivsuse tõenäosus suhteliselt väike\n\n\nKIRURGILINE RAVI\n- Nisseni 360 fundoplikatsioon\n- mao fundus keeratakse ümber söögitoru alumise osa",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c925b1608e3c",
+      "section": "uldkirurgia",
+      "question": "Seedetrakti alaosa verejooksud (divertikuloos, teleangiektaasiad, kasvajad) - diagnostika + ravi",
+      "choices": {},
+      "answer": "SEEDETRAKTI ALAOSA VEREJOOKSUD\n- algavad Treitzi sidemest distaalsemal (peen- ja jämesooles)\n- suurem osa (95%) lähtuvad jämesoolest1) \n\nPÕHJUSED\n- sagedaseimaks põhjuseks divertikuloos, hemorroidid\n\n1) peensoole põhjused\n - soole isheemia\n - kasvajad\n - Crohni tõbi, gastroenteriit\n \n2) jämesoole põhjused\n - divertikuloos\n - hemorroidid\n - kasvajad\n - koliit\n - anaalfissuur\n - angiodüsplaasiad\n\nDIAGNOSTIKA\n1) kliiniline pilt\n - meleena ja hematokeesia (peamised sümptomid)\n - hematemees reeglina välistab alaosa verejooksu\n\n2) endoskoopia\n - esmalt tuleb välistada ülaosa verejooks (kuna see oluliselt sagedasem) -› gastroskoopia\n - anoskoopia, sigmoidoskoopia -› soole ettevalmistuse järel ka koloskoopia\n\nRAVI\n1) konservatiivne\n - lisa O2, infusioon, veretooted\n\n2) endoskoopiline\n - terapeutiline koloskoopia (adrenaliin, diatermia, klipsid)\n \n3) angiograafia\n - selektiivse embolisatsiooniga\n\n4) kirurgia\n - veritsuskolde üleõmblus\n - veritseva sooleosa resektsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e46594f7c2a4",
+      "section": "uldkirurgia",
+      "question": "Soole põletikuline haigus - komplikatsioonid + kirurgilise ravi näidustused + kirurgilise ravi meetodid",
+      "choices": {},
+      "answer": "Komplikatsioonid: toksiline megakoolon, perforatsioon, massiivne verejooks, strikuurid/sulgus, fistulid ja abstsessid (Crohn), düsplaasia/vähk. Kirurgia näidustused: eluohtlikud komplikatsioonid, ravile allumatu haigus, vähk/düsplaasia. Meetodid: haavandilise koliidi korral (prokto)kolektoomia (sh IPAA), Crohni korral säästev segmentaarne resektsioon/striktuuriplastika.",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "71ad42a094af",
+      "section": "uldkirurgia",
+      "question": "Seedetrakti ülaosa verejooksud (peptiline haavand, Mallory-Weiss sündroom, erosioonid) - diagnostika + ravi",
+      "choices": {},
+      "answer": "SEEDETRAKTI ÜLAOSA VEREJOOKSUD\n- ülaosa verejooksud esinevad 2x sagedamini kui alaosa\n- tekivad Treizi sidemest proksimaalsemal (ehk pmst duodenumist üleval pool)\n\nSÜMPTOMAATIKA\n- hematemees\n- meleena (6-8h seedunud veri)\n- hematokeesia (värske veri väljaheites)\n- üldsümptomid (verekaotusest tingitud)\n\nPEPTILISE HAAVANDI VEREJOOKS\nDIAGNOSTIKA\n1) gastroskoopia\n - peab toimuma 24h jooksul \n - enne uuringut manustada i/v PPI + Cerucal\n - haavandi retsidiivi riski kirjeldatakse endoskoopial Forresti klassifikatsiooni alusel:\n\nIa - pritsiv verejooks\nIb - nõrguv verejooks\nIIa - nähtav veresoon haavandi põhjas (veritsust pole)\nIIb - hüübega kaetud haavand (veritsust pole)\nIII - puhta põhjaga haavand\n\n-› I ja II klass - kõrge retsidiivi riskiga, vajavad kohest käsitlust\nRAVI\n1) konservatiivne ravi\n - infusioon\n - PPI\n - lisa O2\n - verekomponendid\n\n2) endoskoopiline ravi\n - injektsioonid (adrenaliin, trombiin, sklerosant - alkohol)\n - termilised meetodid (diatermia)\n - hemostaatilised klipsid\n -› tihti kombineeritakse erinevaid endoskoopilisi meetodeid\n\n3) angiograafiline ravi\n - selle korral emboliseeritakse veritsev soon\n - näidustus: pärast 2 ebaõnnestunud endoskoopilise ravi katset\n - plussid: vähem komplikatsioone võrreldes kirurgiaga, tehtav ka HD ebastabiilsetel patsientidel\n\n4) kirurgiline ravi\n - veritseva haavandi üleõmblus (Z-õmblus)\n - näidustus: kui verejooksu ei õnnestu peatada nii endoskoopilisel kui ka angiograafilisel protseduuril\n\nMALLORY-WEISS SÜNDROOM\n- tugeva oksendamise tõttu tekkinud 1-4cm limaskesta longitudinaalne rebend mao-söögitoru ühenduse läheduses\n- alkohoolikutel!\n- 90% verejooksudest peatub ise\n\nDIAGNOSTIKA\n1) ösofagogastroskoopia\n\nRAVI\n1) konservatiivne (toetav) ravi\n2) endoskoopiline ravi\n3) kirurgiline ravi",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9b9ab44ffe44",
+      "section": "uldkirurgia",
+      "question": "Kõhuõõne abstsessid (subdiafragmaalne, sooltevaheline, Douglase õõne abstsess) - kliinik + diagnostika + ravi",
+      "choices": {},
+      "answer": "KÕHUÕÕNE ABSTSESSID\n- koosnevad koejäätmetest, bakteritest, neutrofiilidest, makrofaagidest ja eksudatiivsest vedelikust - ümbritsetud fibriinkapsliga\n\n- abstsessi asukoht oleneb infektsiooniallikast ja äravoolu suunast\n\n- abstsessi tekkele eelneb hiljutine kõhuõõne operatsioon, abdominaalne trauma või peritoneaalne sepsis\n\n\nKLIINIK\n- palavik, halb enesetunne\n- isutus\n- valu abstsessi piirkonnas \n- võimalik ka palpeeritav mass\n\n-› subdiafragmaalsed abstsessid võivad anda respiratoorseid sümptomeid (köha, düspnoe, pneumoonia jms)\n\n-› Douglase õõne abstsessid võivad põhjustada urineerimisprobleeme (pidamatus), kõhuprobleeme (kinnisus/lahtisus)\n\n\nDIAGNOSTIKA\n1) vereanalüüsid\n - põletikunäitajad (CRV, ESR, leukotsütoos)\n2) röntgen\n3) KT\n4) UH\n\n\nRAVI\n1) abstsessi drenaaž\n - tehakse ›2cm abstsesside korral\n - perkutaanselt või kirurgiliselt\n\n2) AB-ravi\n - kasutusel rohkem ‹2cm abstsesside puhul",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "96dea703cf9c",
+      "section": "uldkirurgia",
+      "question": "doonori veres leiduvad leukotsüütide HLA-vastased antikehad, mis reageerivad patsiendi neutrofiilidega põhjustavad",
+      "choices": {},
+      "answer": "Ägeda transfusiooniga seotud kopsuhaigust (TRALI)",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "39e125996e8a",
+      "section": "uldkirurgia",
+      "question": "millised anatoomilised osad tagavad söögitoru alumise sfinkteri normaalse toimimise (ja seega refluksi ärahoidmise)?",
+      "choices": {},
+      "answer": "1) diafragma sääred\n2) sfinkteri lihas\n3) Hisi nurk\n\n-› nt söögitoru libiseva songa korral on 2 komponenti 3-st häirunud (diafragma sääred + Hisi nurk) -› tekib refluks",
+      "type": "open",
+      "sources": [
+        "quizlet:975767265"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4f8bc06c3afb",
+      "section": "uldkirurgia",
+      "question": "peptilise haavandi perforatsiooni diagnostikas mis täpseim? (KT, MRT, tühiülesvõte Rö, Rö+kontrast) (või on KT TÄPSEM?)",
+      "choices": {},
+      "answer": "KT (kompuutertomograafia) on kõige täpsem. Püstine kõhu/rindkere natiivülesvõte näitab vaba õhku, kuid KT on tundlikum, eriti väikese vaba gaasi koguse puhul.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "b1a9e96babb9",
+      "section": "uldkirurgia",
+      "question": "mis on apenditsiiti diagnoosimise nurgakivi (valu paremal alakõhus: valu, mis migreerib ühe kõhuosast teise, ükski nendest)",
+      "choices": {},
+      "answer": "Valu migratsioon — algselt periumbilikaalne/epigastriaalne valu, mis nihkub paremasse alakõhtu (McBurney punkti). See klassikaline valu rändamine on diagnoosi nurgakivi.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "f75e473d4d5d",
+      "section": "uldkirurgia",
+      "question": "protsess, mille käigus kroonilises haavandid, krooniliselt traumatiseeritud koes või armkoes hakkab arenema maliigne protsess",
+      "choices": {},
+      "answer": "M. Marjolini",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "442dc27f8f3a",
+      "section": "uldkirurgia",
+      "question": "Vastsündinutel ja imikutel kuni 4.elukuuni ei tehta antikehade sõeltesti indirektse antiglobuliintesti abil, neil tuleb teha ....",
+      "choices": {},
+      "answer": "Vastsündinutel ja imikutel kuni 4.elukuuni ei tehta antikehade sõeltesti indirektse antiglobuliintesti abil, neil tuleb teha direktne ehk otsene antiglobuliintest (DAT). Otsese Coombsi (direktse antiglobuliin) testiga hinnatakse erütrotsüütide pinnale kinnitunud IgG tüüpi antikehade ja/või komplemendi komponendi C3 olemasolu.",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9183be779fc5",
+      "section": "uldkirurgia",
+      "question": "Nahanäsa\nDermatofibroom\nNeurofibroom\nSeborröakeratoos\nBeniigsed nahamanuste tuumorid\nEpidermoidtsüst (ateroom)\nKarvanääpsutsüst\nSõrme müksoidtsüst",
+      "choices": {},
+      "answer": "1. seeneke\n2. fibroplastide proliferatsioon, Tihke, väheliigutatav, hüperpigmenteerunud sõlmeke 0,3-1 cm\n3. neuromesenhümaalsest koest lähtunud nahatuumor\n4. ebaküpsete keratinotsüütide proliferatsioon\n5. roosa, sinakas\n6. Ateroom. sageli keskel nö. fistliava\n7. Trihhilemmitsüst, eelmisega sarnane, peapiirkonnas\n8. Limatsüst, liigesvedelik",
+      "type": "open",
+      "sources": [
+        "quizlet:924561195"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "26ad367652f9",
+      "section": "uldkirurgia",
+      "question": "Allogeenne organsiirdamine. Äratõukereaktsiooni, mida iseloomustab siiriku arterite silelihaskihi hüpertroofia ja kiirenenud ateroskleroos, mis omakorda viivad arterite valendike ahenemiseni ja seetõttu parenhüümi funktsiooni häireni nim",
+      "choices": {},
+      "answer": "Krooniline äratõukereaktsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:809116268"
+      ],
+      "source_count": 1
+    }
+  ]
+}

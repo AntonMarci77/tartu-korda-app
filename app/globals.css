@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ut-navy: #1B365D;
+  --ut-dark: #2C5697;
+  --ut-medium: #517DB9;
+  --ut-light: #96C8E6;
+  --ut-orange: #FF5725;
+}
+
+html, body {
+  height: 100%;
+  background: #F5F8FC;
+  color: #14233F;
+}
+
+body {
+  font-feature-settings: "kern", "ss01";
+  -webkit-font-smoothing: antialiased;
+}
+
+input, select, textarea, button {
+  font-size: 16px;
+}
+
+@media (min-width: 768px) {
+  input, select, textarea, button {
+    font-size: 14px;
+  }
+}
+
+*:focus-visible {
+  outline: 2px solid var(--ut-dark);
+  outline-offset: 2px;
+}
+
+@media print {
+  .no-print { display: none !important; }
+  body { background: white; }
+}
+
+.scroll-thin::-webkit-scrollbar { width: 8px; height: 8px; }
+.scroll-thin::-webkit-scrollbar-thumb { background: rgba(81, 125, 185, 0.4); border-radius: 4px; }
+.scroll-thin::-webkit-scrollbar-track { background: transparent; }
+
+/* Keep card flips snappy on mobile */
+.tap-highlight-none { -webkit-tap-highlight-color: transparent; }

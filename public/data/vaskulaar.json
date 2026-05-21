@@ -1,0 +1,4511 @@
+{
+  "section": "vaskulaar",
+  "count": 335,
+  "questions": [
+    {
+      "id": "715a5d4d8400",
+      "section": "vaskulaar",
+      "question": "ABI",
+      "choices": {
+        "a": "iseloomustab organismi vererõhku ja jäsemete perfusioonirõhku",
+        "b": "arvutatakse süst ja diast vererõhu jagatisena",
+        "c": "max hüppeliigese ja õlavarre süst vererõhu jagatise suhe",
+        "d": "min hüppeliigese ja max õlavarre"
+      },
+      "answer": "A. tibialis posteriori süstoolne vererõhk jagatuna a. brachialise vererõhuga.\n\n0.91...1.30 on norm.\n>1.30 -> sklerootiline arter, ABI ei sobi diagnostikaks.\n0.4...0.9 -> kerge...mõõdukas PAD.\n<0.4 -> raske PAD (III, IV staadium).",
+      "type": "mc",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024",
+        "quizlet:402840637",
+        "quizlet:923152585"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "7e240de74fb1",
+      "section": "vaskulaar",
+      "question": "AAA:",
+      "choices": {
+        "a": "kõige sagedasem on kotjas",
+        "b": "kõige sagedasem on fusiformne",
+        "c": "Suurem trombimass aneurüsmi kotis tõstab ruptuuri tõenäosust",
+        "d": "Väiksem trombimass tõstab ruptuuri tõenäosust"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024",
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "8c58679927be",
+      "section": "vaskulaar",
+      "question": "UH on",
+      "choices": {
+        "a": "aordianeurüsmi skriiningmeetod",
+        "b": "opereeritud aneurüsmi põhiline jälgimismeetod",
+        "c": "operaatorsõltuv ja seega pole veresoontekirurgias kasutatac"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:870677240",
+        "quizlet:923152585"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "e16e6b144d9a",
+      "section": "vaskulaar",
+      "question": "Ileokaalne flebotromboos",
+      "choices": {
+        "a": "peamine põhjustaja vaagnapiirkonna kasvaja",
+        "b": "tekitab sageli posttrombootilsit sündroomi",
+        "c": "sagedamini paremapoolne"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:870677240",
+        "quizlet:923152585"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "48f8c8dde653",
+      "section": "vaskulaar",
+      "question": "Vaskulaarse klaudikatsiooniga pt",
+      "choices": {
+        "a": "vajab suunamist neurokirurgile,",
+        "b": "niudearteri ahenemise sulgus",
+        "c": "esineb sagemini noortel meestel",
+        "d": "vajalik on riskifaktorite korrektsioon ja konservatiivne ravi"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:870677240",
+        "quizlet:923152585"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "5c0454c9ea50",
+      "section": "vaskulaar",
+      "question": "Sildavad (bypass) operatsioonid:",
+      "choices": {
+        "a": "enamasti kasutatakse ägeda isheemia ja flebotromboosi ravis",
+        "b": "proteesi ja alloveeni kombinatsioon on transplantandi esmavalik",
+        "c": "suur nahalune autoveen on parim transplantaat",
+        "d": "kasutatakse arteri lühikeste kahjustuste (stenoos) ravis"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:870677240",
+        "quizlet:923152585"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "e3627a849a97",
+      "section": "vaskulaar",
+      "question": "Kroonilise kriitilise isheemia mõiste",
+      "choices": {
+        "a": "arteriaalse verevarustuse häire rohkem kui 2 nädalat",
+        "b": "arteriaalse verevarustuse häire rohkem kui 3 kuud",
+        "c": "arteriaalse verevarustuse häire vähem kui 2 nädala"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:870677240",
+        "quizlet:923152585"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "aee265b915df",
+      "section": "vaskulaar",
+      "question": "Iliakaalse flebotromboosi sagedaseim põhjus",
+      "choices": {
+        "a": "tuumor vaagnas",
+        "b": "operatsiooni või raseduse järgselt",
+        "c": "vaagna trauma"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:870677240",
+        "quizlet:923152585"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "0b2e6407e2fb",
+      "section": "vaskulaar",
+      "question": "Alajäseme kroonilise isheemia ravi eesmärk on",
+      "choices": {
+        "a": "ateroskleroosi protsessi mõjutamine",
+        "b": "kardiovaskulaarsete riskide ja klaudikatsiooni vähendamine",
+        "c": "operatiivne ravi e. definitiivne ravi"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:870677240",
+        "quizlet:923152585"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "c9eae07ef425",
+      "section": "vaskulaar",
+      "question": "Venoosne klaudikatsioon, milline väide on õige",
+      "choices": {
+        "a": "esineb rohkem reies ja tuharas",
+        "b": "ravi põhiliselt konservatiivne",
+        "c": "ravi i/a kateeterjuhitud trombolüüs"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:870677240",
+        "quizlet:923152585"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "7380d1a6527e",
+      "section": "vaskulaar",
+      "question": "Ühel patsiendil tekkisid vähem kui 12h tagasi surinad paremas jalas, kuid valu ega motoorset defitsiiti ei olnud. Paar aastat tagasi on tehtud femoro-popliteaalne bypass paremas jalas. Millega see tõenäoliselt tegu on?",
+      "choices": {
+        "a": "flebotromboosist tekkinud turse tõttu arter komprimeeritud ja seepärast sellised sümptomid",
+        "b": "mõlemad popliteaararterid tromboseerunud, kuid paremal rohkem avaldunud sümptomid",
+        "c": "šunti äge tromboos",
+        "d": "neuroloogiline defitsiit"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:870677240",
+        "quizlet:923152585"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "e908389d4bbf",
+      "section": "vaskulaar",
+      "question": "DSA",
+      "choices": {
+        "a": "tänapäeval peamine diagnostikameetod",
+        "b": "võimalike komplikatsioonide tõttu ei kasutata sageli",
+        "c": "valikmeetod põlveliigesest dist olevate lesioonide diagnostikaks ja raviks",
+        "d": "valikmeetod põlvest proks"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "46ae1d85f52b",
+      "section": "vaskulaar",
+      "question": "AAA op näidustus",
+      "choices": {
+        "a": "alla 5 cm",
+        "b": "üle 5,5 cm meestel ja üle 5,2 cm naistel või sümptomaatiline,",
+        "c": "ebamugavustunne kõhus ja perekonnaajalugu"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d3a5eb60b452",
+      "section": "vaskulaar",
+      "question": "Kompuuterangio on",
+      "choices": {
+        "a": "peamine diagnostika perifeerse jalahaiguse korral",
+        "b": "perioperatiivselt tähtis",
+        "c": "oluline diagnoosi täpsustamiseks ülalpool põlve"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "cb7f5efee389",
+      "section": "vaskulaar",
+      "question": "Unearteri stenoos",
+      "choices": {
+        "a": "sümptomite korral alati vajalik kirurgiline ravi",
+        "b": "asümpt üle 50% stenoosi korral esmavalik stentimine",
+        "c": "vajalik eluaegne statiin ja antiagregant",
+        "d": "stentimise järgselt eluaegne topeltantiagregant ja statiin"
+      },
+      "answer": "c) vajalik eluaegne statiin ja antiagregant",
+      "type": "mc",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "1c54a5be7732",
+      "section": "vaskulaar",
+      "question": "Kõhuaordi aneurüsm",
+      "choices": {
+        "a": "pooled kotjad ja pooled fusiformsed",
+        "b": "mitmete kaasvuate haigusete esinemisel on evar vastunäidustatud",
+        "c": "EVAR korral on kolmanda tüübi endoleke kõige sagedasem",
+        "d": "EVAR on näidustatud sobiva anatoomia ja kõrge opiriski korral"
+      },
+      "answer": "d) EVAR on näidustatud sobiva anatoomia ja kõrge opiriski korral",
+      "type": "mc",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "f1ffe91c66e3",
+      "section": "vaskulaar",
+      "question": "Vaskulaarne klaudikatsioon",
+      "choices": {
+        "a": "põhjuseks väga sageli diabeet",
+        "b": "iseloomulik on et horisontaalasendis kaebused süvenevad",
+        "c": "haarab tavaliselt korraga tuharat, reit ja sääremarja",
+        "d": "näidustatud on ABI määramine"
+      },
+      "answer": "d) näidustatud on ABI määramine",
+      "type": "mc",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "7cbb94c76628",
+      "section": "vaskulaar",
+      "question": "Kõhuõõne kompartmentsündroom",
+      "choices": {
+        "a": "mis juhtub",
+        "b": "ravi",
+        "c": "kui sageli esineb"
+      },
+      "answer": "a. Kõhusisese rõhu tõus >20 mmHg koos uute organpuudulikkuse nähtude tekkega\nb. vajadusel teha dekomprimeeriv laparotoomia või jätta kõhuõõs lahti, kõhuõõne sulgemine koos võrgu ja vaakumaspiratsiooniga\nc. Esineb 10-55% peale AAA ruptuuri kirurgilist ravi",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789",
+        "quizlet:907284931"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "04c86881ae4b",
+      "section": "vaskulaar",
+      "question": "Neerupuudulikkus ja kontrastaine",
+      "choices": {
+        "a": "enne ja pärast kontrastiga uuringut tuleb kõik pt.-d hüdreerida,",
+        "b": "kontrastiga uuring on vastunäidustatud kerge neerupuudulikkusega",
+        "c": "mõõdukalt langenud fn kontrastaine manustamine keelatud,",
+        "d": "neerupuudulikkusega pt tuleb enne ja pärast kontrastiga uuringut hüdreerida"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "3c9c793cf7d6",
+      "section": "vaskulaar",
+      "question": "Reperfusiooni sündroomi korral analüüsides:",
+      "choices": {
+        "a": "müoglobineemia ja hüorkaleemia",
+        "b": "müoglobinuuria ja hüperkaleemia",
+        "c": "hüpernatreemia ja hüperkaleemia"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "0f3be58e9bcb",
+      "section": "vaskulaar",
+      "question": "Kroonilise kriitilise isheemia definitsioon",
+      "choices": {
+        "a": "Äge tromboos või embol alla 2 näd",
+        "b": "Rahuolekuvalud alla 2 nädala",
+        "c": "Klaudikatsioon alla 20 meetri",
+        "d": "Haavand/gangreen või rahuolekuvalud üle 2 nädala"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "8af70612b8e3",
+      "section": "vaskulaar",
+      "question": "Kroonilist kriitilist isheemiat iseloomustab:",
+      "choices": {
+        "a": "gangreen või rahuolekuvalud üle 2 nädala",
+        "b": "Klaudikatsioon く20",
+        "c": "Äge tromboos või embol alla 2 nädala"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "e3b4624038ec",
+      "section": "vaskulaar",
+      "question": "Mis on abdominaalse aordi aneurüsmi op-näidustus:",
+      "choices": {
+        "a": "AAA > 3 cm",
+        "b": "Asümptomaatilise puhul mehel > 55mm, naisel >52 mm, või sümptomaatiline (s.h. ruptuur)",
+        "c": "AAA > 5 cm"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "5978d9485a99",
+      "section": "vaskulaar",
+      "question": "Milline väide vastab tõele ägeda alajäseme isheemia kohta",
+      "choices": {
+        "a": "ABI alla <0,4 ja midagi veel...",
+        "b": "Igal juhul on ravimeetodiks trombolüüs",
+        "c": "Mingi haavandite jutt oli ka",
+        "d": "Konsulteerid veresoontekirurgiga"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "ed35814808e2",
+      "section": "vaskulaar",
+      "question": "Mis on PADi (perifeersete arterite haiguse) kirurgilise ravi eesmärk",
+      "choices": {
+        "a": "Tüsistuste vältimine",
+        "b": "Ateroskleroosi protsessi pidurdamine"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "529fea1ce662",
+      "section": "vaskulaar",
+      "question": "Süvaveeni tromboos (flebotromboos) a) enamasti seotud alajäsemete arterite operatiivse ravijärgse lamamisrežiimiga,",
+      "choices": {
+        "b": "iseloomulik on langenud D-dimeeride tase,",
+        "c": "põhjustab jäseme valu, paistetust ja jahedust (NB! jäse on tegelt soe!),",
+        "d": "ägedas perioodis on näidustatud antikoagulantravi"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "65a892807d0e",
+      "section": "vaskulaar",
+      "question": "Karotiidarteri (ehk unearteri) endarterektoomia (okluseeriv naast lõigatakse vereroonest koos soone seesmise kihiga välja) näidustus",
+      "choices": {
+        "a": ">70% sümptomaatiline ahenemine on kuldne standard operatsiooniks",
+        "b": "Opereeri asümptomaatiline",
+        "c": "50% stenoosi korral stentimine",
+        "d": "Sümptomite korral alati näidustatud kirurgiline ravi"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "feb957a01e9e",
+      "section": "vaskulaar",
+      "question": "Ühel patsiendil tekkisid vähem kui 12h tagasi surinad paremas jalas, kuid valu ega motoorset defitsiiti ei olnud. Paar aastat tagasi on tehtud femoro-popliteaalne bypass paremas jalas. Millega see tõenäoliselt tegu on?\n- Eelneva patsiendi vereanalüüsid",
+      "choices": {
+        "a": "Hüpokaleemia ja müoglobineemia",
+        "b": "Hüperkaleemia ja hüpernatreemia",
+        "c": "Hüperkaleemia ja müoglobineemia",
+        "d": "Hüperglükeemia ja müoglobineemia"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "051a313e1f8d",
+      "section": "vaskulaar",
+      "question": "Ühel patsiendil tekkisid vähem kui 12h tagasi surinad paremas jalas, kuid valu ega motoorset defitsiiti ei olnud. Paar aastat tagasi on tehtud femoro-popliteaalne bypass paremas jalas. Millega see tõenäoliselt tegu on?\n- Mis on korrektne järgnev käsitlus?",
+      "choices": {
+        "a": "Tõenäoline šunditromboos, teeme eelnevalt angiograafia ja vajadusel kohe",
+        "b": "Kuna sümptomid tekkinud järsku, siis kohe operatsioonisaali",
+        "c": "Kuna valu ei ole, võib patsiendi saata koju",
+        "d": "Anda patsiendile ambulatoorse vastuvõtu aeg"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "4cf4c3dff351",
+      "section": "vaskulaar",
+      "question": "KTA",
+      "choices": {
+        "a": "On peamine uuring alajäsemete arterite haiguste ja AAA aneurüsmi kirurgilise endovaskulaarse ravi planeerimisel",
+        "b": "On esmane mitteinvasiivne uuring unearteri stenoosi korral (mkm, UH)",
+        "c": "On pemaine uuring alajäseme arterite haiguste endovaskulaarse ravi planeerimisel",
+        "d": "Neeruhaiguste korral ei kasutata"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai",
+      "explanation": "KT-angiograafia on peamine planeerimisuuring nii alajäseme arterite haiguse kui ka kõhuaordi aneurüsmi endovaskulaarse ravi (EVAR) ees. b on vale (unearteri esmane uuring on UH), d on vale."
+    },
+    {
+      "id": "5fe774c792e4",
+      "section": "vaskulaar",
+      "question": "UH uuring",
+      "choices": {
+        "a": "Teostada kõikidele >60 a vms M AAA skriinimiseks",
+        "b": "On vajalik kõhuaordi aneurüsmi planeerimisel (vale, KT)",
+        "c": "On peamine uuring kõhuaordi aneurüsmi sõeluuringutes",
+        "d": "Peamine uuring aordi mistahesosa diagnostikaks"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai",
+      "explanation": "Ultraheli on kõhuaordi aneurüsmi sõeluuringu kuldstandard (lihtne, ohutu, odav). a on vale, sest skriinitakse 65–75 a (suitsetanud) mehi, mitte 'kõiki >60'; b ja d on valed (aordi täppis- ja op-planeerimise uuring on KT)."
+    },
+    {
+      "id": "9894c0a5a7b0",
+      "section": "vaskulaar",
+      "question": "Fastsiotoomia",
+      "choices": {
+        "a": "millised lõiked",
+        "b": "mitu kompartmenti",
+        "c": "näidustused",
+        "d": "mida lisaks pt heaks teha"
+      },
+      "answer": "a. Vabastatakse 4 kompartmenti kahe lõikega (mediaalne ja lateraalne, kumbki kahe kompartmenti piiril)\nb. Vabasta kõik sääre 4 kompartmenti! -> vastasel juhul soodustad kompartmentsündr. arengut!\nc. Näidustused:\nTäieliku isheemia kestus >4-6h\nPreoperatiivne shokk\nLihas palpatsioonil tihke\nLangenud sensoorne ja motoorne funktsioon\nKompartmendi rõhk >20 mmHg\nDiastoolne RR - kompartmendi rõhk <30 mmHg\nValu on ebaproportsionaalne vaskulaarse kahjustuse ulatusega\n\nd. jäseme adekvaatne perfusioon, organismis piisav hüdreerimine, uriini alkaliseerimine, müoglobiini ja hapaniku vabade radikaalide taseme vähendamine",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "46f17f646b64",
+      "section": "vaskulaar",
+      "question": "Pertese katse",
+      "choices": {
+        "a": "testime mida",
+        "b": "protsess"
+      },
+      "answer": "a. testitakse süvaveenide läbitavust\nb. Žgutt reie ülemisele ⅓ -> haige marsib -> kui veenid tühjenevad, siis süvaveenid läbitavad.",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "84456407d831",
+      "section": "vaskulaar",
+      "question": "Flebotromboos",
+      "choices": {
+        "a": "mis on",
+        "b": "mis võib kujuneda sek.",
+        "c": "kuidas nim -> miks",
+        "d": "mis esineb kuni pooltel SVT pt"
+      },
+      "answer": "a. trombi moodustumine veenis (sõltumatuna flebiidist)\nb. Flebiit võib kujuneda sekundaarselt\nc. \"Silent killer\": kl. tunnuste alusel võimatu prognoosida, millisel SVTga pt ja kui kiiresti areneb eluohtlik KATE\nd. posttrombootiline sündroom",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ccc764bf6c08",
+      "section": "vaskulaar",
+      "question": "Kõhuaordi ravi",
+      "choices": {
+        "1": "mis pt ise peab tegema",
+        "2": "Farmakoteraapia"
+      },
+      "answer": "1. suitsetamisest loobumine\n\n2. Statiinid - vähendab kardiovaskulaarset haigestumust\nBeeta-blokaatorid - soovituslikud kaasuva südame isheemiatõve korral\nAntiagregantravi\nAntihüpertensiivsed preparaadid - kõrge RR korral vähendamaks kardiovask. Haigestumist",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bf50a5cab129",
+      "section": "vaskulaar",
+      "question": "Ultraheliuuring",
+      "choices": {
+        "a": "on vajalik teostada kõigile 60-65a meestele AAA skriinimiseks",
+        "b": "kirurgilise ravi planeerimiseks",
+        "c": "peamine uuring kõhuaordi aneurüsmide sõeluuringutes",
+        "d": "peamine uuring aordi mistahes osa aneurüsmide diagnostikas"
+      },
+      "answer": "c) peamine uuring kõhuaordi aneurüsmide sõeluuringutes",
+      "type": "mc",
+      "sources": [
+        "quizlet:923152585"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b76b5a19550d",
+      "section": "vaskulaar",
+      "question": "Endarterektoomia",
+      "choices": {
+        "a": "millal ja kus teha",
+        "b": "variandid",
+        "c": "Ühisreiearteri endarterektoomia - kui hea, kui suure riskiga",
+        "d": "Süvareiearteri endarterektoomia - eelistatum võrreldes millega, omab väärtust millal"
+      },
+      "answer": "a. Soovituslik sobiva isoleeritud kahj. korral aortoiliakaalsegmendis (väiksem suremus, vähem tüsistusi)\nb. Ühisreiearteri endarterektoomia & süvareiearteri endarterektoomia\nc. Väga heade tulemustega, väikse riskiga standardop selles paikme\nd. Eelistatum võrreldes endovaskulaarse raviga\nOmab väärtust põlveliigese säilitamisel amputatsiooni korral",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "995d26e6ca80",
+      "section": "vaskulaar",
+      "question": "Kirurgiline ravi",
+      "choices": {
+        "a": "preop teeme mida",
+        "b": "kehatemp. milline -> mida vähem",
+        "c": "enim kasutatakse milliseid proteese",
+        "d": "Kui niudearterid pole haaratud -> eelistatuim ...",
+        "e": "Kui niudearterid ka aneurüsmaatilised"
+      },
+      "answer": "a. Preoperatiivne antibakteriaalne profülaktika - 30min enne nahalõiget vähendab proteesi varajast ja haava inf.\nb. Kehatemp. hoidmine >36℃ -> vähendab perioperatiivseid tüsistusi\nc. Enim kasutatakse kootud dakroonist proteese (immutatud)\nd. Kui niudearterid pole haaratud -> eelistatuim lineaarne aordi proteesi konfiguratsioon\n- Lühem operatsiooni aeg, väldib ureeteri, niudeveenide ja parasümpaatiliste närvide vigastust\ne. Kui niudearterid ka aneurüsmaatilised -> kasutame Y-kujulist proteesi\n- Suurem oht haavainfektsiooni, proteesi tromboosi ja pseudoaneurüsmide tekkeks",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "101a87adbb1f",
+      "section": "vaskulaar",
+      "question": "Operatiivne ravi",
+      "choices": {
+        "a": "kuidas nimetatakse",
+        "b": "mida teeme",
+        "c": "Oklusioon ->",
+        "d": "veeniklapiprobleem ->",
+        "e": "pärast opi"
+      },
+      "answer": "a. Flebektoomia\nb. haigete veenide eemald. üksikult/koos pindmise jalaveeniga (v. saphena magna/ parva)\n- Profülaktiline/sümpt./kosmeetilise defekti ravi\nc. stent\nd. klapiplastika\ne. kompressioonsukad",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "54795c1eeb13",
+      "section": "vaskulaar",
+      "question": "UH-Doppler uuring",
+      "choices": {
+        "a": "mille esmadgn",
+        "b": "mida näeme",
+        "c": "Stenoosi ulatus (%) arvutamine"
+      },
+      "answer": "a. A. carotis'e stenoosi/oklusiooni esmadiagnoos\nb. Aterosklerootilise naastu lokalisatsioon, konsistents ja iseloom, pinna struktuur\nc. NASCET: (terve carotis'e diameeter - stenoosi diameeter)/ terve carotis'e diameeter\nECST: (carotis'e seina hinnanguline diameeter - stenoosi d)/carotis'e seina hinnanguline d",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bceaadaf7149",
+      "section": "vaskulaar",
+      "question": "Kõhuaoridaneurüsm",
+      "choices": {
+        "a": "Pooled on kotjad (ühelepoole välja, rohkem disponeeritud ruptureerimisele) ja pooled fusiformsed (ühtlased laienenud, sagedamini)",
+        "b": "Mitmete kaasuvate haiguste esinemisel on ka evar vastunäidustatud",
+        "c": "EVAR korral on 3 tüüpi endolekke on sagedaseim - vale (2 on sagedasem tegelt)",
+        "d": "EVAR on näidustatud sobiva anatoomia ja kõrge operatsiooni riski korral"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai",
+      "explanation": "EVAR on näidustatud, kui anatoomia on sobiv ja operatsioonirisk kõrge. a vale (enamik AAA on fusiformsed), b vale (kaasuvad haigused pigem soosivad EVAR-it), c vale (sagedaseim on II tüüpi endoleke)."
+    },
+    {
+      "id": "df534a2efb96",
+      "section": "vaskulaar",
+      "question": "Kõhuaordianeurüsm",
+      "choices": {
+        "a": "Esineb supra ja infrarenaalsel kõhuaordil (vale, infrarenaalsel)",
+        "b": "Haarab enamasti kõhuaordi bifukatsiooni (ei)",
+        "c": "Esineb koos alajäseme arterite haigusega (võib, aga ei pruug)",
+        "d": "Distaalse embolisatsiooni tõttu võimalik alajäseme äge isheemia"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai",
+      "explanation": "Aneurüsmikotist lähtuv distaalne embolisatsioon võib põhjustada alajäseme ägedat isheemiat. a vale (esineb peamiselt infrarenaalselt), b vale, c ebakindel ('võib, aga ei pruugi')."
+    },
+    {
+      "id": "6fc18f819112",
+      "section": "vaskulaar",
+      "question": "Isheemiline insult",
+      "choices": {
+        "a": "alguses -> tundide/päevade jooksul",
+        "b": "põhjus",
+        "c": "Taastumine sõltub"
+      },
+      "answer": "a. Alguses tagasihoidlik neurol. düsfunktsioon -> tundide/päevade jooksul neurol. sümptomid süvenevad kuni märkimisväärse ajuinfarktini (aju parenhüümi kahjustus)\nb. Põhjus: pidev embolisatsioon/ kasvav tromb/ insuldi tsoonis sek. tromboos, arenev turse või hemorraagia\nc. Taastumine sõltub akuutse isheemia järgse turse vähenemisest, kollateraalidest, aju teiste osade adaptatsioonivõimest",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "be13ac8ae31f",
+      "section": "vaskulaar",
+      "question": "Trendelenburgi test",
+      "choices": {
+        "a": "mille dif.dgn",
+        "b": "protsess"
+      },
+      "answer": "a. kas probleem pindmistes, ühendus- või süvaveenides\nb. Lase pindmistel veenidel tühjeneda (pt lamab, jalg kõrgel) -> suru v. saphena magna kinni\n1. Pt tõuseb püsti -> pindmised veenid täituvad kiiremini -> probleem süva/ühenduseveenides\n- Pindmised veenid tühjenevad süvaveenidesse, vastupidi liikumine klappidega takist.\n2. 20 sek. hiljem vabastatakse žgutt (pindmised veenid pole kiiresti täitunud) -> täituvad kiiresti -> tegemist pindmiste veenide probleemiga",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a62748f06e8e",
+      "section": "vaskulaar",
+      "question": "Konservatiivne ravi",
+      "choices": {
+        "a": "millal",
+        "b": "mida teha",
+        "c": "abivahendid"
+      },
+      "answer": "a. väikesed kaebused\nb. Hoida jalgu üleval, vältida istumist 1 jalg üle teise ja kõrgeid kontsi, harjutused veenivaevuste leevend.\nc. Abivahendid: elastsed sidemed, elastsed sukad (sukad, põlvikud, sukkpüksid) -> hoiavad ära turset",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "475dac877896",
+      "section": "vaskulaar",
+      "question": "Sildavad operatsioonid",
+      "choices": {
+        "a": "kasutatakse vaid siis kui konservatiivne ravi ebaefektiivne",
+        "b": "parimad bypass läbitavuse tulemused on auto-allo venotransplantaadi kasutamisel",
+        "c": "pikaaegne läbitavus parim alla põlveliigese oppidel",
+        "d": "kasutatakse arterite pikkade või lühikeste haiguste raviks??"
+      },
+      "answer": "b) parimad bypass läbitavuse tulemused on auto-allo venotransplantaadi kasutamisel",
+      "type": "mc",
+      "sources": [
+        "quizlet:923152585"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3476b68b5620",
+      "section": "vaskulaar",
+      "question": "Alajäseme äge isheemia",
+      "choices": {
+        "a": "ei teki antikoagulantravil olevatel pt-l",
+        "b": "trombolüüsi järgselt sageli jäseme kompartmentsündroom",
+        "c": "2a staadiumis labajala proks osa tundehäired",
+        "d": "võib tekkida antitrombootilise ravi foonil"
+      },
+      "answer": "d) võib tekkida antitrombootilise ravi foonil",
+      "type": "mc",
+      "sources": [
+        "quizlet:923152585"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "86a321b070c4",
+      "section": "vaskulaar",
+      "question": "Kõhuaordi aneurüsmi dgn",
+      "choices": {
+        "a": "Palpatsioon",
+        "b": "Auskultatsioon",
+        "c": "radiol. uurimine"
+      },
+      "answer": "a. Palpatsioon\n- Aordi bifurkatsiooni kohal pulseeriv tuumor, väikse diameetriga ja adipoossetel raskem\nDiferentseerida: kõrgema vererõhuga (kõhnadel) haigetel aordi pulsatsioonid tugevamad, elongeerunud aort, tuumor, mis paikneb aordi ees (nt. pankrease tuumor).\n\nb. Auskultatsioon\n- Kahin AAA kohal ja distaalsemal\nDiferentseerida: aortokavaalne fistel, aterosklerootiline aort või stenootilised vistseraalarterid\n- Tuleb uurida ka perifeerseid artereid (samaaegne aneurüsm võib esineda ka distaalsemal\n\nc. UH, kompuutertomograafiline (KT) angiograafia, digitaalsubtraktsioonangiograafia (DSA), magnetresonantstomograafiline (MRT) angiograafia, intravaskulaarne UH",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "924b34384935",
+      "section": "vaskulaar",
+      "question": "Avatud kirurgia (bypass)",
+      "choices": {
+        "a": "Absoluutsed VN:",
+        "b": "Suhtelised VN:"
+      },
+      "answer": "a.. agonaalne seisund, totaalne isheemiline kontraktuur, raske üldseisund mitteprogresseeruva kompenseeritud isheemia korral\nb. raske kaasuv haigus mitteprogresseeruva kompenseeritud isheemia korral",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "15e3d7df50a0",
+      "section": "vaskulaar",
+      "question": "Vertebrobasilaarne haigus",
+      "choices": {
+        "a": "Peamised sümptomid:",
+        "b": "lisaks sümptomid",
+        "c": "Trio üheskoos:",
+        "d": "sümptomid ühe- või kahepoolsed",
+        "e": "peamine probleem"
+      },
+      "answer": "a. tasakaaluhäire, pearinglus\nb. Neelamishäired, nägemishäired, mööduv hemiparees, düsfaasia, düsartria, segiolek, teadvuse kaotus, kukkumised, ataksia, sünkoop\nc. vertiigo + diploopia + tasakaaluhäired\nd. Sümptomid tavaliselt kahepoolselt\ne. Peamine probleem hüpoperfusioon stenoosist (embolid harvem)",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7c382b74b098",
+      "section": "vaskulaar",
+      "question": "Jäseme süvaveeni tromboos",
+      "choices": {
+        "a": "sage/harv?",
+        "b": "algab kust -> kuhu läheb",
+        "c": "nt kellel"
+      },
+      "answer": "a. sagedasem\nb. Algab sääre venoossest plexusest -> astsendeerub kubemeni\nc. Nt voodihaigetel kroonilistel kardiaalsetel patsientidel",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d66f9f15ec52",
+      "section": "vaskulaar",
+      "question": "Kudede isheemiline taluvus",
+      "choices": {
+        "a": "Sidekude",
+        "b": "Nahk ja nahaalune kude",
+        "c": "Vöötlihas ja perifeersed närvid"
+      },
+      "answer": "a. kuni 12 tundi\nb. 8-12 tundi\nc. täieliku isheemia tingimustes tekkivad pöördumatud muutused 4-6h jooksul",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c9ac694ec706",
+      "section": "vaskulaar",
+      "question": "Ileofemoraalne flebotromboos",
+      "choices": {
+        "a": "2 vormi",
+        "b": "sagedasem millal",
+        "c": "vasak-/parempoolne?"
+      },
+      "answer": "a. primaarne/sekundaarne\nb. Sagedasem operatsiooni/raseduse järgselt (trombotsüütide akt, voodis viibimine, kir. kahjustus)\nc. Vasakpoolne 3x sagedamini",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "77700aa3a49a",
+      "section": "vaskulaar",
+      "question": "Unearteri stenoosi ravi kohta",
+      "choices": {
+        "a": "kirurgiline ravi kuldstandard kui sümptomaatiline ja stenoos üle 70%",
+        "b": "kui on sümptomaatiline ja stenoos 70%, siis teed endarterektoomia"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5a809aeefe49",
+      "section": "vaskulaar",
+      "question": "Carotis stentimine (CAS) + BMT",
+      "choices": {
+        "a": "kelle puhul kasutada",
+        "b": "Stentimise puhul suurem risk ... -> kasutusel ...",
+        "c": "Näidustused",
+        "d": "Vastunäid."
+      },
+      "answer": "a. kõrge operatsiooniriskiga pt\nb. embolite tekkeks -> kasutusel kaitsevahendid: filtrid a. c. internas/debrise väljauhtumist võimaldavad vahendid + järgneb klopidogreel 6 näd.\nc. Restenoos, varasem kaela op/kiiritus, kõrge carotise hargnemine, kontralat. n. laryngeus paralüüs\nd. Väänlevad arterid, ebastab. (ekstensiivsed) naaastud",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0112e93d3a91",
+      "section": "vaskulaar",
+      "question": "Digitaalne subtraktioon (DSA):",
+      "choices": {
+        "a": "valikmeetod põlveliigesest proksimaalsemal olevate lesioonide diagnostikaks ja raviks",
+        "b": "Tänapäeval kasutusel olev peamine diagnostikameetod",
+        "c": "Võimalike komplikatsioonide tõttu ei kasutata sageli",
+        "d": "valikmeetod põlveliigesest distaalsemal olevate lesioonide diagnostikaks ja raviks"
+      },
+      "answer": "c) Võimalike komplikatsioonide tõttu ei kasutata sageli",
+      "type": "mc",
+      "sources": [
+        "quizlet:923152585"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a2e5b5481aee",
+      "section": "vaskulaar",
+      "question": "Kolme žguti katse Cooperi järgi",
+      "choices": {
+        "a": "testime mis veene",
+        "b": "protsess"
+      },
+      "answer": "a. testitakse ühendusveene\nb. Reiele 3 žgutti, žguttide vahel täituvad veenikomud puudulike ühendusveenide kaudu",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "730e4ca368b3",
+      "section": "vaskulaar",
+      "question": "Alajäseme arterite haiguse ravi",
+      "choices": {
+        "a": "Ravi eesmärgiks on jäseme säilitamine ja KV riski vähendamine",
+        "b": "Kõigil haigete lähisugulastel on vajalik AB indeksi määramine",
+        "c": "Medikamentoosne ravi on topelt antiagregant ravi",
+        "d": "Ravi eesmärgiks on jäseme kaebuste ja gangreeni riski vähendamine"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai",
+      "explanation": "Ravi kaks põhieesmärki on jäseme säilitamine ja kardiovaskulaarse riski vähendamine (riskitegurite korrektsioon). b vale (sugulaste rutiinne ABI-skriining pole näidustatud), c vale (PAD standard on üksik antiagregant, mitte topelt).",
+      "needs_review": true
+    },
+    {
+      "id": "362a7708c448",
+      "section": "vaskulaar",
+      "question": "Arteria subclavia steal-sündroom",
+      "choices": {
+        "a": "kus on oklusioon -> veri liigub kust kuhu -> mida põhj.",
+        "b": "reegline kummal pool -> sümptomid",
+        "c": "vererõhk?",
+        "d": "Sümptomite esinemisel näidustatud"
+      },
+      "answer": "a. A. subclavia alguskoha + enne a. vertebralis'e jagunemiskohta oklusioon -> veri liigub läbi Willise ringi a. vertebralis´e kaudu kätte -> arteris verevool vales suunas\nb. Reeglina vasakul poolel -> käe koormamisel vertiigo (peapööritus) ja presünkoop + teised aju tagumise osa isheemia nähud.\nc. Vererõhu mõõtmisel vb vasakul käel madalam RR\nd. revaskularisatsioon (kir. endovask)",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c46597d6ca70",
+      "section": "vaskulaar",
+      "question": "Aorto iliakaalsegmendi kahjustus:",
+      "choices": {
+        "a": "Diffuusne kahjustus - valikmeetod?",
+        "b": "Sobiv isoleeritud kahjustus - valikmeetod?"
+      },
+      "answer": "a. Diffuusne kahjustus -> valikmeetod sildamine (aorto-bifemoraalne)\nb. Sobiv isoleeritud kahjustus -> valikmeetod endarterektoomia",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9ef84b3c5ac3",
+      "section": "vaskulaar",
+      "question": "Digitaalsubtraktsioonangiograafia",
+      "choices": {
+        "a": "millised pt",
+        "b": "millal teeme"
+      },
+      "answer": "a. Stentimise patsiendid\nb. Kui mitteinvasiivsed uuringud ei anna ühest vastust",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1242971cea89",
+      "section": "vaskulaar",
+      "question": "Sildavad ehk bypass operatsioonid",
+      "choices": {
+        "a": "enamasti kasutatakse ägeda isheemia ravis",
+        "b": "biol kude transplantaadi esmavalik inf korral",
+        "c": "väike nahaalune veen sagedane transplantaadi materjal",
+        "d": "biol kude on transplantaadi esmavalik"
+      },
+      "answer": "d) biol kude on transplantaadi esmav",
+      "type": "mc",
+      "sources": [
+        "quizlet:923152585"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5550f2367fb0",
+      "section": "vaskulaar",
+      "question": "Mis on vaskulaarne klaudikatsioon?",
+      "choices": {
+        "a": "esinemissagedus tõuseb meeste vanusega",
+        "b": "suitsetamine mõjutab esinemissagedust mitte prognoosi",
+        "c": "suitsetamine mõjutab prognoosi mitte esinemissagedust",
+        "d": "esinemissagedus tõuseb meestel ja naistel vanusega"
+      },
+      "answer": "d) esinemissagedus tõuseb meestel ja naistel vanusega",
+      "type": "mc",
+      "sources": [
+        "quizlet:923152585"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8c70fa1295e0",
+      "section": "vaskulaar",
+      "question": "Alajäsemete arterite haiguste ravi",
+      "choices": {
+        "a": "ravi eesmärkideks on jäseme säilitamine ja kardiovask riski vähendamine",
+        "b": "kõigil haigete lähisugulastel on vajalik ABI määramine",
+        "c": "medikamentoosse ravi nurgakiviks topeltantiagregant",
+        "d": "ravi eesmärgiks jäseme kaebuste ja gangreeni tekkeriski vähendamine"
+      },
+      "answer": "a) ravi eesmärkideks on jäseme säilitamine ja kardiovask riski vähendamine",
+      "type": "mc",
+      "sources": [
+        "quizlet:923152585"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f9ffc12f6ce5",
+      "section": "vaskulaar",
+      "question": "Balloonangioplastika +/- stentimine",
+      "choices": {
+        "a": "millal kasutatakse",
+        "b": "eelised",
+        "c": "puudused"
+      },
+      "answer": "a. Eelistatud ravimeetod sobiva anatoomia korral, kas isoleerituna/koos distaalse revaskularisatsiooniga\nb. Väheinvasiivne\nc. Läbitavuse määrad madalamad kui kirurgia korral",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7f8ec4bfbcb3",
+      "section": "vaskulaar",
+      "question": "EVAR (Endovascular aneurysm repair)",
+      "choices": {
+        "a": "millal kasutusel",
+        "b": "milline meetod, kust stentprotees sisse viiakse -> kuhu stent paigaldatakse -> mis eesmärgiga",
+        "c": "Eelised avatud kirurgia ees:",
+        "d": "Puudused"
+      },
+      "answer": "a. valikmeetod\nb. Väheinvasiivne kirurgiline meetod, mille korral stentprotees viiakse reiearterite kaudu aorti -> aordis paigaldatakse stentprotees AAA sisse -> eesmärgiga eemaldada aneurüsmikott vereringest\nc. Lühem operatsiooniaeg, vajalik pole üldanesteesia, väiksem trauma, lühem hospitaliseerimise periood, väiksem vajadus intensiivraviks, väiksem verekaotus, madalam postoperatiivne 30-päeva suremus\nd. Tüsistused: endolekete esinemine (e. vere jätkuv voolamine aneurüsmikotti), hilisruptuuride, kordusinterventsioonide ja kontrastnefropaatia tekke oht",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "930d136290f7",
+      "section": "vaskulaar",
+      "question": "Süvaveeni tromboos (flebotromboos) -",
+      "choices": {
+        "a": "enamasti seotud alajäsemete arterite operatiivse ravijärgse lamamisrežiimiga",
+        "b": "iseloomulik on langenud D-dimeeride tase",
+        "c": "põhjustab jäseme valu, paistetust ja jahedust (NB! jäse on tegelt soe!)",
+        "d": "ägedas perioodis on näidustatud antikoagulantravi"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "106e96e6af1c",
+      "section": "vaskulaar",
+      "question": "TIA = transitoorne isheemiline atakk",
+      "choices": {
+        "a": "kui pikk, millest põhj.",
+        "b": "mis on, millest põhj.",
+        "c": "sümptomid",
+        "d": "Patogenees:"
+      },
+      "answer": "a. Lühike (<1-2h) neurol. düsfunktsiooni episood, mis on põhjustatud aju/silma võrkkesta isheemiast ilma püsiva ajuinfarktita (max 24h)\nb. Järsk neuroloogiline puudulikkus keskmiste või eesmiste ajuarterite sulgusest\nc. Kõnehäire, düsfaasia, motoorne/sensoorne kontralateraalne puud., mööduv pimedus (spets. sümpt.)\nd. Arteri stenoosi teooria - isheemia hüpotoonia/malperfusiooni foonil\nAju embolite teooria - haavandunud naastudest pärit embolid\nPeamine põhjus: turbulentne verevool -> embolid liiguvad ajju",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e14921815529",
+      "section": "vaskulaar",
+      "question": "Sisemise hemorroidi 2. staadiumi ravi",
+      "choices": {
+        "a": "kummiligatuur",
+        "b": "hemorroidektoomia",
+        "c": "UH kontrolli all hemorroidi varustava veresoone ligeerimine"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cb4288121090",
+      "section": "vaskulaar",
+      "question": "Posttrombootiline sündroom - käsitlus",
+      "choices": {
+        "a": "mis kõige olulisem",
+        "b": "mis ravimid + lisa asjad",
+        "c": "kohandada mida"
+      },
+      "answer": "a. Kõige olulisem preventsioon: vältida esimest SVT episoodi, PTS tekke ja korduva SVT, tromboflebiidi riski ↓\nb. Antikoagulantavi ja kompressioonsukad pärast SVT episoodi\nc. Elustiili kohandamine: kehakaalu langetamine, regulaarne füüsiline aktiivsus",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3c87ff485027",
+      "section": "vaskulaar",
+      "question": "Phlegmasia cerulea dolens - „grey leg\"",
+      "choices": {
+        "a": "süpmtomid",
+        "b": "kus tromb on",
+        "c": "milline haiguse staadium on -> milleks võib progresseeruda + kõrge risk milleks"
+      },
+      "answer": "a. jalg tsüanootiline, tugevalt turses, paresteesiad, ↓ lihasjõudlus\nb. Okluseerivad ka pindmised veenid\nc. Raskeim haiguse staadium, tugev isheemia, võib progres. venoosseks gangreeniks + kõrge risk KATEks",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b6c957326f8c",
+      "section": "vaskulaar",
+      "question": "Posttrombootiline sündroom - diagnostika",
+      "choices": {
+        "a": "millal diagnoositakse",
+        "b": "dgn mille alusel",
+        "c": "uuringud - millal olulised - mis uuringud"
+      },
+      "answer": "a. PTS diagnoositakse süvaveeni tromboosi läbi teinud patsiendil pärast ägeda faasi möödumist.\nb. Dgn eelkõige kl. pildi alusel\nc. Uuringud (olulised, kui pole olnud tromboosi episoodi): funktsionaalsed, duplex-UH, flebograafia",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1bb7e2d072bb",
+      "section": "vaskulaar",
+      "question": "10. Ankle-brachial pressure index (ABI):",
+      "choices": {
+        "a": "On maksimaalne hüppeliigese ja õlavarre süstoolse vererõhu jagatis b) Iseloomustab organismi vererõhku ja seeläbi ka jäseme perfusioonirõhku c) Arvutatakse süstoolse ja distaalse vererõhu jagatisena",
+        "d": "On minimaalne hüppeliigese ja maksimaalne õlavarre süstoolse vererõhu jagatis"
+      },
+      "answer": "a) On maksimaalne hüppeliigese ja õlavarre süstoolse vererõhu jagatis",
+      "type": "mc",
+      "sources": [
+        "quizlet:923152585"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ae76963b359c",
+      "section": "vaskulaar",
+      "question": "Ruptureerunud kõhuaordi aneurüsm - süpmtomid",
+      "choices": {
+        "a": "Diagnostiline triaad",
+        "b": "Teised sümptomid:"
+      },
+      "answer": "a. esineb vaid 25%-l\n1. Äkiline tugev valu kõhus (82%) või seljas (50%).\n2. Hüpotensioon, tahhükardia, diureesi langus, teadvuskaotus (kuni hemorraagilise shokini) (67%)\n3. Pulseeriv tuumor kõhuõõnes (46%)\n\nb. Valu küljes, kubemes\nNaha värvuse muutus kubemes, skrootumil, peenisel (hematoomist)\nHematuuria\nIileus (peen- või jämesoole obstruktsioon)\nKubemesong, ka pitsunud (kõhurõhu tõusust)\nHarva koletsüstiidi pilt - seda siis, kui hematoom levib sapipõie piirkonda\nHemotooraks (verejooks tooraksisse)",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9702e338d505",
+      "section": "vaskulaar",
+      "question": "Intraarteriaalne kateeterjuhitud trombolüüs:",
+      "choices": {
+        "a": "kuidas ravim man. -> kuhu jõuab",
+        "b": "toime",
+        "c": "protsess -> mida võimaldab pärast teha"
+      },
+      "answer": "a. kateeterjuhitud - ravim (hepariin) jõuab täpselt trombi juurde\nb. Bakteritest rekombinantse tehnoloogia abil saadud seriinproteaase (tPA) kasutatakse plasminogeeni proteolüütiliseks aktiveerimiseks plasmiiniks -> plasmiin soodustab fibrinolüüsi -> trombid lahustuvad\nc. Reiearteri punktsioon -> trombolüütikum juhitakse kateetriga trombi sisse -> toimub trombi lüüsumine ja jäseme revaskularisatsioon -> visualiseerub tromboosi põhjustav lesioon -> võimaldab lesiooni definitiivset korrektsiooni (PTA/stentimine, kirurgia)",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3428cf5ed32b",
+      "section": "vaskulaar",
+      "question": "Posttrombootiline sündroom - kliiniline pilt",
+      "choices": {
+        "a": "millised sümptomid üldiselt on",
+        "b": "täpsed sümptomid",
+        "c": "Hindamiseks skaala -> hindab mida",
+        "d": "Sümptomite iseloom?",
+        "e": "millal sümptomid võimenduvad/leevenevad?"
+      },
+      "answer": "a. „Sündroom\" -> sümptomid varieeruvad nii erinevatel patsientidel kui ka ajas suuresti\n\nb. Diagnoos kl. pildi alusel: valu, raskustunne, turse, lihaskrambid, sügelus, surin haiges jäsemes, telangiektaasiad, pigmentatsioon, lipodermatoskleroos, sekundaarne varikoos, venoosne haavand\n\nc. Hindamiseks Villalta skaala: hindab sümptomeid ja objektiivseid tunnuseid\n\nd. Sümptomid vahelduva/püsiva iseloomuga\n\ne. võimenduvad seismisel/liikumisel; leevenevad rahuolekus, jala kõrgemale asetamisel",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a4cf5e901e93",
+      "section": "vaskulaar",
+      "question": "Phlegmasia alba dolens: „milk leg, white leg\"",
+      "choices": {
+        "a": "süpmtomid",
+        "b": "kus tromb on"
+      },
+      "answer": "a. nahk valge, turses, valulik, turse tõttu häirub arteriaalne verevool\nb. Tromb süvaveenis -> vere äravool pindmiste veenide kaudu -> sümptomid",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b8c43ffab464",
+      "section": "vaskulaar",
+      "question": "Krooniline jäset ähvardav kriitiline isheemia",
+      "choices": {
+        "a": "üle 2 ndl kestnud alajäseme valu",
+        "b": "üle 2 ndl kesntud alajäseme isheemiline rahuloleku valu ja gangreen",
+        "c": "üle 2 ndl valulik haavand",
+        "d": "üle 2 ndl tromboos või emboolia"
+      },
+      "answer": "b) üle 2 ndl kesntud alajäseme isheemiline rahuloleku valu ja gangreen",
+      "type": "mc",
+      "sources": [
+        "quizlet:923152585"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "039c9b7842f3",
+      "section": "vaskulaar",
+      "question": "Alajäseme kompartmentsündroomi patofüsioloogia",
+      "choices": {
+        "a": "isheemia ->",
+        "b": "vabad hapnikuradikaalid",
+        "c": "mis juhtub lihsases"
+      },
+      "answer": "a. Isheemia -> metab. muutused lihases (K↑, laktaat↑, müoglobiin↑, kreatiin-fosfokinaas↑, laktaat dehüdrogenaas↑, ASAT↑, pH↓)\nv. Vabanevad vabad hapnikuradikaalid -> põhj. kahj. raku fosfolipiidsetes membraanides ja IC organellides\nc. Lihases tekib postisheemiline turse (kompartment) -> närvikahj. isheemiast ja kompressioonist",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bce0c87fb993",
+      "section": "vaskulaar",
+      "question": "Ruptureerunud kõhuaordi aneurüsmi Riskifaktorid",
+      "choices": {
+        "a": "Nr 1:",
+        "b": "lisaks"
+      },
+      "answer": "a. üle 5 cm diameetriga aneurüsm. Mida suurem, seda kõrgem risk!\nb. Naissugu\nSuitsetamine\nHüpertensioon\nAneurüsmi kiire kasv\nIntraluminaalse trombi kiire kasv\nAordi seina suurenenud jäikus/pinge/stress\nLangenud hingamisfunktsioon (FEV1)\nSiiratud organiga patsiendid",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bea09078c8ef",
+      "section": "vaskulaar",
+      "question": "Kõhuaordi aneurüsmi definitiivse ravi näidustus",
+      "choices": {
+        "a": "asümpt AAA diam üle 3cm",
+        "b": "asümpt AAA diam üle 5 cm ja samaaegne HT esinemine",
+        "c": "asümpt AAA diam meestel üle 5.5 ja naistel üle 5 cm",
+        "d": "asümpt AAA diam meestel üle 5 ja naistel üle 5.5 cm"
+      },
+      "answer": "c) asümpt AAA diam meestel üle 5.5 ja naistel üle 5 cm",
+      "type": "mc",
+      "sources": [
+        "quizlet:923152585"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8f86d9387c23",
+      "section": "vaskulaar",
+      "question": "Kõhuaordianeurüsmi definitiivse ravi näidustused on",
+      "choices": {
+        "a": "Asümptom kõhuaordi aneurüsm diam >3 cm",
+        "b": "Asümp AAA diameetriga üle 5 cm ja samaaegne hüpertensioon",
+        "c": "Asümp AAA diam meestel üle 5,5cm ja naistel üle 5cm",
+        "d": "Asümpt AAA diam meestel üle 5cm ja naistel üle 5,5 cm"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai",
+      "explanation": "Asümptomaatilise AAA plaanilise ravi läve: meestel ≥5,5 cm, naistel ≥5,0 cm (samuti kiire kasv >1 cm/aastas või sümptomid). a on vaid aneurüsmi definitsioon, d on vahetatud."
+    },
+    {
+      "id": "3c53ea02abdf",
+      "section": "vaskulaar",
+      "question": "Laserablatsioon, radiosagedusablatsioon, skleroteraapia",
+      "choices": {
+        "a": "kui suurte veenilaiendite puhul",
+        "b": "mida tekitame -> tulemusel",
+        "c": "mida kasutame",
+        "d": "kaugtulemused?",
+        "e": "Skleroteraapia komplikatsioonid:"
+      },
+      "answer": "a. 1 mm veenilaiendite korral (veenikomud)\nb. Tekitame põletiku veenis -> kleepub kokku\nc. Kasutame: laserit, radiosagedust, skleroseerivat ainet\nd. Kaugtulemused ei ole nii head, kui kirurgia korral\ne. allergia/toksiline efekt, tromboflebiit, trombemboolia, i.v hematoom, retsidiivvarikoos",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "41b772889243",
+      "section": "vaskulaar",
+      "question": "Antiagregantravi + statiin = best medical treatment (BMT)",
+      "choices": {
+        "a": "mis ravimid",
+        "b": "kellele parim ravimeetod",
+        "c": "Kaasuv ravimeetod kellele"
+      },
+      "answer": "a. Antiagregant: aspiriin, klopidogreel + statiin\nb. Parim ravimeetod mitteopereeritavatel haigetel: väga kõrge risk, madala riski asümpt, sümpt <50%\nc. Kaasuv ravimeetod opereeritavatel haigetel",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3862da98d9e9",
+      "section": "vaskulaar",
+      "question": "Posttrombootilise sündroomi - pindmise tromboflebiidi ravi",
+      "choices": {
+        "a": "kirurgiline ravi",
+        "b": "kerge vorm",
+        "c": "easke vorm",
+        "d": "lisaks"
+      },
+      "answer": "a. harva (v. saphena ligeerimine, eemaldamine)\nb. Kerge vorm: aspiriin, elastsed sukad-sidemed, aktiviteet võib jätkuda\nc. Raske vorm - voodirahu, jalg kõrgemale\n- Süvaveeni põletiku korral absoluutne voodirežiim vähemalt 7 päeva.\n- Alkoholkompress, laia spektriga AB, aspiriin, hepariin.\n- Hiljem antikoagulandid (varfariin) ja püstiasendis tugisuka kandmine\nd. Valuravi",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ec713a2d110f",
+      "section": "vaskulaar",
+      "question": "Emboolia ja tromboosi diferentsiaaldiagnostika - erinevused",
+      "choices": {
+        "a": "Anamnees ja kl pilt",
+        "b": "Emboli allikad",
+        "c": "Isheemia väljendus",
+        "d": "Perifeerne pulss kontralateraalsel jalal",
+        "e": "Arteriogramm"
+      },
+      "answer": "a. E: Varasemalt kr. arteriaalne puudulikkus puudub\nJärsku tekkinud ja lühike anamnees (tunnid-päevad)\nT: Pikk anamnees (päevad-nädalad)! Esinevad kr isheemia nähud Ateroskleroos, selle riskifaktorid (hüpertens, diabeet, hüperChol), eelnev klaudikatsioon, lokaalne kahjustus\n\nb. E: Kodade virvendus, MI, tuumor, KATE, aort (ateroskleroos, aneurüsm), trauma, võõrkeha\nT: Emboli allikad puuduvad\nVerevooluhäire (SP), trombofiilia, immobilisatsioon, stentimine\n\nc. E: Isheemia laiaulatuslik; T: Isheemia väheväljendunud\n\nd. E: Pulsid palpeeritavad labajalal; T: Pulsid pole palpeeritavad\n\ne. E: Nn. „meniski\" või „kausi\" fenomen; T: Degen. muutused",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "101d91d6657f",
+      "section": "vaskulaar",
+      "question": "(kriitiline isheemia )Krooniline alajäset ähvardav isheemia on…",
+      "choices": {
+        "a": "Üle 2 nädal kestnud alajäseme valu",
+        "b": ">2 ndl rahuoleku isheemiline valu v haavand",
+        "c": ">3 ndl haavand jalal",
+        "d": "Tromboos kestusega > 2 ndl"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai",
+      "explanation": "Krooniline jäset ähvardav isheemia (CLTI) = üle 2 nädala kestnud rahuoleku isheemiline valu ja/või haavand/gangreen arteriaalse puudulikkuse tõttu."
+    },
+    {
+      "id": "573cdc9f5a73",
+      "section": "vaskulaar",
+      "question": "Carotis endarterektoomia (CEA) + BMT (antiagregantravi + statiin)",
+      "choices": {
+        "a": "millal kasutatakse",
+        "b": "näidustused",
+        "d": "kasutada kellel pigem"
+      },
+      "answer": "a. Valikmeetod\nb. Näidustused\n- Sümptomaatiline stenoos ≥ 70% = absoluutne näidustus, ≥50% = pigem JAH\n-- (Vastunäidustatud sümptomaatilise stenoosi korral <50%)\n- Asümpt stenoos ≥60%, kõrge TIA/insuldi risk, sobiv anatoomia, madal kirurgiarisk, eeldatav eluiga > 5a\nc. Kasutada pigem noorematel, tervematel (vanematel asümpt naistel efektiivsus madalam)",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "aa32c16f8d04",
+      "section": "vaskulaar",
+      "question": "Ägeda isheemia kliinilised staadiumid Rutherfordi järgi - I staadium",
+      "choices": {
+        "a": "ajaliselt kui kaua - alajäse mis seisus",
+        "b": "kliinik",
+        "c": "käsitlus"
+      },
+      "answer": "a. (0-6h) pöörduv -> ajajäse eluvõimeline\nb. Kliinik\n- Valu pole pidev, sens ja motor defitsiit puudub\n- Kapillaarne tsirkulatsioon norm -> selge Doppler art ja ven signaal\nc. Käsitlus\n- Kohe hepariin (väldime trombi suurenemist ja seeläbi isheemia levikut)\n- Ettevalmistus diagnostikaks (KT, DSA, MRT) ja raviks",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "00b3bae7c40a",
+      "section": "vaskulaar",
+      "question": "Ägeda isheemia kliinilised staadiumid Rutherfordi järgi - II staadium",
+      "choices": {
+        "a": "ajaliselt kui kaua - alajäse mis seisus",
+        "b": "kliinik",
+        "c": "käsitlus"
+      },
+      "answer": "a. (6-12h) osaliselt pöörduv -> alajäse eluvõimelisus ähvardatud\nb. Kliinik\n- Tagasipöörduva isheemilise kahjustusega alajäse, kui revaskularisatsioon teostatakse kiiresti\n- Arteriaalne Doppler'i signaal puudub, venoosne olemas;\nIIA: puudub pidev rahuolekuvalu, mööduv/vähene sens häire (varvaste tuimus)\nIIB: pidev rahuolekuvalu, sens defitsiit varvastest proksimaalsemal + motor häire (parees)\nc. Käsitlus\n- Kohe hepariin + KT/MRI/DSA\nIIa: i/a kateeterjuhitud trombolüüs, angiograafiline kontroll, vajadusel angioplastika/bypass op\nIIb: trombektoomia/embolektoomia, vajadusel bypass operatsioon",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a2c378c7619b",
+      "section": "vaskulaar",
+      "question": "Ägeda isheemia kliinilised staadiumid Rutherfordi järgi - III staadium",
+      "choices": {
+        "a": "ajaliselt kui kaua - alajäse mis seisus",
+        "b": "kliinik",
+        "c": "käsitlus"
+      },
+      "answer": "a. (12h +) pöördumatu -> lihaste, närvide isheemiline kahjustus\nb. Kliinik\n- Pidev valu, tugev motor (paralüüs, kontraktuur) ja sens häire (anesteesia)\n- Doppler'iga puudub nii venoosne kui ka arteriaalne signaal\nc. Käsitlus\n- Kohe hepariin\n- Lihaskahjustusest sõltuvalt revaskularisatsioon, reeglina lõpeb amputatsiooniga",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "293673b4055d",
+      "section": "vaskulaar",
+      "question": "Kompuutertomograafiline angiograafia, magnetresonantstomograafiline angiograafia",
+      "choices": {
+        "a": "mille esmadgn",
+        "b": "mida näeme"
+      },
+      "answer": "a. A. vertebralis'e stenoosi/oklusiooni esmadiagnoos\nb. Stenoosi ulatus (preop standard), insuldi lokalisatsioon ja ulatus, kaasuvad ajupatoloogiad",
+      "type": "mc",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "472f7faabe7d",
+      "section": "vaskulaar",
+      "question": "Surinaga 12 h tagasi läinud mehel ühe jala varbad valgeks ja tundetuks, mis on sinu järgmine tegevus",
+      "choices": {
+        "a": "kateeterjuhitud trombolüüs",
+        "b": "neuroloogi konsultatsioon",
+        "c": "kohe opile"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "23eaabee2a7b",
+      "section": "vaskulaar",
+      "question": "Klaudikatsiooni konservatiivne ravi:",
+      "choices": {},
+      "answer": "naftidrofüül, pentoksüfülliin",
+      "type": "open",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:868540789",
+        "quizlet:923152585"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "cd9d0dcd29ea",
+      "section": "vaskulaar",
+      "question": "Varikoosi ravi",
+      "choices": {},
+      "answer": "Kompressioonsukad.\n\nSkleroteraapia.\nEndovenoosne ablatsioon (laser nt).\n\nKirurgiline ravi -> leevendada sümptomeid, ennetada ja ravida tüsistusi.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637",
+        "quizlet:868540789"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "2f11dc2b75a7",
+      "section": "vaskulaar",
+      "question": "AAA ruptuuri ravi:",
+      "choices": {},
+      "answer": "kiire aordi\na. avatud op: aordi klemmimine ülalt poolt ruptuuri (vahel ka suprarenaalselt)\nb. EVAR: okluseerimine balloonkateetriga (reiearteri kaudu)\nproteesi asetus",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789",
+        "quizlet:907284931"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "92fe38ceadaf",
+      "section": "vaskulaar",
+      "question": "Kuidas leitakse ABI",
+      "choices": {},
+      "answer": "maksimaalne hüppeliigese ja õlavarre rõhkude suhe (süstoolne vererõhk õlavarrel jagatud süstoolne vererõhk jalal)",
+      "type": "open",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "223f5991aa98",
+      "section": "vaskulaar",
+      "question": "Varikoosi tüsistused",
+      "choices": {},
+      "answer": "Pindmine flebotromboos.\nTromboflebiit.\nHüperpigmentatsioon.\nTroofilised haavandid.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637",
+        "quizlet:868540789"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "70e1d9440283",
+      "section": "vaskulaar",
+      "question": "Äge alajäsemete isheemia",
+      "choices": {},
+      "answer": "jäseme perfusiooni järsk vähenemine, mis ohustab alajäseme eluvõimelisust, sümptomid olnud max 2 näd",
+      "type": "open",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "aecb51351869",
+      "section": "vaskulaar",
+      "question": "AAA sagedaseim paiknemine",
+      "choices": {},
+      "answer": "kõige rohkem infrarenaalselt",
+      "type": "open",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "90369feee805",
+      "section": "vaskulaar",
+      "question": "DSA kasutamine (nii diagnostika kui ravi)",
+      "choices": {},
+      "answer": "ainult siis, kui on plaanis teostada revaskularisatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "953019739301",
+      "section": "vaskulaar",
+      "question": "Kas DSA on kasutusel nii diagnostikas kui ravis?",
+      "choices": {},
+      "answer": "jah",
+      "type": "open",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "688eb1087689",
+      "section": "vaskulaar",
+      "question": "Ägeda isheemiaga pt, mida teha kui oled perearst?",
+      "choices": {},
+      "answer": "Hepariin (500), valu alandamine, kutsud transpordi keskusesse",
+      "type": "open",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d47683dd3de9",
+      "section": "vaskulaar",
+      "question": "Kompartmentsündroom, mitu kompartmenti avada säärel?",
+      "choices": {},
+      "answer": "4 (kõik)",
+      "type": "open",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "3c6f36663c23",
+      "section": "vaskulaar",
+      "question": "Unearteri stenos ravi, kui on sümptomaatiline ja stenoos 70%",
+      "choices": {},
+      "answer": "endarterektoomia",
+      "type": "open",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "157546ccd7ca",
+      "section": "vaskulaar",
+      "question": "Antitrombootilise ravi (aspiriin + klopidogreel) kestvus: a. iliaca stentimine →",
+      "choices": {},
+      "answer": "1 kuu",
+      "type": "open",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "06be7cb09f63",
+      "section": "vaskulaar",
+      "question": "Antitrombootilise ravi (aspiriin + klopidogreel) kestvus: a. tibialise stentimine",
+      "choices": {},
+      "answer": "6 kuud",
+      "type": "open",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "010481647d7d",
+      "section": "vaskulaar",
+      "question": "Antitrombootilise ravi (aspiriin + klopidogreel) kestvus: a. femorailise stentimine",
+      "choices": {},
+      "answer": "3 kuud",
+      "type": "open",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "13fe58b0e63f",
+      "section": "vaskulaar",
+      "question": "12 h tagasi läinud mehel ühe jala varbad valgeks ja tundetuks, mida teha\nKas kateeterjuhtitud trombolüüs või kohe opile?",
+      "choices": {},
+      "answer": "kateeterjuhitud trombolüüs",
+      "type": "open",
+      "sources": [
+        "quizlet:598329962",
+        "quizlet:923152585"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "03de6c570bfe",
+      "section": "vaskulaar",
+      "question": "ABCDE",
+      "choices": {},
+      "answer": "a- airway, hingamisteed\nb- breathing, kuidas ja sügavus\nc- circulation, elulised näitajad, veenitee rajamine, verejooks\nd- disability, neurologic, teadvus\ne- environment, katta tekiga",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "61f446468691",
+      "section": "vaskulaar",
+      "question": "AAA ravi",
+      "choices": {},
+      "answer": "1. Suitsetamisest loobumine! - vähendab kasvukiirust\n2. Medikamentoosne - statiinid, antiagregandid, β-blokaatorid (kui kaasub südame isheemiatõbi), AKEI/ARB (kui kõrge RR)\n3. Kirurgiline/endovaskulaarne - ainus definitiivne ravi",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "050a2a586201",
+      "section": "vaskulaar",
+      "question": "AAA olemus",
+      "choices": {},
+      "answer": "Kõhuaordi laienemine >50% võrreldes normaalsega (3cm normis).\nSagedamini infrarenaalselt.\n\nAteroskleroos olulisim põhjus.\nVeel: sidekoehäired (Marfan), vaskuliidid, süsteemsed haigused (süüfilis), trauma jne.\n\n75% asümptomaatilised.\n\nSümptomitest kompressioon organitele, närvidele. Trombemboolia perifeersemale. Pulseeriv mass kõhus kui suurem aneurüsm. Ruptureerumise sümptomaatika.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e50bbaa7f926",
+      "section": "vaskulaar",
+      "question": "Endolekked",
+      "choices": {},
+      "answer": "1 - kohe operatsiooni ajal likvideerida\n- 1a - proksimaalne -> ebahermeetiline ühendus üleval \n- 1b - distaalne -> ebahermeetiline ühendus all \n2 - lekked jäävad iseseivalt seisma\n- 2a - aneurüsmi kotti jääb üks sissevool (a. mesenterica inf./lumbaal arteritest)\n- 2b - mitu sissevoolu\n3 - ühendus lekib/protees on katki (kohe operatsiooni ajal likvideerida)\n4 - läbi sünteesi materjali tuleb plasma sisse\n5 - aneurüsmi kott suureneb, kuid põhjust ei ole eelpool mainitute seas",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "23a7ae117041",
+      "section": "vaskulaar",
+      "question": "Mis on ABI?",
+      "choices": {},
+      "answer": "Pahkluul mõõdetud max süstoolse vererõhu suhe käsivarrel mõõdetud max süstoolse vererõhuga. Kasutatakse klaudikatsiooni/PAD kahtlusel.\nInterpretatsioon:\n>1,4 - mittekomprimeeritav arter;\n1-1,4 - normaalne;\n0,91-0,99 - piiripealne;\n0,41-0,9 - kerge kuni mõõdukas PAD\n≤ 0,4 - raske PAD",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0345cbce03dc",
+      "section": "vaskulaar",
+      "question": "Fistli teke:",
+      "choices": {},
+      "answer": "Aortoduodenaalne (-enteraalne) fistel: kõhu-, seljavalu, seedetrakti ülaosa verejooksu sümptomid\nAortokavaalne fistel: venoosne hüpertensioon - alajäseme turse, kaelaveenide täitumine, tsüanoos, hematuuria, kongestiivne südamepuudulikkus\nFistel/ruptuur neeruveeni: varikotseele",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3945094df2d7",
+      "section": "vaskulaar",
+      "question": "Wellsi skoor",
+      "choices": {},
+      "answer": "Kasutatakse SVT tõenäosuse hindamiseks",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3de1624775e7",
+      "section": "vaskulaar",
+      "question": "PAD staadiumid",
+      "choices": {},
+      "answer": "Fontaine klassifikatsioon.\n\nI -> asümptomaatiline, ebamäärased kaebused.\n\nIIa -> klaudikatsioon >200m läbimisel;\nIIb -> kladikatsioon <200m.\n\nIII -> rahuolekuvalud (öösel tugevam), tavaliselt metatarsaalidest distaalsemal.\n\nIV -> nekroos, gangreen, haavandid.\n\n\nIII ja IV -> kriitiline alajäseme isheemia.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8a39b2a76a63",
+      "section": "vaskulaar",
+      "question": "KVP raskusaste",
+      "choices": {},
+      "answer": "CEAP klassifikatsioon\nC - kliiniline pilt\nE - etioloogia\nA - anatoomia\nP - patofüsioloogia",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d4c7d64ad52f",
+      "section": "vaskulaar",
+      "question": "AAA sõeluuring",
+      "choices": {},
+      "answer": "Rahvusvaheliselt kokku lepitud, et sõeluuringule peaks kutsuma kõik üle 65a (mehed?), sõeluuring UH-ga",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d2386cc438e6",
+      "section": "vaskulaar",
+      "question": "AAA diagnostika",
+      "choices": {},
+      "answer": "1. Palpatsioon - aordi bifurkatsiooni kohal pulseeriv mass (naba-, epigastraalpiirkonnas)\n2. Auskultatsioon - kahin AAA kohal ja distaalsemal\n3. UH - skriiningmeetod (>65 a mehi võiks skriinida), AAA diameetri määramine, võimalusel algus- ja lõpp-punkt, adipoossus ja soolegaas segavad uuringut\n4. KT-angiograafia - kuldstandard raviplaani koostamisel, seina paksuse hindamine!, saab diagnoosida kaasuvaid patoloogiaid, kasutada ainult hemodünaamiliselt stabiilse pt puhul (isegi kui ruptureerunud)\n5. MR-angiograafia - kui KTA ei ole millegipärast kasutatav",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b2d30cbeee19",
+      "section": "vaskulaar",
+      "question": "KVP diagnostika",
+      "choices": {},
+      "answer": "1. Kliinilise pildi alusel\n2. Läbivaatusel patsient seisma, hinda mõlemat alajäset. Hinnata teleangiektaasiate, veenilaiendite, turse, pigmentatsiooni, ekseemi, lipodermatoskleroosi ja haavandi esinemist alajäsemel\n3. Dupleks-UH (B-režiim + doppler) uuringut on soovitatav teha kõigile patsientidele enne invasiivse ravi planeerimist. Võimalik tuvastada venoosset refluksi ja obstruktsiooni.\n4. MRT, KT vajadusel",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7d94cfb49fe4",
+      "section": "vaskulaar",
+      "question": "Trombolüüsi aken",
+      "choices": {},
+      "answer": "4-4.5h",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "87579d2f346f",
+      "section": "vaskulaar",
+      "question": "Mis on aneurüsm?",
+      "choices": {},
+      "answer": "Aneurüsm on püsiv lokaalne arteri laienemine >50% tema eeldatavast normaalsest diameetrist",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "94ff380ea175",
+      "section": "vaskulaar",
+      "question": "Mis on ektaasia?",
+      "choices": {},
+      "answer": "Ektaasia on arteri laienemine <50% diameetrist",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ab2d3c22dc79",
+      "section": "vaskulaar",
+      "question": "Mis on endoleke?",
+      "choices": {},
+      "answer": "Endoleke - püsiv verevool aneurüsmikotti väljaspool stentproteesi. Kõige sagedasem on II tüüpi endoleke. Varajane või hiline. Võib tekkida endovaskulaarse ravi tüsistusena. Endolekke hindamiseks kontroll 30p peale protseduuri, kui midagi lekib, siis 6k pärast uuesti ja siis uus protseduur, kui ei ole ise ära lahenenud. Võib, aga ei pruugi ilma ravita ise laheneda. Endovaskulaarsete protseduuride puhul endoleke hilistüsistusena (aastate jooksul) suht vältimatu ja vajalik uus operatsioon.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1ff63ceab5f9",
+      "section": "vaskulaar",
+      "question": "KVP - tüsistused",
+      "choices": {},
+      "answer": "- Kauakestev venoosne hüpertensioon võib põhjustada jala ja pahkluude piirkonna nahamuutusi (hüperpigmentatsioon) ning venoosseid jalahaavandeid\n- Lümfisüsteemi sekundaarne puudulikkus ja segatüüpi tursed\n- Veenikomude veritsus, pindmiste või süvaveenide tromboos, jalahaavandid",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fa8920641972",
+      "section": "vaskulaar",
+      "question": "Virchow'i triaad",
+      "choices": {},
+      "answer": "1. Arteri seina endoteeli kahjustus\n2. Vere muutumine viskoossemaks\n3. Verevoolu häire",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5db145fed5d6",
+      "section": "vaskulaar",
+      "question": "SSS - patogenees",
+      "choices": {},
+      "answer": "SSS-i põhjustab a. subclavia alguskoha oklusioon. Tekib retrograadne verevool ja veri liigub läbi kollateraalringe a. vertebralis'e kaudu kätte. Käe koormamisel esineb vertiigo ja presünkoop vôi ka teised aju tagumise osa isheemia nähud.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "14ee3e57b908",
+      "section": "vaskulaar",
+      "question": "kogu kõht valutab",
+      "choices": {},
+      "answer": "perforatsioon, pankreatiit, aordi aneurüsm",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "554f91cbcda5",
+      "section": "vaskulaar",
+      "question": "KVP riskifaktorid",
+      "choices": {},
+      "answer": "Geneetiline eelsoodumus, vanus, naissugu, ülekaalulisus, elustiil, suitsetamine, varasemad süvaveenitromboosid, hormoonide kõikumine",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "345d7634b9ce",
+      "section": "vaskulaar",
+      "question": "KVP sümptomaatika",
+      "choices": {},
+      "answer": "Turse (süveneb päeva jooksul), sügelus, valu, torkimis-, põletav-, raskustunne, lihaskrambid, rahutud jalad, alajäseme väsimine, hüperpigmentatsioon. Progresseerumisel nahakahjustus, naha atroofia, nähtavad varikoossed veenid, lipodermatoskleroos (nahk pakseneb ja kõveneb), haavandid.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2be9e2805958",
+      "section": "vaskulaar",
+      "question": "Flebotromboosi dgn",
+      "choices": {},
+      "answer": "Duplex UH (tavaUH + Doppler): tromboseerunud veen pole komprimeeritav, verevool häiritud jt\nKTA/MRA. KT - UH ja KT tulemused SVT diagnoosimiseks sarnased → võimalusel eelistame UH\nFlebograafia: I/v kontrastaine + RÖ, 'kuldstandart', tänapäeval vähe kasutusel\nD-dimeerid: aitavad dif-diagnostiliselt välistada tromboosi",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6951e42fa4ed",
+      "section": "vaskulaar",
+      "question": "Äge isheemia - ravi",
+      "choices": {},
+      "answer": "1. Kateeterjuhitud trombolüüs alteplaasiga (IIA)\n2. Trombektoomia - tromb lõhustatakse ja aspireeritakse (IIB)\n3. Kirurgiline revaskularisatsioon - Fogarty balloonkateeter",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4d1d7f944026",
+      "section": "vaskulaar",
+      "question": "AAA kirurgiline ravi",
+      "choices": {},
+      "answer": "Avatud operatsioon -> eelistatud noorematele, tervematele. Tehismaterjalist protees aneurüsmikotti.\nOhuks a.mesenterica inferiori kahjustus.\n\nEVAR (endovascular aneurysm repair) -> eelduseks sobiv anatoomia aordiharude ja aneurüsmi suhtes.\nENDOLEKKE OHT!!!\nKontrastnefropaatia risk võrdlemisi kõrge.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "df22d4702829",
+      "section": "vaskulaar",
+      "question": "AAA ruptuuri aspekte",
+      "choices": {},
+      "answer": "RR peaks olema pre- ja postoperatiivselt <100 mmHg.\n\nKõhuõõne kompartmentsündroomi oht peale operatiivset ravi kuni 50% patsientidest -> kõhuõõne sisese rõhu tõus >20 mmHg koos uute organpuudulikkuse nähtudega.\nDekomprimeeriv laparotoomia vajadusel koos vaakumaspiratsiooniga.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f345862a3ec9",
+      "section": "vaskulaar",
+      "question": "SVT kirurgiline ravi",
+      "choices": {},
+      "answer": "Trombektoomia näidustatud dekompresseerunud ägeda venoosse puudulikkuse korral.\n\nKateeteraspiratsioon + trombolüüs kergematel juhtudel.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5115dcdde6ab",
+      "section": "vaskulaar",
+      "question": "Varikoosi patogenees",
+      "choices": {},
+      "answer": "venoosne refluks või venoosne obstruktsioon + lihaste pumba funktsioon ↓, veenide seinte muutused",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8160f069b3f9",
+      "section": "vaskulaar",
+      "question": "Flebotromboosi ravi:",
+      "choices": {},
+      "answer": "Antikoagulantravi + riskifaktorite mõjutamine\n- Varfariin + vähemalt 5p madalmolekulaarne hepariin\n- Uuemad antikoagulandid\n\nKateeter-juhitud trombolüüs\nTrombektoomia\nLisaks: Kompressioonsukad, pt mobiliseerimine, jäseme elevatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1d23edc33a02",
+      "section": "vaskulaar",
+      "question": "Klaudikatsioon - ravi",
+      "choices": {},
+      "answer": "1. Eluviis - suitsetamisest loobumine (halvendab prognoosi), treening, toitumine\n2. Medikamentoosne ravi - statiinid, HT ravi, DM ravi, aspiriin/klopidogreel (profülaktiline monoantiagregantravi), cilostazol, naftidrofurüül\n3. Sääre vahelduv kompressioon\n4. Revaskulariseerimine - elukvaliteeti mõjutav klaudikatsioon (oleneb tugevalt patsiendist), mis ei taandu eelneva raviga või hemodünaamiliselt oluline aortoiliakaalne oklusioon - valikmeetod popliteaalarteri bypass veeniga",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fa0d1b3341df",
+      "section": "vaskulaar",
+      "question": "TIA ajaline määratlus",
+      "choices": {},
+      "answer": "Enamasti sümptomaatika < 30 min, aga definitsiooni järgi kuni 24h",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3d239d3d583e",
+      "section": "vaskulaar",
+      "question": "Pindmine tromboflebiit",
+      "choices": {},
+      "answer": "Eelkõige i/v infusiooni järgselt.\nBakteriaalne infektsioon harv.\n\nRaviks NSAID, Lioton.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0ab8ac7d2f0a",
+      "section": "vaskulaar",
+      "question": "Veenilaiendite tüübid:",
+      "choices": {},
+      "answer": "intradermaalsed, subdermaalsed, veenitüve varikoos",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c32159a2581a",
+      "section": "vaskulaar",
+      "question": "Mis on klaudikatsioon?",
+      "choices": {},
+      "answer": "Klaudikatsioon on lihaste väsimine, valu, kramp või ebamugavustunne, mis tekib koormusel. Põhjuseks on verevarustuse häirumine vaskulaarse patoloogia tõttu. Valu peaks leevenema 10 min puhkusel. Klaudikatsioon on üks PAD-i sümptomeid.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "837b14ad5ce6",
+      "section": "vaskulaar",
+      "question": "Mis on pseudoaneurüsm?",
+      "choices": {},
+      "answer": "Aordi sein on vigastatud ja tekib hematoom, mis koguneb ümbritsevas koes",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "707ec0a909d5",
+      "section": "vaskulaar",
+      "question": "Mis on aneurüsmi kael?",
+      "choices": {},
+      "answer": "Aneurüsmist proksimaalsem aordi normaalne patoloogiata osa, kuhu kinnitub endograft",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6fa2d086cc0a",
+      "section": "vaskulaar",
+      "question": "KVP - kirurgiline ravi",
+      "choices": {},
+      "answer": "1. Laserablatsioon - veresoone seina laserdamine veeni mõõtmete vähendamiseks ja valendiku sulgemiseks. Peamine raviviis v. saphena magna et parva puudulikkuse raviks. Lokaalne tuimestus, ambulatoorne protseduur\n2. Skleroteraapia - veeni süstitav sklerosant põhjustab endoteeli kahjustuse ja tekitab oklusiivse fibroosi → veen sulgub. Sobilik väikeste venoossete harude ja veenikomude raviks. Ambulatoorne protseduur.\n3. Avatud operatsioon - suurte ja ulatuslike pindmiste veenikomude korral, kahjustatud veen või selle kollateraal ligeeritakse ja eemaldatakse, suletakse kahjustatud ühendusveenid. Pärast operatsiooni kasutada kompressioonvahendeid. Üldkirurgiline operatsioon.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1531ba7e9320",
+      "section": "vaskulaar",
+      "question": "AAA diagnostika ja ravi",
+      "choices": {},
+      "answer": "UH -> esmane diagnostika ja jälgimine.\nKT-angio -> kuldstandard.\n(DSA -> ei erista trombimasse ja aordi valendik võib tunduda normis.)\n\n5.5 cm on oluline piir.\nAsümptomaatiline <5.5 cm (naistel 5.2) -> jälgimine UHga 2x aastas.\n\nAsümptomaatiline >5.5 cm või laienemine >1cm 1 aasta jooksul või laienemine 6 kuu jooksul >0.7 cm -> kirurgile ravi planeerimiseks.\n\nSümptomaatilised kohe kirurgile.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "389c3b0d3136",
+      "section": "vaskulaar",
+      "question": "Pindmise tromboosi ravi",
+      "choices": {},
+      "answer": "Antitrombootiline ravi -> LMWH.\n\nNSAID, Lioton.\n\nKirurgiline ravi harva: trombi väljutamine, varikotoomia. Eelkõige kui tromb saphena ja femoraalveeni ühenduskohas.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f02797340d4c",
+      "section": "vaskulaar",
+      "question": "Mis on arteriomegaalia?",
+      "choices": {},
+      "answer": "Arteriomegaalia on difuusne arteri laienemine >50% diameetrist, kuid mis haarab mitmeid arteri segmente",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "75469b064ce1",
+      "section": "vaskulaar",
+      "question": "Aneurüsmi riskifaktorid",
+      "choices": {},
+      "answer": "Suitsetamine, ateroskleroos, hüperkolesteroleemia, hüpertensioon, meessugu, vanus >65, hemodünaamiline stress, perekondlik anamnees, anamneesis muud aneurüsmid, KOK\n\nNB! Diabeetikutel esineb aneurüsme harvemini",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "97ac98cf5572",
+      "section": "vaskulaar",
+      "question": "Reperfusiooni kahjustus",
+      "choices": {},
+      "answer": "Verevarustuse taastamise järgselt tekkiv isheemia-reperfusioonisündroom e. kompartmentsündroom. Isheemia → metaboolsed muutused lihases (K, müoglobiini, CK tõus, pH langus) → lihases postisheemiline turse, müonekroos → närvikahjustus isheemiast ja kompressioonist lihase poolt. Reperfusiooni raskus sõltub eelkõige isheemia ulatusest (emboliga ulatuslikum) ja kestusest. Sümptomite poolest viitab kompartmendile ebaproportsionaalselt suur valu peale reperfusiooni.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cca473f4d8b8",
+      "section": "vaskulaar",
+      "question": "Venoosne tromboos - ravi",
+      "choices": {},
+      "answer": "1. Riskifaktorite mõjutamine\n2. Kompressioonsukad\n3. Antikoagulantravi\n4. Trombolüüs\n5. Trombektoomia\n6. IVC filter (vena cava inferior filter) - mõeldud veenidest lahti tulevate trombide püüdmiseks, pannakse neeruveeni suubumiskohast distaalsemel, tehakse harva\n7. Stentimine posttrombootilise sündroomi korral",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c8c7b52d295b",
+      "section": "vaskulaar",
+      "question": "Ägeda isheemia sümptomid",
+      "choices": {},
+      "answer": "6P\n1. Pain - äkki tekkinud, pidev, tugev, muutuv - tromboosi anamnees pikk (päevad-nädalad), emboolia anamnees lühike (tunnid-päevad)\n2. Pulselessness - pulsi puudumine (pulss võib olla tegelt palpeeritav ka) - tromboosi korral teise jäseme pulss ka nõrk, embooli korral teise jäseme pulss tugevam\n3. Pallor - kahvatus võrreldes kontralateraalse poolega\n4. Paresthesia - tundetus, tuimus\n5. Paralysis - motoorsete närvide ja lihase isheemiline kahjustus\n6. Poikilothermia - jahedus, sõltumata välistemperatuurist\n\nTromboosi isheemia vähemväljendunud, emboolia puhul tugevalt väljendunud",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "990c73be2e81",
+      "section": "vaskulaar",
+      "question": "KVP - konservatiivne ravi",
+      "choices": {},
+      "answer": "1. Kompressioonravi - säärelihaste funktsiooni toestamiseks ja refluksi kompenseerimiseks\n2. Elustiil - võimlemine, pikaajalise seismise ja istumise vältimine ning jalgade ülestõstmine\n3. Naha ja haavandiravi\n4. Venoaktiivsed ravimid (looduslikud ja sünteetilised) - käsimüügiravimid, toime ei ole eriti tõestatud",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "890c65716cfb",
+      "section": "vaskulaar",
+      "question": "Kompartmentsündroomi ravi",
+      "choices": {},
+      "answer": "- Jäseme adekvaatne perfusioon (ka hüpertensiooni ravi)\n- Organismi piisav hüdreerimine\n- Müoglobiini ja ROS-de taseme vähendamine\n- FASTSIOTOOMIA: vabastatakse 4 kompartmenti kahe lõikega (mediaalne ja lateraalne, kumbki kahe kompartmendi piiril)\nKindlasti peab vabastama kõik sääre 4 kompartmenti - vastasel juhul hoopis soodustame kompartmendi teket.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "248f344a6ada",
+      "section": "vaskulaar",
+      "question": "Varikoosi klassifikatsioon",
+      "choices": {},
+      "answer": "Primaarne -> v.saphena magna või parva klapirike, laienemine.\n\nSekundaarne -> süvaveenipuudulikkuse tagajärjel.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8610af178d0d",
+      "section": "vaskulaar",
+      "question": "Klaudikatsioon - sümptomid",
+      "choices": {},
+      "answer": "Ebamugavus, valu, väsimus, nõrkus või kramp koormusel lihastes, mis on haaratud arterist distaalsemal, kõndimise häirumine. Sümptomid süvenevad püstises asendis. Sümptomid algavad peale sarnast koormust ning leevenevad puhkusel, istudes/lamades.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ce5299cb8e85",
+      "section": "vaskulaar",
+      "question": "Aneurüsmi tekke patogenees",
+      "choices": {},
+      "answer": "Aordi seinas tekib põletikureaktsioon → immuunrakud kuhjuvad → elastiin ja kollageen degradeerub → seina kvaliteet langeb → ebaloomulik väljavõlvumine → seina ruptuur",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3b425ffdd2fe",
+      "section": "vaskulaar",
+      "question": "AAA ruptuuri riskifaktorid",
+      "choices": {},
+      "answer": "Aneurüsmi suurus, naissugu, suitsetamine, hüpertensioon, aneurüsmi kiire kasv, intraluminaalse trombi kiire kasv, aordi seina suurenenud jäikus/pinge/stress, langenud hingamisfunktsioon (FEV1), siiratud organiga patsiendid",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c53f8f93f2b9",
+      "section": "vaskulaar",
+      "question": "Venoosne tromboos - olemus",
+      "choices": {},
+      "answer": "Vormid: süvaveenitromboos (SVT), kopsuarteri trombemboolia (KATE). Sagedus 1:500 (⅔ SVT, ⅓ KATE). Enamasti jalgade süvaveenides - reieveenis enam kui põlveõndla- ja sääreveenides",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "dc98aee82f39",
+      "section": "vaskulaar",
+      "question": "Ägeda isheemia diagnostika",
+      "choices": {},
+      "answer": "1. Kliiniline pilt! - peaks olema kliiniline diagnoos\n2. Pulsi palpatsioon\n3. UH-Doppler - pahkluu tasemel\n4. KT-angio\n5. DSA",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "92df741acf2a",
+      "section": "vaskulaar",
+      "question": "Kõhuaordi aneurüsm - mis on",
+      "choices": {},
+      "answer": "aordi diameetri suurenemine >3 cm\nKõhuaordi diameetri kasv >2 standarhälbe aordi keskmisest diameetrist nii meestel kui naistel",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a7254f4614b4",
+      "section": "vaskulaar",
+      "question": "AAA kompressioonisümptomid:",
+      "choices": {},
+      "answer": "Isutus, kaalukaotus, kõhukinnisus, oksendamine (surve gastrointestinaaltraktile)\nHüdronefroos (surve ureeterile)\nIliofemoraalne flebotromboos (surve õõnes- ja/ või iliakaalveenidele)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "06ef308bbf21",
+      "section": "vaskulaar",
+      "question": "Äge venoosne tromboos - 2tk",
+      "choices": {},
+      "answer": "Jäseme süvaveeni tromboos\nIleofemoraalne flebotromboos",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9c7807cce7b3",
+      "section": "vaskulaar",
+      "question": "Kõhuaordi aneurüsmi levimus",
+      "choices": {},
+      "answer": "4% populatsioonist, meestel 4-5x rohkem kui naistel\nAAA ruptuuri esinemissagedus > 65a 35,5 juhtu/100 000 inimese kohta aastas",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f4ae999ffec5",
+      "section": "vaskulaar",
+      "question": "AAA ruptuuri lokalisatsioon",
+      "choices": {},
+      "answer": "Ruptureerub kõhuõõnde (20%) → jookseb verest tühjaks\nRuptureerub retroperitoneaalselt (80%) → hematoom tamponeerib ruptuuri (tegelt kõik ruptureeruvad retroper, aga osad murravad sealt veel välja)",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5c1e599d92f4",
+      "section": "vaskulaar",
+      "question": "PAD sagedasem lokalisatsioon",
+      "choices": {},
+      "answer": "Femoropopliteaalarterites 50%.\nAortoiliakaalarterites 25%.\nTibiaalarterites 15%.\nIliofemoraal ja popliteaalarterites harvem.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0458ee899b57",
+      "section": "vaskulaar",
+      "question": "Karotiidarteri stenoosi ravi",
+      "choices": {},
+      "answer": "ASA/klopidogreel, statiinid kõigile!\n\nKirurgiline ravi -> endarterektoomia.\nOperatsioon peab toimuma 2 nädala jooksul viimastest sümptomitest!!!\nNäidustused:\n- sümptomaatiline stenoos >70%, oodatav elulemus >5a, periop suremuse risk <6%;\n- asümptomaatiline stenoos >60%, oodatav eluiga >5a, periop risk <3%.\n\nOperatiivne ravi parema efektiga meestel ja vanemas eas.\n\nOp vastunäidustatud <50% stenoosi korral ja asümptomaatilise täieliku oklusiooni korral.\n\nAngioplastika + stentimine näidustatud kõrgemate riskide korral, restenoosi korral, kaelanaha lokaalse kahjustuse korral jne.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e1d2e98b33b5",
+      "section": "vaskulaar",
+      "question": "Flebotromboosi tekkepõhjused",
+      "choices": {},
+      "answer": "trauma, inf., i.v infusiooni järgselt, varikoosse veeni komu põletik",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3337d545e09b",
+      "section": "vaskulaar",
+      "question": "Flebotromboosi profülaktika:",
+      "choices": {},
+      "answer": "1. Staasi vähendamine:\n- aktiivsus, liikumine (lihaspump tööle)\n- jäseme elevatsioon\n- elastne kompressioon (side, sukad)\n2. Koagulatsiooni vähendamine:\n- antikoagulandid: hüübimisfaktoreid häirivad (hepariin, varfariin)\n- antiagregandid: trombotsüütide agregeerumissignaali pärssivad (aspiriin)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c6d19e80ec55",
+      "section": "vaskulaar",
+      "question": "PAD visualiseeriv diagnostika",
+      "choices": {},
+      "answer": "UH-Doppler.\n\nDSA -> kuldstandard, eriti preoperatiivselt ja väiksemate arterite hindamiseks.\n\nKT-angio -> aordist kuni a.popliteani väga hea, selle järel tundlikkus langeb.\n\nOstsillograafia jm meetodid.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c641d0d1843d",
+      "section": "vaskulaar",
+      "question": "Alajäseme kompartmentsündroom",
+      "choices": {},
+      "answer": "Isheemia-reperfusioonikahjustus.\n\nLisaks lokaalsele kahjustusele:\n- müoglobinuuria -> renaalne tubulaarnekroos;\n- metaboolne atsidoos;\n- hüperkaleemia;\n- ARDS.\n\nFastsiotoomiad -> avada kõik 4 looži jalal.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b5be9d9c0b54",
+      "section": "vaskulaar",
+      "question": "... alati kui plaanis sekkuda",
+      "choices": {},
+      "answer": "UH",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9d3a50b40b46",
+      "section": "vaskulaar",
+      "question": "Insuldi riski tõstavad veelgi",
+      "choices": {},
+      "answer": "kontralateraalse a. carotis interna kahjustus, naastu ebastabiilsus, Willise ringi puudulikkus, kaasuv pärgarterite või alajäseme arterite haigus",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ec900fb3f4ea",
+      "section": "vaskulaar",
+      "question": "Kõhuaordi aneurüsmi sümptomid",
+      "choices": {},
+      "answer": "¾ AAA-st asümptomaatilised\nPulseeriv mass kõhus (sõltub aneurüsmi suurusest: > 5 cm AAA 75% palpeeritav)\nValu kõhus, seljas, küljes, kubemes (valu siis, kui aneurüsm laieneb)\nHarvem AAA kompressioonisümptomid\nAlajäsemete äge isheemia\nFistli teke:",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d71fe6707621",
+      "section": "vaskulaar",
+      "question": "AAA (avatud) kirurgiline ravi",
+      "choices": {},
+      "answer": "Eesmärk on AAA asendamine proteesiga. Trans- või retroperitoneaalne juurdepääs. Lineaarne protees, kui niudearterid ei ole haaratud. Y-kujuline protees, kui niudearterid on haaratud. Enim kasutatakse kootud dakroonist proteese. Oluline on säilitada vaagnaorganite ja sigmasoole verevarustus (a. mesenterica inferiori või a. hypogastrica kaudu). Tehakse noorematele (< 70a) ja ilma kaasuvate haigusteta madala riskiga patsientidele.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "15c32c401275",
+      "section": "vaskulaar",
+      "question": "Venoosne tromboos - sümptomid",
+      "choices": {},
+      "answer": "Turse, valu, hellus, jalg on soe, katsudes tihke ja värvilt võib olla punakam/lillakam. Kaebused on väiksemad lamavas asendis, püsti tõustes valu suureneb.\nPhlegmasia alba dolens (\"milk leg\") - valge, turses, valulik\nPhlegmasia cerulea dolens (\"grey leg\") - tsüanootiline ja tugevalt turses, paresteesiad, langenud lihasjõudlus, võib progresseeruda venoosseks gangreeniks, kõrge risk massiivseks KATEks",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "31bbaaf48afb",
+      "section": "vaskulaar",
+      "question": "Klaudikatsioon - riskifaktorid",
+      "choices": {},
+      "answer": "Riskifaktorid on vanus, HT, DM, suitsetamine (nii praegune, kui ka varasem), hüperkolesteroleemia ja hüpertriglütserideemia, tõusnud CRV, KV haigused anamneesis, meessugu ja KMI >25",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5f88fc36d895",
+      "section": "vaskulaar",
+      "question": "Venoosne tromboos - trombolüüs",
+      "choices": {},
+      "answer": "Süsteemset trombolüüsi võib kaaluda, kui kõik eespool toodud kriteeriumid on täidetud ja patsiendil ei ole suurenenud veritsusriski.\nPaikset trombolüütilist ravi võib proovida, kui tromb: on uus (sümptomid kestnud vähem kui 2 n) ja tromboos asub ülalpool ligamentum ingunale't või proksimaalseltl ülajäsemes ja põhjustab raskeid sümptomeid ja märkimisväärset turset",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f729c1d6e8e7",
+      "section": "vaskulaar",
+      "question": "Mis on alajäseme äge isheemia?",
+      "choices": {},
+      "answer": "Äkki tekkinud alajäseme arteriaalse verevarustuse häire, mis ohustab alajäseme eluvõimelisust. Sümptomite tekke algus < 2 nädalat",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4b3201b03f36",
+      "section": "vaskulaar",
+      "question": "Stenoos/oklusioon -> patogenees",
+      "choices": {},
+      "answer": "Stenoos/oklusioon → verevoolu takistus → isheemia → lihasvalu kõndimisel → vahelduv lonkamine (klaudikatsioon). Verevoolu takistuse suurenemine → rahuolekuvalu → haavandid ja gangreen",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8efede60213e",
+      "section": "vaskulaar",
+      "question": "Kompartmentsündroomi sümptomid:",
+      "choices": {},
+      "answer": "meeletult suur valu, väliselt jälg soe, tundetus, turse, tume uriin",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "888bfd2ab9b2",
+      "section": "vaskulaar",
+      "question": "Venoosse trombembolismi vormid:",
+      "choices": {},
+      "answer": "süvaveenitromboos ja KATE",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "55e3974e87c0",
+      "section": "vaskulaar",
+      "question": "Flebotromboosi kliiniline pilt:",
+      "choices": {},
+      "answer": "Väiksemate trombide puhul vb täisti asümptomaatiline\n\nTurse: sõltub oklusiooni kõrgusest ja kollateraalidest\nValu (50%): kogu jalg/piiratud sääre või femoraalkolmnurgaga\nHellus (75%)\nJalg soe, punetav: trombi kohas",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "db935a1ddc56",
+      "section": "vaskulaar",
+      "question": "AAA endovaskulaarne (EVAR) ravi",
+      "choices": {},
+      "answer": "Kõrge riskiga, vanematele, kaasuvate haigustega ja sobiva (aneurüsmi) anatoomiaga patsientidel (nt vajalik piisav aneurüsmi kaela pikkus) on esmavalik EVAR (ka stabiilse hemodünaamikaga AAA ruptuuri korral). Kergemini talutav patsiendile. Sisenetakse reiearterist. Eesmärk on AAA asendamine proteesiga.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4e23c71331e2",
+      "section": "vaskulaar",
+      "question": "Venoosne tromboos - diagnostika",
+      "choices": {},
+      "answer": "1. Riskitegurite, patsiendi kaebuste ja objektiivse leiu hinnang\n2. Verenalüüs - D-dimeerid\n3. Kompressioon-UH (!!) - tromboseerunud veen pole komprimeeritav\n4. KT-venograafia - võimaldab hinnata vaagna veene ja täpsemat trombimasside ulatust\n5. MRT - rasedad\n6. Flebograafia/venograafia - tänapäeval enam väga ei kasutata",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "845e6611e621",
+      "section": "vaskulaar",
+      "question": "Vertebraalarteri stenoos - ravi",
+      "choices": {},
+      "answer": "Asümptomaatiliste pt puhul eluviis, antiagregantravi, kaasuvate haiguste ravi.\nSümptomaatilise pt puhul võimalik endovaskulaarne ravi. Vertebraalarteri puhul tänapäeval lahtist kirurgiat ei kasutata. Varem kirurgiliselt tehti kahjustatud kohast põhimõtteliselt bypassi ja tõsteti vertebraalarter veidi teise kohta a. subclavia külge. Endarterektoomiat ei ole tehniliselt võimalik teha, anatoomiliselt keeruline. Endovaskulaarne ravi ka keeruline, aga siiski eelistatud, kui häiriv sümptomaatika ja muidu patsiendil hea prognoos. Lisaks võimalik carotid subclavian bypass (TÜKis < 10 aastas), kui stentida ei ole võimalik.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4e34f0b10566",
+      "section": "vaskulaar",
+      "question": "Postop mida jälgida -> mille oht",
+      "choices": {},
+      "answer": "Postop intraabdominaalse rõhu jälgimine (mõõdetakse põiesisest rõhku) - postop. kompartmentsündroomi oht",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "02229d2bb13b",
+      "section": "vaskulaar",
+      "question": "Medikamentoosne ravi - mis ravim",
+      "choices": {},
+      "answer": "aspiriin",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "237fa098776c",
+      "section": "vaskulaar",
+      "question": "Flebotromboosi tõsisemad vormid:",
+      "choices": {},
+      "answer": "Phlegmasia alba dolens: „milk leg, white leg\"\nPhlegmasia cerulea dolens - „grey leg\"",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d883699f2b1d",
+      "section": "vaskulaar",
+      "question": "Kõhuaordi aneurüsmi definitsioon",
+      "choices": {},
+      "answer": "Kõhuaordi aneurüsm (AAA) on aordi diameeter > 3 cm mõõdetuna eest-taha või risti-/põikisuunas",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "284ee5c31e44",
+      "section": "vaskulaar",
+      "question": "Tõeline aneurüsm vs dissektsioon",
+      "choices": {},
+      "answer": "Tõeliste aneurüsmide puhul koosneb aneurüsmi kott kõikidest seina kihtidest. Dissektsiooni puhul on rebenenud intima kiht ja veri saab kihtide vahele, tekitades pseudovalendiku.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a11ed1d0716c",
+      "section": "vaskulaar",
+      "question": "Jäseme amputatsioon - näidustused",
+      "choices": {},
+      "answer": "Elu ohustav infektsioon, rahuolekuvalu, mida ei saa kontrollida, suur nekroosikolle",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "99241a7b0f37",
+      "section": "vaskulaar",
+      "question": "Kõhuaordi aneurüsmi riskifaktorid",
+      "choices": {},
+      "answer": "Vanus ja sugu (>65 a mehed)\nSuitsetamine, krooniline obstruktiivne kopsuhaigus\nKõhuaordi aneurüsm perekondlikus anamneesis/anamneesis muud aneurüsmid\nPikem kasv\nAteroskleroos\nHüperkolesteroleemia\nHüpertensioon\nMust rass, asiaadid ja diabeet on negatiivselt seotud",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1f8656b6e9b7",
+      "section": "vaskulaar",
+      "question": "Posttrombootilise sündroomi ravi:",
+      "choices": {},
+      "answer": "Kompressioonsukad, valuravi, füüsiline treening\nKirurgia (bypass, veenide ja veeniklappide siirdamine), endovask. protseduurid (veenide plastika + stentimine)\nVenoosse haavandi ravi",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9afa9a46c147",
+      "section": "vaskulaar",
+      "question": "Klaudikatsiooni ravi - cilostazol",
+      "choices": {},
+      "answer": "PDE III inhibiitor ja antiagregant. Vähendab trombotsüütide agregatsiooni ja stimuleerib aterosklerootiliste soonte dilatatsiooni. Positiivne mõju lipiidide metabolismile. Parandab klaudikatsiooniga pt-del sümptomeid ja pikeneb kõnnidistants. Vastunäidustatud kongestiivse südamepuudulikkusega (NYHA klass III-IV). Koostoimed ketokonasooli, erütromütsiini ja omeprasooliga.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a878cede4f0a",
+      "section": "vaskulaar",
+      "question": "Kõhuaordi aneurüsmi sümptomaatika",
+      "choices": {},
+      "answer": "∽75% asümptomaatilised\nPulseeriv mass kõhus - mida suurem on aneurüsm, seda suurema tõenäosusega on palpeeritav (75% > 5cm aneurüsmide korral). Valu kõhus, seljas, küljes, kubemes (valu siis, kui aneurüsm laieneb). Harvem AAA kompressioonisümptomid, nt survest GI traktile (iiveldus, kõhulahtisus/kinnisus), ureetrile (hüdronefroos), veenidele (tromboos). Võivad tekkida aortoduodenaalne ja aortokovaalne (aort - v. cava inf) fistel.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "83c5a85f1fa9",
+      "section": "vaskulaar",
+      "question": "Venoosne tromboos - riskifaktorid",
+      "choices": {},
+      "answer": "Vanus, ülekaal, suitsetamine, varasem veenitromboos, perekonna anamnees, pahaloomuline kasvaja, mis on diagnoositud viimase 6 k jooksul või käimasolev keemiaravi, krooniline südamepuudulikkus, pärilik trombofiilia, diabeet, kõrge vererõhk, suukaudsed kontratseptiivid, östrogeenravi või rasedus ja sünnitusjärgne periood (kuni 6 n pärast sünnitust), hiljutine operatsioon, immobilisatsioon/piiratud liikumine (luumurrud, pikad lennureisid)",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "aee1033aefb8",
+      "section": "vaskulaar",
+      "question": "Alajäseme äge isheemia - põhjused",
+      "choices": {},
+      "answer": "41% - natiivtromboos\n38% - embolism\n15% - rekonstruktiiv/graft´i tromboos\n3% - trauma\n3% - perifeerne aneurüsm koos emboli või tromboosiga",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4a11c716578e",
+      "section": "vaskulaar",
+      "question": "Kriitilise alajäseme isheemia ravi",
+      "choices": {},
+      "answer": "Võimalikult agressiivne vastunäidustuste puudumisel.\n\nOpioidid valu vastu, hepariin edasise tromboosi vältimiseks.\n\nRavi sõltuvalt staadiumist.\n\nEndovaskulaarne revaskularisatsioon:\n- kateeterjuhitud trombolüüs (IIA staadium);\n- aspiratsioontrombektoomia;\n- mehhaaniline trombektoomia.\n\nKirurgiline:\n- avatud trombektoomia (IIB staadium);\n- bypass kui tromboos ja ulatuslikum kahjustus, nt ateroskleroos;\n- amputatsioon -> III staadiumil kindlasti, IIB korral juba mõelda sellele.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6406d3a8e82d",
+      "section": "vaskulaar",
+      "question": "Posttrombootilise sündroomi olemus",
+      "choices": {},
+      "answer": "Sekundaarne krooniline veenipuudulikkus.\nSVT tüsistus 20-50% patsientidel.\nTrombi tõttu veeni klappide kahjustus.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4eb69729571d",
+      "section": "vaskulaar",
+      "question": "Kõhuaordi aneurüsm klassfikatsioon",
+      "choices": {},
+      "answer": "Suuruse alusel:\n- väike 3-4 cm, keskmine 4-5.5 cm, suur >5.5-6 cm, väga suur >6 cm\n\nKuju/morfoloogia alusel\na. Tõelised aneurüsmid: aneurüsmi kott koosneb kõikidest arteriseina kihtidest\n- Sakulaarsed e. kotjad\n- Fusiformsed e. kedravarre/värtna taoline (enam levinud)\nb. Dissektsioonilised aneurüsmid: aordi dissekatsioon -> veri pääseb veresoone seina kihtide vahele -> tekitab pseudo valendiku\nc. Pseudoaneurüsm: arteri funktsiooni järgselt tekib hematoom -> kapseldub -> tekib väljavõlvulus\n\nAnatoomilise lokalisatsiooni alusel\na. Infrarenaalsed (aneurüsmi algus neeruarteritest all pool) (enam levinud)\nb. Jukstarenaalsed (aneurüsm haarab ka neeruarteri alguskohad)\nc. Pararenaalsed (aneurüsm haarab ka neeruarterid)\nd. Suprarenaalsed (aneurüsmi algus neeruarteritest üleval pool)\n\nKliinilise kulu alusel\na. asümptomaatiline AAA (postop. suremus 1-8%)\nb. sümptomaatiline AAA\n- krooniline (postop. suremus 1-8%)\n- äge/laienev (postop. suremus ca 23%)\n- ruptureerunud (postop. suremus 32-80%)\n\nEtioloogia alusel",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6919e9bec9ae",
+      "section": "vaskulaar",
+      "question": "klassifikatsioon etioloogia alusel",
+      "choices": {},
+      "answer": "Peamine põhjus: ateroskleroos\nKongenitaalne (idiopaatiline, Turneri sündroom)\nSidekoe patoloogia (Marfani sündroom, EhlersDanlosi sündroom)\nDegeneratiivne (mittespetsiifiline/aterosklerootiline, fibromuskulaarne düsplaasia)\nInfektsioosne (bakteriaalne, fungaalne, süfiliitiline)\nPõletikuline arteriit (Takayasu haigus, Becheti haigus, Kawasaki haigus, nodoosne polüarteriit)\nPostdissektsioonilised (idiopaatiline, tsüstiline media nekroos, trauma)\nPoststenootilised (ülemise apertuuri sündroom (TOS), koarktatsioon)\nPseudoaneurüsmid (trauma, anastomoosi rebenemine)\nMuud (rasedusaegsed, põletikuline AAA)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c9551fe7c1c0",
+      "section": "vaskulaar",
+      "question": "Kõhuaordi aneurüsmi patofüsiologia",
+      "choices": {},
+      "answer": "Riskifaktorid põhj. aordi seinas põletiku reaktsiooni -> põhj. elastiini ja kollageeni lagunemise -> aordi seina kvaliteet ↓ -> omakorda põhj. ebaloomuliku väljavõlvumise -> võib lõppeda seina ruptuuriga e. eluohtliku seisundiga",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5b67d9c43f55",
+      "section": "vaskulaar",
+      "question": "AAA diameetri seos ruptuuririskiga",
+      "choices": {},
+      "answer": "Ruptuuri risk aastas\n3,0-3,9 cm - 0%\n4,0-4,9 cm - 1%\n5,0-5,9 cm - 1-10%\n6,0-6,9 cm - 10-22%\n≥ 7,0 cm - 30-50% \n\nNaistel ruptureeruvad väiksemad aneurüsmid kui meestel",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0614217d4ebc",
+      "section": "vaskulaar",
+      "question": "PAD ravi valik, konservatiivne ravi",
+      "choices": {},
+      "answer": "I ja IIa üldiselt konservatiivne.\nKlaudikatsiooni korral individuaalne lähenemine, sõltub kui palju elu segab.\n\nIIb, III ja IV kirurgiline/endovaskulaarne.\n\n\nKonservatiivne ravi: käimistrenn, riskitegurite modifitseerimine.\nRavimitest ASA/klopidogreel, pentoksüfülliin (parandab vere reoloogilisi omadusi ja vasodilateeriv), Enelbin jne.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4af8c624504c",
+      "section": "vaskulaar",
+      "question": "Ägeda alajäseme isheemia staadiumid",
+      "choices": {},
+      "answer": "I -> jäse eluvõimeline, pole pidevat isheemilist valu, sensoorika ja motoorika normis, Doppler normis.\n\nII -> jäseme eluvõimelisus ohus, kiire revaskularisatsiooniga päästetav.\nIIA -> puudub pidev rahuolekuvalu, mööduv sensoorne häire (varvaste tuimus), motoorika normis, Doppleris arteriaalne verevool puudub aga venoosne normis.\nIIB -> pidev rahuolekuvalu, sensoorne häire väljendunum, osaline motoorne defitsiit (parees), Doppleris sama leid.\n\nIII -> tagasipöördumatu isheemiline lihaste ja närvide kahjustus. Anesteesia, paralüüs, Doppleris nii venoosne kui arteriaalne signaal puudub.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7065b24eec2a",
+      "section": "vaskulaar",
+      "question": "Sildamiseks kasutatavad materjalid:",
+      "choices": {},
+      "answer": "Autoveen (parim sildamise materjal!)\nAlloveen \nKombinatsioonid (protees+veen) \nTehismaterjalid (protees)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "00493518d6f7",
+      "section": "vaskulaar",
+      "question": "Alajäsemete äge isheemia - uuringud",
+      "choices": {},
+      "answer": "Pulsi palpatsioon -> okluseerunud segmendi lokalisatsioon\nDoppler'i signaal pahkluu tasemel -> isheemia raskusaste (Rutherford)\nAngiograafia (KT, MRT, DSA)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6477f440fa1b",
+      "section": "vaskulaar",
+      "question": "Venoossed haavadid - lokalisatsioon",
+      "choices": {},
+      "answer": "Venoosne jalahaavand ei teki kunagi labajalal ega varvastel. Enamik venoosseid haavandeid paiknevad sääreluu keskmise pekse lähedal, kuid mõned võivad asetseda ka külgmise pekse piirkonnas",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "93acd62b5086",
+      "section": "vaskulaar",
+      "question": "oblitereeruv endarteriit on tingitud",
+      "choices": {},
+      "answer": "arterite sklerootilistest muutustest",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "15ff63f909dc",
+      "section": "vaskulaar",
+      "question": "Carotise bypass - millal kasutatakse",
+      "choices": {},
+      "answer": "harva -> pigem viimane variant, mida kasutada",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cd13e9f58150",
+      "section": "vaskulaar",
+      "question": "Alajäsemete äge isheemia - sümptomid",
+      "choices": {},
+      "answer": "6 P\nPain (äkki tekkinud, pidev, tugev, muutuv)\nPulselessness - pulsi puudumine (pulsilaine levib läbi värske trombi, pulss vb palpeeritav; efektiivsem Doppleri signaali (arteril/veenil) registreerimine)\nPallor - kahvatus (võrreldes vastaspoolega)\nParesthesia - tundetus, tuimus (sens närvide (puutetundlikkus >> valutundlikkus) isheemiline kahjustus)\nParalysis (motoorsete närvide/lihase isheemiline kahjustus)\nPoikilothermia - jahedus, sõltumata välistemperatuurist",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6fb3a6ead8aa",
+      "section": "vaskulaar",
+      "question": "Mis on perifeersete arterite haigus?",
+      "choices": {},
+      "answer": "PAD ehk perifeersete arterite haigus on alakeha arterite stenoosist, oklusioonist või aneurüsmist tingitud haigus. See võib olla asümptomaatiline, aga võib avalduda ka klaudikatsiooni, isheemilise rindkere valu ja alakeha haavandite või gangreenina.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1a20c7dc80ba",
+      "section": "vaskulaar",
+      "question": "Venoosne tromboos - kirurgiline ravi",
+      "choices": {},
+      "answer": "Kirurgiline operatsioon on esmavalik, kui jäseme eluvõimelisus on ohus ja eriti juhul, kui nii trombolüütiline kui ka antikoagulantravi on vastunäidustatud.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f62a48abb045",
+      "section": "vaskulaar",
+      "question": "Tromboosi põhjused (Virchavi triaad):",
+      "choices": {},
+      "answer": "Arteri seina kahjustus:\nVere koostise muutus:\nVerevoolu muutus",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d5cfb31bdcde",
+      "section": "vaskulaar",
+      "question": "Klassifikatsioon isheemia kulu alusel",
+      "choices": {},
+      "answer": "Progresseeruv isheemia: aeglane, kiire, ülikiire progresseerumine (gangreen)\nStabiilne isheemia: Claudicatio intermittens, rahuolekuvalud\nRegresseeruv isheemia: aeglane, kiire regresseerumine (krooniline arteriaalne puudulikkus)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "98f84881c086",
+      "section": "vaskulaar",
+      "question": "Kompartmentsündroomi hilistüsistused:",
+      "choices": {},
+      "answer": "Kontraktuur, nõrk dorsaalfleksioon, konksvarbad, tundlikkuse häired, kr valu, amputatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "65008fbc328b",
+      "section": "vaskulaar",
+      "question": "Klaudikatsiooni ravi - naftidrofurüül",
+      "choices": {},
+      "answer": "5HT2 retseptori antagonist. Vasodilatatsioon ja aeroobse metabolismi parandamine. Vähendab hüperkolesteroleemia indutseeritud intima proliferatsiooni.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "81666d238416",
+      "section": "vaskulaar",
+      "question": "Sisemise unerateri stenoos - uuringud",
+      "choices": {},
+      "answer": "1. UH-Doppler - esmane uuring, naastu lokalisatsioon, iseloom, struktuur (irregulaarsus, haavandumine), stenoosi ulatus (%), maksimaalne verevoolukiirus stenoosi kohal (kiirus > 125 cm/s → KTA)\n2. KT-angiograafia - preoperatiivne standard, stenoosi ulatus (%), insuldi lokalisatsioon ja ulatus, kaasuvad patoloogiad\n3. DSA - juhul kui on plaanis stentimine → üleminek raviprotseduuriks",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9b705a84ad0b",
+      "section": "vaskulaar",
+      "question": "Alajäseme kroonilise isheemia põhjused",
+      "choices": {},
+      "answer": "Oblitereeruv ateroskleroos!!\n\nOblitereeruv endarteriit -> algus enne 40 a, arterite alt üles poole leviv kahjustus, sageli bilateraalne (ka käed vahel), retsidiveeruv kulg.\n\nMorbus Bürgeri -> noortel meestel, seos suitsetamisega (immuunmehhanism).\n\nÕndlaarteri ahenemise sündroom (popliteal entrapment syndrome) -> m. gastrocnemiuse mediaalne pea surub arteri kinni. Sagedamini noortel meestel, 30% bilateraalne. Klaudikatsioon rohkem kõndides, vähem joostes.\n\nTraumajärgsed oklusioonid.\nEmbooliajärgsed oklusioonid.\nKaasasündinud veresoonte probleemid.\nJne.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "af32949ba5ad",
+      "section": "vaskulaar",
+      "question": "Posttrombootilise sündroomi tüsistused",
+      "choices": {},
+      "answer": "sek. varikoos, lipodermatoskleroos, venoossed haavandid, süvaveeni tromboosi/tromboflebiidi kordumine",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0507d8495796",
+      "section": "vaskulaar",
+      "question": "Klaudikatsioon - diferentsiaaldiagnoos",
+      "choices": {},
+      "answer": "1. Kompressioon-neuropaatia (lumbaarlüli hernia, spinaalstenoos)\n2. Krooniline kompartmentsündroom\n3. Veen-klaudikatsioon („lõhkev\" valu üle terve jala koormusel, leeveneb elevatsiooniga)\n4. Puusa artriit\n5. Bakeri tsüst\n6. Stressmurd\n\nNeid seisundeid kutsutakse ka pseudoklaudikatsiooniks. Nende puhul valu tekib pigem proksimaalsele (klaudikatsiooni puhul distaalsele)",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a07ac9871b2b",
+      "section": "vaskulaar",
+      "question": "Aorto-ileakaalsegmendi oklusiooni ravi",
+      "choices": {},
+      "answer": "1. Endovaskulaarne ravi esmavalik, kui anatoomiliselt võimalik teostada\n2. Difuusne kahjustus - aorto-bifemoraalne sildamine\n3. Isoleeritud kahjustus - endarterektoomia",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "229eb20bcdf6",
+      "section": "vaskulaar",
+      "question": "Infraingvinaalsegmendi oklusiooni ravi",
+      "choices": {},
+      "answer": "1. Põhiliselt ühisreiearteri või süvareiearteri endarterektoomia\n2. Femoro-popliteaarne sildamine, kui oklusioon > 25cm",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3d7f4668231d",
+      "section": "vaskulaar",
+      "question": "Vertebraalarteri stenoos - diagnostika",
+      "choices": {},
+      "answer": "1. Vererõhu mõõtmine kätelt, RR diferents\n2. DUS (dupleks-UH) - mitteinvasiivne, skriinimine, ei ole väga täpne\n3. KT-angiograafia - stenoosi lokalisatsioon, ulatus\n4. DSA - kõige täpsem meetod, üleminek stentimiseks",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ae8d4b77c0a9",
+      "section": "vaskulaar",
+      "question": "PAD endovaskulaarne ja kirurgiline ravi",
+      "choices": {},
+      "answer": "Balloondilatatsioon stendiga või ilma.\nSobivad eriti a.popliteast distaalsemale.\n\nKirurgia: endarterektoomia või sildavad operatsioonid.\n\nNt. Aortobifemoraalne sildamine tehismaterjaliga.\n\nTibioperoneaalsegmendis sildamine eelistatud, kõrgemal individuaalne lähenemine.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "01fe618a2690",
+      "section": "vaskulaar",
+      "question": "Varikoosi diagnostika - radiol uuringud",
+      "choices": {},
+      "answer": "UH-Doppler\n- Valikmeetod. Venoosne refluks kinnitab diagnoosi, uurib veenide suutlikkust\n\nFlebograafia (DSA, MRA)\n- süvaveeni ja ühendusveenide kahj. hindamiseks",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d3f27a69da57",
+      "section": "vaskulaar",
+      "question": "Klaudikatsiooni/PAD patsiendi hindamine",
+      "choices": {},
+      "answer": "1. Mitteinvasiivne vererõhu mõõtmine mõlemal käel ja mõlemal pahkluul, mõõtmine selili asendis.\n2. Palpeeri kõik pulsid ja registreeri intensiivsus.\n3. Vaata üle jalalabade nahk ja hinda temperatuuri.\n4. Ankle-brachial index (ABI) - pahkluul mõõdetud vererõhu suhe käsivarrel mõõdetud vererõhuga (kõrgeimad mõõdetud rõhud).\n5. Jooksulindil kõnnitest - hindamine, mis kiiruse ja kaldenurgaga (st koormusega) tekib klaudikatsioon\n6. Doppler UH, MR- ja KT-angiograafia - oklusiooni asukoha leidmine, oluline kui planeeritakse operatsiooni\n7. Vereanalüüs - hemogramm, Glc, HbA1c, lipiidid, kreatiniin\n8. Uriinianalüüs - Glc, valk",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "62ba539aa5f6",
+      "section": "vaskulaar",
+      "question": "Infrapopliteaalsegmendi oklusiooni ravi",
+      "choices": {},
+      "answer": "Esmavalik on endovaskulaarne ravi. Kirurgiline ravi on keerulisem, näidustatud kompleksete kahjustuste korral, kui autoveen on olemas ja sobilik.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f9b8c39ddd57",
+      "section": "vaskulaar",
+      "question": "Sisemise unearteri stenoos - etioloogia",
+      "choices": {},
+      "answer": "90% ateroskleroos\n10% muu (fibromuskulaarne düsplaasia, arteri niverdumine, väline kompressioon, traumaatiline oklusioon, dissektsioon, põletikulised angiopaatiad jms)",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1b453aaf4d8a",
+      "section": "vaskulaar",
+      "question": "Sisemise unearteri stenoos - stentimine",
+      "choices": {},
+      "answer": "Peamiselt kasutatakse kõrge operatsiooniriskiga patsientidel.\nNäidustused: vastaspoolse n. laryngeuse kahjustus, radikaalne varasem kaela operatsioon, põletus, kiiritus, varasem endarterektoomia (restenoos), kõrge unearteri hargemine ja naastu intrakraniaalne haaratus\nTüsistused: insult, restenoos, MI",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e4b10a6d413f",
+      "section": "vaskulaar",
+      "question": "Doppler-sonograafia: eelised ja puudused",
+      "choices": {},
+      "answer": "Eelised\nMitteinvasiivne, odav, kättesaadav\nSaame määrata stenoosi/oklusiooni olemasolu ja lokal. + verevoolu kiirust ja rõhku jäseme eri tasapindadel\nHindab sobivust endovaskul./kirurgiliseks raviks + hindab endovaskul./kirurgilise ravi kaugtulemusi\n\nPuudused\nOperaatorist sõltuv\nLimiteeritud nähtavus niudearterite (adipoossus, soolegaas), distaalsete, kaltsifitseerunud arterite osas",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "431a0f54f650",
+      "section": "vaskulaar",
+      "question": "Posttrombootiline sündroom - patogenees:",
+      "choices": {},
+      "answer": "Süvaveeni klappide kahj. → lihaspumba töö ebaefektiivne → venoosne pais alajäsemes (venoosne hüperten.) → turse ja troofikahäired kudedes",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ccb9ccda01b5",
+      "section": "vaskulaar",
+      "question": "Kui suur on suremus AAA ruptuuri korral?",
+      "choices": {},
+      "answer": "80-90%",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "06f3f7bbcbb3",
+      "section": "vaskulaar",
+      "question": "Krooniline kriitiline isheemia - kui kaua",
+      "choices": {},
+      "answer": "arteriaalse verevarustuse häire >2 nädalat",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "46585ce22fce",
+      "section": "vaskulaar",
+      "question": "AAA (asümptomaatiline) aktiivne jälgimine",
+      "choices": {},
+      "answer": "30-39 mm uus UH 3 aasta pärast.\n40-49 mm uus UH 1 aasta pärast.\n>50 mm uus UH 3-6 kuu pärast.\n-> NB! Kui aneurüsmi kasv on >3mm eelmise kontrolliga võrreldes, lühendatakse jälgimise intervalli 2 korda\nAneurüsm kasvab aastas keskmiselt 0.2-0.3 cm.",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5adeb02c50dc",
+      "section": "vaskulaar",
+      "question": "Alajäsemete ägeda isheemia raviprintsiibid",
+      "choices": {},
+      "answer": "Intraarteriaalne kateeterjuhitud trombolüüs:\nPerkutaanne trombektoomia (IIa)\nAvatud kirurgia (bypass)\nValuravi (opiaadid)\nAntikoagulatsioon -> tromboosi leviku peatamine (hepariin)\nIsheemilise jäseme verevarustuste parandamine (Dextran, Trental)\nÜldseisundi korrektsioon\nTransport erialakliinikusse",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0863fcd47e18",
+      "section": "vaskulaar",
+      "question": "Reperfusioonikahjustuse raskusaste sõltub:",
+      "choices": {},
+      "answer": "Täielik - mittetäielik isheemia\n- Täielik isheemia (emboolia) -> kollateraalringe puudub, 1-3h -> kujuneb välja kompartmentsündroom\n- Mittetäielik isheemia (tromboos) -> kestus mitmeid tunde -> ei pruugi välja kujuneda\nIsheemia kestus\nRevaskulariseeritud koe maht (lihasmass)\nKaasuvatest haigustest (neeru-, kopsu-, südamepuudulikkus)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7bb1a6e2b651",
+      "section": "vaskulaar",
+      "question": "Kõige sagedasem AAA lokalisatsioon ja kuju",
+      "choices": {},
+      "answer": "Infrarenaalne, fusiformne/väntrakujuline, mitte bifurkatsiooni kohtades",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2a7fc836eae6",
+      "section": "vaskulaar",
+      "question": "Kõhuaordi aneurüsmi ruptuuri sümptomaatika",
+      "choices": {},
+      "answer": "Diagnostiline triaad (esineb vaid 25-50%-l): \n1. äkiline järsku tekkinud tugev valu kõhus või seljas, \n2. hüpotensioon, tahhükardia, diureesi langus, teadvuskaotus (kuni hemorraagilise šokini)\n3. pulseeriv tuumor kõhuõõnes\n\nTeised sümptomid: valu küljes, kubemes, naha värvuse muutus kubemes, skrootumil, peenisel (hematoomist), hematuuria, iileus (peen- või jämesoole obstruktsioon), kubemesong, ka pitsunud (kõhurõhu tõusust), harva koletsüstiidi pilt - seda siis, kui hematoom levib sapipõie piirkonda, hemotooraks (verejooks tooraksisse)",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fa9e639fa8c7",
+      "section": "vaskulaar",
+      "question": "Sisemise unearteri stenoos - riskifaktorid",
+      "choices": {},
+      "answer": "Meessugu, vanus (> 50a), hüpertensioon, suitsetamine, alkoholi liigtarbimine, düslipideemia, ülekaal, perekonnaanamnees",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3a30bc7f01f4",
+      "section": "vaskulaar",
+      "question": "Sisemise unearteri stenoos - sümptomaatika",
+      "choices": {},
+      "answer": "Sümptomaatiline stenoos = isheemiline insult või TIA (sümptomid < 30 min) 6k jooksul\n1. Hemiparees - kontralateraalne, väljendunud tundetus, nõrkus (ACM, ACA)\n2. Neglekt - kontralateraalne, mitte-domineeriva poolkera kahjustus\n3. Kõnehäire - domineeriva poolkera kahjustus (ACM)\nMotoorne afaasia - mõistab enda ja teiste juttu, aga ei suuda normaalselt kõneleda\nSensoorne afaasia - suudab kõneleda, aga ei mõista enda ega teiste juttu\n4. Nägemishäire - pilk suunatud kolde poole (ACM), homonüümne hemianopsia, kontralateraalne (ACM, ACP)\n5. Amaurosis fugax - mööduvad nägemishäired kestusega 3-5 minutit: pimedus, hägune või udune nägemine, tumedad täpid, laigud, „tunnelis olemise\" tunne, ülenev või alanev vaatevälja ahenemine\nEnamasti EI OLE insuldi sümptomid uimasus, minestamistunne, põie või pärasoole pidamatus, segasusseisund, tinnitus, teadvuskadu",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e76bf2ad74a1",
+      "section": "vaskulaar",
+      "question": "Alajäsemete äge isheemia: põhjused, kliinik",
+      "choices": {},
+      "answer": "Emboolia -> 80% kardiaalsed, vähem aordist ja mujalt.\nTromboos.\n\nAlla 2 nädala kestnud.\n6P sümptomid: pain, pallor, pulselessness, paresthesia, perishing cold, paralysis.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1960764785ff",
+      "section": "vaskulaar",
+      "question": "Alajäsemete äge isheemia - kl. pilt sõltub:",
+      "choices": {},
+      "answer": "üldseisundist (embolo-/trombogeenne põhihaigus, KV puudulikkuse aste, vanus, kaasuvad haigused)\n\noklusiooni iseloomust (emboolia/tromboos)\n\noklusiooni ulatusest\n\nisheemia staadiumist\n\nisheemia kulust (pöörduvus)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5c399adb0f2b",
+      "section": "vaskulaar",
+      "question": "\"Kuldne periood\" verevarustuse taastamiseks",
+      "choices": {},
+      "answer": "4-6h peale embolisatsiooni",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "44173bbec8a8",
+      "section": "vaskulaar",
+      "question": "Vertebrobasilaarsüsteemi insult - sümptomid",
+      "choices": {},
+      "answer": "Peapööritus, nägemisteravuse langus, diploopia, hemiparees, düsartria, segasusseisund, teadvusekaotus, vertiigo, kukkumised, ataksia",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "dbb30ff81c91",
+      "section": "vaskulaar",
+      "question": "Alajäsemete krooniline isheemia - etioloogia",
+      "choices": {},
+      "answer": "Ateroskleroos\n\nOblitereeriv trombangiit (Bürgeri haigus)\nTakayasu haigus\nArteriaalne fibrodüsplaasia\nEbatüüpilised arteriopaatiad (radiatsioonijärgne, pseudoxantoma elasticum, ravimindutseeritud)\nVaskuliidid (Becheti haigus, polyarteritis nodosa, Kawasaki haigus, Wegneri granulomatoos, süsteemsed autoimmuunsed sidekoe haigused)\nTraumajärgsed oklusioonid\nTrombembooliajärgsed oklusioonid (proteiin C, S, antitrombiin III defitsiit)\nVälisest kompressioonist tingitud haigused (õndlaarteri ahenemise sündroom)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "eb1a849c2eca",
+      "section": "vaskulaar",
+      "question": "Klaudikatsiooni konservatiivne ravi: ravimid",
+      "choices": {},
+      "answer": "Tsilostasool (fosfodiesteraas-3 inh. vasodilataator, antiagregant, tõstab HDL ja langetab TG)\nNaftidrofurüül (5-hüdroksütrüptamiini II tüübi antagonist, vasodil., antiagregant -> ATP↑, laktaat↓)\nPentoksüfülliin (fosfodiesteraasi inh., vasodil., parandab erütrotsüütide, leukotsüütide deformeeritavust, antiagregant, vähendab fibrinogeeni sisaldust, leukotsüütide adhesiooni endoteelile ja vere viskoossust",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "eb7b3136594a",
+      "section": "vaskulaar",
+      "question": "Intraarteriaalse trombolüüsravi näidustused:",
+      "choices": {},
+      "answer": "Alajäseme äge isheemia (IIa)\nIsheemiline insult (teatud juhtudel. alternatiiv i.v trombolüüsile)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ba78cd9f7ad3",
+      "section": "vaskulaar",
+      "question": "Kriitiline jalga ohustav krooniline isheemia",
+      "choices": {},
+      "answer": "Jala krooniline püsiv isheemiline rahuolekuvalu, haavand või gangreen, mille põhjuseks on arteriaalse verevarustuse häire (kestus > 2 nädala). Fontaine III ja IV staadium.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d029b3215dde",
+      "section": "vaskulaar",
+      "question": "Krooniline venoosne puudulikkus - patogenees",
+      "choices": {},
+      "answer": "Pindmine tagasivool põhjustatud nõrgenenud või ebanormaalse kujuga veeniklappidest või laienemisest. Võib olla kaasasündinud düsfunktsioon või trauma, pikaajalise seismise, hormonaalsete muutuste või tromboosi tagajärjel.\nSüvaveenide düsfunktsioon on tingitud varasemast DVT-st, mis põhjustab põletikku, klapi armistumist ja adhesiooni.\nKrooniline venoosne puudulikkus tekitab jäsemete venoosse hüpertensiooni",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4adfdbcae42e",
+      "section": "vaskulaar",
+      "question": "Sisemise unearteri stenoos - stenoosi ulatus",
+      "choices": {},
+      "answer": "Kerge stenoos 1-49%\nMõõdukas stenoos 50-69%\nRaske stenoos ≥ 70%",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "efd020800ec2",
+      "section": "vaskulaar",
+      "question": "Kas AAA võib põhjustada alajäseme isheemiat?",
+      "choices": {},
+      "answer": "Jah, võib põhjustada alajäseme ägedat isheemiat distaalse embolisatsiooni kaudu",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b951390ae4e9",
+      "section": "vaskulaar",
+      "question": "Intravaskulaarne UH\n- millal kasutame ja miks",
+      "choices": {},
+      "answer": "Kasutatakse vähe (invasiivne + eeldab kvalifitseeritud personali olemasolu)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "522e9df71cb5",
+      "section": "vaskulaar",
+      "question": "Sisemise unearteri stenoos - kirurgiline ravi",
+      "choices": {},
+      "answer": "Kirurgiline ravi on eelistatud stentimise ees (85%). Põhimõte on aterosklerootilise naastu eemaldamine arterist. Klassikaline (pikisuunaline lõige ja pärast lapp, klemmid peal ∽25min) ja eversiooniga (arter lõigatakse läbi, pööratakse tagurpidi, ei vaja lappi, klemmid peal ∽15min) meetod.\nTüsistused: insult, pseudoaneurüsm, verejooks, infektsioon, närvikahjustus, restenoos, MI",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "56513cc53cca",
+      "section": "vaskulaar",
+      "question": "Posttrombootilise sündroomi tüsistused ja ravi",
+      "choices": {},
+      "answer": "Sekundaarsed vaariksid, venoosne haavand, hüperpigmentatsioon, lipodermatoskleroos.\n\nKompressioonsukad, jalgade elevatsioon 15 min 4x päevas. Vajadusel vahelduv pneumaatiline kompressioon.\n\nKirurgilisest ravist süvaveenide rekanaliseerimine, šunteerimine, klappide korrektsioon, vaariksite ravi.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "975ea513e22f",
+      "section": "vaskulaar",
+      "question": "Alajäsemete äge isheemia - embolite lähtekohad",
+      "choices": {},
+      "answer": "Kardiaalne embol 80-90%\nMittekardiaalne embol 5-10%\nTeadmata lähtekoht 5-10%",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "acdcdb7512b9",
+      "section": "vaskulaar",
+      "question": "Varikoosi e. veenilaiendite teket soodustavad:",
+      "choices": {},
+      "answer": "hormonaalsed kõikumised (rasedus), vanus, gen. selsoodumus, vanus, sugu (N>M), istuv eluviis, rasvumus, suitsetamine, post-trombootiline sündroom, varasem jässeme trauma",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "87206a3aa43f",
+      "section": "vaskulaar",
+      "question": "Varikoosi diagnostika - funktsionaalsed testid",
+      "choices": {},
+      "answer": "Trendelenburgi test\nKolme žguti katse Cooperi järgi\nPertese katse",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8d232851dc44",
+      "section": "vaskulaar",
+      "question": "mis väide on õige kaksikagregantravi kohta vms",
+      "choices": {},
+      "answer": "Kaksik-trombotsüütravi (nt aspiriin + klopidogreel/tikagreloor) on näidustatud piiratud aja jooksul pärast stentimist või ägedat koronaarsündroomi; vähendab stenditromboosi ja isheemiliste sündmuste riski, kuid suurendab veritsusriski.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai",
+      "explanation": "Algne küsimus oli valikvastustega, kuid variandid läksid kaotsi — siin on üldine õige väide, täpset eksamiväidet ei ole teada.",
+      "needs_review": true
+    },
+    {
+      "id": "dc788d048309",
+      "section": "vaskulaar",
+      "question": "Absoluutsed intraarteriaalse trombolüüsravi VN:",
+      "choices": {},
+      "answer": "Tserebrovaskulaarne atakk (v.a. TIA) viimase 2 kuu jooksul\nAktiivne hemorraagiline diatees\nGIT verejooks viimase 10p jooksul\nNeurokirurgiline op/intrakraniaalne trauma viimase 3 kuu jooksul",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "495eceacb281",
+      "section": "vaskulaar",
+      "question": "Mis tekitab sageli posttrombootilist sündroomi?",
+      "choices": {},
+      "answer": "Ileokaalne flebotromboos",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "63ceafa995f3",
+      "section": "vaskulaar",
+      "question": "AAA kirurgilise/endovaskulaarse avi näidustused",
+      "choices": {},
+      "answer": "1. Asümptomaatiline AAA diameetriga > 55 mm (mehed) ja > 50 mm (naised)\n2. Kiire AAA kasv - diameeter suurenenud aastaga ≥ 10 mm\n3. Sümptomaatiline AAA\n4. AAA ruptuur",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "22b71356f156",
+      "section": "vaskulaar",
+      "question": "Kui aort ruptureerub kõhuõõnde (20% juhtudel) ->",
+      "choices": {},
+      "answer": "inimene jookseb verest tühjaks",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bd59962a6333",
+      "section": "vaskulaar",
+      "question": "Alajäseme arterite okluseerivate haiguste jaotus:",
+      "choices": {},
+      "answer": "stenoos/oklusioon\näge/ krooniline isheemia",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0adbbbf5fecc",
+      "section": "vaskulaar",
+      "question": "... ainult siis, kui plaanis revaskularisatsioon.",
+      "choices": {},
+      "answer": "DSA",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9f99f15f5ac7",
+      "section": "vaskulaar",
+      "question": "Ruptureerunud kõhuaordi aneurüsm - lokalisatsioon",
+      "choices": {},
+      "answer": "Retroperitoneaalruum 85-90%\nVaba kõhuõõs 10%\nAlumine õõnesveen/kaksteistsõrmiksool 4%",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4c589e79e236",
+      "section": "vaskulaar",
+      "question": "Posttrombootiline sündroom - reeglid patsiendile:",
+      "choices": {},
+      "answer": "1. Alati kanna elastset sidet, sukka või sukkpükse, aseta need peale enne voodist tõusmist\n2. Tõsta jalad kõrgemale (üle südame piiri) vähemalt 4x päevas 15-20 min.\n- Haigus ravimatu, aga täielikult kontrollile alluv suhteliselt lihtsate võtetega",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "245c4f49e37d",
+      "section": "vaskulaar",
+      "question": "Krooniline venoosne puudulikkus - olemus, levimus",
+      "choices": {},
+      "answer": "Venoosse süsteemi haigusprotsess, kus esineb anormaalsest verevoolust tingitud veenulite ja kapillaaride seinakahjustus, mis väljendub jäseme turse ja pehmete kudede kahjustuse tekkes. Vesi ja plasmavalgud lekivad kudedesse, häirub hapniku ja toitainete difusioon kudede ja vere vahel. Esineb 16%-l täiskasvanud inimestest.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0b8aa85fb89f",
+      "section": "vaskulaar",
+      "question": "Sisemise unerarteri stenoos - konservatiivne ravi",
+      "choices": {},
+      "answer": "Konservatiivne ravi eelkõige asümptomaatilise stenoosi korral insuldi riski vähendamiseks\n1. Eluviis - toitumisharjumused, füüsiline aktiivsus, suitsetamisest loobumine\n2. Antiagregantravi - sümptomaatiline stenoos < 50%, asümptomaatiline stenoos < 60%, kirurgilise ravi järgselt\n3. Kaasuvate haiguste ravi - hüperkolesteroleemia, diabeedi ja hüpertensiooni ravi\n\nEluaegne statiin ja monoantiagregantravi",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8d98153d6224",
+      "section": "vaskulaar",
+      "question": "Mis suurenda sisemise unearteri restenoosi riski?",
+      "choices": {},
+      "answer": "Suitsetamine(!), hüperlipideemia, hüpertensioon, diabeet",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "05d1f7f07b0c",
+      "section": "vaskulaar",
+      "question": "Sisemise unearteri varustusala isheemia sümptomid:",
+      "choices": {},
+      "answer": "Amaurosis fugax - mööduvad nägemishäired kestusega 3-5 minutit: pimedus, hägune, udune nägemine, tumedad täpid, laigud, „tunnelis olemise\" tunne, ülenev/alanev vaatevälja ahenemine (sisemine unearter) (haigel poolel)\n\nAfaasia (motoorne/sensoorne) - eneseväljendamise/ kõnelemise raskused (keskmine ajuarter), domineeriva hemisfääri kahjustuse korral\n\nKontralateraalse kehapoole sensoorne või motoorne defitsiit (parees) - liigutuste sooritamise raskused, koordinatsioonihäired, kehapoole tundetus, jala või käe nõrkus kontralat. (keskmine ajuarter)\n\nKontralateraalse kehapoole sensoorne või motoorne defitsiit, apaatsus, mutism, uriinipidamatus - kehapoole tundetus, käe või jala (rohkem väljendunud) nõrkus, käimisraskused (eesmine ajuarter)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "74b3766a187b",
+      "section": "vaskulaar",
+      "question": "Mis on alajäsemete arterite haiguste ravi eesmärk?",
+      "choices": {},
+      "answer": "Jäseme säilitamine ja KV riski vähendamine",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bc46066f8500",
+      "section": "vaskulaar",
+      "question": "Ekstrakraniaalsete ajuarterite kahjustuste põhjused",
+      "choices": {},
+      "answer": "Ateroskleroos -> 90%\n\nDissekatsioon, dissektiivne aordi aneurüsm, fibromuskulaarne düsplaasia, arterite niverdumine, elongatsioon jne., arterite väline kompressioon, arterite traumaatiline oklusioon, arteria carotis interna dissektsioon, põletikulised angiopaatiad jt põhjused -> 10%",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d9182928237d",
+      "section": "vaskulaar",
+      "question": "Alajäsemete äge isheemia - embolite lokalisatsioon:",
+      "choices": {},
+      "answer": "alajäseme arterid 73%, ülajäseme arterid 14%, vistseraalarterid 7%",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "37584107ec8b",
+      "section": "vaskulaar",
+      "question": "Mittekardiaalne embol 5-10% -> kust tulevad embolid",
+      "choices": {},
+      "answer": "Aneurüsmid (aort, reiearter, põlveõndlaarter)\nAort: aterosklerootiline lubinaast (haavandunud), aneurüsm, trauma, võõrkeha",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c6de669188e5",
+      "section": "vaskulaar",
+      "question": "Mis on klaudikatsiooni/PADi peamised tekkepõhjused?",
+      "choices": {},
+      "answer": "Ateroskleroos\n\nHarvem aneurüsmid, vaskuliidid, trauma, kongenitaalsed häired, popliteal entrapment (noored jõuksimehed)",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7c24b1771d10",
+      "section": "vaskulaar",
+      "question": "Kõhuaordi aneurüsmi klassifikatsioon asukoha alusel",
+      "choices": {},
+      "answer": "Infrarenaalne (95%) - neeruarteritest allpool\nJukstarenaalne - neeruarterite all kohe\nRenaalne - neeruarterid on haaratud\nSuprarenaalne - ulatub neeruarteritest üles",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "56e17d9c9ef2",
+      "section": "vaskulaar",
+      "question": "Ekstrakraniaalsete ajuarterite haiguste ravitaktikad",
+      "choices": {},
+      "answer": "Elustiil, KVH riskifaktorite minimeeriline\nAntiagregantravi + statiin = best medical treatment (BMT)\nKirurgiline ravi:",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e9bbb04d4174",
+      "section": "vaskulaar",
+      "question": "Perkutaanne trombektoomia - mis staadium, 2 varianti",
+      "choices": {},
+      "answer": "IIa\nAspiratsioon - kateetri ja süstalaga imetakse tromb ära\nMehhaaniline - lagundatakse kehasiseselt, trombi osad aspireeritakse",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e531c08e73e0",
+      "section": "vaskulaar",
+      "question": "Varikoosi diagnostika - sümptomid + millal avalduvad",
+      "choices": {},
+      "answer": "jalgade väsimus, valu, raskustunne, tursed, krambid, pigmentatsioon (kollakas/punakaspruun), lipodermatoskleroos (nahk ja nahaaluskoed kootuvad), venoossed haavandid, venoosne klaudikatsioon, sügelus ja rõhumistunne puudulike ühendusveenide kohal\n\nSümptomid avalduvad õhtu poole (pärast pikka istumist, seismist), enim soojade ilmadega",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1d9d654f87b9",
+      "section": "vaskulaar",
+      "question": "Flebotromboosi riskifaktorid: kõrge ja keskmine risk",
+      "choices": {},
+      "answer": "Kõrge risk\nOperatsioonid\nHospitalisatsioon\nTrauma\nKasvajad\n\nKeskmine risk\nÜlekaal\nSuitsetamine\nPikaajaline lennureis\nSuukaudsed kontratseptiivid\nRasedus\nHosmoonasendusravi\nGeneetilised hüübimishäired",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "78ad42902033",
+      "section": "vaskulaar",
+      "question": "Alajäseme krooniline kriitiline isheemia - patogenees",
+      "choices": {},
+      "answer": "PAD viib esialgu intermitteeruva klaudikatsioonini. Ateroskleroos ja sellest tingitud tromboosid vähendavad tsirkulatsiooni ja viivad jäseme isheemiani. Arenevad kompensatoorsed mikrovaskulaarsed adaptatsioonid hüpoksia vähendamiseks: angiogenees/arteriogenees. Haiguse arenedes hüpoksia süveneb ja adaptatsioonmehhanismid ei suuda kompenseerida. Koekahjustuseni viivad: mitokondrite kahjustus, vabade radikaalide teke, lihaskiudude degeneratsioon ja fibroos. Kliiniliselt tekib rahuolekuvalu, mitteparanevad haavandid ja gangreen, vähenenud jäseme funktsioon. Ohustatud jäseme elulemus.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "477c98183031",
+      "section": "vaskulaar",
+      "question": "Mitu % isheemilisi insulte vertebrobasilaarsüsteemis?",
+      "choices": {},
+      "answer": "20%",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "30291ef5118a",
+      "section": "vaskulaar",
+      "question": "Täpsustamiseks ülalpool põlve ... ja allpool põlve ...",
+      "choices": {},
+      "answer": "KTA, MRA",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "613b56084657",
+      "section": "vaskulaar",
+      "question": "Alajäsemete arterite oblitereeriva ateroskleroosi ravi",
+      "choices": {},
+      "answer": "Riskifaktorite modifitseerimine, käimistreening\nMedikamentoosne\nEndovaskulaarne\nKirurgiline\nHübriid (endovaskulaarne+kirurgiline) ravi",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b9dcfa030b14",
+      "section": "vaskulaar",
+      "question": "Klaudikatsiooni valu asukoha seos oklusiooni asukohaga",
+      "choices": {},
+      "answer": "- tuhar/puus - aorto-iliakaalne oklusioon;\n- reis - iliofemoraalne oklusioon;\n- sääre ülemine 2/3 - pindmine femoraalne oklusioon;\n- sääre alumine 1/3 - popliteaalne oklusioon;\n- jalalaba - tibiaalne või peroneaalne oklusioon.\n\nKõige tüüpilisem on tuhar, reis ja/või säär. Samas proksimaalsem oklusioon põhjustab distaalselt ka valu ehk siis ei ole väga spetsiifiline, annab väga umbkaudse vihje asukohale.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "84dfcf9a28f6",
+      "section": "vaskulaar",
+      "question": "Alajäseme krooniline kriitiline isheemia - diagnostika",
+      "choices": {},
+      "answer": "1. Objektiivne leid - värvus (kahvatus või tsüanoos), lihaste atroofia, vähenenud karvakasv, hüpertrofeerunud ja aeglaselt kasvavad küüned, operatsiooniarmid, veenilaiendid, haavandid/gangreen. Palpatsioonil temperatuuri langus, pulsside nõrgenemine või kadumine, lihasvalulikkus. Auskultatisoonil süstoolne kahin.\n2. ABI, kui pahkluult ei saa mõõta (difuusne ateroskleroos, diabeet - arterid jäigad) → TBI\n3. Doppler UH - esmavalik, aga limiteeritud nähtavusega niudearterite, distaalsete ja kaltsifitseerunud arterite osas\n4. KT-angiograafia - visualiseerib ka neid artereid, mida UH ei näe, aga perifeerseid artereid ei näita väga hästi ja kaltsifikaadid võivad artefakte tekitada, joodi sisaldav kontrastaine perifeersesse veeni\n5. MR-angiograafia - viimane valik, kui joodiga kontrast ei sobi vm põhjusel ei saa KTA teha\n6. DSA - kontrastaine arterisse, uuringul näeme väga hästi veresoone valendikku (aga ei näe nt seinapaksust, ümbritsevaid patoloogiaid jne), suurim eelis, et diagnostikalt saab kohe üle minna raviprotseduurile",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "04242761e53d",
+      "section": "vaskulaar",
+      "question": "Kõhuaordi aneurüsmi klassifikatsioon etioloogia alusel",
+      "choices": {},
+      "answer": "Degeneratiivne (mittespetsiifiline/aterosklerootiline, fibromuskulaarne düsplaasia)\nKongenitaalne (idiopaatiline, Turneri sündroom)\nSidekoe patoloogia (Marfani sündroom, EhlersDanlosi sündroom)\nInfektsioosne (bakteriaalne, fungaalne, süfiliitiline)\nPõletikuline arteriit (Takayasu haigus, Becheti haigus, Kawasaki haigus, nodoosne polüarteriit)\nPostdissektsioonilised (idiopaatiline, tsüstiline media nekroos, trauma)\nPoststenootilised (ülemise apertuuri sündroom (TOS), koarktatsioon)\nPseudoaneurüsmid (trauma, anastomoosi rebenemine)\nMuud (rasedusaegsed, põletikuline AAA)",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "27885072f50d",
+      "section": "vaskulaar",
+      "question": "Ekstrakraniaalsete ajuarterite haiguste kliiniline pilt",
+      "choices": {},
+      "answer": "Asümptomaatiline\n- Kõige rohkem\n- Ainus viide auskulteeritav kahin (raske stenoos vb ka kahinata)\n\nAjutiste neuroloogiliste episoodidega\n\nIsheemiline insult\n\nVertebrobasilaarne haigus\n\nArteria subclavia steal-sündroom",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b18e74186544",
+      "section": "vaskulaar",
+      "question": "Mis on krooniline alajäset ähvardav kriitiline isheemia?",
+      "choices": {},
+      "answer": "Üle 2 nädala kestnud alajäseme isheemiline rahuloleku valu ja haavand",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cea043ba6ec4",
+      "section": "vaskulaar",
+      "question": "Sisemise unearteri stenoos - kirurgilise ravi näidustused",
+      "choices": {},
+      "answer": "1. Sümptomaatiline - stenoos > 50% (NASCET), perioperatiivse insuldi ja surma määr < 6%, operatsioon 2 nädala jooksul, laiaulatusliku insuldi puhul oodata seisundi stabiliseerumiseni\n2. Asümptomaatiline - stenoos > 60% (NASCET), kõrge insuldi/TIA risk, sobiv anatoomia, kirurgiast lähtuv risk < 3% ja eeldatav eluiga > 5a",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "27e7b4aac162",
+      "section": "vaskulaar",
+      "question": "Sildavad (bypass) operatsioonid: meetodid + millal tehakse",
+      "choices": {},
+      "answer": "Aorto(bi)femoraalne sildamine\n- Eelistatuim meetod difuusse kahj. korral\nIlio-femoraalne sildamine\n- Ekstraperitoneaalsest lõikest difuusse iliakaalsegmendi kahj. korral\nFemoro-popliteaalne sildamine:\n- >25 cm kahj. korral valikmeetod\nFemoro-tibiaalne sildamine\nEkstraanatoomilised sildamised:\n- Aksillo(bi)femoraalne sildamine (madala läbitavuse tõttu näid. vaid alternatiivide puudumisel)\n- Femoro-femoraalne sildamine (unilateraalse niudearteri kahj. ja kõrge operatiivse riski korral)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c0699f9004d5",
+      "section": "vaskulaar",
+      "question": "Digitaalsubtraktsioonangiograafia (DSA)\n- kasustusel millal",
+      "choices": {},
+      "answer": "Kasutatav, kui lisaks ateroskleroos.",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "72f5f34aa1ec",
+      "section": "vaskulaar",
+      "question": "Kui aort ruptureerub retroperitoneaalsele (80% juhtudel) ->",
+      "choices": {},
+      "answer": "hematoom tamponeerib ruptuuri",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "58887ca6d685",
+      "section": "vaskulaar",
+      "question": "Posttrombootilise sündroomi - süvaveeni tromboflebiidi ravi",
+      "choices": {},
+      "answer": "kirurgilist ravi ei rakendata",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7b1fb5da147f",
+      "section": "vaskulaar",
+      "question": "PAD/alajäseme kroonilise isheemia Fontaine klassifikatsioon",
+      "choices": {},
+      "answer": "I - asümptomaatiline, ebaspetsiifilised vaevused\nIIa - kerge klaudikatsioon\nIIb - mõõdukas kuni raske klaudikatsioon\nIII - isheemiline rindkere valu, rahulolekuvalud\nIV - ultseratsioon, isheemilised haavandid, gangreen",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6eb1d213e380",
+      "section": "vaskulaar",
+      "question": "Alajäseme krooniline kriitiline isheemia - operatiivne ravi",
+      "choices": {},
+      "answer": "Operatsioon näidustataud Fontaine III-IV staadium (rahuolekuvalu, haavandid, gangreen, isheemiline rindkerevalu)\n\n1. Endovaskulaarne ravi - balloonangioplastika ilma või koos stendi paigaldamisega, näidustatud lühikeste oklusioonide ja stenooside puhul või kui v. saphena magna ei ole kasutatav\nV. saphena magna ei sobi, kui nt on juba ära kasutatud või laienditega. \n2. Sildavad ehk bypass operatsioonid - esmavalik v. saphena magna, näidustatud, kui pikad oklusioonid ja veen kasutatav (parim auto/alloveeni kasutamine)\n3. Endarterektoomia - aterosklerootiliste naastude eemaldamine kirurgiliselt, näidustatud, kui ei ole asukoha tõttu (nt süvareiearteri hargnemiskoht) võimalik stentida",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "35212c406a42",
+      "section": "vaskulaar",
+      "question": "Digitaalsubtraktsioonangiograafia (DSA): eelised ja puudused",
+      "choices": {},
+      "answer": "Eelised\nStenoosi/oklusiooni detailne lokalisatsioon + stenoosi aste: peale- ja äravoolu, rõhugradientide mõõtmine\nSobivuse hindamine endovask ja kir raviks\nHea infrapopliteaalses segmendis\n\nPuudused\nKontrastaine-nefropaatia oht\nInvasiivne -> tüsistuste oht: arteri dissektsioon, ateromatoossed embolid, punktsioonikoha tüsistuse\n\nTraditsiooniliselt esmane uuring PAD diagnostikas, tänapäeval mitteinvasiivsed uuringud asendavad DSA-d.",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e307c285635c",
+      "section": "vaskulaar",
+      "question": "Kompuutertomograafiline (KT) angiograafia\n- millal kasutusel",
+      "choices": {},
+      "answer": "„Kuldne standard\" preoperatiivselt nii kirurgulise kui endovaskulaarse operatsiooni planeerimisel\nKa ägeda/ruptureerunud AAA korral, kui patsient hemodünaamiliselt stabiilne",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5eda103e1765",
+      "section": "vaskulaar",
+      "question": "Äge isheemia - Rutherford klassifikatsioon (millel põhineb?)",
+      "choices": {},
+      "answer": "Põhineb valu püsivusel, kaasuva tundlikkuse- ja funktsioonihäire hindamisel, Doppler signaalil olemasolul; ei erista isheemia lokalisatsiooni.\nI - valu ei ole püsiv, tundlikkus ja funktsioon korras - hepariin (pt kellel korduv isheemia, tunnetavad, et midagi valesti)\nIIA - püsiv valu, tundlikkushäire, art Doppler signaal puudub - kateeterjuhitud trombolüüs\nIIB - püsiv valu, tundlikkus- ja funktsioonihäire (lihaskahjustus hakkab välja kujunema), art Doppler signaal puudub - trombektoomia\nIII - püsiv valu, tugev tundlikkus- ja funktsioonihäire, tsüanootiline nahk, art+ven Doppler signaal puudub - hepariin + vajadusel amputatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "75201b8e918d",
+      "section": "vaskulaar",
+      "question": "Kõige sagedasemad AAA kirurgilise ravi tüsistused 30p jooksul",
+      "choices": {},
+      "answer": "Kolm kõige sagedasemat on kardiaalsed (nt MI), pulmonaalsed (nt pneumoonia) ja neerupuudulikkus. Need kuskil 12-15%.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e9b250d9a82d",
+      "section": "vaskulaar",
+      "question": "Alajäsemete arterite oblitereeriv ateroskleroos - dgn: vaatlus",
+      "choices": {},
+      "answer": "värvus (kahvatus/tsüanoos), lihaste atroofia, vähenenud karvakasv, hüpertrofeerunud ja aeglaselt kasvavad küüned, operatsiooniarmid, veenilaiendid",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "060078c3a3ef",
+      "section": "vaskulaar",
+      "question": "Alajäsemete arterite ateroskleroos: staadiumid Fontaine`i järgi",
+      "choices": {},
+      "answer": "I st. - tagasihoidlikud, ebamäärased vaevused jäseme distaalses osas\n- Külmakartlikkus, paresteesiad, isheemilise neuriidi nähud, lihasatroofia, naha kahvatus/tsüanoos, küünte atroofilised muutused\n\nII st. - vahelduv lonkamine (claudicatio intermittens) -> valu tekib jalalihasesse koormusel\n- Alastaadiumid vastavalt klaudikatsioonimaa pikkusele\n- >200 m. IIa st., <200 m. IIb st.\n\nIII st. - rahuolekuvalud (kriitiline iskeemia)\n\nIV st. - isheemilised haavandid, gangreen",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "61667c35cd1f",
+      "section": "vaskulaar",
+      "question": "Alajäsemete arterite oblitereeriv ateroskleroos - dgn: anamnees",
+      "choices": {},
+      "answer": "perekondlik anamnees, riskifaktorid, eelnev ravi",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "35613e734f7a",
+      "section": "vaskulaar",
+      "question": "Alajäsemete arterite oblitereeriv ateroskleroos - dgn: indeksid",
+      "choices": {},
+      "answer": "Ankle-brachial index (ABI), toe-brachial index (TBI)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "51a3a7a70862",
+      "section": "vaskulaar",
+      "question": "Kompuutertomograafiline angiograafia (KTA): eelised ja puudused",
+      "choices": {},
+      "answer": "Eelised\nMitteinvasiivne, 24/7 kättesaadav, saame arteritest 3D kujutise.\nMäärab stenoosi/oklusiooni olemasolu ja lokalisatsiooni, välisdiameetri, kaasuvad patoloogiad\nSaame hinnata sobivust endovaskulaarseks/kirurgiliseks raviks\nEfektiivsem aorto-iliakaalses, femoraalses arteriaalses segmendis, vähem perif. kaltsifitseerunud arterite korral.\n\nPuudused\nRöntgenkiirguse kasutamine + kontrastaine-nefropaatia oht (vajalik hüdreerimine enne uuringut)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "64faff562ace",
+      "section": "vaskulaar",
+      "question": "Magnetresonantstomograafiline (MRT) angiograafia\n- vajalik millal",
+      "choices": {},
+      "answer": "Saame 3D ülesvõtted, vajalikud kirurgilise/endovaskulaarse ravi planeerimisel",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "78ad1eb11a1d",
+      "section": "vaskulaar",
+      "question": "Kompartmentsündroomi lokaalsed ja süsteemsed komplikatsioonid (4)",
+      "choices": {},
+      "answer": "Müoglobineemia -> müoglobinuuria -> renaalne tubulaarnekroos -> neerupuudulikkus\nHingamispuudulikkus -> respiratoorne distress-sündroom\nMetaboolne atsidoos\nHüperkaleemia -> südame rütmihäired, südame seiskus",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b546085f54c4",
+      "section": "vaskulaar",
+      "question": "Alajäsemete arterite oblitereeriv ateroskleroos - dgn: palpatsioon",
+      "choices": {},
+      "answer": "temperatuuri langus, pulsside nõrgenemine/kadumine, lihasvalulikkus",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "90f59ab95002",
+      "section": "vaskulaar",
+      "question": "Emboolia ja tromboosi diferentsiaaldiagnostika - ühised sümptomid:",
+      "choices": {},
+      "answer": "nahk kahvatu ja jahe, turset ei esine, nahaalused veenid kollabeerunud",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "778820a159ac",
+      "section": "vaskulaar",
+      "question": "Ekstrakstrakraniaalsete ajuarterite haiguste kliinik ja diagnostika",
+      "choices": {},
+      "answer": "Amaurosis fugax, TIA (<24h sümptomid), isheemiline insult.\n\nUH-Doppler on standard.\n\nKT-angio preoperatiivselt ja insuldi, muu kaasuva ajupatoloogia kahtlusel.\n\nDSA -> ainult juhul kui plaanis stentimine.",
+      "type": "open",
+      "sources": [
+        "quizlet:402840637"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a5c08af3f1ad",
+      "section": "vaskulaar",
+      "question": "Ajutiste neuroloogiliste episoodidega\na. sümptomid sõltuvad millest",
+      "choices": {},
+      "answer": "a. Sümptomid sõltuvad emboli suurusest, isheemilisest piirkonnast (sisemine/keskmine/eesmine ajuarter) ja selle kollateraalsest varustatusest -> \n\nSisemise unearteri varustusala isheemia sümptomid & TIA = transitoorne isheemiline atakk",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bc009b6153af",
+      "section": "vaskulaar",
+      "question": "Milline krooniline haigus on kaitsev faktor aneurüsmide tekke osas?",
+      "choices": {},
+      "answer": "Diabeet",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bed75c8ec4b4",
+      "section": "vaskulaar",
+      "question": "Magnetresonantstomograafiline angiograafia (MRA): eelised ja puudused",
+      "choices": {},
+      "answer": "Eelised\nMitteinvasiivne, pole kiirgust ega kontrasti\nSaame arteritest 3D kujutise.\nMäärab stenoosi (ülehindamise oht)/oklusiooni olemasolu ja lokal., välisdiameetrit, kaasuvaid patol.\nSaame hinnata sobivust endovaskulaarseks/kirurgiliseks raviks, kaltsifikatsioon ei sega/ei erista\n\nPuudused\nPole 24/7 kättesaadav\nEi sobi kardiostimulaatorite ja metallimplantaatide (klipsid, stendid, endoproteesid) korral\nAllpool põlveliigest segab venoosne „kontaminatsioon\"",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2c1e8350d251",
+      "section": "vaskulaar",
+      "question": "Alajäsemete arterite oblitereeriva ateroskleroosi konservatiivne ravi",
+      "choices": {},
+      "answer": "Suitsetamisest loobumine\nSöömise korrektsioon (kehakaalu langetamine, düslipideemia likvideerimine)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "03f446e50e31",
+      "section": "vaskulaar",
+      "question": "Alajäsemete arterite oblitereeriva ateroskleroosi medikamentoosne ravi",
+      "choices": {},
+      "answer": "- Antihüpertensiivsed ravimid\n- Statiinid\n- AKE-inhibiitorid ja ARB-d\n- Diabeet kontrolli alla\n\nProstaglandiinid näid. kriitilise kr. isheemia korral, kui revaskularisatsioon pole näidustatud/ebaõnnestus\n\nAntiagregantravi - sümptomaatilise alajäsemete arterite haiguse (LEAD) ravi\na. Aspiriin/klopidogreel -> vähendavad KV tüsistuste riski\nb. Aspiriin + klopidogreel e. kaksikagregantravi -> näid. LEAD haigetele stentimise/PTA järgselt (balloon)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4dcb06bb34ba",
+      "section": "vaskulaar",
+      "question": "UH \n- keda soovitatud skriinida\n- millal kasutusel\n- mida vaja määrata",
+      "choices": {},
+      "answer": "UH -> skriiningmeetod\n- soovitav skriinida kõiki üle 65 a. vanuseid mehi\n- Esmane diagnostika ja jälgimine\n- Kõige olulisem määrata AAA diameeter, mõõdetult aneurüsmikoti keskteljega risti tasapinnas!",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "37ff9951615e",
+      "section": "vaskulaar",
+      "question": "Posttrombootiline sündroom\na. mis on -> mis sündroom -> mille tüsistus",
+      "choices": {},
+      "answer": "a. süvaveenide kr puudulikkus - venoosse staasi sündroom - sage süvaveeni tromboflebiidi ja süvaveeni tromboosi (SVT) krooniline tüsistus",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "151c5b8c5b10",
+      "section": "vaskulaar",
+      "question": "Alajäsemete arterite oblitereeriv ateroskleroos - dgn: radiol. uuringud",
+      "choices": {},
+      "answer": "Doppler-sonograafia\nKompuutertomograafiline angiograafia (KTA)\nMagnetresonantstomograafiline angiograafia (MRA)\nDigitaalsubtraktsioonangiograafia (DSA)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1dfb7228a060",
+      "section": "vaskulaar",
+      "question": "Alajäsemete arterite oblitereerivate haiguste diferentsiaaldiagnostika.",
+      "choices": {},
+      "answer": "Spinaalne klaudikatsioon (radikuliit)\nOsteoartroos (põlveliiges/puusaliiges/hüppeliiges)\nVenoosne klaudikatsioon\nÕndlaarteri aneurüsm (kompressiooninähud, ka isheemia)\nDiabeet (mikroangiopaatia, perifeerne neuropaatia)\nPerifeerne neuropaatia (nt. alkohoolne)\nÕndlaarteri ahenemise sündroom\nRaynaud sündroom\nPodagra\nLampjalgsus\nMuu",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "155c4593623c",
+      "section": "vaskulaar",
+      "question": "Alajäsemete arterite oblitereeriva ateroskleroosi ravi: operatsioonimeetodid",
+      "choices": {},
+      "answer": "Balloonangioplastika +/- stentimine\nSildavad (bypass) operatsioonid:\nEndarterektoomia\nAmputatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e4b59c0436b9",
+      "section": "vaskulaar",
+      "question": "Ekstrakraniaalsete ajuarterite haiguste tegurid, mis mõjutavad ravi valikut:",
+      "choices": {},
+      "answer": "Asümptomaatiline vs sümptomaatiline\n- Sümptomaatiline:TIA/insult eelneva 6 kuu jooksul (1k jooksul võimalus saada korduv TIA/insult 10-30%)\nStenoosi ulatus (%), naastu struktuur (embologeensus)\nVanus, kaasuvad haigused, eeldatav eluiga\nAnatoomia - ligipääsetavus arterile (lühike kael, adipoossus, eelnev lõikus, kiiritus tehtud jt)\nKontralateraalse a. carotis interna kahjustus",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0699c0ef31bf",
+      "section": "vaskulaar",
+      "question": "Ekstrakraniaalsete ajuarterite patoloogia kirurgilise ravi vastunäidustused:",
+      "choices": {},
+      "answer": "Patsiendi raske üldseisund, kus operatsioon võib olla haige eluiga lühendav\nLaiaulatuslik insult - rekonstruktsiooniga neuroloogilise seisundi paranemist pole oodata\nVärske suurekoldeline insult - soovitav oodata seisundi stab. -> oht infarktiala suurenemisele/hemorraagiale\nKrooniline arteria carotis interna (ACI) oklusioon kõrge riski tõttu:\n- riski põhjuseks sage varajane reoklusioon\n- tserebraalne embolisatsioon operatsiooni ajal\n- rekonstruktsiooni järgselt tekib sageli ajuturse või ajuemboolia",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0e934b5551c3",
+      "section": "vaskulaar",
+      "question": "Kas kergemini ruptureeruvad seinapidise trombiga aneurüsmid või ilma trombita?",
+      "choices": {},
+      "answer": "Trombiga (aktiivne põletikuline protsess), mida suurem trombimass, seda suurem ruptureerumise risk",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fe738613c797",
+      "section": "vaskulaar",
+      "question": "Infraingvinaalkahjustus:\na. > 25 cm kahjustuse korral (reoklusioon) valikmeetod",
+      "choices": {},
+      "answer": "a. femoro-poplietaalne sildamine",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "085f079fcdf3",
+      "section": "vaskulaar",
+      "question": "Definitiivne ravi: avatud kirurgiline või endovaskulaarne\n- näidustused ja eesmärk",
+      "choices": {},
+      "answer": "Näidustused:\n- Asümptomaatiline AAA diameetriga >55 mm (mehed) ja >50 mm (naised)\n- Kiire AAA kasv: aastase AAA diameetri suurenemise korral >10 mm.\n- Sümptomaatiline AAA\n- AAA ruptuur\n\nEesmärk: AAA asendamine proteesiga",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e597406c60e9",
+      "section": "vaskulaar",
+      "question": "Kas unearteri stenoosi korral on eelistatud kirurgiline ravi või stentimine ja miks?",
+      "choices": {},
+      "answer": "Eelistatud kirurgiline ravi, v.a kõrge operatsiooniriskiga patsientidel. Stentimise puhul suurem risk naastu emboliseerumiseks, juba kateetri sisse viimisel. Unearteris väga ohtlik, oluliselt suurem risk insuldi tekkeks protseduuri ajal.",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fdf0049d6dc6",
+      "section": "vaskulaar",
+      "question": "Rekonstruktiivse operatsiooni näidustused\nI st\nII st\nIII st\nvõimalusel eelistada mida",
+      "choices": {},
+      "answer": "I st. - ei vaja operatsiooni\nII st. - vajalik, kui klaudikatsioon segab pt igapäevast elu või professionaalset tegevust.\n- Sõltub inimese aktiivsusest ja klaudikatsioonimaa pikkusest.\nIII ja IV st. - operatsiooni näidustus absoluutne\n\nVõimalusel eelistada väheminvasiivset endovaskulaarset rekonstruktsiooni!",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1d7d9ca20ede",
+      "section": "vaskulaar",
+      "question": "Ankle-brachial indexi (ABI), toe-brachial indexi (TBI) määramine + milleks ABI ei sobi",
+      "choices": {},
+      "answer": "Soovitav määrata mõlemalt jalalt kinnitamaks diagnoosi + isheemia ulatust, saab hinnata revaskularisats. efekti\n\nABI ei sobi mittekomprimeeritavate arterite (diabeet, kõrge iga, neerupuud.) korral -> sel juhul TBI",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "15d6d265d266",
+      "section": "vaskulaar",
+      "question": "Mis on valikmeetod põlveliigesest distaalsemal olevate lesioonide diagnostikas ja ravis?",
+      "choices": {},
+      "answer": "DSA",
+      "type": "open",
+      "sources": [
+        "quizlet:907284931"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0ad6203a7ad0",
+      "section": "vaskulaar",
+      "question": "Kardiaalne embol 80-90% -> kust tulevad embolid\n- mis haigused\n- Vasak südamepool\n- Parem südamepool",
+      "choices": {},
+      "answer": "Kardiaalne embol 80-90%\n- Aterosklerootiline südamehaigus: 60-70 %\n- Reumaatiline südamehaigus: 30-40 %\n\nVasak südamepool\n- Seinapidine tromb (infarktiarm)\n- Südameklapid (bioloogilised vähemtrombogeensed)\n- Võõrkeha\n- Tuumor\n\nParem südamepool\n- Kopsuarteri trombemboolia -> pulmonaalne hüpertensioon -> paremalt-vasakule šunt\n- Tromb/tuumor õõnesveenis -> avatud foramen ovale -> vasak südamepool (paradoksaalne embolisatsioon: flebotromboos, KATE, arteriaalne trombemboolia)",
+      "type": "open",
+      "sources": [
+        "quizlet:868540789"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "de4473eeab6b",
+      "section": "vaskulaar",
+      "question": "2. Alajäseme äge isheemia\n1.Vajab kiiret veresoontekirurgi konsultatsiooni\n2.Tuleb teha trombektoomia",
+      "choices": {},
+      "answer": "1.Vajab kiiret veresoontekirurgi konsultatsiooni",
+      "type": "open",
+      "sources": [
+        "quizlet:923152585"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "354f2e38b97f",
+      "section": "vaskulaar",
+      "question": "60-aastane meespatsient pöördub piirkondliku haigla EMO-sse kaebuseks ca 12 tundi tagasi järsku tekkinud parema labajala jahedus ja tuimus, püsivat valu pole. Aasta varem on patsiendile teostatud paremal jalal rahuolekuvalude tõttu femoro-popliteaalne sildamine. Objektiivselt on patsiendil pulsid palpeeritavad mõlemapoolselt vaid kubemes reiearteritel, distaalsemal pulsid puuduvad. Patsient suudab küll parema jala varbaid ja labajalga liigutada, kuid labajalg on jahedam ja varvaste osas esineb tuimus. Milline alljärgnevatest tegevustest on antud situatsioonis enamasti kõige efektiivsem?\na) Visualiseerida ummustunud veresoon angiograafilise uuringuga ja teostada vastunäidustuste puudumisel lahtine embolektoomia/trombektoomia b) Visualiseerida ummistunud veresoon angiograafilise uuringuga ja alustada vastunäidustuste puudumisel kateeterjuhitud i/a trombolüüsiga c) Kuna püsiv valu puudub, siis võib patsiendi koju saata",
+      "choices": {},
+      "answer": "b) Visualiseerida ummistunud veresoon angiograafilise uuringuga ja alustada vastunäidustuste puudumisel kateeterjuhitud i/a trombolüüsiga",
+      "type": "open",
+      "sources": [
+        "quizlet:923152585"
+      ],
+      "source_count": 1
+    }
+  ]
+}

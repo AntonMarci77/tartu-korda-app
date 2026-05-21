@@ -1,0 +1,4755 @@
+{
+  "section": "lastekirurgia",
+  "count": 325,
+  "questions": [
+    {
+      "id": "118c7bfb0769",
+      "section": "lastekirurgia",
+      "question": "Mõigasmurrud",
+      "choices": {
+        "a": "kuidas tekivad, kuhu tekib",
+        "b": "Murrujoon",
+        "c": "lokal",
+        "d": "ravi"
+      },
+      "answer": "a. Kompressioonvigastus, mis tekib metafüüsi ja diafüüsi piiril\nb. Kompressioonjõud tekitavad luus voldi, millest lähtub murrujoon - murrujoon ebatäielik\nc. Kõige sagedamini esinevad kodarluu metafüüsis seoses kukkumisega käele\nd. Suhteliselt stabiilne ja paraneb kipsimmobilisatsiooniga",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "f86356f9efdd",
+      "section": "lastekirurgia",
+      "question": "Pajuvitsmurrud",
+      "choices": {
+        "a": "lokal",
+        "b": "stabiilsus",
+        "c": "murrujoon",
+        "d": "ravi"
+      },
+      "answer": "a. Enamasti sääre ja küünarvarre diafüüsides\nb. Ebastabiilsemad võrreldes mõigasmurdudega\nc. Murrujoon algab painutuspoolelt, kuid ei ulatu teisele poolele, st on ebatäielik\nd. Kuna murrunurk võib suureneda, vajab repositsiooni -> järgneb kipsimmobilisatsioon",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "085da0ab3349",
+      "section": "lastekirurgia",
+      "question": "Epididümoorhiit",
+      "choices": {
+        "a": "mis vanuses",
+        "b": "Põletikku soodustavad faktorid:"
+      },
+      "answer": "a. Tavaliselt teismeliseeas, seksuaalselt akt. noormeestel\nb. seksuaalne aktiivsus, otsene trauma, tugev füüsiline pingutus\n- Võib järgneda viiruslikule infektsioonile",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d467abcafa6e",
+      "section": "lastekirurgia",
+      "question": "Püloruse stenoos",
+      "choices": {
+        "a": "Kliiniline leid",
+        "b": "dgn",
+        "c": "Ravi"
+      },
+      "answer": "a. \nOksendamine (algselt regurgitatsioon, mis progresseerub) Ilma sapita -> hüpokaleemia, hüpokloreemia, metab. alkaloos \nDehüdratsioon ja kaalukaotus (-> šokk!)\nPalpeeritav püloruse tuumor (oliivi (ploomi)- suurune/kujuline tuumor)\nb. UH -> püloruse lihaskihi paksus + pikkus\nc. Ravi\n- Elektrolüütide ja happe-aluse tasakaalu korrektsioon\n- Nasogastraalsond\n- Operatiivne: Püloromüotoomia (avatud/lap.-e)",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "7dc4eedc9ef1",
+      "section": "lastekirurgia",
+      "question": "Äge osteomüeliit",
+      "choices": {
+        "a": "mis vanuses",
+        "b": "vähem/rohkem kui septilist artriiti",
+        "c": "enamasti haarab mis kehaosa",
+        "d": "Sagedaseim tekitaja:",
+        "e": "Lapseeas eelkõige ... levik",
+        "f": "Hematogeenne osteomüeliidi lokalisatsioon:",
+        "g": "Imikute puhul lokal:",
+        "h": "Osteomüeliidi patogenees:"
+      },
+      "answer": "a. <5a\nb. OM > SA\nc. Enamasti haarab alajäset\nd. Sagedaseim tekitaja: S. aureus (Kingella kingae) (Puberteedi eas tekitaja: N. gonorrheae)\ne. Lapseeas eelkõige hematogeenne levik -> võib haarata väga erinevaid lokalisatsioone\nf. Hematogeenne osteomüeliidi lokalisatsioon: pikkade toruluude metafüüs (liigesest luu poole)\ng. Imikud -> üle kõhrelise kasvuplaadi verevarustus -> lokal: epifüüs\nh. põletikukolle, infektsioonivärat -> bakterieemia -> kolonisatsioon -> osetomüeliit",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "fff148e1e8e2",
+      "section": "lastekirurgia",
+      "question": "invaginatsioon on",
+      "choices": {
+        "a": "soole pöördumine",
+        "b": "ühe sooleosa toppumine teise sisse",
+        "c": "soole nekroos"
+      },
+      "answer": "b. ühe sooleosa toppumine teise sesse",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "5d2662b5208f",
+      "section": "lastekirurgia",
+      "question": "Septiline artriit",
+      "choices": {
+        "a": "RÖ",
+        "b": "MRT",
+        "c": "UH"
+      },
+      "answer": "a. RÖ -> tee kõigile\nb. MRT aitab diagnoosida: OM-SA\nc. UH näed vedelikku -> liigese punktsioon",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "e02c39c94f64",
+      "section": "lastekirurgia",
+      "question": "Nööppatarei maos:",
+      "choices": {
+        "a": "millal kohene endoskoopiline eemaldamine",
+        "b": "millal endoskoopia 24-48h jooksul",
+        "c": "jälgimisele sobib kes"
+      },
+      "answer": "a. Sümptomaatiline\nb. Asümptomaatiline <5a, kui nööppatarei ≥20mm\nc. Asümptomaatiline, >12a, patarei <12mm, lapsevanem usaldusväärne",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "8c9af7c9c2fc",
+      "section": "lastekirurgia",
+      "question": "Söögitoru atreesia",
+      "choices": {
+        "a": "mida endast kujutab",
+        "b": "Kaasuvalt võib esineda ...",
+        "c": "Etioloogia:"
+      },
+      "answer": "a. Kaasasündinud väärarend: söögitoru lõpeb umbselt\nb. Kaasuvalt võib esineda anomaalne ühendus/ühendused söögitoru ja trahhea vahel\nc. Etioloogia:\n- Multifaktoriaalne\n- Sporaadiline/mittesündroomne\n- Kromosomaalsed aberratsioonid (trisoomia 18 e. Edwardsi sündroom);\n- Perekondlik esinemine 1%",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "38200f84b0fb",
+      "section": "lastekirurgia",
+      "question": "Sheuermanni haigus",
+      "choices": {
+        "a": "lokal.",
+        "b": "kes ja mis vanuses",
+        "c": "ravi"
+      },
+      "answer": "a. Selgroog: vertebrae eesosa osteonekroos, vertebrae tagaosa kasvab paremini -> küfoos (vertebrae kiiljas kuju)\n- Vertebrae lamendamine\nb. 13-16a poisid\nc. Ravi: ortoos, füsioteraapia, koormuse langetamine -> sageli paraneb ise, operatsioon rasketel juhtudel",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "6471139b1192",
+      "section": "lastekirurgia",
+      "question": "Mis on omfalotseele",
+      "choices": {
+        "a": "kõhuseina defekt​,",
+        "b": "nabaväädi song​, ​",
+        "c": "maoseina puudumine"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518",
+        "quizlet:870677240"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "4855ca607e6a",
+      "section": "lastekirurgia",
+      "question": "Allaneelatud magnet",
+      "choices": {
+        "a": "põhiline riskitegur -> mida põhjustab",
+        "b": "Rohkem kui 1 magnet/magnet koos metallesemega",
+        "c": "Asümptomaatiline",
+        "d": "Sümptomaatiline pt/RÖ magnetid püsivalt ühes kohas/endoskoopiliselt pole eemaldatavad"
+      },
+      "answer": "a. Mitme magneti alla neelamine (eriti eri aegadel) -> sooleseina nekroos, enteroenteraalne fistlel, perforatsioon (41%), peritoniit\nb. kohene magnetite endoskoopiline eemaldamine\nc. jälgimine (kas liigub), RÖ iga 4-6h tagant, hiljem 8-12h tagant.\nd. operatiivne ravi",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "6a0f277d0e8f",
+      "section": "lastekirurgia",
+      "question": "Invaginatsioon - ravi",
+      "choices": {
+        "a": "konservatiivne - mida teeme",
+        "b": "Kirurgiline - mida teeme, näidustused",
+        "c": "retsidiveerumine"
+      },
+      "answer": "a. Konservatiivne\n- <12h kestvuse puhul viiakse soolde kindla kontrollitud rõhu all õhku -> püütakse suruda soolt sissetoppunud osast välja\n\nb. Kirurgiline - avatakse kõht ja eemaldatakse kärbunud sooleosa, otsad ühendatakse.\n- Kui konservatiivne ravi polnud edukas\n- Peritoniit\n- Kui esineb patoloogiline juhtpunkt\n- Pneumoperitoneum röntgenuuringul\n\nc. Retsidiveeruv invaginatsioon (5%, u ⅓ esineb esimese 24h jookusl)",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "cac05fa2aed3",
+      "section": "lastekirurgia",
+      "question": "Duodeenumi obstruktsioon",
+      "choices": {
+        "a": "Sümptomid",
+        "b": "Ravi",
+        "c": "Ravi"
+      },
+      "answer": "a. Oksendamine, oksemassis sappi -> dehüdratatsioon, elektrolüütide tasakaalu häire\nb. Ravi\n- Parenteraalne vedeliku ja elektrolüütide asendusravi\n- Stabiilse üldseisundi korral opereeritakse 48h jooksul",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "c81e2595480b",
+      "section": "lastekirurgia",
+      "question": "Osgood-Schlatteri haigus",
+      "choices": {
+        "a": "lokal",
+        "b": "kes ja mis vanuses",
+        "c": "Sümptomid",
+        "d": "Etioloogia:",
+        "e": "Dgn",
+        "f": "Ravi"
+      },
+      "answer": "a. Põlv: tuberositas tibia killustumine + pehmete kudede turse\nb. 11-13a poistel\nc. Sümptomid: valu, turse põlve eesosas sirutusel ja puutel\nd. Etioloogia: nelipealihas tugevam kui luu/jooksmine-hüppamine/põletiku komponent\ne. Dgn: vajuta patella peale -> valu! -> RÖ\nf. Ravi: konservatiivne -> peamine (koormuse langetamine + füsioteraapia + valuravi); op -> harva (täiskasvanutel)",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "4cbcb82e5edd",
+      "section": "lastekirurgia",
+      "question": "Gastroskiis ja omfalotseele",
+      "choices": {
+        "a": "Prenataalne diagnostika",
+        "b": "Ravi",
+        "c": "Kirurgiline ravi"
+      },
+      "answer": "a. Raseda vere fetoproteiini taseme tõus, UH leid, MRT\nb. Kõhueesseina defekt kaetakse steriilsete soojade niiskete (NaCl 0,9%) sidemetega\nVedeliku ja elektrolüütide asendusravi, kehatemp. regulatsioon\nMao dekompressioon, NG-sondi asetamine + kusepõie kateteriseerimine\nc. Erakorraline kirurgiline ravi\n- Primaarne/ühemomentne kõhuõõne sulgemine\n- Etappiline kõhuõõneelundite repositsioon kõhuõõnde järkjärgulise kõhuõõne laiendamisega",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "de427aa2b2c8",
+      "section": "lastekirurgia",
+      "question": "skolioosi esinemissagedus on",
+      "choices": {
+        "a": "0,2%",
+        "b": "2%",
+        "c": "20%"
+      },
+      "answer": "B. 2%",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "527840cc05b5",
+      "section": "lastekirurgia",
+      "question": "Primaarne peritoniit lapseeas",
+      "choices": {
+        "a": "mida endast kujutab",
+        "b": "tuntakse kui",
+        "c": "mis vanuses",
+        "d": "N:M"
+      },
+      "answer": "a. Bakteriaalne peritoniit, mis pole põhjustatud muu kõhukoopa organi patoloogiast\nb. Tuntakse kui pneumokokk-peritoniit\nc. Kõige sagedasem vanuses 4-9a, harv täiskasvanutel\nd. N:M 4:1",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d741ab2cde7e",
+      "section": "lastekirurgia",
+      "question": "tüdrukute kubemesonga puhul on",
+      "choices": {
+        "a": "avatud Nucki kanal",
+        "b": "aponeuroosi defekt kubeme piirkonnas",
+        "c": "pöördunud munajuha"
+      },
+      "answer": "a. avatud Nucka kanal",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "5854b4f867d0",
+      "section": "lastekirurgia",
+      "question": "Infantiilsed hemangioomid tekivad",
+      "choices": {
+        "a": "peale lapse sündi",
+        "b": "puberteedieas",
+        "c": "aasta vanuses"
+      },
+      "answer": "a. peale lapse sündi",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "6d454a2e66d6",
+      "section": "lastekirurgia",
+      "question": "Invertogramm​ tehakse mis vanuses",
+      "choices": {
+        "a": "kohe pärast sündi,",
+        "b": "pärast 18-24h",
+        "c": "pärast 48h"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518",
+        "quizlet:870677240"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "c1af839c9579",
+      "section": "lastekirurgia",
+      "question": "Legg-Calve-Perthes, Perthese tõbi",
+      "choices": {
+        "a": "lokal",
+        "b": "kes ja mis vanuses",
+        "c": "Sümptomid",
+        "d": "Dgn",
+        "e": "Ravi"
+      },
+      "answer": "a. Reieluupea avaskulaarne nekroos\nb. 2-8a sportlikud poisid\nc. Sümptomid: valu, lonkamine\nd. Dgn: RÖ, MRT\ne. Ravi: konservatiivne -> peamine (koormuse langetamine + füsioteraapia + valuravi); op (reieluu osteotoomia)",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "4c07f538ff39",
+      "section": "lastekirurgia",
+      "question": "Puusaliigese arenguline düsplaasia",
+      "choices": {
+        "a": "N vs M",
+        "b": "Riskifaktorid",
+        "c": "Patofüsioloogia",
+        "d": "Sümptomid"
+      },
+      "answer": "a. N > M\nb. Tuharseis, perekonna anamnees, naissugu, esmassünd (emakas ei ole \"piisavalt\" välja veninud)\nc. Puusaliiges/lihased ei ole täielikult välja arenenud -> ebastabiilsus -> düsplaasia -> subluksatsioon ja järk-järgult tekib dislok. -> arenevad sek. ja anatoomilised muutused: sidemed paksud ja hüpetroofilised jne\nd. Ebasümmeetrilisus, vähenenud puusaliigese liikuvus, puusaliiges \"plõksub",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "8ba3b7bbee9e",
+      "section": "lastekirurgia",
+      "question": "Testise torsioonile viitab eelkõige",
+      "choices": {
+        "a": "järsku tekkinud tugev valu kubemepiirkonda",
+        "b": "isoleeritud düsuurilised vaevused",
+        "c": "hemiskrootumi punetus ja febriilse kehatemperatuuri tõus"
+      },
+      "answer": "a. järsku tekkinud tugev valu kubemepiirkonnas",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "0f9af6e26c89",
+      "section": "lastekirurgia",
+      "question": "komppöiale iseloomulik deformatsioon on",
+      "choices": {
+        "a": "püstpöid",
+        "b": "lampjalg",
+        "c": "valgpöid"
+      },
+      "answer": "a. püstpöid",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "293578336a6c",
+      "section": "lastekirurgia",
+      "question": "Puusaliigese arenguline düsplaasia - ravi",
+      "choices": {
+        "a": "mida teeme",
+        "b": "0-6 kuud:",
+        "c": "6-12 kuud:",
+        "d": "Vanemad lapsed/eelnevad protseduurid ei ole aidanud"
+      },
+      "answer": "a. konservatiivne (peamine) - asendi ortoosid: kindla asendi hoidmine, et puusaliiges lõplikult areneks/operatiivne\nb. 0-6 kuud: Pavliku rihmad - eesmised rihmad takistavad ekstensiooni, tagumised rihmad adduktsiooni\nc. 6-12 kuud: Puusaliigese kinnine paigaldamine + 2-3 kuud kips\nd. Vanemad lapsed/eelnevad protseduurid ei ole aidanud -> operatiivne puusaliigese paika panemine",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "66a773b00d47",
+      "section": "lastekirurgia",
+      "question": "Omandatud krüptorhismi põhjuseks võib olla",
+      "choices": {
+        "a": "kaasasündinud lühike seemneväät",
+        "b": "testise atroofia",
+        "c": "testise tuumor"
+      },
+      "answer": "a. kaasasündinud lühike seemneväät",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "448d8b22c731",
+      "section": "lastekirurgia",
+      "question": "Murrujärgne remodellatsioon lapsel on parim",
+      "choices": {
+        "a": "õlavarreluu proksimalses osas",
+        "b": "sääreluu distaalses osas",
+        "c": "reieluukaelas"
+      },
+      "answer": "a. õlevarreluu proksimaalses osas",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "21ac66ca773d",
+      "section": "lastekirurgia",
+      "question": "Dermoidtsüstid lokaliseeruvad kõige sagedamini",
+      "choices": {
+        "a": "tuharatel",
+        "b": "kulmupiirkonnas",
+        "c": "kõhul"
+      },
+      "answer": "b. kulmupiirkonnas",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "961945b8113f",
+      "section": "lastekirurgia",
+      "question": "Krooniline mittebakteriaalne/-infektsioosne osteomüeliit",
+      "choices": {
+        "a": "mida põhjustab luus, kui kaua kestnud",
+        "b": "lokal",
+        "c": "Histoloogilises materjalis",
+        "d": "Ravi",
+        "e": "dgn"
+      },
+      "answer": "a. Valu ja luukoe destruktsioon, vaevused >3 kuu\nb. Sternoklavikulaarliiduse piirkond, lülisammas, sakroiliakaalliiduse piirkond\nc. Krooniline põletik, patognoomilist muutust ei ole\nInfektsioonitekitajat isoleerida ei õnnestu -> ei ole\nd. NSAID; kortikosteroidid, tsütokiinide inhibiitorid, bisfosfonaadid\ne. välistad kõik muud ära",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "b7c754e9cbba",
+      "section": "lastekirurgia",
+      "question": "kaasasündinud hüdrotseele operatiivne ravi on näidustatud",
+      "choices": {
+        "a": "enne 1 a",
+        "b": "peale 3a",
+        "c": "ei vaja op ravi"
+      },
+      "answer": "peale 3. eluaastat",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "aa0fa48d2d07",
+      "section": "lastekirurgia",
+      "question": "Õõnesorganite perforatsioonid lapseeas on kõige sagedamini",
+      "choices": {
+        "a": "puberteedieas",
+        "b": "enneaegsetel vastsündinutel",
+        "c": "eelkooliealistel lastel"
+      },
+      "answer": "b. enneaegsetel vastsündinutel",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "72a30b4a366e",
+      "section": "lastekirurgia",
+      "question": "Hüdatiidi e. apendiks testise/epididdümise torsioon - ravi",
+      "choices": {
+        "1": "Konservatiivne ravi - mida teeme",
+        "2": "Kirurgilise ravi näidustused"
+      },
+      "answer": "1. Konservatiivne ravi\n- vähendada füüsilist aktiivsust\n- NSAID'id\n- skrootumi elevatsioon, jahedad kompressid\n\n2. Kirurgilise ravi näidustused\n- väga tugev või pikaleveninud valusündroom\n- ei saa välistada testise torsiooni",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "944a1ab0dfe4",
+      "section": "lastekirurgia",
+      "question": "Invaginatsiooni instrumentaalse diagnostika valikmeetodiks on",
+      "choices": {
+        "a": "UH",
+        "b": "röntgen - tühiülesvõte kõhukoopast",
+        "c": "MRT"
+      },
+      "answer": "UH",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "2c35d12781f8",
+      "section": "lastekirurgia",
+      "question": "poisil diagnoositud kserootiline balanopostiit. näidustatud on",
+      "choices": {
+        "a": "kirurgiline ravi",
+        "b": "ab ravi",
+        "c": "ambulatoorne jälgimine"
+      },
+      "answer": "a. kirurgiline ravi",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "b2a90cbc9683",
+      "section": "lastekirurgia",
+      "question": "Sooleverevarustuse häireta invaginatsiooni puhul on näidustatud",
+      "choices": {
+        "a": "operatiivne",
+        "b": "konservatiivne - õhuga irrigograafia",
+        "c": "ei vaja ravi"
+      },
+      "answer": "b. konservatiivne",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "bb1cb09e595e",
+      "section": "lastekirurgia",
+      "question": "kõige sagedasem ägeda hematogeense osteomüeliidi tekitaja lastel on",
+      "choices": {
+        "a": "s.aureus",
+        "b": "neisseria menigitidis",
+        "c": "s.pyogenes"
+      },
+      "answer": "a. staphylococcus aureus",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "4a34ef90478f",
+      "section": "lastekirurgia",
+      "question": "Omandatud krüptorhismi puhul on poistel testised tavaliselt sünnimomendil",
+      "choices": {
+        "a": "kubeme piirkonnas",
+        "b": "mittepalpeeritavad",
+        "c": "skrootumis"
+      },
+      "answer": "c. skrootumis",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d14eb8c05349",
+      "section": "lastekirurgia",
+      "question": "miks on tähtis põletushaava jahutamine vastava traumaga patsiendi esmaabis",
+      "choices": {
+        "a": "väldib põletushaava süvenemist ja mõjub valu leevendavalt",
+        "b": "vähendab bakterite hulka põletushaavas",
+        "c": "loob haavas optimaalsed tingimused järgnevaks sidumiseks"
+      },
+      "answer": "a. väldib põletushaava süvenemist ja mõjutab valu leevendavalt",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "80ed71ebf1ed",
+      "section": "lastekirurgia",
+      "question": "Cremaster refleks on negatiivne (ei vallandu) järgneva diagnoosiga poistel",
+      "choices": {
+        "a": "epididümo-orhiit",
+        "b": "testise torsioon",
+        "c": "apendiks testise/epididüümise tersioon"
+      },
+      "answer": "b. testise torsioon",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "9d14a6749c52",
+      "section": "lastekirurgia",
+      "question": "Laste põletustrauma korral hospitaliseerimine ei ole näidustatud juhul, kui:",
+      "choices": {
+        "a": "pindmine dermaalne põletus 4%ni kehapinnast",
+        "b": "elektripõletushaav ulatab 0,25% kehapinnast",
+        "c": "näo pindmine dermaalne põletus ulatab 4%ni kehapinnast"
+      },
+      "answer": "a. pindmine dermaalne põletus ulatub 4%ni kehaindalast",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "01a0b0586b3d",
+      "section": "lastekirurgia",
+      "question": "Bracing",
+      "choices": {
+        "a": "kui kaua päevas",
+        "b": "tulemus"
+      },
+      "answer": "a. 18h päevas, kui võimalik\nb. üldiselt peatab progressiooni, aga ei ravi ära",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d661dfa55555",
+      "section": "lastekirurgia",
+      "question": "Äge kõht",
+      "choices": {
+        "a": "kui kaua valu kestnud",
+        "b": "Sümptomaatika",
+        "c": "Füüsiline uurimine"
+      },
+      "answer": "a. <7p\nb. Sümptomaatika\n- Kõhuvalu\n- Söögiisu puudus, iiveldus, oksendamine (sapisegune/sappi mitte sisaldav)\n- Palavik\n- Väljaheide -> kõhulahtisus, veri väljaheites, vaarikaželee\n- Gaaside/feetsese peetus\nc. Füüsiline uurimine\n- Pt välimus ja elutähtsad näitajad\n- Kõhu uurimine: valu lokalisatsioon, kõhu esilevõlvulus, kõhu lihaspinge, infiltraat kõhus\n- Kõhu auskultatsioon\n- Vaagna ja pärasoole uurimine",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4648751e1cd0",
+      "section": "lastekirurgia",
+      "question": "Komppöid",
+      "choices": {
+        "a": "Sümptomid",
+        "b": "Jaotus",
+        "c": "Diagnostika:"
+      },
+      "answer": "a. Sümptomid\n- Labajala varus deformatsioon (kand pikitelje suunas suunatud sissepool)\n- Jalg plantaarfleksioonis\n- Jala eesmine osa abduktsioonis\n- Kogu jalg sissepoole supinatsioonis\nb. Jaotus:\n1. Idiopaatiline ja iseseisev - enamus juhtudest\n2. Osa sündroomist/teisest haigusest\nc. prenataalne UH (Dif.dgn: kas tibia olemas -> puudusel vajub ka sissepoole)",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "26cd9a438e58",
+      "section": "lastekirurgia",
+      "question": "Analüüsid",
+      "choices": {
+        "a": "Vereanalüüs",
+        "b": "mis veel"
+      },
+      "answer": "a. Leukotsüütide tase, tõusnud neutrofiilide tase (vasemnihe) -> norm. leukotsüütide tase ei välista diagn!\nb. CRV",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6f3071c81a30",
+      "section": "lastekirurgia",
+      "question": "Kubemesong",
+      "choices": {
+        "a": "poisid vs tüdrukud",
+        "b": "parempoolne vs vasakpoolne",
+        "c": "Kliiniline pilt"
+      },
+      "answer": "a. poistel rohkem\nb. 60% song parempoolne, 30% vasakpoolne\nc. Ingvinaalpiirkonna mass, mis tungib läbi kubemekanali välisava (Võib ulatuda skrootumisse)\nRelaksatsioonil mass taandub kõhukoopasse -> kontrolli last püstiasendis!!\nIngvinaalpiirkonna turselisus (tüdrukud: üks häbememokk suurem)",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3dc37390a06f",
+      "section": "lastekirurgia",
+      "question": "Epispaadia",
+      "choices": {
+        "a": "mida endast kujutab",
+        "b": "millele kaasneb sageli",
+        "c": "Poiss:",
+        "d": "Tüdruk:"
+      },
+      "answer": "a. Kaasasündinud väärarend, mida iseloomustab ureetra ülemise seina puudumine kogu ulatuses/distaalses osas.\nb. Tavaliselt kaasneb kusepõie ekstroofiale\nc. Poiss: glanulaarne, peniilne, täielik/subsümfüsiaalne seina puudumine\nd. Tüdruk: kliitori, subsümfüsiaalne/täielik seina puudumine",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1e0c8d1568ff",
+      "section": "lastekirurgia",
+      "question": "Parafimoos",
+      "choices": {
+        "a": "mida endast kujutab",
+        "b": "Põhjus"
+      },
+      "answer": "a. Erakorraline uroloogiline seisund, mille puhul peenisepea taha liikunud või tõmmatud eesnahka ei õnnestu loomulikku asendisse tagasi viia; kokkusurutud glansi verevarustuse oht.\nb. Fimoos - kitsas eesnahk tõmmatud jõuga üle peenisepea\nMeditsiiniliste genitouretraalsete protseduuride tagajärjel (tsüstoskoopia, kusepõie kateteriseerimine)",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8b9d3e956f39",
+      "section": "lastekirurgia",
+      "question": "Gastroskiis",
+      "choices": {
+        "a": "mida endast kujutab",
+        "b": "mis elundid"
+      },
+      "answer": "a. Kaasasündinud väärarend, mille puhul kõhu eesseinal asetseva defekti kaudu eventreerunud kõhukoopa elundid\nb. Peen-ja jämesool, harvem magu, tüdrukutel munasarjad",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0f9fd90b907f",
+      "section": "lastekirurgia",
+      "question": "Omfalotseele",
+      "choices": {
+        "a": "mida endast kujutab",
+        "b": "Etioloogia"
+      },
+      "answer": "a. Kaasasündinud väärarend: sündimishetkeks osa kõhuõõne organitest väljaspool kõhuõõnt nabakestade sees\nb. 6-10 rn seedetrakti rotatsioon vastupäeva + tagasi naasmine kõhuõõnde —> migratsiooni häire -> omfalotseele",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4f6ace3b47ae",
+      "section": "lastekirurgia",
+      "question": "Osteomüeliit",
+      "choices": {
+        "a": "mida endast kujutab",
+        "b": "jaotus"
+      },
+      "answer": "a. enamasti bakteriaalne luukude hävitav põletikuline luuhaigus.\nb. Jaotus:\n- Äge hematogeenne osteomüeliit (levik ↓ -> influenza vaktsiin + AB-ravi kättesaadavus)\n- Alaäge osteomüeliit\n- Krooniline osteomüeliit\n- Krooniline retsidiveeruv multifokaalne osteomüeliit (CNO)",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "eeb30aaa2595",
+      "section": "lastekirurgia",
+      "question": "Hüdrospaadia",
+      "choices": {
+        "a": "mida endast kujutab",
+        "b": "anatoomiliselt",
+        "c": "Kolm komponenti:"
+      },
+      "answer": "a. Kaasasündinud väärarend, mida iseloomustab erineva ulatusega ureetra alumise seina puudumine ja suguti ventraalosa kudede hüpoplaasia.\nb. Ureetraava paikneb glansil, sugutikehal, munandikotil, lahkliha piirkonnas\nc. Kolm komponenti:\n1. Ektoopilise paiknemisega ureetra meatus\n2. Suguti ventraalne kurvatur\n3. Eesnahk dorsaalsel",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e5d81b5fe5cc",
+      "section": "lastekirurgia",
+      "question": "Esharotoomia",
+      "choices": {
+        "a": "mis eeesmärgiga",
+        "b": "millal"
+      },
+      "answer": "a. hingamis- ja vereringehäireid ennetav/likvideeriv operatsioon põletushaaval\n- Põlenud koel puudub elastsus, turse arenedes põhj. jäsemetel žguti efekti, rindkerel takistab hingamist\nVäldib põletushaava süvenemist põletusnekroosist ja põletustursest tingitud suletusrõhu sündroomi tõttu (rasvkoe, fastsia ja lihaste nekroosi tekke oht)\nb. Tuleb teha mitte hiljem kui 6-8h jooksul traumast",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a834ec82195a",
+      "section": "lastekirurgia",
+      "question": "Artrogrüpoos",
+      "choices": {
+        "a": "mida endast kujutab",
+        "b": "Sagedaseim vorm:",
+        "c": "Sümptomid"
+      },
+      "answer": "a. Kaasasündinud muskuloskeletaalsüsteemi haigus, mida iseloomustab liigeste kontraktuur kahes/enamas kehapiirkonnas ning millega kaaasneb sündides kogu kehas esinev lihasnõrkus (sümptomite kompleks)\nb. amüoplaasia\nc. Sümptomid\n- Palju liigeseid haaratud -> piiratud/täielik liikumisvõime\n- Amüoplaasia - vähe arenenud lihased (hüpoplastilised)\n- Krüptorhism\n- Peenikesed ja haprad pikad luud kätes ja jalgades\n- Kömpõiad (korrigeeritavad), ülajäsemed ei allu konservatiivsele ravile\n- Lihashaigus (närvid korras)",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "99e68bafda23",
+      "section": "lastekirurgia",
+      "question": "Operatsioon:",
+      "choices": {
+        "a": "eesmärk",
+        "b": "mida teeme",
+        "c": "Tüsistused"
+      },
+      "answer": "a. taastada lülisamba kaardumine ja rotatsioon\nb. Spondülodees e selgroolülide liitmine\nc. Tüsistused: parapleegia, pseudoartroos ja infektsioonid",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "aa867229ef22",
+      "section": "lastekirurgia",
+      "question": "Gastroskiis on",
+      "choices": {
+        "a": "kõhu eesseina defekt, kus sooled, mis paiknevad välaspool kõhuõõnt on kaetud nabaväädi kile poolt",
+        "b": "kõhu eesseina ja kusepõie eesmise seina defekt, mille tulemusena kusepõie limaskest paikneb kõhu eesseinal",
+        "c": "kõhu eesseina defekt, kus sooled paiknevad vabalt lootevedelikus"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "404faffc2198",
+      "section": "lastekirurgia",
+      "question": "Funikulotseele",
+      "choices": {
+        "a": "sümptomid",
+        "b": "obj. leid",
+        "c": "Ravi"
+      },
+      "answer": "a. Ümar, tihe, valutu mass\nb. Palpeeritav skrootumi ülaosas ja kubemekanali välisava piirkonnas\nPalpatsioonil testis paikneb moodustisest eraldi\nc. Sageli kaob ise ära -> resorbeerub ära\nOp. ravi pärast 2. eluaastat",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6f313bd720ca",
+      "section": "lastekirurgia",
+      "question": "Invaginatsioon",
+      "choices": {
+        "a": "sagedus ja mida põhjustab",
+        "b": "mida endast kujutab"
+      },
+      "answer": "a. Kõige sagedasem soolesulguse põhjus inimikutel ja lastel vanuses 3 kuud kuni 6a\nb. Üks sooleosa sopistub teise sooleosa sisse -> põhj. soolevalendiku obstruktsiooni",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3937337a3343",
+      "section": "lastekirurgia",
+      "question": "Toit söögitorus",
+      "choices": {
+        "a": "mis vanuses",
+        "b": "mis laste puhul",
+        "c": "kuidas käsitleda"
+      },
+      "answer": "a. eelkõige täiskasvanute probleem\nb. Laste puhul tavaliselt taustal söögitoru patoloogia\nc. endoskoopiliselt.\n- Kohene endoskoopia, kui pt sümptomaatiline, vastasel juhul võib endoskoopia teostada 24h jooksul",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b9c87deac3f5",
+      "section": "lastekirurgia",
+      "question": "Komppöid - ravi",
+      "choices": {
+        "1": "Konservatiivne: mida teeme, iga nädal, lisaks võib teha, pärast",
+        "2": "Kirurgiline: näidustused, mida teeme, tüsistused"
+      },
+      "answer": "1. kips + jalanõud (algab 5.-7. elupäeval) -> Ponseti meetod\nPeamine ravi meetod\n- Iga nädala tagant hinnatakse jalga -> tehakse uus kips (esimesed 6 elunädalat)\n- Tenotoomia - archilleuse kõõluse pinge vähendamine (LA -> pisike lõige läbi kõõluse)\n- Pärast kipsi -> kömppöia ortoosi jalanõud (Dennis brownie ortoos) + pulk jalgade vahel (retsidiivi tekke vältimine) ->23h päevas kuni laps hakkab kõndima (siis ainult une ajal) -> kuni 4.-5.a\n\n2. Kirurgiline\n- Näid: konservatiivne ei toimi/retsidiiv\n- Pehmete kudede kirurgilised manipulatsioonid\n- Tüsistused: jala jäikus, asümmeetriline kasv",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2d5b494d1e7d",
+      "section": "lastekirurgia",
+      "question": "Remodellatsioon",
+      "choices": {
+        "a": "mida võimaldab laste puhul",
+        "b": "kus lubatud dislokal. ulatus suurem",
+        "c": "kus dislok. ei tohi üldse olla",
+        "d": "Remodellatsioon võime sõltub:"
+      },
+      "answer": "a. Lubatud oluliselt suurem dislokatsioon laste luude võimsa remodellatsiooni tõttu\nb. Liigeste lähedal murrud (kuid mitte liigeses!)\nc. Kasvuplaadi vigastuse korral\nd. luustiku vanusest, kaugusest liigesest, liigestelje orientatsioonist, luust endast",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9867b3329b5c",
+      "section": "lastekirurgia",
+      "question": "Kubemesong - ravi",
+      "choices": {
+        "a": "kas vaja",
+        "b": "millal teha - mis ohud",
+        "c": "pitsumise korral"
+      },
+      "answer": "a. Ei kao iseenesest\nb. Kui võimalik, siis lükata op. ravi edasi -> kui puudub pitsumine, sümptomaatika -> opereerime 5-6 kuuselt\n- Oht seemneväädi vigastamiseks (mida väiksem laps, seda väiksem ja õrnem) -> testise atroofia\n- Songa retsidiivi tekke risk\nc. Pitsumise korral: poistel reponeerida ja op. 2-3 päeva möödudes, tüdrukutel kohene op. ravi",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "31ec91d01ea4",
+      "section": "lastekirurgia",
+      "question": "apenditsiidi ravi",
+      "choices": {
+        "a": "Mittekomplitseeritud apenditsiit",
+        "b": "Komplitseeritud apenditsiit"
+      },
+      "answer": "a. Mittekomplitseeritud apenditsiit -> operatiivne (AB ravi)\nb. Komplitseeritud apenditsiit\n- Apendikulaarne infiltraat - konservatiivne (AB)\n- Apendikulaarne abstsess - dreneerimine UH kontrolli all/AB ravi\n- Perforatsioon - operatiivne",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "897b6f295b26",
+      "section": "lastekirurgia",
+      "question": "Mis on ekstroofia?",
+      "choices": {
+        "a": "kaasasündinud kusepõie eesseina agenees",
+        "b": "kaasasündinud kuspõie puudumine",
+        "c": "kaasasünd kusepõie sfinkteri puudulikkus",
+        "d": "kaasasünd kusepõie kaela puudumine"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8053b26dea58",
+      "section": "lastekirurgia",
+      "question": "Mis on epispaadia?",
+      "choices": {
+        "a": "Ureetra ülemise seina puudumine",
+        "b": "Ureetra alumise seina puudumine",
+        "c": "Kusepõis avatud kõhuseina läbi ..."
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7542ad15330f",
+      "section": "lastekirurgia",
+      "question": "Kusepõie ekstroofia",
+      "choices": {
+        "a": "mida endast kujutab",
+        "b": "Prenataalne UH"
+      },
+      "answer": "a. kusepõie eesseina ja selle katva kõhueesseina puudumine.\nb. tühi kusepõis, madalal asetsev naba, häbemeliiduse diastaas, väiksed välisgenitaalid, alakõhu pehmekoeline mass",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "152d22eaff20",
+      "section": "lastekirurgia",
+      "question": "Kõhuvalu sümptoomid",
+      "choices": {
+        "a": "Blumbergi sümpt.",
+        "b": "Rovsing'i sümptoom",
+        "c": "Iliopsoase test",
+        "d": "Obturatooriuse test",
+        "e": "Dunphy' sümptoom",
+        "f": "Markle' sümptoom",
+        "g": "Dance' sümtoom"
+      },
+      "answer": "a. Blumbergi sümpt. - kõhukatete palpatsioonil järsult käe eemaldamine -> tagasioõrge (meeletu valu -> peritoniit\nb. Rovsing'i sümptoom - vasema alakõhu survel tekib valu paremale alakõhtu\nc. Iliopsoase test - passiivne parema puusaliigese ekstensioon või sirutatud jalatõstmine puusast vastu takistust\nd. Obturatooriuse test - parema puusaliigese rotatsioon\ne. Dunphy' sümptoom - valu köhimisel\nf. Markle' sümptoom - valu järsult kandadele laskumisel\ng. Dance' sümtoom - parema alakõhu \"tühjus\" (-> invaginatsioon)",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a3925986773d",
+      "section": "lastekirurgia",
+      "question": "Wallace'i 9% reegel",
+      "choices": {
+        "a": "täiskasvnud",
+        "b": "lapsed"
+      },
+      "answer": "a. pea, 1 käsi ühelt poolt - 9%; rindkere, selg, 1 jalg ühelt poolt - 18%\nb. 1 käsi ühelt poolt - 9%; pea, rindkere, selg - 18%; 1 jalg ühelt poolt - 14%",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0903a5a74b49",
+      "section": "lastekirurgia",
+      "question": "Vingugaasi mürgistus",
+      "choices": {
+        "a": "mida põhjustab",
+        "b": "Vingumürgituse sümptomid tulenevad peamiselt ... + sümptomid kergetel mürgistustel, raskematel mürgistustel",
+        "c": "Diagnostika",
+        "d": "Ravi"
+      },
+      "answer": "a. Vere hapnikutransport langeb\nb. aju hüpoksiast\nKergetel mürgistustel: peavalu, kohin kõrvus, iiveldus, oksendamine\nRaskemal mürgistusel: teadvushäire, krambid, kooma\nc. Astrup (kapilaarveri sobib ka laste puhul) -> veregaaside ja oksümeetria analüüs\n- PaO₂ norm!\n- PaCO₂ langeb ning pH tõuseb hüperventilatsiooni ja respiratoorse alkaloosi tõttu.\nd. Hapnikuravi vajavad kõik haiged, kellel COHb sisaldus >20%\n- Teadvusel, spontaansel hingamisel haige -> mask + juhitav ventilatsioon\n- Baroteraapia (hüperbaariline oksügenisatsioon)\n- Teadvuseta, pärsitud hingamisega -> intubeerida + kunstlik ventilatsioon 100% O₂'ga",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c4f131796cce",
+      "section": "lastekirurgia",
+      "question": "Mis on balanopostiit?",
+      "choices": {
+        "a": "vaskuliidist põhjustatud munandi põletik",
+        "b": "eesnaha-glansi põletik",
+        "c": "eesnaha pitsumine glansi taha"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "36fa84cc5f75",
+      "section": "lastekirurgia",
+      "question": "Krooniline osteomüeliit",
+      "choices": {
+        "a": "kestvus",
+        "b": "Arenenud ja kõrge elatustasemega riikides harv/sage",
+        "c": "lokal.",
+        "d": "tekitaja",
+        "e": "RÖ:"
+      },
+      "answer": "a. >3 kuu, väljakujunenud luunekroos\nb. harv\nc. sääreluus\nd. S. aureus\ne. luusekvestrid, korteksi paksenemine (raske eristada tuumorist)",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1a445cd88eb7",
+      "section": "lastekirurgia",
+      "question": "Murdude ravi laste puhul",
+      "choices": {
+        "a": "Reeglina",
+        "b": "Kirurgilise ravi absoluutsed näidustused:"
+      },
+      "answer": "a. kipslahas\nb. Kirurgilise ravi absoluutsed näidustused:\n- Polütrauma\n- Nihkega liigesesisesed murrud\n- Lahtised murrud\n- Murrud kaasneva veresoonte ja närvide vigastusega\n- Ebaliiges",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "48f6c35c7517",
+      "section": "lastekirurgia",
+      "question": "Esmaabi põletuse korral:",
+      "choices": {
+        "a": "voolava vee all 18-20 C 20-25 min​,",
+        "b": "voolava vee all 5-10 C 20-25 min,",
+        "c": "jääkott"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fff3c3a616aa",
+      "section": "lastekirurgia",
+      "question": "Superabsorbeeruv materjal",
+      "choices": {
+        "a": "käsitlus",
+        "b": "RÖ?"
+      },
+      "answer": "a. Kiire endoskoopia!\nb. RÖ uuring enne eemaldamist ei ole otstarbekas (RÖ neg)",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "48ab124ff66f",
+      "section": "lastekirurgia",
+      "question": "Pitsunud kubemesonga ravi",
+      "choices": {
+        "a": "Mitteoperatiivne",
+        "b": "Operatiivse näidustused"
+      },
+      "answer": "a. Kerge sedatsioon -> songa repositsioon -> jälgimine\nPoistel herniotoomia 24-48 h hiljem (kui lokaalne turse taandunud); tütarlastel op. ravi kohe\nb. Näidustused\n- Iileus või verevarustuse häire (lastel reeglina mitte)\n- Reponeerimine ei õnnestu (tüdrukutel võib olla ka nt pöördunud munasari)\n- Testis pole eraldi palpeeritav (ei saa reponeerida)",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c1d8e78fd961",
+      "section": "lastekirurgia",
+      "question": "Kommunitseeruv hüdrotseele",
+      "choices": {
+        "a": "hommik vs õhtu",
+        "b": "obj. leid",
+        "c": "Ravi"
+      },
+      "answer": "a. Öösiti, hommikuti väiksem -> läheb suuremaks päeva, liikumise ajal —> lamades vedelik kõhuõõnde\nb. Pehme, tsüstjas moodustis ümber testise\n- Moodustis fluktueeruv (vajub munandikoti põhja), valutu\nc. Enamikel juhtudest kaob esimese 24 kuu jooksul\nKui püsib pärast 3 eluaastat -> op. ravi",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7aa8cad842e8",
+      "section": "lastekirurgia",
+      "question": "Hüdrotseele on lapseeas tav",
+      "choices": {
+        "a": "iatrogeenne",
+        "b": "sümptomaatiline",
+        "c": "kommunitseeriv",
+        "d": "songaga"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5a1fb0591512",
+      "section": "lastekirurgia",
+      "question": "Allaneelatud teravad esemed",
+      "choices": {
+        "a": "Sümptomaatilisel pt tav. võõrkeha fikseerunud kuhu",
+        "b": "Hambaork ja luu -> käsitlus",
+        "c": "Endoskoopiliselt kättesaadavad teravad esemed"
+      },
+      "answer": "a. söögitoru ülemisse kolmandikku (kaebused: valu, düsfaagia)\nb. kõige tavalisemad võõrkehad GI-traktis, mis vajavad kirurgilist eemaldamist\nc. võimalusel eemaldada (24h jooksul) -> kõrge tüsistuste riski tõttu",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cbb708b50005",
+      "section": "lastekirurgia",
+      "question": "Juveniilsed osteokondroosid",
+      "choices": {
+        "a": "mida endast kujutab",
+        "b": "Etioloogia:",
+        "c": "N vs M, vanus"
+      },
+      "answer": "a. Verevarustuse häire -> luu apo- või epifüüsis nekroos -> valu, liikuvuse häired\nb. idiopaatiline/liigne koormus/vaskulaarsed eripärad/hormoonide düsbalanss/geneetiline\nc. M>N, 10-14.a",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c7d5fff17bd5",
+      "section": "lastekirurgia",
+      "question": "Luumurru remodellaatsioon on",
+      "choices": {
+        "a": "lapseeas luu nekrotiseerumine",
+        "b": "lapseeas luu enesekorrigeerumise võime",
+        "c": "lapseeas luu paranemine"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "29fe2ad8ff8b",
+      "section": "lastekirurgia",
+      "question": "Mündid ja muud tömbid esemed",
+      "choices": {
+        "a": "Spontaanne",
+        "b": "Kaebusteta",
+        "c": "Sümptomaatiline",
+        "d": "maos/kaugemal"
+      },
+      "answer": "a. Spontaanne mündi väljumine söögitorust \nb. Kaebusteta lapsel 24h jooksul endoskoopia (enne RÖ) -> limaskest üle vaadata!\nc. Sümptomaatilisel pt (ei saa sülge neelata) + kui kahtlus, et münt >24h olnud söögitorus -> kohene endoskoopia\nd. Kui maos või kaugemal: jälgimine -> 1-2 nädala tagant RÖ",
+      "type": "mc",
+      "sources": [
+        "quizlet:871326939"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a67a1621c636",
+      "section": "lastekirurgia",
+      "question": "Lastel on tavaliselt tegemist",
+      "choices": {
+        "a": "direktse kubemesongaga",
+        "b": "indirektse kubemesongaga",
+        "c": "femoraalsongaga"
+      },
+      "answer": "b. indirektse kubemesongaga",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6a9c93cb5c8c",
+      "section": "lastekirurgia",
+      "question": "Primaarse peritoniidi põhjus",
+      "choices": {
+        "a": "anaeroobne infektsioon​",
+        "b": "enteriit,",
+        "c": "2 perforatsiooni"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "52a0cff20745",
+      "section": "lastekirurgia",
+      "question": "Reieluu epifüsaarne nihestus",
+      "choices": {
+        "a": "reponeerida ja kips",
+        "b": "plaasterekstensioon ja kips,",
+        "c": "osteosüntees in situ​"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "feec90dd69ac",
+      "section": "lastekirurgia",
+      "question": "III astme põletuse korral on",
+      "choices": {
+        "a": "nahk väga valutundlik",
+        "b": "esineb rohke eksudaat",
+        "c": "​nahk tihke ja ei tunne valu​"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8d039ea95776",
+      "section": "lastekirurgia",
+      "question": "Kongenitaalne diafragmaalsong",
+      "choices": {
+        "a": "mida endast kujutab",
+        "b": "lokalisatsioon",
+        "c": "Prenataalne diagnostika",
+        "d": "postnataalne diagnostika"
+      },
+      "answer": "a. Arenguline vahelihase defekt, mille kaudu kõhuõõne elundid migreeruvad rindkereõõnde\nb. 84% vasakpoolne, 13% parempoolne, 2% bilateraalne\nc. UH (16.-24.rn): soolelingud rindkereõõnes, polühüdramnion, maomulli puudumine/ intratorakaalne maomull, mediastiinumi nihkumine kontralateraalsele\nd. RÖ rindkere, kõht: soolelingud rindkereõõnes, keskseinandi nihkumine, ebanorm. soolegaaside jaotuvus kõhus",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3e4761aebd5c",
+      "section": "lastekirurgia",
+      "question": "Processus vaginalis peritonei",
+      "choices": {
+        "a": "mida endast kujutab",
+        "b": "normaalselt",
+        "c": "tüdrukutel"
+      },
+      "answer": "a. peritoneumi väljavõlvumus, läbi mille poistel toimub munandite laskumine skrootumisse\nb. Normaalselt sulgub peale munandite laskumist (mõned nädalad enne/pärast sündi)\nc. Tüdrukutel sulgub varem - 7. raseduskuul; kui ei sulgu -> moodustab Nucki kanali",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a19967bcd636",
+      "section": "lastekirurgia",
+      "question": "Artrogrüpoosi sagedaseim vorm",
+      "choices": {
+        "a": "​amüoplaasia​,",
+        "b": "komppöid,",
+        "c": "distaalne artrogrüpoos"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0ec8c8357e63",
+      "section": "lastekirurgia",
+      "question": "Patoloogiline (tõeline) fimoos",
+      "choices": {
+        "a": "tekib",
+        "b": "lok. leid"
+      },
+      "answer": "a. Tekib sekundaarselt eesnaha inf. ja põletiku tagajärjel toimuva eesnaha distaalse osa armistumise tulemusena\nb. Eesnahk tihe, kitsas, mitteliigutatav\nEelnevalt oli eesnahk liigutatav -> enam ei ole",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "54902175bf15",
+      "section": "lastekirurgia",
+      "question": "pindmise põletuse lokaalne ravi",
+      "choices": {
+        "a": "varajane operatiivne ravi",
+        "b": "regulaarsed sidumised",
+        "c": "esharotoomia"
+      },
+      "answer": "b. regulaarsed sidumised",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "59e3afbd23b1",
+      "section": "lastekirurgia",
+      "question": "Alaäge e. subakuutne osteomüeliit",
+      "choices": {
+        "a": "Vaevuste kestvus",
+        "b": "Sümptomid, lab. leid -> tulemusena",
+        "c": "RÖ",
+        "d": "Ravi"
+      },
+      "answer": "a. 2 nädalat -> 3 kuud\nb. Sümpt. väheväljendunud, ebaselge + lab. leid referentspiirides/vähese nihkega -> sage diagnoosi hilinemine\nc. RÖ Brodie abstsess (ümar kolle luus) -> sageli sääreluu proksimaalses metafüüsis (kui ei ole -> äge/kr OM)\nc. Antibakteriaalne\nKirurgiline (+biopsia tuumori välistamiseks)",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "134dcc6cc96b",
+      "section": "lastekirurgia",
+      "question": "Apenditsiidiga on väiksel lapsel:",
+      "choices": {
+        "a": "kõrge palavik",
+        "b": "kõrge palavik külmavärinatega/vappekülmaga",
+        "c": "subfebriilne palavik",
+        "d": "palavikku pole"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4bdaa5e88f3c",
+      "section": "lastekirurgia",
+      "question": "Idiopaatilise skolioosi etioloogia",
+      "choices": {
+        "a": "alajäsemete pikkuse erinevus",
+        "b": "teadmata",
+        "c": "harjumuslik halb kehaasend"
+      },
+      "answer": "b. teadmata",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1399c4913dbc",
+      "section": "lastekirurgia",
+      "question": "Lapseeas on hüdrotseele tavaliselt",
+      "choices": {
+        "a": "kommunitseeruv",
+        "b": "sümptomaatiline",
+        "c": "koos kubemesongaga"
+      },
+      "answer": "a. kommunitseeruv",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "82bf03499a17",
+      "section": "lastekirurgia",
+      "question": "Omandatud krütorhismi põhjuseks vb",
+      "choices": {
+        "a": "testise tuumor",
+        "b": "testise atroofia",
+        "c": "kaasasünd lühike seemneväät"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9ae1a7089e73",
+      "section": "lastekirurgia",
+      "question": "Mis vanuses vajab gastroskiis ravi",
+      "choices": {
+        "a": "6-12 kuud",
+        "b": "kohe sünnijärgselt",
+        "c": "3-6a"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8b187c4b0ee2",
+      "section": "lastekirurgia",
+      "question": "Mis Cobbi nurgast hakkab skolioos?",
+      "choices": {
+        "a": "10",
+        "b": "15",
+        "c": "20",
+        "d": "5"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "df3c73062be5",
+      "section": "lastekirurgia",
+      "question": "Põletushaava sidumine/lahtine ravi",
+      "choices": {
+        "a": "millal lahtine ravi",
+        "b": "esmane sidumine millega, järgmised sidumised millega",
+        "c": "suured villid"
+      },
+      "answer": "a. \"Lahtine\" ravi ainult 1. tüüpi põletuse korral\nb. Esmane sidumine põletusgeeliga, järgmised sidumised bakterite kolonisatsiooni vastaste sidemetega\nc. Suured villid >1cm2 -> soovituslik avada, irdunud epidermis eemaldada",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a3bc690980e8",
+      "section": "lastekirurgia",
+      "question": "Kõige sagedasem artrogrüptoosi vorm",
+      "choices": {
+        "a": "digitaalne artrogrüptoos",
+        "b": "amüoplaasia",
+        "c": "sündroomne artrogrüptoos"
+      },
+      "answer": "b. amüoplaasia",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4d5491bb3154",
+      "section": "lastekirurgia",
+      "question": "Apenditsiidiga on väiksel lapsel:​",
+      "choices": {
+        "a": "kõrge palavik​,",
+        "b": "kõrge palavik külmavärinatega/vappekülmaga,",
+        "c": "subfebriilne palavik",
+        "d": "palavikku pole"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a40f7cdaea0d",
+      "section": "lastekirurgia",
+      "question": "valikmeetod 6a lapsel nabasongaga on",
+      "choices": {
+        "a": "jälgimistaktika",
+        "b": "operatiivne ravi",
+        "c": "füsioteraapia"
+      },
+      "answer": "b. operatiivne ravi",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7a86712d2d78",
+      "section": "lastekirurgia",
+      "question": "asümptomaatilise kubemesonga ravi on",
+      "choices": {
+        "a": "kohene erakorraline operatsioon",
+        "b": "jälgimine ja op 24h hiljem",
+        "c": "operatiivne ravi plaanilises korras"
+      },
+      "answer": "c. operatiivne ravi plaanilises korras",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "13a47a3faf50",
+      "section": "lastekirurgia",
+      "question": "1a lapse ravitaktika nabasonga puhul",
+      "choices": {
+        "a": "jälgimine",
+        "b": "plaasterdamine",
+        "c": "op"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "64c0e61c55eb",
+      "section": "lastekirurgia",
+      "question": "Hingamisteede otsene termiline kahj.",
+      "choices": {
+        "a": "Ülemised hingamisteed",
+        "b": "Alumised hingamisteed:",
+        "c": "patsiendi käsitlus"
+      },
+      "answer": "a. kuum aur, kuumade gaaside inhalatsioon, leek\nb. tahm, suitsugaasist tingitud keemiline limaskesta kahj.\nc. Kuumade aurude, gaaside sissehingamisel -> kõriturse teke -> varajane endotrahheaalne intubatsioon\n- Kõriturse ei pruugi kohe tekkida, kuid kui juba on tekkinud, siis juba liiga hilja intubeerida\n- Sümptomid: striidor, hääle kähisemine",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1cce59ce0e5a",
+      "section": "lastekirurgia",
+      "question": "M.hirschprungi tõve puhul on tegemist",
+      "choices": {
+        "a": "kaasasündinud ganglionite puudumine jämesoole lõpposas",
+        "b": "jämesoole laienemine",
+        "c": "jämesoole arteesia"
+      },
+      "answer": "a. kaasasündinud ganglionite puudumine jämesoole lõpposas",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c8f4c15a8578",
+      "section": "lastekirurgia",
+      "question": "tütarlastel on tavaliselt hüdrotseele",
+      "choices": {
+        "a": "sümptomaatiline",
+        "b": "kommunitseeruv",
+        "c": "ei esine"
+      },
+      "answer": "c. ei esine",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d5fcf82ee649",
+      "section": "lastekirurgia",
+      "question": "Idiopaatilise skolioosi etioloogia on",
+      "choices": {
+        "a": "traumaatiline",
+        "b": "halvast istumisasendist vms tingitud",
+        "c": "jalgade erinevast pikkusest tingitud",
+        "d": "​idiopaatiline​"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c653c139db71",
+      "section": "lastekirurgia",
+      "question": "Äge osteomüeliit ja septiline artriit",
+      "choices": {
+        "a": "sümptomid",
+        "b": "Imikutel ja väikelastel väljendunud",
+        "c": "Vanematel lastel lisaks väljendunud",
+        "d": "Vereanalüüsid"
+      },
+      "answer": "a. valu, lokaalne leid, palavik, jalale mitte toetamine, liikuvuspiiratus\nb. üldsümptomatoloogia: ärrituvus, rahutus, väsimus, palavik, oksendamine, isutus, toitmisraskused\nc. lokaalsed nähud: lokaalne (öine) valu, funktsioonihäire, liikuvuspiiratus, lonkamine, SA puhul turse, punetus, kuumetus, palpatoorne valulikkus enam väljendunud\nd. Põletikunäitajate tõus \nVerekülvid enne antibakteriaalse ravi alustamist -> tekitaja isoleerimine (kuldne standard)",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9618dec244b6",
+      "section": "lastekirurgia",
+      "question": "Käsitlus nööppatarei korral söögitorus",
+      "choices": {
+        "a": "mida ei tohi teha",
+        "b": "ravi",
+        "c": "edasine käsitlus sõltub millest"
+      },
+      "answer": "a. Suu kaudu ei anna mitte midagi!!! v. a mett (aeglustab patarei kahjustust, kui ei väldi seda)\nb. Söögitorust kohene eemaldamine: endoskoopia (narkoosis, et kaitsta hingamisteid)\nc. Edasine käsitlus sõltub endoskoopial kirjeldatud limaskesta kahjustusest:\n- Hospitaliseerimine söögitoru vigastuse korral\n- Tõsise kahj. korral (sügav haavand/nekroos) jälgida striktuuri tekke suhtes -> 4-6 näd. pärast ösofagogramm",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "263cdb845245",
+      "section": "lastekirurgia",
+      "question": "Testise torsioon - mida endast kujutab",
+      "choices": {
+        "a": "Alguses:",
+        "b": "Hiljem:"
+      },
+      "answer": "testise pöördumine seemneväädi pikitelje ümber, mille tagajärjel tekib munandi ja/või munandimanuse verevarustuse häire, mis omakorda võib viia nende organite isheemiale ja nekroosile.\na. Alguses: venoosse tagasivoolu häire -> tromboos\nb. Hiljem: arteriaalse verevoolu häire",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6bc3fd14341c",
+      "section": "lastekirurgia",
+      "question": "Osteomüeliidi diagnostika kuldstandard",
+      "choices": {
+        "a": "Rö",
+        "b": "MRT​,",
+        "c": "kliiniline"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8dc2c927ed3a",
+      "section": "lastekirurgia",
+      "question": "Pindmise põletuse korral on valikraviks",
+      "choices": {
+        "a": "varajane operatiivne ravi",
+        "b": "esharotoomia",
+        "c": "regulaarsed sidumised"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a4a491a3bd3b",
+      "section": "lastekirurgia",
+      "question": "Millal hakkad lapsel komppöida ravima?",
+      "choices": {
+        "a": "Esimesel võimalusel pärast sündi",
+        "b": "Paari päeva pärast",
+        "c": "Paari nädala pärast",
+        "d": "Paari kuu pärast"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ac280573c8b7",
+      "section": "lastekirurgia",
+      "question": "Septiline artriit\na mida endast kujutab",
+      "choices": {
+        "b": "kõige sagedasem lokal:",
+        "c": "anamneesis mis",
+        "d": "Vaevuste algus sageli selgemini/mitte selgemini määratlev (kui ägeda OM puhul)",
+        "e": "Sagedaseim tekitaja:",
+        "f": "OM -> SA:"
+      },
+      "answer": "a. enamasti bakteriaalne (mädane) liigest hävitav põletikuline liigeshaigus\nb. alajäse: põlv 35-56%, puus 25-30%\nc. Anamneesis trauma/mõni muu mädane protsess\nd. selgemini \ne. S. aureus \nf. osetomüeliidi \"murdumine\" liigesesse -> SA",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b7dd20a81141",
+      "section": "lastekirurgia",
+      "question": "Juhtiv sümptom invaginatsiooni korral on",
+      "choices": {
+        "a": "pidev oksendamine",
+        "b": "kõhulahtisus",
+        "c": "hootise iseloomuga tugevad kõhuvalud"
+      },
+      "answer": "c. hootise iseloomuga tugevad kõhuvalud",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ca156ee3f385",
+      "section": "lastekirurgia",
+      "question": "Tüdrukul pitsunud kubemesong, mida teha?",
+      "choices": {
+        "1": "Teed kohe",
+        "2": "Ootad 24 h ja siis operatsioon",
+        "3": "Ei vaja operatsiooni",
+        "4": "Reponeeeri"
+      },
+      "answer": "a1",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "dce2097c3518",
+      "section": "lastekirurgia",
+      "question": "Septilise artriidi tekitaja > 5 a. lastel",
+      "choices": {
+        "a": "N. gonorrhoeae",
+        "b": "S. aureus​, ​",
+        "c": "Streptococcus pyogenes​"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "17259d634ce9",
+      "section": "lastekirurgia",
+      "question": "Liitelise iileuse sagedaseks põhjuseks on",
+      "choices": {
+        "a": "eelnev operatsioon kõhuõõnes",
+        "b": "eelnevalt põetud enteriit",
+        "c": "eelnevalt põetud viirusinf"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9a91d1a2499a",
+      "section": "lastekirurgia",
+      "question": "Hüpospaadia puhul avaneb ureetra välisava",
+      "choices": {
+        "a": "peenise dorsaalsel küljel",
+        "b": "kõhuseinal",
+        "c": "peenise ventraalsel küljel"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "97510342c2ab",
+      "section": "lastekirurgia",
+      "question": "Transitoorne sünoviit e. \"ärritunud puus\"",
+      "choices": {
+        "a": "sümptom",
+        "b": "ravi"
+      },
+      "answer": "a. Kõige sagedasem lonkamise põhjus vanuses 3-10a\n- Valu puusas, kubemes, reies, põlves; liigesjäikus, lonkamine, kõndimisest keeldumine\n- Reeglina ühepoolne\nb. Haigus möödub reeglina iseeneslikult 2-6 päevaga: rahurežiim, NSAID kiirendab kulgu",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4310e7c2f0bf",
+      "section": "lastekirurgia",
+      "question": "Kasvuplaadi vigastused -> võivad põhj. ...",
+      "choices": {
+        "a": "jaotus",
+        "b": "Reponeeri kasvuplaati ... kord(a) -> miks"
+      },
+      "answer": "-> kasvuplaadi enneaegset sulgust -> takistab luu edasist kasvu\na. Jaotus\n1. Osaline sulgus: takistab luu kasvu ainult selles osas, kus sulgus, muidu luu kasv jätkub, mille käigus tekivad deformatsioonid -> deformatsioonide ravi (kirurgiline)!!\n2. Kogu sulgus -> luu kasvab viltu, deformeeritud luu teke\n3. Reponeeri kasvuplaati 1 kord -> muidu juba oht sulguseks/kasvupladi sulguseks",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e5312d53b0c2",
+      "section": "lastekirurgia",
+      "question": "Valikmeetod füsioloogilise fimoosi ravis on",
+      "choices": {
+        "a": "operatiivne",
+        "b": "lokaalselt hormoonkreemid",
+        "c": "jälgimistaktika"
+      },
+      "answer": "c. jälgimistaktika",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3cfa1a59bb1c",
+      "section": "lastekirurgia",
+      "question": "Pitsumistunnusteta kubemesonga ravi lapseeas",
+      "choices": {
+        "a": "jälgimine ja operatiivne ravi 24-48h hiljem",
+        "b": "jälgimine, sest enamusel juhtudest taandub",
+        "c": "op ravi plan korras"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bef6aa5c0b36",
+      "section": "lastekirurgia",
+      "question": "Epifüsaarset osteomüeliiti esineb sagedamini",
+      "choices": {
+        "a": "alla 1,5a lastel",
+        "b": "eelkooliealistel",
+        "c": "teismelistel"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cce526194b70",
+      "section": "lastekirurgia",
+      "question": "kõige rohkem kasutatav komppõia ravimeetod on",
+      "choices": {
+        "a": "French meetod",
+        "b": "Kite meetod",
+        "c": "Ponseti meetod"
+      },
+      "answer": "c. Ponseti meetod",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bc90faeb4885",
+      "section": "lastekirurgia",
+      "question": "Millal opereeritakse ​omandatud​ krüptorhismi",
+      "choices": {
+        "a": "mitte kunagi,",
+        "b": "peale 5. a.,",
+        "c": "​tavaliselt 6-12 kuud pärast sündi​,",
+        "d": "kohe peale sündi"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9e1174722867",
+      "section": "lastekirurgia",
+      "question": "Milline põletus lastel vaja hospitaliserimist",
+      "choices": {
+        "a": "pindmine 3-5%, pindmine üle 5%, ​",
+        "b": "sügav küünarvarre piirkonnas 0,5% kehapindalast​,",
+        "c": "kõik põletused vajavad lastel hospitaliseerimist"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c561d186b942",
+      "section": "lastekirurgia",
+      "question": "pitsunud songa puhul poistel esmaseks ravivõtteks",
+      "choices": {
+        "a": "kohene operatiivne ravi",
+        "b": "reponeerimine ja plaaniline operatsioon 24-48h möödudes",
+        "c": "ei vaja ravi"
+      },
+      "answer": "reponeerimine ja plaaniline operatsioon 24-48h möödudes",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3f6cf139c5fe",
+      "section": "lastekirurgia",
+      "question": "Lapseeas põhjustab pülorostenoosi kõige sagedamini",
+      "choices": {
+        "a": "kaasasündinud liited",
+        "b": "kaasasündinud pülooruse lihaskihi hüpertroofia",
+        "c": "armistumine püloruse piirkonna haavandtõvest"
+      },
+      "answer": "kaasasündinud pülooruse lihaskihi hüpertroofia",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "201605ba2b39",
+      "section": "lastekirurgia",
+      "question": "faktor mis võib põhjustada põletuspinna süvenemist",
+      "choices": {
+        "a": "jää kasutamine põletuspinna jahutamisel esmaabina",
+        "b": "escharatoomia teostamine sügava põletuse korral",
+        "c": "niisutavate haavasidemete kasutamine"
+      },
+      "answer": "a. jää kasutamine põletuspinna jahutamisel esmaabina",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b577215c7bae",
+      "section": "lastekirurgia",
+      "question": "invaginatsioon esineb kõige sagedamini mis vanuses",
+      "choices": {
+        "a": "alla 2a",
+        "b": "2-15a",
+        "c": "üle 15a"
+      },
+      "answer": "a. alla 2a",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4e98285c309e",
+      "section": "lastekirurgia",
+      "question": "operatiivne ravi krüptorhismi korral on näidustatud",
+      "choices": {
+        "a": "enne 1a saamist",
+        "b": "3a vanuses",
+        "c": "enne kooliiga"
+      },
+      "answer": "a. enne 1a saamist",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5749f17e9362",
+      "section": "lastekirurgia",
+      "question": "Invaginatsiooni puhul leiame tav kõhu palpatsioonil",
+      "choices": {
+        "a": "resistentsus paremal ülakõhus",
+        "b": "resistentsus paremal alakõhus",
+        "c": "kõht pehme ja palpatsioonil valutu"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6063c27643c0",
+      "section": "lastekirurgia",
+      "question": "Hüdatiidi e. apendiks testise/epididdümise torsioon",
+      "choices": {
+        "a": "keskmine vanus",
+        "b": "Kliiniline pilt"
+      },
+      "answer": "a. 10,6a (7-14a)\nb. Kliiniline pilt\n- Aeglaselt tugevnev/ järsku tekkinud valu skrootumi piirkonnas\n- Iiveldus, oksendamine (oluliselt harvemini kui testise torsiooni puhul)\n- Skrootumi naha punetus, turse, \"sinise pleki\" sümptom\n- Testise ülapooluse palpatoorne hellus/valulikkus\n- Testise vertikaalne orientatsioon säilinud\n- Cremaster refleks positiivne (vallandub)",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d7e30351baff",
+      "section": "lastekirurgia",
+      "question": "Fimoos e. eesnahakitsenemus - füsioloogiline fimoos",
+      "choices": {
+        "a": "kellel",
+        "b": "põhjus",
+        "c": "lok. leid"
+      },
+      "answer": "a. Esineb praktiliselt kõikidel vastsündinud poistel, enamusel eel- ja koolieas poistel, eesnahk võib saavutada täieliku eraldumise alles 17.a\nb. Põhjuseks eesnaha ja glansi vahel esinevad füsioloogilised liited.\nc. Eesnaha äär tsirkulaarselt pehme ja armita.",
+      "type": "mc",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c4a91aca5b49",
+      "section": "lastekirurgia",
+      "question": "Salter-Harris'i klassifikatsiooni kasutatakse lastel",
+      "choices": {
+        "a": "diafüsaarsete murdude klassifitseerimiseks",
+        "b": "kasvuplaadi vigastuste klassifitseerimiseks",
+        "c": "komppöia raskusastme klassifitseerimiseks"
+      },
+      "answer": "b. kasvuplaadi vigastuste klassifitseerimiseks",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "518eb1a1bcc5",
+      "section": "lastekirurgia",
+      "question": "Mis vanuses esineb kõige sagedamini invaginatsiooni?",
+      "choices": {
+        "a": "vanuses 2-8elunäd",
+        "b": "vanuses 5-10a",
+        "c": "alla 2a lastel"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1ae243421b74",
+      "section": "lastekirurgia",
+      "question": "Hirschsprungi tõve puhul on tüüpiline klin väljendus",
+      "choices": {
+        "a": "süvenev kõhukinnisus al sünnist",
+        "b": "hootise iseloomuga kõhuvalud ja oksendamine",
+        "c": "süvenev kõhulahtisus al sünnist"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "95bdfeb3dd67",
+      "section": "lastekirurgia",
+      "question": "Mida kujutab endast ainevahetuslikult osteomalaatsia?",
+      "choices": {
+        "1": "D-vitamiini puudus",
+        "2": "A-vitamiini puudus",
+        "3": "Luude hapruse haigus",
+        "4": "Hea luu mineraalkoostis"
+      },
+      "answer": "1",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1ef1ed20085a",
+      "section": "lastekirurgia",
+      "question": "Pitsunud songa puhul tüdrukutel on emaseks ravivõtteks",
+      "choices": {
+        "a": "kohene operatiivne ravi",
+        "b": "reponeerimine ja operatsioon 24-48h möödudes",
+        "c": "operatiivne ravi plaanilises korras"
+      },
+      "answer": "a. kohene operatiivne ravi",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "afaaa59c738f",
+      "section": "lastekirurgia",
+      "question": "Millal lastel nabasonga operatiivne ravi näidustatud?",
+      "choices": {
+        "1": "Alates 5. eluaastast",
+        "2": "3 aastat",
+        "3": "Teismeeas",
+        "4": "Imikueas"
+      },
+      "answer": "1",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b90bbd2549c7",
+      "section": "lastekirurgia",
+      "question": "invaginatsiooni esineb kõife sagedamini millise vormine",
+      "choices": {
+        "a": "peensool-peensoolde",
+        "b": "peensool-jämesoolde",
+        "c": "jämesool-jämesoolde"
+      },
+      "answer": "b. peensool-jämesoolde",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d71cd2ee9fd8",
+      "section": "lastekirurgia",
+      "question": "Milline on kõige sagedasem Salter-Harris murru tüüp?",
+      "choices": {
+        "a": "1,",
+        "b": "​2​,",
+        "c": "3,",
+        "d": "4"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4092165b2788",
+      "section": "lastekirurgia",
+      "question": "Mis on puusaliigese arengulise nihestuse esmane uuring?",
+      "choices": {
+        "a": "rö",
+        "b": "Barlow ja Ortolani​,",
+        "c": "UH,"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e83ac17c74c6",
+      "section": "lastekirurgia",
+      "question": "Pülorostenoosi instrumentaalse diagnostika valikmeetod:",
+      "choices": {
+        "a": "UH",
+        "b": "MRT",
+        "c": "mao passaažiuuring"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "046dcb30a5cd",
+      "section": "lastekirurgia",
+      "question": "Tüüpilise ägeda apenditsiidi puhul üle 3a lastel on tav",
+      "choices": {
+        "a": "pos Ortneri sümpt",
+        "b": "pos Patsternatski sümpt",
+        "c": "pos Blumbergi sümpt"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "718b75339ecc",
+      "section": "lastekirurgia",
+      "question": "Ägeda apenditsiidi korral temperatuur on väiksel lapsel",
+      "choices": {
+        "a": "kõrge",
+        "b": "subfebriilne",
+        "c": "hüpotermiline",
+        "d": "ei tempereeri"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bca4820b1f3d",
+      "section": "lastekirurgia",
+      "question": "5a poisslapse ravi kommunitseeruva hüdrotseele korral on",
+      "choices": {
+        "a": "op",
+        "b": "konservatiivne",
+        "c": "jälgimine, kuna taansub ise"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5b04bb0bde58",
+      "section": "lastekirurgia",
+      "question": "Ägeda apenditsiidi korral temperatuur on väiksel lapsel",
+      "choices": {
+        "a": "kõrge​,",
+        "b": "subfebriilne,",
+        "c": "hüpotermiline,",
+        "d": "ei tempereeri"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "50ce52cb7cb5",
+      "section": "lastekirurgia",
+      "question": "Milline on liikuvate (retraktiilsete) munandite valikravi?",
+      "choices": {
+        "a": "jälgimine, kuna on normileid",
+        "b": "op, kui hormoonravi ebaedukas",
+        "c": "op, sest võib põhjustada viljatust"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5ee68c625eca",
+      "section": "lastekirurgia",
+      "question": "äge hematogeenne osteomüeliit lokaliseerub kõige sagedamini",
+      "choices": {
+        "a": "roietes",
+        "b": "reieluus",
+        "c": "vaagnaluus"
+      },
+      "answer": "b. reieluus",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ad6db6e4ba75",
+      "section": "lastekirurgia",
+      "question": "Infiltratiivse apenditsiidi valikravi tänapäeval lapseeas on",
+      "choices": {
+        "a": "op (apendektoomia)",
+        "b": "kõhukoopa dreneerimine",
+        "c": "konservatiivne (AB)"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "08072e42f8f4",
+      "section": "lastekirurgia",
+      "question": "ektoopilise testisega pt vajab alati op ravi kuid mis vanuses",
+      "choices": {
+        "a": "enne 1a saamist",
+        "b": "3.eluaastal",
+        "c": "enne kooli"
+      },
+      "answer": "a. enne 1a saamist",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "32786d3b129e",
+      "section": "lastekirurgia",
+      "question": "kõige sagedasem positiivne sümptom ägeda apenditsiidi puhul on",
+      "choices": {
+        "a": "paternatski sümptom",
+        "b": "blumbergi sümptom",
+        "c": "lachmani test"
+      },
+      "answer": "b. blumbergi sümptom",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d503e4506283",
+      "section": "lastekirurgia",
+      "question": "Millises neist toimub lastel kõige kiirem luumurru paranemine",
+      "choices": {
+        "a": "reieluupea,",
+        "b": "distaalne sääreluu, ​",
+        "c": "proksimaalne humerus​,",
+        "d": "sõrmeluud"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6ce961ad33db",
+      "section": "lastekirurgia",
+      "question": "Mis vanuses muutub tavaliselt püloroostenoos sümptomaatiliseks?",
+      "choices": {
+        "a": "kohe sünnihetkel",
+        "b": "vanuses 2-8 elunädalat",
+        "c": "vanuses 3-5a"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6f365a4159e1",
+      "section": "lastekirurgia",
+      "question": "Osteosünteesi elastsete naeltega kasutatakse lapseeas peamiselt",
+      "choices": {
+        "a": "epifüsaarsed murrud",
+        "b": "liigesesisesed avulsioonmurrud",
+        "c": "diafüüsi ristimurd"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "70531d4e361c",
+      "section": "lastekirurgia",
+      "question": "Põletusšoki ennetamises ja ravis esimese 24h jooksul kasutatakse",
+      "choices": {
+        "a": "kolloid",
+        "b": "kristalloid",
+        "c": "verepreparaadid"
+      },
+      "answer": "b. kristalloid",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e095ee09135c",
+      "section": "lastekirurgia",
+      "question": "Ravi valikmeetod lapseeas tüüpilise ägeda apenditsiidi korral on",
+      "choices": {
+        "a": "operatiivne ravi",
+        "b": "tänapäeval konservatiivne (AB)",
+        "c": "jälgimistaktika"
+      },
+      "answer": "a. operatiivne ravi",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "371635210a6e",
+      "section": "lastekirurgia",
+      "question": "ägeda apenditsiidi korral väikelastel (alla 3a) esineb sagedamini",
+      "choices": {
+        "a": "positiivne blumbergi sümptoom paremal alakõhus",
+        "b": "oksendamine ja kõrge kehatemperatuur",
+        "c": "positiivne ortneri sümptoom"
+      },
+      "answer": "b. oksendamine ja kõrge kehatemperatuuri tõus",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fc9bfb054503",
+      "section": "lastekirurgia",
+      "question": "millist liigest haarab septiline artriit lapseeas kõige sagedamini",
+      "choices": {
+        "a": "õlaliiges",
+        "b": "hüppeliiges",
+        "c": "puusaliiges"
+      },
+      "answer": "c. puusaliiges",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c441ceb0163d",
+      "section": "lastekirurgia",
+      "question": "Kuidas on klin võimalik eristada funiikulotseelet ja hüdrotseelet?",
+      "choices": {
+        "a": "funiikulotseele korral on palpatoorselt testis vedelikukoti sees",
+        "b": "hüdrotseele korral on palpatoorselt testis vedelikukoti sees",
+        "c": "funiikulotseele on tavaliselt suurem"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "488faf723fa3",
+      "section": "lastekirurgia",
+      "question": "Sügava dermaalse (III aste) põletuse korral, milline on põletushaav",
+      "choices": {
+        "a": "põletushaavas rohkelt eksudaati",
+        "b": "põletushaav on tihke ja valulikkus puudub",
+        "c": "põletushaav väga valulik"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7cea68b5df1b",
+      "section": "lastekirurgia",
+      "question": "Allaneelatud magnet\na.. Rohkem kui 1 magnet/magnet koos metallesemega",
+      "choices": {
+        "b": "Asümptomaatiline",
+        "c": "Sümptomaatiline pt/RÖ magnetid püsivalt ühes kohas/endoskoopiliselt pole eemaldatavad"
+      },
+      "answer": "a. kohene magnetite endoskoopiline eemaldamine\nb. jälgimine (kas liigub), RÖ iga 4-6h tagant, hiljem 8-12h tagant.\nc. operatiivne ravi",
+      "type": "mc",
+      "sources": [
+        "quizlet:871326939"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "01b1f9f46f03",
+      "section": "lastekirurgia",
+      "question": "Mis vanuses soovitatakse tänapäeval ravida kongenitaalset krüptorhismi?",
+      "choices": {
+        "a": "enne kooliiga",
+        "b": "12-24 kuud",
+        "c": "6-12 kuud"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bb51d355bfbb",
+      "section": "lastekirurgia",
+      "question": "Kõige sagedasem ägeda hematogeense osteomüeliidi tekitaja teismelistel on",
+      "choices": {
+        "a": "s. aureus",
+        "b": "N. meningitidis",
+        "c": "s. pyogenes"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "89e19daefa5f",
+      "section": "lastekirurgia",
+      "question": "Ägeda hematogeense osteomüeliidi korral <1,5a lastel prevaleerub tavaliselt",
+      "choices": {
+        "a": "lokaalne sümptomaatika",
+        "b": "üldsümptomaatika",
+        "c": "sümptomaatika puudub"
+      },
+      "answer": "b. üldsümptomaatika",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a00c0ff7c7a6",
+      "section": "lastekirurgia",
+      "question": "kus lokaliseerub kõige sagedamini äge hematogeenne osteomüeliit teismelistel",
+      "choices": {
+        "a": "epifüüsis",
+        "b": "metafüüsis",
+        "c": "diafüüsis"
+      },
+      "answer": "b. metafüüsis",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ecb5b12de6a0",
+      "section": "lastekirurgia",
+      "question": "Puusaliigese arengulise düsplaasia / luksatsiooni esmane diagnostikameetod on",
+      "choices": {
+        "a": "UH",
+        "b": "Ortolani ja Barlow test",
+        "c": "Rö"
+      },
+      "answer": "b. Ortolani ja Barlow test",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "805946701b6e",
+      "section": "lastekirurgia",
+      "question": "valikmeetodiks suure haavanduva hemangioomi raviks näo piirkonnas on tänapäeval",
+      "choices": {
+        "a": "kohene operatiivne ravi",
+        "b": "suukaudne propranolool-ravi",
+        "c": "jälgimine"
+      },
+      "answer": "b. suukaudne propranolool-ravi",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cc8b3e771fdc",
+      "section": "lastekirurgia",
+      "question": "Kongenitaalne hüpertroofiline pülorostenoos muutub sümptomaatiliseks mis vanuses",
+      "choices": {
+        "a": "sünnihetkel",
+        "b": "vanuses 2nd - 4kuud",
+        "c": "üle 1a"
+      },
+      "answer": "b. vanuses 2nd-4kuud",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7f806e60192a",
+      "section": "lastekirurgia",
+      "question": "milline järgnevatest markeritest on veres tõusnud septilise artriidi korral lastel",
+      "choices": {
+        "a": "reumatoidfaktor",
+        "b": "settereaktsioon",
+        "c": "ANA"
+      },
+      "answer": "b. settereaktsioon",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "892d3b39b5a0",
+      "section": "lastekirurgia",
+      "question": "kõige sagedasem tekitaja kroonilise retsideeruva multifokaalse osteomüeliidi korral",
+      "choices": {
+        "a": "s. aureus",
+        "b": "kingella kingae",
+        "c": "tekitaja ei selgu, võimalik autoimmuunne genees"
+      },
+      "answer": "c. tekitaja ei selgu, võimalik autoimmuunne genees",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "222d7c8a4337",
+      "section": "lastekirurgia",
+      "question": "2a laps on 2h varem allaneelanud nööppatarei, rö-l näha, et see on maos. Mida teha?",
+      "choices": {
+        "a": "vajab kohest endoskoopilist eemaldust",
+        "b": "jälgida ja teha uus rö",
+        "c": "ei vaja jälgimist"
+      },
+      "answer": "b (kui 24h pärast ikka maos ss eemaldada)",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "177908bfaf2b",
+      "section": "lastekirurgia",
+      "question": "Tüsistumata ägeda hematogeense osteomüeliidi esmane ravimeetod üle 5a lastel Eestis on",
+      "choices": {
+        "a": "kirurgia+AB",
+        "b": "AB, oksatsilliin",
+        "c": "AB, vankomütsiin"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6b01a1419cb4",
+      "section": "lastekirurgia",
+      "question": "Valikravimeetod stabiilse reieluu ülemise epifüüsi mittetraumaatilise nihkumise korral on",
+      "choices": {
+        "a": "repositsioon ja fiksatsioon",
+        "b": "dislokatsiooni paigaldamine ja fiksatsioon",
+        "c": "fiksatsioon in situ"
+      },
+      "answer": "c. fiksatsioon in situ",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "460b1c59033d",
+      "section": "lastekirurgia",
+      "question": "kus lokaliseerub kõige sagedamini äge hematogeenne osteomüeliit lapseeas (>18 kuu vanustel)",
+      "choices": {
+        "a": "epifüüsi",
+        "b": "metafüüs",
+        "c": "diafüüs"
+      },
+      "answer": "b. metafüüs",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2bec541805bd",
+      "section": "lastekirurgia",
+      "question": "Milline järgnevatest sümptomitest on kõige sagedasem ägeda apenditsiidi korral alla 3a lastel?",
+      "choices": {
+        "a": "dubfebriilne kehatemp ja kõhuvalu",
+        "b": "oksendamine ja kõrge kehatemp",
+        "c": "pos blumberg paremal alakõhus"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "27fb3f6909b6",
+      "section": "lastekirurgia",
+      "question": "Tsüsistumata ägeda hematogeense osteomüeliidi esmane ravimeetod üle 5 aastastel lastel Eestis on",
+      "choices": {
+        "a": "kirurgiline + AB",
+        "b": "AB - preparaatidest Oksatsilliin",
+        "c": "AB - preparaatidest Vankomütsiin"
+      },
+      "answer": "b. AB - preparaatidest Oksatsilliin",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "08cf4d82933f",
+      "section": "lastekirurgia",
+      "question": "ägeda apenditsiidi puhul teeb kirurg tavaliselt otsuse operatsiooni vajalikkuse suhtes lähtuvalt",
+      "choices": {
+        "a": "crv väärtusest",
+        "b": "kliinilisest leiust",
+        "c": "mrt leiust"
+      },
+      "answer": "b. kliinilisest leiust",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1b4f64d2778a",
+      "section": "lastekirurgia",
+      "question": "7a laps on alla neelanud ühe magneti, mis rö alusel paikneb mao projektsioonil. Milline on taktika?",
+      "choices": {
+        "a": "ei vaja jälgimist, sest väljutub seedetraktist ise normaalselt",
+        "b": "jälgimine ja rö kontroll 24h hiljem",
+        "c": "kohene erakorraline endoskoopline eemaldamine"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "01bd92b2d86c",
+      "section": "lastekirurgia",
+      "question": "Milline instrumentaalne uuring on valikmeetodiks kongenitaalse hüpertroofilise pülorostenoosi puhul lastel",
+      "choices": {
+        "a": "kõhu MRT",
+        "b": "UH",
+        "c": "KT"
+      },
+      "answer": "b. UH",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1825cfa16122",
+      "section": "lastekirurgia",
+      "question": "12a poiss, kes rulaga sõites sai ilma nihketa kodarluu distaalse otsa murru. Milline on sobilik ravimeetod?",
+      "choices": {
+        "a": "osteosüntees elastsete naeltega",
+        "b": "kipslahas",
+        "c": "osteosüntees plaadiga"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "62eea3534a72",
+      "section": "lastekirurgia",
+      "question": "1,5a laps neelanud alla 20 eurosendise, mille järgselt on tekkinud süljevoolus. Rö alusel on söögitorus. Mis taktika?",
+      "choices": {
+        "a": "vajab koseselt erakorralist endoskoopiat - eemaldus",
+        "b": "jälgimine ja rö kontroll",
+        "c": "ei vaja jälgimist, läheb ise läbi"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ec446841015e",
+      "section": "lastekirurgia",
+      "question": "Laps on alla neelanud 4 magnetkuulikest, mis röntgeni alusel paiknevad maos eraldi (pole omavahel kokku tõmbunud) kuidas on käsitlus",
+      "choices": {
+        "a": "ei vaja eriravi, sest väljuvad ise",
+        "b": "kohene erakorraline endoskoopiline eemaldamine",
+        "c": "endoskoopiline eemaldamine kui hakkavad probleeme valmistama"
+      },
+      "answer": "b. kohene erakorraline endoskoopiline eemaldamine",
+      "type": "mc",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0637fea54244",
+      "section": "lastekirurgia",
+      "question": "Laps, kellel kõhuvalu oli, aga siis andis natuke järele, kuid jäi püsima. Süüa ei tahtnud väga. On vaarikaželee. Millega tegemist?",
+      "choices": {
+        "a": "Invaginatsioon",
+        "b": "Kõhuviirus"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9d9418ef3362",
+      "section": "lastekirurgia",
+      "question": "Vastsündinu. Nädala jooksul süvenenud oksendamine, mis ajaga läinud rohkemaks koguse\npoolest, esinenud fontäänina. Millega tegemist?",
+      "choices": {
+        "a": "Mingi soole kahenemine",
+        "b": "Hüpertroofiline pülorostenoos",
+        "c": "Kõhu viirusinfektsioon"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "49f7418d6ea9",
+      "section": "lastekirurgia",
+      "question": "1 a poiss, ema märganud munandi suurenemist, mis muutub päeva jooksul, õhtuti suurem. Poisil kaebusi pole. Palpatsioonil munand pehme, valutu.",
+      "choices": {
+        "a": "Testise torsioon",
+        "b": "Testise tuumor",
+        "c": "Kommunitseeriv hüdrotseele",
+        "d": "Kubemesong"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ca8379272c70",
+      "section": "lastekirurgia",
+      "question": "Severi tõbi - lokal",
+      "choices": {},
+      "answer": "kannaluu valu",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "b1dbb23dbb73",
+      "section": "lastekirurgia",
+      "question": "Söögitoru atreesia ravi",
+      "choices": {},
+      "answer": "Torakotoomia (fistel -> fistli likvideerimine) -> prim. anastomoos: ots-otsaga anastomoos\n\nSöögitoru segmentide vahemaad suured -> 2-3 kuuks gastrostoom -> 3 kuu pärast anastomoosi rajamine/ söögitoru asendusplastika",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d8072cd44f13",
+      "section": "lastekirurgia",
+      "question": "Hirschsprungi tõbi - ravi",
+      "choices": {},
+      "answer": "Jämesoole korduvad dekompressioonid rektaaltoruga/ klistiirid\nDefenitiivne kirurgiline ravi: aganglionaarse jämesoole segmendi resektsioon koloanaalse anastomoosi rajamisega (Endorectal Pull- Through)\nKolostoom (pika segmendi puhul)",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "f7d566a9646c",
+      "section": "lastekirurgia",
+      "question": "Infusioonravi näidustused",
+      "choices": {},
+      "answer": "Šoki kliinilised tunnused\nTäiskasvanud põletus >15%, lastel >10%, <1a >7-8% kehapindalast\nHingamisteede põletus\nElektritraumaga haiged\nKaasuvate vigastustega haiged",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "563f82da9f79",
+      "section": "lastekirurgia",
+      "question": "Põletustrauma mehhanismid",
+      "choices": {},
+      "answer": "Termilised põletused\nElektripõletus -> sisenemis/väljumisava väike, kudede kahj. võib olla väga ulatuslik -> jäta osakonda jälgimisele\nKeemiline põletus: happed, alused\nKiirgus",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "ef0853ed3d39",
+      "section": "lastekirurgia",
+      "question": "Kusepõie ekstroofia - ravi",
+      "choices": {},
+      "answer": "Mitmeetapiline kirurgiline ravi:\n- Vastsündinu eas - kusepõie eeseina/kõhueesseina defekti sulgemine\n- 6 kuud-1 a. - epispaadia (ureetra ülemise seina) plastika\n- 4-5 a. - kusepõie kaela rekonstruktsioon\nFunktsionaalsed tulemused ei pruugi olla parimad (näidustatud med. abort raseduse ajal)",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "ebf271953427",
+      "section": "lastekirurgia",
+      "question": "Epididümoorhiit - diagnostika",
+      "choices": {},
+      "answer": "Uriini analüüs- leukotsütuuria ja püuuria/ normaalne leid\nUreetra erituse mikrobioloogiline analüüs\nÜlemise urotrakti uuringud\nDoppler-UH",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "39ad1d828711",
+      "section": "lastekirurgia",
+      "question": "Põletushaava kirurgiline ravi:",
+      "choices": {},
+      "answer": "Haava tangensiaalne ekstsisioon - põletushaavalt eemaldatakse nekroos kihi kaupa kuni veritseva eluvõimelise koeni\nAutoloogne nahatransplantaat -> eelistatud lokal. reie anterolateraalne külg",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "c59d4e9f80d4",
+      "section": "lastekirurgia",
+      "question": "Hospitaliseerimise näidustused",
+      "choices": {},
+      "answer": "Šoki tunnused\nSügavad põletused\nTsirkulaarsed põletused\nPindmine põletus täiskasvanutel >10% kehapinnast, lastel >5% kehapinnast\nNäo, labakäte-jalgade, suguelundite põletused\nSilma põletused\nSaastunud/infitseerunud põletused\nHingamisteede põletused\nElektritraumad\nKeemilised põletused\nHaiged, kellel lisaks põletusele esinevad kaasuvad vigastused",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "77dc6776e5dc",
+      "section": "lastekirurgia",
+      "question": "Omandatud krüptorhismi põhjused",
+      "choices": {},
+      "answer": "Iatrogeenne - postoperatiivne - alati songa opi lõpus kontrolli, et munand oleks munandikotis\nRetraktiilsete testiste astsendeerumine (toppumine) - munandid munandikotis, kord üleval, siis jäävad üles\nKremasterlihase spastilisus\nFuniikuluse kasvuhäire ja funiikuluse liited",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "1ba413bf2f64",
+      "section": "lastekirurgia",
+      "question": "Hirschsprungi tõbi - diagnostika",
+      "choices": {},
+      "answer": "Rö: kõht ja vaagen: vedeliku/gaasi nivood\nJämesoole irrigograafia - kitsas distaalne osa, soole lehtertaoline prestenootiline laienemine ülemineku tsooni kohal, laienenud proksimaalne jämesool\nRektumi seina biopsia (kuldstandard)\nAnorektaalne manomeetria",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "466048ff5564",
+      "section": "lastekirurgia",
+      "question": "Skolioosi ravi - baseerub millel",
+      "choices": {},
+      "answer": "Baseerub Cobbi nurgale:\n<10° ei ole skolioos, ei ole vaja jälgida\n10-19° jälgimine\n20-29° jälgimine ja/või bracing\n30-39° bracing\n>40° operatiivne ravi",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "9c7596b300e7",
+      "section": "lastekirurgia",
+      "question": "Patologilise fimoosi ravimeetodid",
+      "choices": {},
+      "answer": "Lokaalsed kortikosteroidid (4-6näd)\nKirurgiline ravi: dorsaalne intsisioon, eesnaha plastika/tsirkumtsiisio",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "56eeb3f93e3d",
+      "section": "lastekirurgia",
+      "question": "kasvuplaadi murru klassifikatsioon",
+      "choices": {},
+      "answer": "I tüüp (Straight) - murd kasvuplaadi sees (5%)\nII tüüp (Above) - murrujoon läbib diafüüsi ja haarab kasvuplaati, kõige sagedasem tüüp (75%)\nIII tüüp (Lower) - liigese sisene murd, murrujoon läbib epifüüsi ja haarab kasvuplaati (5%)\nIV tüüp (Through Everything) - liigese sisene murd, murrujoon läbib epifüüsi, kasvuplaati ja diafüüsi (10%)\nV tüüp (Crush) - kasvuplaadi kompressioonmurd (1%)\nVI tüüp - äratõmbe murd kõhre ja kasvuplaadi piirkonnas",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d4a6f4a6361f",
+      "section": "lastekirurgia",
+      "question": "Gastroskiis - soodustavad faktorid:",
+      "choices": {},
+      "answer": "Ema noor iga\nAlatoitumus\nRahvus\nTubaka suitsetamine\nUimastid (kokaiin, metafetamiin, marihhuana)\nMedikamendid (aspiriin, pseudoefedriin, SSI)\nGünekoloogilised infektsioonid\nHormonaalne mõju (östrogeenid)",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d4bbdfe0c819",
+      "section": "lastekirurgia",
+      "question": "Hirschsprungi tõbi - klassifikatsioon",
+      "choices": {},
+      "answer": "Klassikaline vorm - rektosigmoidaalne haaratus (B) 75%\nPika segmendiga vorm (D)\nTotaalne aganglioos (C) 10%\nLühike segmendiga vorm (E)",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "05dbd1c45ffe",
+      "section": "lastekirurgia",
+      "question": "Testise torsiooni soodustavad faktorid",
+      "choices": {},
+      "answer": "Järsk m. cremasteri kontraktsioon\nTestise kiire kasv ja tõusnud vaskulaarsus puberteedieas\nSkrootumi elundite põletikuline protsess või trauma\nKrüptorhism",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "be53969d772b",
+      "section": "lastekirurgia",
+      "question": "Hirschsprungi tõbi - mida endast kujutab",
+      "choices": {},
+      "answer": "Haigus mille puhul puuduvad ganglionid submukooselt (Meisner`i pleksus) ja ganglionid intramuraalselt (Auerbach`i pleksus) -> puudub sisemine eneteraalne relakseeriv impulss -> soole lihastoonus ↑ -> silelihase kontraktiiluse tasakaaluhäire + peristaltika koordineerimatus -> süvenev kõhukinnisus",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "7493127e2f48",
+      "section": "lastekirurgia",
+      "question": "Invaginatsioon - instrumentaalsed uuringud",
+      "choices": {},
+      "answer": "UH -> märklaud ja/või pseudoneeru sümptoom\nÕhuga irrigograafia/veeslah. k.a -> viime soolestikku gaasi anaalava kaudu -> invaginatsioon tuleb esile",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "5b45c5fd783c",
+      "section": "lastekirurgia",
+      "question": "Kongenitaalne diafragmaalsong - kliiniline pilt",
+      "choices": {},
+      "answer": "Kiire respiratoorse distressi kujunemine (tsüanoos, tahhüpnoe)\nLodikujuline (sisselangenud) kõht, rindkere asümmeetria\nHingamiskahina nõrgemine songaga poolel\nSüdametoonid vastaspoole",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "341fa4cd008d",
+      "section": "lastekirurgia",
+      "question": "Patareidest tulenevate tüsistuste riskifaktorid",
+      "choices": {},
+      "answer": "Nööppatarei d ≥20mm\nPt <4a\nAlla neelatud rohkem kui üks patarei\nEbaselge alla neelamise aeg\nVale diagnoos\nHilinenud patarei eemaldamine\nSamaaegne magneti alla neelamine",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "33ccae7e3999",
+      "section": "lastekirurgia",
+      "question": "Invaginatsioon - kliiniline leid + objektiivselt",
+      "choices": {},
+      "answer": "Valu: hootine, tugev ja vahelduv koolikaline valu, atakkide vaheajal on laps rahulik ja lõdvestunud\nOksendamine: algselt reflektoorne ja sappi mittesisaldav, hiljem ilmub oksemassidesse sapp\nVäljaheide: võib esineda hele veri/vaarikaželee taoline väljaheide (mitte alati)\n\nObjektiivselt:\n- Nutuepisoodid vahelduvad perioodidega kus laps on rahulik ja unine\n- Vorstikujuline mass paremal ülakõhus, Dance sümptoom - parema alakõhu „tühjus\"\n- Kõht meteoristlik",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "ebe2fc8f9715",
+      "section": "lastekirurgia",
+      "question": "septiline artriit lapseeas haarab kõige sagedamini",
+      "choices": {},
+      "answer": "puusaliigese",
+      "type": "open",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "098e0b58d2cf",
+      "section": "lastekirurgia",
+      "question": "Seedetrakti võõrkehad lastel - kiire käsitlus kui...",
+      "choices": {},
+      "answer": "Kui viiteid hingamistakistusele\nKui viiteid söögitoru obstruktsioonile.\nKui allaneelatud ese terav/>5 cm pikk/superabsorbeeruvast materjalist ja lokaliseerub söögitorus/maos.\nKui tegemist high-powered magnetiga/magnetitega.\nKui nööppatarei söögitorus (ja vahel maos).\nKui põletikule või soole obstruktsioonile viitavaid sümptomeid.\n>24h või ebaselge periood söögitorus.",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606",
+        "quizlet:871326939"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "57a079a2bd15",
+      "section": "lastekirurgia",
+      "question": "Pülorostenoosi puhul peamiseks kaebuseks ema poolt on",
+      "choices": {},
+      "answer": "laps oksendab fontäänina",
+      "type": "open",
+      "sources": [
+        "quizlet:1041192985",
+        "quizlet:588982518"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "1a7891200a20",
+      "section": "lastekirurgia",
+      "question": "Ravi lõpp",
+      "choices": {},
+      "answer": "Min. antibakteriaalse ravi aeg (OM: 3-4 näd; SA 2-3 näd)\nCRP referentspiirides\nVaevusteta või väheste kaebustega",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6e3b63fb20a5",
+      "section": "lastekirurgia",
+      "question": "Patarei RÖ",
+      "choices": {},
+      "answer": "halo sign",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1396c055a04c",
+      "section": "lastekirurgia",
+      "question": "Põletusarmid",
+      "choices": {},
+      "answer": "Hüpertroofiline arm\nKeloid",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b67c281c16b5",
+      "section": "lastekirurgia",
+      "question": "Nabasonga ravi",
+      "choices": {},
+      "answer": "Spontaanne taandumine kuni 4-5 eluaastani (99%)\nOperatiivne ravi näidustatud peale 5 eluaastat (varasem operatiivne ravi, kui songavärat >1 cm)",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a40a1e379764",
+      "section": "lastekirurgia",
+      "question": "Piltdiagnostika:",
+      "choices": {},
+      "answer": "UH\nKT - sensitiivsus, spetsiifilisus parem, kuid kiirgus -> eluaegne kasvajarisk ↑\nMRT - halb kättesaadavus, uuring pikk, liigutustele tundlik, kallis",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a0584bbb47f5",
+      "section": "lastekirurgia",
+      "question": "Põletuse esmaabi",
+      "choices": {},
+      "answer": "1. Kuumuse toime peatamine (riided seljast!) ja põletuspinna jahutamine\nVoolava vee alla 18-20 ºC/märg rätik, 15-20 min\nJää, külmakott, väga külm vesi -> pigem mitte (võib süvendada põletust)\n2. Põletuspinna katmine -> hoia haav puhtana! -> põletusgeel + puhas haavaside, käterätt, lina vms\n3. Hüpotermia vältimine (jahuta põletushaava, soojenda pt)\n4. Hingamisteede kontroll\n5. Vedelikukadude vähendamiseks peaks patsiendile andma juua/i.v infusiooni",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "42aa7dd35470",
+      "section": "lastekirurgia",
+      "question": "Hütrotseele vormid",
+      "choices": {},
+      "answer": "- Hydrocele funiculi (funikulotseele)\n- Hydrocele testis - testise kestad ise prod. vedelikku\n- Kommunitseeruv hüdrotseele (kõige sagedasem)\n- Sümptomaatiline hüdrotseele (trauma järgselt, testise torsiooni, apendiks testise torsiooni järgselt, põletike järgselt, tuumorite puhul jne.)",
+      "type": "open",
+      "sources": [
+        "quizlet:871326939"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d0354eb75869",
+      "section": "lastekirurgia",
+      "question": "Mis on hüpospaadia",
+      "choices": {},
+      "answer": "k​ongenitaalne ureetra arenguhäire, ureetra alumise​ seina puudumine​",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "41dbe1cc6188",
+      "section": "lastekirurgia",
+      "question": "Mis infusiooni anda",
+      "choices": {},
+      "answer": "Esimesed 24h kristalloidid (Ringer laktaat, Hartmanni lahus, 0,9%NaCl ), 24h möödudes lisa 5/10% albumiin",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "891daf7a4f58",
+      "section": "lastekirurgia",
+      "question": "Põletusarmide ravi:",
+      "choices": {},
+      "answer": "niisutamine, massaaž, füsioteraapia, surveravi, silikoonplaastrid ja geelid, kir. ravi",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "37dad83a181e",
+      "section": "lastekirurgia",
+      "question": "Osteomüeliidi jaotus",
+      "choices": {},
+      "answer": "- Äge hematogeenne osteomüeliit (levik ↓ -> influenza vaktsiin + AB-ravi kättesaadavus)\n- Alaäge osteomüeliit\n- Krooniline osteomüeliit\n- Krooniline retsidiveeruv multifokaalne osteomüeliit (CNO)",
+      "type": "open",
+      "sources": [
+        "quizlet:871326939"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7f80d0556fcf",
+      "section": "lastekirurgia",
+      "question": "Valgejoone songa ravi",
+      "choices": {},
+      "answer": "kirurgiline",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2ddeaf6b9b7b",
+      "section": "lastekirurgia",
+      "question": "Skolioos - etioloogia",
+      "choices": {},
+      "answer": "Idiopaatiline (~80% juhtudest; tüdrukud > poisid)\nKongenitaalne (vertebraalsed abnormaalsused, mis tulenevad puudulikust arenemisest 4.-6. gest.näd.)\nNeuromuskulaarne/sündroomne (pigem seotud lihaste hüpertooniaga -> pikk torakolumbaal kurvatuur)\nVarasemad traumad/operatsioonid",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "23ddf72c4e36",
+      "section": "lastekirurgia",
+      "question": "Põletuspinna hindamine",
+      "choices": {},
+      "answer": "1. Sügavus\n- Pindimine 1. ja 2A aste\n- 2B ja 3. aste\n- 4. aste\n2. Suurus (% kehapindalat)\n- Lundi ja Browderi kaart\n- Wallace'i 9% reegel - ei sobi väga lastele\n- Peopesa järgi",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "052fdb9f10c6",
+      "section": "lastekirurgia",
+      "question": "Fastsiotoomia - mis on",
+      "choices": {},
+      "answer": "kahjustunud lihasloožide avamine",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4948f7b3c697",
+      "section": "lastekirurgia",
+      "question": "Testise torsiooni ravi",
+      "choices": {},
+      "answer": "1. Manuaalne detorsioon -> valu kaob koheselt, munandikott langeb norm. asukohta\n- \"open book\" e. detorsiooni suund seest väljapoole\n- võib vähendada testise isheemia astet\n- ei asenda testise kirurgilist revisiooni ja fiksatsioon\n\n2. Testise kirurgiline eksploratsioon ja fiksatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "185f85ed6e71",
+      "section": "lastekirurgia",
+      "question": "Pat. fimoosi kaebused:",
+      "choices": {},
+      "answer": "Eelnevalt liigutatav eesnahk muutub rigiidseks\nEesnaha ärritus ja veritsus\nDüsuurilised vaevused\nValulik erektsioon\nKorduvad balanopostiidid\nUriini retensioon",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9f7c6297b221",
+      "section": "lastekirurgia",
+      "question": "kasvuplaadi murru ravi",
+      "choices": {},
+      "answer": "I ja II tüüp -> kinnine reponeerimine ja kipsimmobilisatsioon\nIII ja IV tüüp -> operatiivne ravi",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "91470672b6c5",
+      "section": "lastekirurgia",
+      "question": "Skolioosi diagnostika:",
+      "choices": {},
+      "answer": "1. Kliiniline pilt: enamasti valutu (eriti alguses, hiljem võib tekkida valu)\n2. Obj. leid\n- Adam forward bend test -> skoliomeeter, jalgade pikkuse erinevus, vaagna kalle, puusade ja õlgade asümmetria, asuvad erineval tasemel, abaluu välja kaldunud\n3. Radioloogilised uuringud: RÖ kuklast vaagnani - Cobbi nurga hindamine",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "47af7dc26c66",
+      "section": "lastekirurgia",
+      "question": "Skolioosi operatsioon:",
+      "choices": {},
+      "answer": "Spondülodees e selgroolülide liitmine",
+      "type": "open",
+      "sources": [
+        "quizlet:871326939"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a266800282a7",
+      "section": "lastekirurgia",
+      "question": "küsimus gastroskiisist",
+      "choices": {},
+      "answer": "Gastroskiis on kaasasündinud kõhuseina defekt (tavaliselt nabast paremal), mille kaudu prolabeeruvad katteta sooled (erinevalt omfalotseelest puudub kott). Käsitlus: vastsündinul soolte kaitse/niisutamine, vedelikravi ja kirurgiline sulgemine (primaarne või etapiline silo abil).",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai",
+      "explanation": "Algne kirje oli ainult teemamärge ('küsimus gastroskiisist'), mitte konkreetne küsimus — siin on teema põhifaktid.",
+      "needs_review": true
+    },
+    {
+      "id": "fe5ce44fe9df",
+      "section": "lastekirurgia",
+      "question": "Äge osteomüeliit - ravi",
+      "choices": {},
+      "answer": "1. I.v AB ravi -> üleminek p.o kui võimalik\n- <5 aasta: 2. põlvkonna tsefalosporiinid (tsefuroksiim)\n- >5 aasta: β-laktamaasresistentsed, penitsilliinid (oksatsilliin)\n- Ravi kestus tavaliselt 3-4, imikutel 4-6 nädalat\n2. Kirurgiline ravi (10-30% juhtudest) -> abstsessi avanemine; nekrektoomia, sekvestrektoomia",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5afbcd77138f",
+      "section": "lastekirurgia",
+      "question": "Septiline artriit - ravi",
+      "choices": {},
+      "answer": "1. I.v AB ravi (u 3 näd.) -> üleminek p.o kui võimalik (lapsed: oksatsilliin)\n2. Kirurgiline ravi\n- Debriidement (nekrektoomia, sekvestrektoomia), koldesisene AB (10-30% juhtudest)\n- Materjal mikrobioloogiliseks külviks",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7dd286749c50",
+      "section": "lastekirurgia",
+      "question": "Äge apenditsiit tüsistused",
+      "choices": {},
+      "answer": "1- Perforeerunud apenditsiit\n- Ravimata apenditsiidi loomulik kulg -> perforatsioon\n- Intraabdominaalse postoperatiivse abstsessi risk 20% perforeerunud VS 0.8% mitteperforeerunud\n- Ravi:\n-- Ainult AB (retsidiveeruva apenditsiidi risk 1-3% aastas)\n-- AB millele järgneb intervall-apendektoomia\n-- Kohene operatiivne ravi (apendektoomia) - kui esineb peritoniit\n\n2. Infiltratiivne apenditsiit - ussripiku perforeerumine -> perforeerunud osa piiravad ära teised soole osad -> AB\n\n3. Apendikulaarne abstsess - mädakolle -> AB + perkutaanne dreneerimine (UH kontrolli all)",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f3b472b92bd9",
+      "section": "lastekirurgia",
+      "question": "Tühi skrootum - etioloogia",
+      "choices": {},
+      "answer": "Krüptorhism\na. Kaasasündinud - testise peetumine tema laskumise teel -> testis pole munandikotis sünni hetkel\nb. Omandatud - sünnihetkel paikneb skrootumis, kuid hiljem pole skrootumist leitav\nEktoopiline testis - munand väljaspool munandikotti\nTestis saltans e. liikuvad munandid e. retraktiilsed testised\nKaasasündinud testise atroofia",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f5e0191eaa56",
+      "section": "lastekirurgia",
+      "question": "Põletushaava ravi eesmärgi",
+      "choices": {},
+      "answer": "Haava kuivamise vältimine\nKaitse meh. vigastuste eest\nVedeliku ja energiakao vältimine\nInfektsiooni vältimine\nEksudaadi sidumine",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ad20b3d8c4b2",
+      "section": "lastekirurgia",
+      "question": "Hingamissüsteemi kahjustus",
+      "choices": {},
+      "answer": "Hingamisteede otsene termiline kahj.\nVingugaasi mürgistus",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0c3658ca309f",
+      "section": "lastekirurgia",
+      "question": "Epididümoorhiit - kaebused",
+      "choices": {},
+      "answer": "Järk-järgult tugevnev skrootumi valu ja turse\nHarva iiveldus ja oksendamine\nDüsuurilised kaebused, püuuria\nPalavik",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "41f90db1319d",
+      "section": "lastekirurgia",
+      "question": "Skolioosi klassifikatsioon",
+      "choices": {},
+      "answer": "1. Kumeruse struktuuri järgi: C, S ja topelt S kujuline\n2. Loksalisatsiooni järgi: servikaalne, servikotorakaalne, torakaalne, torakolumbaalne, lumbaalne, lumbosakraalne\n3. Vanuse järgi: noorukiea (>10 a), juveniilea (4-9 a), infantiilea (0-3 a), kongenitaalne funktsionaalne skolioos",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d30813bdb2d7",
+      "section": "lastekirurgia",
+      "question": "Toit söögitorus - käsitlus",
+      "choices": {},
+      "answer": "Sümptomaatiline - kohene endoskoopia\nVastasel juhul võib endoskoopia teostada 24h jooksul",
+      "type": "open",
+      "sources": [
+        "quizlet:871326939"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "be10662a9e70",
+      "section": "lastekirurgia",
+      "question": "Esharotoomia - millal teha",
+      "choices": {},
+      "answer": "6-8h jooksul",
+      "type": "open",
+      "sources": [
+        "quizlet:871326939"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fcad151d0833",
+      "section": "lastekirurgia",
+      "question": "Galvestoni/Carvajali valem:",
+      "choices": {},
+      "answer": "Galvestoni/Carvajali valem: 5000 ml/põletuspind (m²) + 2000 ml/kogu kehapindala (m²)\n50% esimese 8h jooksul (traumast!), 50% järgneva 16h jooksul",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "620aa2554324",
+      "section": "lastekirurgia",
+      "question": "Laste luumurru tavaline ravi",
+      "choices": {},
+      "answer": "reponeerimine + kips​",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "59d78ac760c3",
+      "section": "lastekirurgia",
+      "question": "Äge apenditsiit - patogenees",
+      "choices": {},
+      "answer": "Ussripiku valendiku obstruktsioon -> tekib umbne sopp, kus tekib mikroobide ülekasv -> põletik\nViirus infektsiooni foonil (ussripikus palju lümfikude)",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "98128020846d",
+      "section": "lastekirurgia",
+      "question": "Epididümoorhiit - tekitajad:",
+      "choices": {},
+      "answer": "Seksuaalselt aktiivsetel teismelistel: Chlamydia trachomatis, Ureoplasma urealyticum, Neisseria Gonorrhea\nPrepuberteedieas poistel: Mycoplasma pneumoniae, enteroviruses, adenoviruses",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "273550cc755f",
+      "section": "lastekirurgia",
+      "question": "Parafimoos - kliiniline pilt",
+      "choices": {},
+      "answer": "Sugutiluki turse ja valulikkus\nPeenise peast proksimaalsemal sulcus coronariuse kohal tsirkulaarne sissetõmme\nPeenise vars ilma haiguslike nähtudeta",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "854ccc0f5cd5",
+      "section": "lastekirurgia",
+      "question": "Nabasong opereeritakse millal",
+      "choices": {},
+      "answer": "​> 5. eluaastat​",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ebb8903fa343",
+      "section": "lastekirurgia",
+      "question": "Füsioloogilise ​fimoosi​ ravi",
+      "choices": {},
+      "answer": "ei vaja ravi​",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d95894227c94",
+      "section": "lastekirurgia",
+      "question": "Testise torsiooni lisauuringud",
+      "choices": {},
+      "answer": "Doppler-UH\nTestise stsintigraafia (isotoop koguneb kudedesse, kus hea vaskulaarne varustus)\nUriini analüüs (teiste diagnooside välistamiseks)",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6ca4d31a64db",
+      "section": "lastekirurgia",
+      "question": "Epididümoorhiit - lokaalne leid",
+      "choices": {},
+      "answer": "Hemiskrootum hüpereemiline, turses\nTestise vertikaalne orientatsioon\nKremaster-refleks positiivne (vallandub)\nPrehni sümptom positiivne - testise elevatsioon toob valu leevendust",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "159bf4ec825d",
+      "section": "lastekirurgia",
+      "question": "Patoloogilise fimoosi kaebused:",
+      "choices": {},
+      "answer": "Eelnevalt liigutatav eesnahk muutub rigiidseks\nEesnaha ärritus ja veritsus\nDüsuurilised vaevused\nValulik erektsioon\nKorduvad balanopostiidid\nUriini retensioon",
+      "type": "open",
+      "sources": [
+        "quizlet:871326939"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8de09e44d27b",
+      "section": "lastekirurgia",
+      "question": "Artrogrüpoos - sagedaseim vorm:",
+      "choices": {},
+      "answer": "amüoplaasia - vähe arenenud lihased",
+      "type": "open",
+      "sources": [
+        "quizlet:871326939"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2824be63fda5",
+      "section": "lastekirurgia",
+      "question": "apendiks teistese torsiooni ravi",
+      "choices": {},
+      "answer": "konservatiivne ravi - säästlik reziim ja NSAID ravi",
+      "type": "open",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "033e8e0074dd",
+      "section": "lastekirurgia",
+      "question": "Apendiks testise torsiooni ravi:",
+      "choices": {},
+      "answer": "konservatiivne ravi - säästlik režiim ja NSAID ravi",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "016370b0aedc",
+      "section": "lastekirurgia",
+      "question": "I.v AB ravi -> üleminek p.o kui:",
+      "choices": {},
+      "answer": "24-48 h palavikuvaba\nOluliselt paranenud kliiniline leid >24h\nCRP langus 50% (30%) algsest väärtusest",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9980d7313d37",
+      "section": "lastekirurgia",
+      "question": "Modifitseeritud Parklandi valem:",
+      "choices": {},
+      "answer": "Modifitseeritud Parklandi valem: 3 (2-4) mL/kg/põletuspinna % kehapindalast (TBSA)\n50% esimese 8h jooksul (traumast!), 50% järgneva 16h jooksul",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e429cdc037f5",
+      "section": "lastekirurgia",
+      "question": "Juveniilne reieluupea ostekondroos",
+      "choices": {},
+      "answer": "Legg-Calvé-Perthes",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "65c4dfd76c8f",
+      "section": "lastekirurgia",
+      "question": "Skolioos - kellel kõige sagedamini",
+      "choices": {},
+      "answer": "10-12a tüdrukutel",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6eae55058528",
+      "section": "lastekirurgia",
+      "question": "Testise torsioon vajab millist ravi",
+      "choices": {},
+      "answer": "​erakorralist kohe",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7f563d317c04",
+      "section": "lastekirurgia",
+      "question": "Pülorostenoosi põhjuseks lastel on:",
+      "choices": {},
+      "answer": "kaasasündiud pülooruse lihaskihi hüpertroofia",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "47ed0e7750fc",
+      "section": "lastekirurgia",
+      "question": "Asümptomaatilise kubemesongaravi on:",
+      "choices": {},
+      "answer": "operatiivne ravi plaanilises korras",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "59107cb78870",
+      "section": "lastekirurgia",
+      "question": "Hirschsprungi tõbi - kliiniline pilt",
+      "choices": {},
+      "answer": "Suurim osa (90%) diagnoositakse imikueas\nMekooniumi erituse hilinemine\nKõht esilevõlvunud\nKroonilin kõhukinnisus\nOksendamine",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "00c2fdaab7ee",
+      "section": "lastekirurgia",
+      "question": "Kongenitaalne diafragmaalsong - ravi",
+      "choices": {},
+      "answer": "Kirurgiline ravi (laps stabiliseeritud) -> kõhuõõneelundite repositsioon kõhuõõnde, diafragma defekti sulgemine",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b41fc9433daf",
+      "section": "lastekirurgia",
+      "question": "Pediaatrilised apenditsiidi skoorid:",
+      "choices": {},
+      "answer": "alvarado skoor\nAIR (appendicitis inflammatory response)",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f4da4529300a",
+      "section": "lastekirurgia",
+      "question": "Parafimoos - ravi eesmärk + meetodid",
+      "choices": {},
+      "answer": "Ravi eesmärgiks vähendada peenise distaalse osa ödeemi ja viia eesnahk tagasi üle glansi\na. Manuaalne reduktsioon (LA: lidokaiin)\nb. Kirurgiline ravi- eesnaha dorsaalne intsisioon",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "387bae10c94c",
+      "section": "lastekirurgia",
+      "question": "Skolioosi diagnoos alates mis nurgast",
+      "choices": {},
+      "answer": "10 kraadi",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cd8012a41cd1",
+      "section": "lastekirurgia",
+      "question": "Hirschsprungi tõve puhul on tegemist:",
+      "choices": {},
+      "answer": "kaasasündinud närviganglionite (Auerbachi ja Meissneri pleksuste) puudumisega",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4d5c39019483",
+      "section": "lastekirurgia",
+      "question": "Kusepõie ekstroofia - kliiniline pilt",
+      "choices": {},
+      "answer": "Kõhueesseina defekt/osaline puudumine\nKusepõie eesseina puudumine, defekti prolabeerub kusepõie tagumine sein\nEpispaadia - ureetra ülemise seina puudumine\nHäbemeluude sümfüüsi lai diastaas",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a4b8d37e8836",
+      "section": "lastekirurgia",
+      "question": "Kõige sagedasem artrogrüpoosi vorm on?",
+      "choices": {},
+      "answer": "Amüoplaasia",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0ad8cf543ef5",
+      "section": "lastekirurgia",
+      "question": "Tüüpiline apenditsiidi kliiniline pilt",
+      "choices": {},
+      "answer": "Periumbilikaalne valu -> migreerub paremale alakõhtu\n- Kõhuvalu kestnud mõnest päevast kuni mõne tunnini\nIsutus (90%), iivledus ja oksendamine (60%)\nKehatemp. tõus (≤ 38°C)\nHüppamine, köhimine, liikumine võib valu süvendada\nLokaalne parema alakõhu valulikkus\nPositiivsed: Psoas, Obturatorius, Rovsing, Blumberg sümptoom",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8b7066130602",
+      "section": "lastekirurgia",
+      "question": "Põletuspinna sügavuse klassifikatsioon",
+      "choices": {},
+      "answer": "1. astme e. erütematoosne põletus\n2. astme e. villiline (bulloosne) e. osaline põletus\n3. astme põletus -nekrootiline\n4. aste - naha ja sellest sügavamate struktuuride põletus",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e1f23e407b1f",
+      "section": "lastekirurgia",
+      "question": "Alaäge e. subakuutne osteomüeliit - RÖ",
+      "choices": {},
+      "answer": "RÖ Brodie abstsess",
+      "type": "open",
+      "sources": [
+        "quizlet:871326939"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6d95817a7fff",
+      "section": "lastekirurgia",
+      "question": "Kas tüdrukutel on hüdrotseele tavaline?",
+      "choices": {},
+      "answer": "ei",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "115a94803eef",
+      "section": "lastekirurgia",
+      "question": "Patareist tingitud kahjustusmehhanismid",
+      "choices": {},
+      "answer": "Elektriline: lokaalne hüdrolüüs, NaOH akumuleerumine, korrosiivne koekahjustus.\nSisu leke\nAluselised lahused: NaOH, KOH reag. limaskesta valkudega, tekib vedel nekroos, lipiidmembr. seebistumine\nRaskmetalli mürgistus\nSurve -> kudede ärritus, põletik, isheemia, nekroos",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2ff71cb5f98f",
+      "section": "lastekirurgia",
+      "question": "Mündid ja muud tömbid esemed - käsitlus",
+      "choices": {},
+      "answer": "Spontaanne mündi väljumine söögitorust \nKaebusteta lapsel 24h jooksul endoskoopia (enne RÖ) -> limaskest üle vaadata!\nSümptomaatilisel pt (ei saa sülge neelata) + kui kahtlus, et münt >24h olnud söögitorus -> kohene endoskoopia\nKui maos või kaugemal: jälgimine -> 1-2 nädala tagant RÖ",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "877d27b41c5e",
+      "section": "lastekirurgia",
+      "question": "poiste pitsunud kubemesonga ravitaktika",
+      "choices": {},
+      "answer": "Pitsunud (inkartsereerunud) kubemesong: proovida õrna manuaalset repositsiooni (taksist) sedatsiooni all; õnnestumisel plaaniline herniotoomia lähipäevil. Kui repositsioon ebaõnnestub või on strangulatsiooni/soolesulguse tunnused — erakorraline operatsioon.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "b1dfa2a17b15",
+      "section": "lastekirurgia",
+      "question": "Duodeenumi obstruktsioon\na. Diagnostika:",
+      "choices": {},
+      "answer": "a. polühüdramnion, mao ja duodeenumi proksimaalosa laienemine (\"doublebubble\")\n- Üks mull: laienenud magu, teine mull: proksimaalne duodeenum\nRö- kontrastuuring (määramaks ahenemise määra)",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "32398ff3499c",
+      "section": "lastekirurgia",
+      "question": "Ägeda apenditsiidi kliiniline pilt (<3a)",
+      "choices": {},
+      "answer": "Palavik (87-100%)\nOksendamine (85-90%)\nKõhuvalu (35-81%)\nDifuusne kõhu valulikkus (55-92%)\n- NB! Imikud ei lokaliseeri valu\nKõhu distensioon (meteorism) (30-52%)\nKõhulahtisus (18-46%)\nUnisus, uimasus (40%)",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f13659541577",
+      "section": "lastekirurgia",
+      "question": "Testise torsiooni esinemisvormid + kellel",
+      "choices": {},
+      "answer": "a. Testise torsioon intravaginaalne\n- Tavaliselt suurematel poistel 13-16a\nb. Testise torsioon ekstravaginaalne\n- Imikutel (tekib perinataalperioodis testise skrootumisse laskumise ajal)",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fb56797e2c06",
+      "section": "lastekirurgia",
+      "question": "Äge peritoniit lapseeas - klassifikatsioon",
+      "choices": {},
+      "answer": "Lokaalne / üldperitoniit\nInfektsioosne / aseptiline (nt sapp)\nPrimaarne - peritoniit ei ole seotud teiste kõhukoopa organitega\nSekundaarne - peritoniiti põhj. teine kõhukoopa patoloogia\nTertsiaalne - kõhukoopasisene infektsioon, mis püsib/retsidiveerub pärast edukat, adekvaatset kontrollitud ravi",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "92569ea50377",
+      "section": "lastekirurgia",
+      "question": "Põletused - mitu % lapse, mis vanuses, kus",
+      "choices": {},
+      "answer": "50% lapsed, kõige enam <5a, kodus",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "29c3e9a8c6d2",
+      "section": "lastekirurgia",
+      "question": "Keloid - milline välja näeb + millal tekib",
+      "choices": {},
+      "answer": "Läikiv, kõrge, sinakas-violetse värvusega; võib vohada piirest väljapoole\n(Pärilik) eelsoodumus -> võib tekkida ka pindmise põletuse järel",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "83065bc9424a",
+      "section": "lastekirurgia",
+      "question": "Anorektaalsed malformatsioonid - diagnostika",
+      "choices": {},
+      "answer": "Kl. diagnostika: anaalava puudumine, fistel perinumil/välisgenitaalide piirkonnas, mekooniumi eritus uriiniga\nInvertogramm (24h vanuses): lateraalne RÖ - pärasoole asukoha kindlaks tegemine/vahe pärasoole ja naha vahel",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c0a7df9bc886",
+      "section": "lastekirurgia",
+      "question": "Hütrotseele - mida endast kujutab\na. Vormid:",
+      "choices": {},
+      "answer": "- vesimunand, vedelik testise või seemneväädi ümber\na. Vormid:\n- Hydrocele funiculi (funikulotseele)\n- Hydrocele testis - testise kestad ise prod. vedelikku\n- Kommunitseeruv hüdrotseele - ühendus kõhukoopa ja testise vahel (kõige sagedasem)\n- Sümptomaatiline hüdrotseele (trauma järgselt, testise torsiooni, apendiks testise torsiooni järgselt, põletike järgselt, tuumorite puhul jne.) - kui ei ole hommikuti, öösel väiksem -> mõtle tuumori peale!",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0b78c156b5db",
+      "section": "lastekirurgia",
+      "question": "kõige sagedasem kasvuplaadi vigastuse tüüp on",
+      "choices": {},
+      "answer": "salter-harris tüüp 2",
+      "type": "open",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ed2fdb7fad95",
+      "section": "lastekirurgia",
+      "question": "Kõige rohkem kasutatav komppöia ravimeetod on",
+      "choices": {},
+      "answer": "Ponseti meetod",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0eb1073813b4",
+      "section": "lastekirurgia",
+      "question": "Seedetrakti võõrkehad lastel: magu - kaebused",
+      "choices": {},
+      "answer": "maos enamasti asümptomaatilised",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f9f2e72dbdf5",
+      "section": "lastekirurgia",
+      "question": "Primaarne peritoniit lapseeas - bakterite levik",
+      "choices": {},
+      "answer": "Genitaaltrakti kaudu/munajuha\nEnteraalne\nHematogeenne\nLümfaatiline",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "dff0b5f0d7ef",
+      "section": "lastekirurgia",
+      "question": "Primaarne peritoniit lapseeas - kliiniline leid",
+      "choices": {},
+      "answer": "Järsku alanud alakõhuvalu\nPos. peritoneaalärritusnähud\nIiveldus, oksendamine\nPalavik\nLimane kõhulahtisus\nTahhükardia, dehüdratsiooninähud, toksiline šokk",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4972bdaccd71",
+      "section": "lastekirurgia",
+      "question": "Hüpertroofiline arm - milline välja näeb + ravi",
+      "choices": {},
+      "answer": "Tihke, nahapinnast kõrgem, sageli roosakas, punakas; paikneb põletuspinna piirides\nAllub hästi konservatiivsele ravile",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5ffb96b872dd",
+      "section": "lastekirurgia",
+      "question": "Kongenitaalne krüptorhism - mida võib põhjustada",
+      "choices": {},
+      "answer": "Võib põhjustada spermatogeneesi (viljakuse) häireid",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e72046f039bf",
+      "section": "lastekirurgia",
+      "question": "Seedetrakti võõrkehad lastel: söögitoru - kaebused",
+      "choices": {},
+      "answer": "keelduvad söögist, düsfaagia, suurenenud süljevool, resp. kaebused (striidor, vilistav hingamine)",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "44f72011bac1",
+      "section": "lastekirurgia",
+      "question": "Testise torsiooni kliiniline pilt ja lokaalne leid",
+      "choices": {},
+      "answer": "Järsku tekkinud tugev ühepoolne munandikoti valu\nValu alakõhus, kubemes + iiveldus, oksendamine (valust tingitud)\nTestise kõrge asetsus (seemneväät lühenenud), orientatsiooni muutus\nPalpatoorne hellus\nHemiskrootumi erüteem, ödeem, reaktiivne hüdrotseele\nCremaster refleks puudub (katsud reie sisepinda -> vastusena puudub testise reaktsioon)",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "be6a2b2ea2ec",
+      "section": "lastekirurgia",
+      "question": "Puusaliigese arenguline düsplaasia - diagnoosimine",
+      "choices": {},
+      "answer": "Haige läbivaatus -> erinevad testid, mida tehakse kõigile vastsündinutele:\n1. Asümmeetrilised tuharavoldid - ei ole väga usaldusväärne\n2. Galeazzi test - beebi lamab, põlved krõnksu -> kas jalad ühepikkused\n3. Barlow test - puusaliigesest adduktsiooni ja reieluud kergelt lükates -> kas reieluupea liikus\n4. Ortolani test - puusaliigesest abduktsiooni 90° ja reieluud kergelt tõstes -> kas reieluupea liikus tagasi puusanappa (pos)\n\nLeiu olemasolulu -> UH, röntgen (KT, MRT)",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6aa6b7120b82",
+      "section": "lastekirurgia",
+      "question": "Sügava dermaalse (III aste) põletuse korral on haav",
+      "choices": {},
+      "answer": "põletushaav tihke ja valulikkus puudub",
+      "type": "open",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "992e75fb2db1",
+      "section": "lastekirurgia",
+      "question": "Ägeda apenditsiidi puhul väikelastel on tavaliselt:",
+      "choices": {},
+      "answer": "kõrge kehatemperatuuri tõus",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2c23c90a98cd",
+      "section": "lastekirurgia",
+      "question": "Pitsunud songa puhul poistel esmaseks ravivõtteks on:",
+      "choices": {},
+      "answer": "reponeerimine ja plaaniline operatsioon 24-48h möödudes",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fc793ec4202f",
+      "section": "lastekirurgia",
+      "question": "Kas UH märklaud sümpt on iseloomulik pülorostenoosile",
+      "choices": {},
+      "answer": "ei",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "228d89eebf2b",
+      "section": "lastekirurgia",
+      "question": "Äge hematogeenne osteomüeliit esineb kõige sagedamini",
+      "choices": {},
+      "answer": "reieluus",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "54c6c201e2c6",
+      "section": "lastekirurgia",
+      "question": "Primaarne peritoniit lapseeas - sagedasemad tekitajad",
+      "choices": {},
+      "answer": "90%'l juhtudest näitab külv ühte mikroobi\n- S. pneumoniae\n- E. coli\n- Klebsiella pneumoniae",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "870a8c023af2",
+      "section": "lastekirurgia",
+      "question": "Esharatoomia tehakse millise staadiumi põletuse korral",
+      "choices": {},
+      "answer": "naha täispaksuses põletus - III, IV staadium - sügavate põletuste puhul, tsirkulaarse põletuse puhul",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b499f6c22576",
+      "section": "lastekirurgia",
+      "question": "Lastel on tavaliselt tegemist (valikud olid 3 eri songa)",
+      "choices": {},
+      "answer": "indirektse kubemesongaga",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "816959347f47",
+      "section": "lastekirurgia",
+      "question": "Invaginatsiooni esineb kõige sagedamini millise vormina?",
+      "choices": {},
+      "answer": "Peensool invagineerunud jämesoolde",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f8e89ec9e1d7",
+      "section": "lastekirurgia",
+      "question": "Iseloomulikud luumurrud lastel suurema paindumisvõime tõttu:",
+      "choices": {},
+      "answer": "Mõigasmurrud\nPajuvitsmurrud",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5dde5f445130",
+      "section": "lastekirurgia",
+      "question": "2. astme e. villiline (bulloosne) e. osaline põletus - jaotus",
+      "choices": {},
+      "answer": "A (osaline pindmine)\nB (osaline sügav)",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f5492f0ce3af",
+      "section": "lastekirurgia",
+      "question": "Kõige sagedasem erakorraline kirurgilist ravi vajav kõhuhaigus",
+      "choices": {},
+      "answer": "apenditsiit",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "911e0e95ce2e",
+      "section": "lastekirurgia",
+      "question": "Haige uurimine kõikide kubeme patoloogiate puhul - mida uurime",
+      "choices": {},
+      "answer": "Peenise suurus/areng/deformatsioonid\nSkrootumi areng\nSkrootumi palpatsioon\nKas testis skrootumi põhja toodav\nKubemekanali piirkonna palpatsioon\nLibistades kätt piki kubemekanali piirkonda allapoole",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7d90684030be",
+      "section": "lastekirurgia",
+      "question": "skolioosiks loetakse deformatsioonid, mille kõverdus on küljele",
+      "choices": {},
+      "answer": "Cobb nurk >10 kraadi",
+      "type": "open",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b1b66d7fa0bc",
+      "section": "lastekirurgia",
+      "question": "Kus lokaliseerub kõige sagedamini äge hematogeenne osteomüeliit",
+      "choices": {},
+      "answer": "metafüüs",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "08fe096a84b0",
+      "section": "lastekirurgia",
+      "question": "Ravi krüptorhismi ja ektoopilise testise puhul - mida ja millal",
+      "choices": {},
+      "answer": "Operatiivne ravi vanuses 6-12 elukuu",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a033e0d221f9",
+      "section": "lastekirurgia",
+      "question": "milline järgnevatest leidudest ei ole iseloomulik pülorostenoosile",
+      "choices": {},
+      "answer": "UH-s märklaud sümptom",
+      "type": "open",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4567dd803738",
+      "section": "lastekirurgia",
+      "question": "Haige uurimine kõikide kubeme patoloogiate puhul - keskkond milline",
+      "choices": {},
+      "answer": "soe tuba, soojad käed, poolistuv asend",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "63481cae34a7",
+      "section": "lastekirurgia",
+      "question": "Põletusšoki ennetamises ja ravis esimese 24 tunni jooksul kasutatakse",
+      "choices": {},
+      "answer": "kristalloid",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c946290be389",
+      "section": "lastekirurgia",
+      "question": "Milline markeritest on veres tõusnud septilise artriidi korral lastel?",
+      "choices": {},
+      "answer": "settereaktsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "38d99a730d9a",
+      "section": "lastekirurgia",
+      "question": "Komplitseeritud juhtudel jätkub ravi veel 7 päeva pärast\"üleminekupunkti\"",
+      "choices": {},
+      "answer": "Resistentne mikroob\nOluline luukoe hävinemine\nVähenenud immuunsus, sepsis, šokk jm raskendavad asjaolud",
+      "type": "open",
+      "sources": [
+        "quizlet:869453606"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "021dd548b922",
+      "section": "lastekirurgia",
+      "question": "Kõige sagedasem soolesulguse põhjus inimikutel ja lastel vanuses 3 kuud kuni 6a",
+      "choices": {},
+      "answer": "Invaginatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:871326939"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cf2629412da0",
+      "section": "lastekirurgia",
+      "question": "juhtum, poisil üks munand suurem kui teine, eriti õhtul; valutu jne (hüdrotseele)",
+      "choices": {},
+      "answer": "Hüdrotseele (vedeliku kogunemine munandikotti tunica vaginalis'esse). Kommunikeeruv hüdrotseele suureneb päeva/õhtu jooksul, on valutu ja transilluminatsioonil läbipaistev; lastel sageli iseparanev ~1–2 eluaastaks, püsiva korral kirurgia.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "3981e9dce9fe",
+      "section": "lastekirurgia",
+      "question": "Ektoopilise testisega patsient vajab alati operatiivset ravi, kuid millises vanuses?",
+      "choices": {},
+      "answer": "Enne aastaseks saamist",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7eceff44ce7b",
+      "section": "lastekirurgia",
+      "question": "Valikravimeetod stabiilse reieluuülemise epifüüsi mittetraumaatilise nihkumise korral on",
+      "choices": {},
+      "answer": "fiksatsioon in situ",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4ee71dd89efa",
+      "section": "lastekirurgia",
+      "question": "mis instrumentaalset uuringut loetakse ägeda hematogeense osteomüeliidi diganostikas kuldseks standardiks",
+      "choices": {},
+      "answer": "magnetresonantstomograafia (MRT)",
+      "type": "open",
+      "sources": [
+        "quizlet:1041192985"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "745f9af08b4a",
+      "section": "lastekirurgia",
+      "question": "Mis instrumentaalset uuringut loetakse ägeda hematogeense osteomüeliidi diagnostikas kuldseks standardiks:",
+      "choices": {},
+      "answer": "magnetresonantstomograafia",
+      "type": "open",
+      "sources": [
+        "quizlet:588982518"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "164674fed670",
+      "section": "lastekirurgia",
+      "question": "9 kuune poiss kongenitaalse krüptorhismiga, mis käsitlus? (jälgimine; erakorraline op; op plaanilises korras; hormoonravi)",
+      "choices": {},
+      "answer": "Plaaniline orhidopeksia. Kaasasündinud krüptorhismi korral, kui munand pole laskunud, tehakse orhidopeksia plaaniliselt ~6.–18. elukuul (mitte erakorraliselt; hormoonravi ei ole esmavalik).",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    }
+  ]
+}

@@ -1,0 +1,4620 @@
+{
+  "section": "uroloogia",
+  "count": 344,
+  "questions": [
+    {
+      "id": "bf93e91a4a07",
+      "section": "uroloogia",
+      "question": "Testisevähk - diagnostika",
+      "choices": {
+        "a": "Objektiivne leid",
+        "b": "Laboratoorsed uuringud:",
+        "c": "Radioloogilised jt uuringud:"
+      },
+      "answer": "a. testise palpatsioon (kuju ja konsistents), kaela lümfisõlmede palpatsioon (Virchow' sõlm e. vasak supraklavikulaarne lümfisõlm)\nb. seerumi spetsiifilised (alfafetoproteiin (s-AFP) ja koorioni gonadotropiin (s-hCG))\nc. Bilateraalne testiste UH\nRindkere RÖ (kopsumetastaasid)\nKT (rinnak-kõht-vaagen)\nMRT\nPeennõel-aspiratsioon (biopsia)",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663",
+        "quizlet:910019316"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "d2aadda40cec",
+      "section": "uroloogia",
+      "question": "Kusepõievähk - diagnostika:",
+      "choices": {
+        "a": "valikmeetod",
+        "b": "lisaks",
+        "c": "kasvajamarkerid"
+      },
+      "answer": "a. Tsüstoskoopia ± biopsia - valikmeetod\n\nb. KT: infiltratiivse põievähi kahtlus, lümfi- ja kaugmetastaaside otsimine\nMRT: lokaalse staadiumi määramiseks\n\nc. Kasvajamarkerid: põhiliselt määratakse uriinist\n- Kasutamine: retsidiivi dgn, järelkontrollis tsüstoskoopiate vältimine, riskigruppide hindamisel",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663",
+        "quizlet:910019316"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "2faebce8c011",
+      "section": "uroloogia",
+      "question": "Neeruvähk",
+      "choices": {
+        "a": "riskifaktorid",
+        "b": "dgn"
+      },
+      "answer": "a. suitsetamine, ülekaalulisus, hüpertensioon, esimese astme suguluses kasvaja\nb. KT k/a (valikmeetod)\n- UH (lok.+ süst. levik, staadiumit ei määra)",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "464083110e05",
+      "section": "uroloogia",
+      "question": "Tamsulosiin",
+      "choices": {
+        "a": "hakkab tööle 3 kuu jooksul",
+        "b": "ennetab pikas perspektiivis uriini retensiooni",
+        "c": "tekib ejakulatsiooni probleem",
+        "d": "on vaja langetada vererõhu alandajate tablettide annust"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fb989b6f8672",
+      "section": "uroloogia",
+      "question": "Testisevähk",
+      "choices": {
+        "a": "mis vanuses",
+        "b": "etioloogia"
+      },
+      "answer": "a. esineb enam 25-40a meestel\nb. krüptorhism, testisevähk kontralateraalses testises, infertiilsus, Klinefelter sündr., vähi esinemine lähisugulasel, testikulaarne intratubulaarne neoplaasia (Tis)",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1537794e4139",
+      "section": "uroloogia",
+      "question": "Püonefroos:",
+      "choices": {
+        "a": "mis on",
+        "b": "Kliiniline pilt + enamasti eelnev mis",
+        "c": "Diagnoosimine",
+        "d": "Ravi"
+      },
+      "answer": "a. infitseerunud hüdronefroos + neeru parenhüümi destruktsioon (osaline/täielik neerufunkts. kadu)\nb. pt septiline, külmavärinate, seljavaludega, võib esineda temp. tõus ja GIT düskomfort\n- Enamasti eelnev kivi, inf. ja/või operatsioon urotraktis\nc. UH, KT (pais neerus, parenhüümi muutused)\nd. drenaaž (nefrostoom) + AB",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ee8bc14637dc",
+      "section": "uroloogia",
+      "question": "Epitsüstostoom",
+      "choices": {
+        "a": "mille alternatiiv, miks parem",
+        "b": "Näidustus:",
+        "c": "Vastunäidustused"
+      },
+      "answer": "a. parim alternatiiv põie püsikateetrile (vähem tüsistusi)\nb. ureetra kaudu kateteriseerimine ei õnnestu või on ohtlik, mädased genitaalsed infektsioonid\nc. Põit ei ole võimalik lokaliseerida",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d1b73bdbafc5",
+      "section": "uroloogia",
+      "question": "CIS (põievähk) on",
+      "choices": {
+        "a": "kerge diagnoosida, hea prognoosiga",
+        "b": "kerge diagnoosida, halva prognoosiga",
+        "c": "raske diagnoosida, hea prognoosiga",
+        "d": "raske diagnoosida, halva prognoosiga"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7e9950e2e041",
+      "section": "uroloogia",
+      "question": "Ureetra striktuur",
+      "choices": {
+        "a": "sümptomid",
+        "b": "diagnostika",
+        "c": "ravi"
+      },
+      "answer": "a. uriinijoa muutumine, järeltilkumine.\nb. RÖ k/a, tsüstoskoopia\nc. Ravi\n- Mehaaniline laiendamine\n- Endoskoopiline (optiline) ureetrotoomia e. kitsenenud kohtade lahtilõikamine\n- Lahtine ureetra plastika -> eemaldatakse kogu armkude",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "14aff2f83fab",
+      "section": "uroloogia",
+      "question": "Uriini retensioon",
+      "choices": {
+        "a": "sümptomid:",
+        "b": "dgn"
+      },
+      "answer": "a. ei saa urineerida vaatamata soovile, kõhuvalu, esilevõlvumus alakõhus\nb. palpatsioon + UH",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "83af91f1e8ad",
+      "section": "uroloogia",
+      "question": "Stressinkontinents",
+      "choices": {
+        "a": "millal tekib",
+        "b": "põhjus",
+        "c": "dgn",
+        "d": "ravi",
+        "e": "kirurgiline ravi - eesmärgid"
+      },
+      "answer": "a. pingutusel tekkiv leke, lihased liiga nõrgad\nb. vaagnapõhja nõrkus/prolaps (90%), sisemise sfinkteri puudulikkus (10%)\nc. urodünaamika, UH, pingutustest\n- Anamnees: lekib raskuste tõstmisel, köhimisel; kogused väikesed\nd. dieedi ja elustiili muutused (vedeliku piiramine, ajastatud põie tühjendamine, kaalu langetamine, suitsetamisest loobumine), vaagnapõhja lihaste treening, östrogeenid, periuretraalne süsteravi\ne. Eesmärgid: taastada vesiko-uretraalsegmendi asend ja tugi; ureetra kompressioon ja koadaptatsioon rõhu tõusu korral",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "856ce9684ed5",
+      "section": "uroloogia",
+      "question": "Flow-meetria väited",
+      "choices": {
+        "a": "ei ole valikmeetod sest kateetrit vaja",
+        "b": "kuldne standard obstruktsiooni diagnoosiks",
+        "c": "norm on max uriinivool üle 10 ml/s",
+        "d": "vaja uuesti teha sest kõigub"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a34483740389",
+      "section": "uroloogia",
+      "question": "Ülevooluinkontinents",
+      "choices": {
+        "a": "mis on, millal esineb",
+        "b": "sümptomid",
+        "c": "Põhjus:"
+      },
+      "answer": "a. tahtele allumatu uriinieritus ületäitunud põie tõttu, kus põielihas väljaveninud ja ei ole võimeline kokku tõmbuma.\nEsineb sageli meestel eesnäärme suurenemise või vähi korral.\nb. Pidev lekkimine, pidamatus",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f07dbe752ef3",
+      "section": "uroloogia",
+      "question": "Üliaktiivse põie ravi",
+      "choices": {
+        "a": "M-kolinomimeetikum",
+        "b": "M-kolinoblokaator",
+        "c": "antikolinergilised",
+        "d": "b3-agonist"
+      },
+      "answer": "b, c, d",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c82fdf8b6dfc",
+      "section": "uroloogia",
+      "question": "Lokaalse neeruvähi ravi",
+      "choices": {
+        "a": "krüoteraapia",
+        "b": "kiiritus",
+        "c": "neeru säästev op",
+        "d": "tuumornefrektoomia"
+      },
+      "answer": "d\n\nneeru säästev op ehk resektsioon ka variant aga tüsistuste risk suurem, vb sp siin nefrektoomia õigeks loetud",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9102c8d58672",
+      "section": "uroloogia",
+      "question": "Milline on õige variant",
+      "choices": {
+        "a": "neerutsüstid on sagedaseimad lesioonid neerudes,",
+        "b": "neeruvähk dgn pigem varajases staadiumis",
+        "c": "neeruvähi lokaalse vormi peamine ravi on kirurgiline ravi (sh ulatuslik lümfadenektoomia)"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7af70dc0931c",
+      "section": "uroloogia",
+      "question": "Füsioloogilise fimoosi ravi",
+      "choices": {
+        "a": "Lokaalsed kortikosteroidid",
+        "b": "Ei vaja ravi",
+        "c": "Kirurgiline ravi"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e3a406b51295",
+      "section": "uroloogia",
+      "question": "Tsütoloogiline uuring ei sobi:",
+      "choices": {
+        "a": "CIS avastamiseks",
+        "b": "Low grade tuumori avastamiseks",
+        "c": "High grade tuumori avastamiseks",
+        "d": "Ülemiste kuseteede uroteliaalse vähi skriininguks"
+      },
+      "answer": "b\nLow-grade põievähi korral on rakuline atüüpia vähe väljendunud ja tsütoloogia annab valenegatiivse tulemuse. Teistel juhtudel on tsütoloogia kasutatav ja spetsiifilisus suhteliselt kõrge.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a8809113fd2d",
+      "section": "uroloogia",
+      "question": "Uriinipidamatuse riskifaktorid",
+      "choices": {
+        "a": "N",
+        "b": "M",
+        "c": "N & M"
+      },
+      "answer": "a. N: vanus, sünnitused, ülekaal, menopaus, vaagna lõikused: stress (50 %) > sega > tung\nb. M: vanus, eesnäärme op-d, neuroloogiline kahjustus, traumad: tung > sega > stress\nc. N & M: krooniline köha, pidev raskuste tõstmine, pidev kõhukinnisus",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e11d8a149c66",
+      "section": "uroloogia",
+      "question": "Neeruvähi metastaasid peamiselt",
+      "choices": {
+        "a": "kops",
+        "b": "maks",
+        "c": "luud"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "09d8452d24dd",
+      "section": "uroloogia",
+      "question": "Milline vähk ei allu kiiritusele",
+      "choices": {
+        "a": "neer",
+        "b": "põis",
+        "c": "testis",
+        "d": "prostata"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ef9d22adfd82",
+      "section": "uroloogia",
+      "question": "Urotsüstograafia näidustus ei ole",
+      "choices": {
+        "a": "prostataresektsioonijärgne anastomoosi leke",
+        "b": "põietrauma",
+        "c": "põievähi kindlakstegemine",
+        "d": "põies fistel"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "979089b2d124",
+      "section": "uroloogia",
+      "question": "Tsütoloogiline uuring sobib milleks",
+      "choices": {
+        "a": "kõrge põievähi riskigrupis skriininguks",
+        "b": "tsüstoskoopia vältimise soon pt poolt",
+        "c": "lihas-invasiive põievähi diagnotikaks",
+        "d": "low-grade tuumori retsidiivi diagnoosimine"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "efdcd705c63c",
+      "section": "uroloogia",
+      "question": "Neeruvähi ravi - minimaalinvasiivne",
+      "choices": {
+        "a": "minimaalinvasiivne - näidustused, mida teeme",
+        "b": "Kirurgia - meetodid, millal"
+      },
+      "answer": "a. väikesed kasvajad/ halvemas seisus patsiendid\n- Aktiivne jälgimine, kasvaja raadiosageduslik ablatsioon, kasvaja krüoteraapia\n\nb. nefrektoomia ja resektsioon (T1, üksikud T2, sobiva asukoha korral, kui ainuke neer, bilateraalne tuumor, neerupuudulikkus)",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "989a0bd9cf33",
+      "section": "uroloogia",
+      "question": "Neeruvähi ravi - metastaatiline vorm:",
+      "choices": {
+        "a": "mida teeme",
+        "b": "mida ei tee"
+      },
+      "answer": "a. Algkolde + mts eemaldamine + süsteemne ravi\n- immuunteraapia, anti-VEGF, türosiinkinaasi inh., mTOR inhibiitorid\n\nb. Keemiaravi",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "aeb53a74cdcd",
+      "section": "uroloogia",
+      "question": "Kellelt võib võtta neeru siirdamiseks?",
+      "choices": {
+        "a": "doonoril oli ebaselge viiruslik entsefaliit",
+        "b": "doonoril oli süsteemne seeninfektsioon",
+        "c": "doonorlõikuse käigus avastati jämesoole kasvaja, aga metastaase ei leidu",
+        "d": "doonorit elustati ja selle järgselt tekkis kreatiniini tõus"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b94d3d088ec4",
+      "section": "uroloogia",
+      "question": "Korallkivi kohta on õige milline väide",
+      "choices": {
+        "a": "korallkivid on harva koostiselt infektkivid",
+        "b": "korallkivi on sageli uraatkivi",
+        "c": "korallkivi puhul on oht neerukahjustuse ja neerupuudulikkuse tekkeks",
+        "d": "esmane avaldumine on neerukoolika"
+      },
+      "answer": "c\nKorallkivid koolikaid ei põhjusta kuigi võivad põhjustada tuima/alaägedat valusündroomi. Korallkivid on enamasti infektsioon-kivid (Mg-ammoonium-fosfaat). Kliiniline tähtsus tuleneb eelkõige kroonilise neerukahjustuse riskist.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bcf22d33c427",
+      "section": "uroloogia",
+      "question": "Kuidas diagnoosida uriini retensiooni?",
+      "choices": {
+        "a": "kateteriseerimisega",
+        "b": "palpatsiooniga",
+        "c": "kõik õiged",
+        "d": "UH"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "28c571034aaa",
+      "section": "uroloogia",
+      "question": "Prostatiit e eesnäärme põletik - ravi:",
+      "choices": {
+        "1": "Bakteriaalne prostatiit",
+        "2": "Medikamentoosne ravi:",
+        "3": "Mida inimene ise teha saab"
+      },
+      "answer": "1. AB\n2. NSAID, α-blokaatorid, finasteriid, lihasrelaksandid, antidepressandid\n3. Massaaž, soojusteraapia, istevannid, reg. suguelu",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e07fcd84c31a",
+      "section": "uroloogia",
+      "question": "Uriinipidamatus, mille ravi on kateeter",
+      "choices": {
+        "a": "ülevooluinkontinents",
+        "b": "stressinkontinents",
+        "c": "tunginkontinents",
+        "d": "krooniline neurogeenne põis"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "402714433856",
+      "section": "uroloogia",
+      "question": "Üliaktiivse põie ravi, kui kaasuvana BPH",
+      "choices": {
+        "a": "a1-blokaator + b3-agonist",
+        "b": "M-kolinomimeetikum",
+        "c": "a1-adrenoblokaator"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "24345726cb84",
+      "section": "uroloogia",
+      "question": "Milline PSA on kõige kõrgema vähiriskiga",
+      "choices": {
+        "a": "kõrge PSA ja kõrge vaba %",
+        "b": "kõrge PSA ja madal vaba %",
+        "c": "madal PSA ja kõrge vaba %",
+        "d": "madal PSA ja madal vaba %)"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bd8d915181c4",
+      "section": "uroloogia",
+      "question": "Mis eristab ägedat ja kron retentsiooni?",
+      "choices": {
+        "a": "kaasnev hüdronefroos",
+        "b": "neerupuudulikkus",
+        "c": "valu",
+        "d": "põie mah"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ac9fa02f82e8",
+      "section": "uroloogia",
+      "question": "Põievähi ravis on kasutatavad kõik, v.a.",
+      "choices": {
+        "a": "kiiritusravi",
+        "b": "hormoonravi",
+        "c": "keemiaravi",
+        "d": "immuunteraapia"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "33bed0ede060",
+      "section": "uroloogia",
+      "question": "Raske uriini retensioon võib põhjustada:",
+      "choices": {
+        "a": "stress-inkontinentsi",
+        "b": "ülevoolu inkontinentsi",
+        "c": "tung-inkontinentsi",
+        "d": "ei põhjusta ühtegi neist"
+      },
+      "answer": "b?",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9afc4451a586",
+      "section": "uroloogia",
+      "question": "Eesnäärme vähi metastaatilise vormi ravi",
+      "choices": {
+        "a": "I etapp",
+        "b": "II etapp",
+        "c": "III etapp"
+      },
+      "answer": "a. I etapp (kastratsioontundlik):\n- Keemiline/kirurgiline kastratsioon (surume testosterooni alla) +/- antiandrogeenid (MAB)\n- Üksikute metastaaside stereotaktiline kiiritus\n- Keemiaravi\n\nb. II etapp (kastratsioon-resistentne): antiandrogeenid: Docetaxel + prednisolone (kemoteraapia + steroid)\n\nc. III etapp (docetaxel-resistentne): Cabazitaxel + Abiraterone (kemoteraapia + steroid), uuemad",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3213feed255f",
+      "section": "uroloogia",
+      "question": "Ortotroopse organsiirdamise näidiseks on:",
+      "choices": {
+        "a": "maksa siirdamine",
+        "b": "pankrease siirdamine",
+        "c": "neerusiirdamine",
+        "d": "kõik eelnevad - vale"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1,
+      "answer_source": "ai",
+      "explanation": "Ortotoopne = elund siirdatakse oma loomulikku anatoomilisse asukohta. Maksasiirdamine on ortotoopne (haige maks eemaldatakse, doonormaks samale kohale). Neeru- ja pankreasesiirdamine on heterotoopsed (nt niudeluukoopasse)."
+    },
+    {
+      "id": "483a4fdcfd57",
+      "section": "uroloogia",
+      "question": "Lokaalse eesnäärmevähi ravitaktika sõltub",
+      "choices": {
+        "a": "riskigrupist",
+        "b": "riskigrupist ja vanusest",
+        "c": "vanusest",
+        "d": "eesnäärme suurusest"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2604429ee954",
+      "section": "uroloogia",
+      "question": "Carcinoma in situ põievähi kohta on õige:",
+      "choices": {
+        "a": "diagnoosimine kerge (visuaalselt selgelt nähtav), madal maliigsuserisk",
+        "b": "diagnoosimine kerge, kõrge maliigsusrisk",
+        "c": "diagnoosimine raske, kõrge maliigsusrisk",
+        "d": "diagnoosimine raske (visuaalselt halvasti eristatav), madal maliigsuserisk"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1be6d0d6bd6e",
+      "section": "uroloogia",
+      "question": "Infektsioon-kivid tekivad kui uriini pH on",
+      "choices": {
+        "a": "teke ei sõltu pH-st",
+        "b": "neutraalne",
+        "c": "happeline",
+        "d": "aluseline"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "43fafbcc913e",
+      "section": "uroloogia",
+      "question": "Milline väide on õige eesnäärmevähi kohta?",
+      "choices": {
+        "a": "Eesnäärmevähil on perekondlik eelsoodumus",
+        "b": "PSA väärtus üle 4 tähendab väga kõrget vähi rsiki ja on näidustus biopsiaks",
+        "c": "PSA on eesnäärmevähi-spetsf glükoproteiin mida toodavad vähi epiteelirakud",
+        "d": "5-alfa-reduktaasi inhib vähendavad PSA taset 25% pikaajalisel ravil"
+      },
+      "answer": "a\nPSA-d toodavad ka healoomulised eesnäärme rakud. 5- alfa- reduktaasi inhibiitorid vähendavad pikaajalise raviga PSA väärtust ligikaudu poole võrra. PSA väärtus on individuaalne sõltudes vanuses, prostata suurusest, põlitekest jt teguritest, mistõttu ühest tõenduspõhist piiri biopsia tegemiseks ei saa välja tuua. Seos PSA taseme ja eesnäärme vähi riski vahel ei ole astmeline vaid lineaarne.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "65817961d8f8",
+      "section": "uroloogia",
+      "question": "Kehaväline lööklainega kivipurustus (ESWL)",
+      "choices": {
+        "a": "kui suured kivid ja kus",
+        "b": "milline on protseduur, kas saab korrata",
+        "c": "vastunäidustused",
+        "d": "Tüsistused"
+      },
+      "answer": "a. Kuni 2cm kividele neerus/ureeteris\nb. Ambulatoorne, minimaalinvasiivne. Vajadusel korduvalt\nc. Vastunäidustused: rasedus, hüübimishäired, kuseteede inf., obstr. kuseteedes, ravimata hüpertoonia\nd. Tüsistused: valu, veritsus, infektsioon, ureeteri obstruktsioon, \"kivitee\"/steinstrasse",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e83d97ec0e3d",
+      "section": "uroloogia",
+      "question": "Milline ei vaja erakorralist käsitlust EMOs",
+      "choices": {
+        "a": "varikotseele",
+        "b": "hüdrotseele",
+        "c": "tsüstotseele",
+        "d": "ükski ei vaja erakorralist käsitlust"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fda4d3060d68",
+      "section": "uroloogia",
+      "question": "Millal opereeritakse omandatud krüptorhismi",
+      "choices": {
+        "a": "mitte kunagi",
+        "b": "peale 5. a.",
+        "c": "tavaliselt 6-12 kuud pärast sündi",
+        "d": "kohe peale sündi"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7580fa890aeb",
+      "section": "uroloogia",
+      "question": "Eesnäärme adenoom avaldub enam millises eas",
+      "choices": {
+        "a": "70+",
+        "b": "alla 30a",
+        "c": "50-70a",
+        "d": "30-50a"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "dea02eef3760",
+      "section": "uroloogia",
+      "question": "Pankrease pseudotsüsti dünaamiline järgimine",
+      "choices": {
+        "a": "UH",
+        "b": "KT",
+        "c": "Rö",
+        "d": "MRT"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "399329eba958",
+      "section": "uroloogia",
+      "question": "Milline haigus ei tekita uriini retensiooni?",
+      "choices": {
+        "a": "priapism",
+        "b": "fimoos",
+        "c": "ureetra striktuur",
+        "d": "eesnäärme vähk"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "be7a860578eb",
+      "section": "uroloogia",
+      "question": "Uroloogi erakorralist konsultatsiooni ei vaja",
+      "choices": {
+        "a": "südameaspiriinitarvitaja ühekordse hematuuriaga",
+        "b": "neerukoolik täielikult kupeeritud EMOs",
+        "c": "60 a mehel juhuleiuna põie jääkuriin 90 ml",
+        "d": "kõik vajavad erakorralist uroloogi)"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "30a724002e3b",
+      "section": "uroloogia",
+      "question": "Uriinijoa tugevuse mõõtmise kohta mis on vale",
+      "choices": {
+        "a": "eesnäärme healoomulise hüperplaasia diagnoosimisel kasutusel",
+        "b": "subvesikaalse kusepeetuse diagnoosimise standardmeetod",
+        "c": "uriinipidamatuse diagnoosimisel kasutusel"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "67d22fc39f23",
+      "section": "uroloogia",
+      "question": "Neerukoolika ravi kohta on õige milline väide",
+      "choices": {
+        "a": "NSAID-d on eelistatavad ravimid, opiaate tuleks vältida",
+        "b": "NSAID ja opiaate ei ole soovitav kombineerida",
+        "c": "soovitada tuleks väga palju juua ja diureesi tugevalt suurendada",
+        "d": "enamik kuni 5mm kive väljub spontaanselt"
+      },
+      "answer": "d\nNeerukoolika ravis sobivad NSAIDid ja opiaadid, vajadusel kombinatsioonis, prioriteediks on valu kupeerimine igal juhul. Füsioloogilisest suuremas mahus hüdreerimine lisaefekti ei anna.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "46828967c1e6",
+      "section": "uroloogia",
+      "question": "Informeeritud nõusolek doonorluseks tähendab:",
+      "choices": {
+        "a": "kõik on õiged",
+        "b": "peame esmasena välja selgitama sugulaste tahe",
+        "c": "peame esmasena välja selgitama doonori tahe",
+        "d": "peame informeerima sugulasi doonorlusest, nõusolekut vaja ei ole"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ad31dc1a7968",
+      "section": "uroloogia",
+      "question": "PSA analüüsi kasutatakse eesnäärme vähi puhul",
+      "choices": {
+        "a": "ravi efektiivsuse hindamiseks",
+        "b": "haiguse ulatuse määramiseks",
+        "c": "kõik",
+        "d": "varajaseks diagnoosimiseks"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "dfd8def0548e",
+      "section": "uroloogia",
+      "question": "Infiltratiivne (lihasinvasiivne) kusepõievähk",
+      "choices": {
+        "a": "Diagnostika:",
+        "b": "Ravi:"
+      },
+      "answer": "a. KT/MRT: kliinilise staadiumi määramine\nb. Ravi\nRadikaalne tsüstektoomia koos uriiniderivatsiooniga - valikmeetod\nLümfadenektoomia\n(Neo)adjuvantne kemo- ja/või radioteraapia\nPalliatiivne kiiritusravi +/- keemiaravi",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d9de8fc93fcc",
+      "section": "uroloogia",
+      "question": "Milline järgnev väide on õige neeruvähi kohta?",
+      "choices": {
+        "a": "Tuumornefrektoomia eeldab maliigse kasvaja histoloogilist tõestust",
+        "b": "Onkotsütoom on beniigne tuumor",
+        "c": "Tüüpiline neeruvähk on histoloogiliselt uroteliaalne kartsinoom"
+      },
+      "answer": "b\nKT uuring on kõrge spetsiifilisusega maliigsuse suhtes, mistõttu tüüpilise KT leiu korral biopsiat tegema ei pea ravitaktika valikuks. Tüüpiline neeruvähk on adenokartsinoomi alatüüp mida nimetatakse neerurakuliseks vähiks. Onkotsütoom on beniigse kuluga epiteliaalne neerukasvaja tüüp, ~5% kõikidest neerutuumoritest. Neeruvähk metastaseerub kõige sagedamini kopsudesse.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "34cb23294aaa",
+      "section": "uroloogia",
+      "question": "Lokaalse neeruvähi kõige õigem ravitaktika on:",
+      "choices": {
+        "a": "kirurgiline ravi, võimalusel organit säästev",
+        "b": "kiiritusravi",
+        "c": "aktiivne jälgimine kui oodatav elulemus on alla 10 aasta",
+        "d": "tuumornefrektoomia"
+      },
+      "answer": "a\nNeeruvähk pole kiiritusele tundlik. Valikravi on kirurgiline eemaldamine. Kui see on tehniliselt võimalik (asukoht ja suurus) siis ei ole kasvaja resektsioon ülejäänud neeru säilitades onkoloogiliselt halvem kui tuumornefrektoomia, tagades parema neeru ning KV funktsiooni. Aktiivselt jägida vajadusel kõrges eas ja riskidega patsientidel väiksemõõtmelise juhuleiuna avastatud kasvaja korral, kuid pole siiski valiktaktika.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d1b070fb1d81",
+      "section": "uroloogia",
+      "question": "Makrohematuuria käsitluse kohta on õige väide?",
+      "choices": {
+        "a": "vajab alati erakorralist käsitlusta.",
+        "b": "kui CT uuringus leitakse põhjus - neeruvaagna tuumor, ss tsüstoskoopia vajalik ei ole",
+        "c": "parim meetod ülemiste kuseteede kasvaja kontrollimiseks on trifaasiline KT uuring",
+        "d": "kõik õiged"
+      },
+      "answer": "c\nMakrohematuuria ei vaja enamasti hospitaliseerimist kui ei esine verekaotusnähte või urineerimishäiret. Tsütoskoopia on vajalik ka ülemiste kuseteede uroteliaalse tuumori korral et välistada simultaanset kollet põies. Hilis (urograafia) faasiga kontrast KT annab parima ülevaate ülemiste kuseteede anatoomiast.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b99fdefe73ed",
+      "section": "uroloogia",
+      "question": "Ebastab põie sündroomi (OAB) põhiline kaebus on",
+      "choices": {
+        "a": "sage urineerimine",
+        "b": "uriini pidamatus",
+        "c": "ootamatu äkiline vajadus urineerida",
+        "d": "sage öine urineerimine"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d0ea34eeebf0",
+      "section": "uroloogia",
+      "question": "KT urografia põhiline esmärk põievähi korral on",
+      "choices": {
+        "a": "avastada ülemistes kuseteedes uroteliaalse kasvaja koldeid",
+        "b": "kinnitada põievähi olemasolu",
+        "c": "diagnoosida hüdronefroosi",
+        "d": "hinnata T staadiumi - seina infiltratsiooni ulatust"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "00aa420f6141",
+      "section": "uroloogia",
+      "question": "Millisel juhul ei ole tsüstektoomia näidustatud",
+      "choices": {
+        "a": "T1 G3 vähk",
+        "b": "sissekasv eesnäärmesse T4 st",
+        "c": "T3 staadium (perivesikaalse rasvkoe haaratus)",
+        "d": "T2 M1 st, kuid ainult 2 väikest tehniliselt eemaldatavat kopsumetastaasi"
+      },
+      "answer": "d\nMetastaatiline põievähk on alati süsteemne haigus ja seetõttu radikaalne algkolde eemaldamine prognoosi ei paranda. Ülejäänud juhud on tsüstektoomia näidustuseks",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e5aeee4f6b0d",
+      "section": "uroloogia",
+      "question": "Milline järgnevatest ei ole põievähi riskitegur?",
+      "choices": {
+        "a": "suitsetamine",
+        "b": "eelnev kiiritus vaagnapiirkonda",
+        "c": "kõik on riskitegurid",
+        "d": "naissugu"
+      },
+      "answer": "d",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "69aa30a3d804",
+      "section": "uroloogia",
+      "question": "Pankrease pseudotsüst - mis piltdiagnostika teed?",
+      "choices": {
+        "a": "UH",
+        "b": "KT k.a",
+        "c": "Rö",
+        "d": "MRT",
+        "e": "KT"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e7129d0222af",
+      "section": "uroloogia",
+      "question": "Milline väide on õige kivi taastekke riski kohta?",
+      "choices": {
+        "a": "kui kivi täielikult eemaldada siis inimese risk tulevikus kõrgem ei ole",
+        "b": "malabsorptsioonisündroomi korral on kivi risk madalamd, kuna Ca ei imendu",
+        "c": "kivitõve tekkes on leitud pärilik eelsoodumus",
+        "d": "kivi tekke metaboolne häire mida ei saa dieediga mõjutada"
+      },
+      "answer": "c\nKivitõve riski on võimalik dieediga mõjutada. Geneetiliste tegurite rolli on tõestatud hüperkaltsiuuria, primaarse hüperoksaluuria ning uraatkivife tekkes. Malabsorptsioonisündroomi korral oksalaatide imendumine sooles kasvab põhjustades hüperoksaluuriat ja Ca-oksalaatkive.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8e36b4b92aa1",
+      "section": "uroloogia",
+      "question": "Kahtlustad pt-l hüdronefroosi, mis uuringu valid?",
+      "choices": {
+        "a": "MRT neerudest",
+        "b": "Natiiv CT neerud+põis",
+        "c": "UH neerudest",
+        "d": "Obj uuring: palpatsioonil valulik neerulooz, pos paternatski"
+      },
+      "answer": "c\nObjektiivne seis aitab lokaliseerida haigusprotsessi. UH on laialt kättesaadab, mitteinvasiivne, odav, kiire skriininguuring, mis näitab ära kuseteede laienemise. MRT on aeganõudev ja pole kättesaadav erakorraliselt. Natiiv KT sobib kivi diagnostikaks, näitab ka väljendunud kuseteede dilatatsiooni, mispuhul sobib neerukoolika korral.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0bf8ffabea5f",
+      "section": "uroloogia",
+      "question": "Inkontinentsi raskusastme määramiseks on sobivaim:",
+      "choices": {
+        "a": "kasutatud mähkemete kaalumine",
+        "b": "kusemispäeviku järgi kasutatud mähkmete arv",
+        "c": "kusemispäeviku järgi kasutatud mähkemet arv ja kasutatud mähkmete kaalumine",
+        "d": "anamnees - patsiendi hinnang oma seisundi raskusele"
+      },
+      "answer": "c\nUriini lekke raskusastet näitab objektiivne ülevaatus täis põiega, patsiendi poolt kasutatav pesukaitsmete hulk ja võimalusel kaalumine, kuid korreleerub nõrgalt patsiendi subjektiivse hinnanguga oma olukorrale",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b47f4136721d",
+      "section": "uroloogia",
+      "question": "Hospitaliseerimise näidustus kivitõve korral ei ole",
+      "choices": {
+        "a": "ureeteri kivi stentimise järgselt jälgimiseks 24h",
+        "b": "palavik",
+        "c": "valu ei allu suukaudsele valuvaigistitele",
+        "d": "anuuria"
+      },
+      "answer": "a\nUreeteri stentimine on lokaalanesteesias päevakirurgiliselt/ambulatoorselt teostatav minimaalinvasiivne protseduur, mis reeglina hospitaliseerimist ei vaja. Kõrge palavik, anuuria koos neerupuudulikkusega, ravile allumatu valusündroom viitavad tüsistunud kulule ja vajavad enamasti erakorralist uroloogilist käsitlust ning dreneerimist.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d1dddfa6312c",
+      "section": "uroloogia",
+      "question": "Milline väide on vale põie carcinoma in situ kohta?",
+      "choices": {
+        "a": "allub BCG ravile",
+        "b": "nõuab kusepõie eemaldamist kiiremas korras",
+        "c": "progresseerub harva",
+        "d": "põhjustab enamikel patsientidel ärritussümptomeid"
+      },
+      "answer": "d\nCarcinoma in situ on põievähi korral unikaalne kasvaja tüüp olles ühelt poolt mitte lihasinvasiivne, kuid samas rakuliselt madalalt diferentseerunud. Kliiniliselt avaldub sagedamini hematuuria ja veritseva tsüstiidi laadsete kaebustega. CIS suhteliselt halb prognoos on seotud kõrge retsidiivide ja progressiooni riskiga. Ravi põhineb eelkõige intravesikaalsel BCG ravil aga üheks võimaluseks on tsüstektoomia.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "117a28f7240d",
+      "section": "uroloogia",
+      "question": "Ca-kivide vältimiseks on õiged kõik soovitused, va:",
+      "choices": {
+        "a": "tarbi piisavalt Ca",
+        "b": "piira oksalaatide tarbimist",
+        "c": "piira loomseid valke",
+        "d": "NaCl tarbimine ei mõjuta kivitekke riski"
+      },
+      "answer": "d\nSoola tarbimist soovitatakse piirata kivitõve korral, kuna liigne NaCl tarbimine tõstab Ca eritumist uriiniga (hüperkaltsiuuria) ja sellega Ca-kivide tekke riski. Ca normaalset tarbimist oluliselt piirama ei pea, sest see ei langeta Ca - kivide tekke riski. Ainult hüperkaltsiuuria korral on kaltsiumi vähendamine toidus mõningast efekti andnud. Oksalaatide piiramine on toiduga keeruline ja selle mõju on väike aga seda võib soovitada.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ba008ad6d313",
+      "section": "uroloogia",
+      "question": "Kuidas kahtluse korral eristada kahte priapismi vormi",
+      "choices": {
+        "a": "objektiivse leiu ja anamneesi alusel",
+        "b": "doppler UH peenisest",
+        "c": "kõik õiged",
+        "d": "astrupi analüüs korgaskehast punkteeritud verest"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "18342ff812f4",
+      "section": "uroloogia",
+      "question": "Millisel juhul on näidustatud eesnäärme adenoomi ravi?",
+      "choices": {
+        "a": "tervisekontrollis avastatud suurenenud eesnääre - maht 50ml",
+        "b": "IPSS 20p, PSA normis",
+        "c": "kõik on näidustused raviks",
+        "d": "pt urineerib 2x öösel, mis ei häiri öö und"
+      },
+      "answer": "b\nEesnäärme hüperplaasia ravi on näidustatud (1 ) väljendunud sümptomite korral, mis häirivad igapäevaelu, samuti (2) obstruktsioonitunnuste (nt jääkuriin) korral. Ainult eesnäärme mõõtmete suurenemine ei vaja üldiselt ravi.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "baeff984e14e",
+      "section": "uroloogia",
+      "question": "Riskifaktorid uriini retensiooni tekkeks on kõik, v.a.",
+      "choices": {
+        "a": "vanus",
+        "b": "uriinijoa nõrkus",
+        "c": "sage, eriti öine urineerimine",
+        "d": "eesnäärme maht"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "453894d07b0f",
+      "section": "uroloogia",
+      "question": "Uraatkivide riskiteguriteks on jägnevad, väljaarvatud:",
+      "choices": {
+        "a": "podagra",
+        "b": "rasvumine",
+        "c": "pidevalt aluseline uriini pH",
+        "d": "metaboolne sündroom"
+      },
+      "answer": "c\nUraatkivide riski tõstab pH langus ehk pidevalt happeline uriinö",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c75ec1741114",
+      "section": "uroloogia",
+      "question": "Ebastabiilse põe sündroomi kohta on õige milline väide",
+      "choices": {
+        "a": "vanematel meestel on OAB alati eesnäärme adenoomist tingitud",
+        "b": "ebastabiilse põie sündroom on praktiliselt ainult naistel esinev seisund",
+        "c": "Parkinson tõbi võib tekitada ebastabiilse põie sündroomi",
+        "d": "90%-l ebastabiilse põie sündroomiga pt-l esineb uriinileket"
+      },
+      "answer": "c\nOsa OAB on seotud neuroloogilise patoloogiaga, nt Parkinsonism. Uriini leke kaasneb raskematel juhtudel suhteliselt harva",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "01e31c3e279a",
+      "section": "uroloogia",
+      "question": "Millisest prostata tsoonist saab tavaliselt alguse BPH?",
+      "choices": {
+        "a": "transitoorne",
+        "b": "eesmine",
+        "c": "perifeerne"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "eaa4fbfd9b00",
+      "section": "uroloogia",
+      "question": "Mis järgmistest mikroobidest on oportunistlik tekitaja:",
+      "choices": {
+        "a": "polüomaviirus",
+        "b": "Pneumocystis jirovecii",
+        "c": "Mycobacterius tuberculosis",
+        "d": "kõik on oportunistlikud"
+      },
+      "answer": "d\nKõige sagedasem opportunist on CMV kuid ka kõik loetletud viitavad langenud immuunsusele.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f8cd4ebbd3ce",
+      "section": "uroloogia",
+      "question": "Tamsulosiin ja mis variantidest ei ole uuringute tulemus",
+      "choices": {
+        "a": "suurendab uriinijoa tugevust (takistus ↓ ⇒ vool paraneb)",
+        "b": "vähendab prostata mahtu",
+        "c": "parandab elukvaliteeti, vähendab kusemiskaebusi"
+      },
+      "answer": "b\n- Tamsulosiin = a1-adrenoblokaator (toime lihastele, mitte mahule)",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fed223a738f8",
+      "section": "uroloogia",
+      "question": "Stressinkontinentsi põhjus meestel on kõige sagedasemini",
+      "choices": {
+        "a": "vaagnapõhja ligaste nõrkus ja prolaps",
+        "b": "iatrogeenne",
+        "c": "kõrge vanus",
+        "d": "ravimid"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5762d04fb9ee",
+      "section": "uroloogia",
+      "question": "Millist lõikust ei kasutata eesnäärme adenoomiga meestel",
+      "choices": {
+        "a": "radikaalne prostatektoomia",
+        "b": "TURP",
+        "c": "TUIP",
+        "d": "lahtine või laparoskoopiline adenomektoomia"
+      },
+      "answer": "d\nRadikaalne prostatektoomia on eesnäärme vähis kasutatav meetod, kui eemaldakse kogu eesnääre koos seemnepõiekestega. TURP ehk transuretraalne eesnäärme resektsioon on kasutatav kuni ca 100 ml eesnäärme korral. TUIP ehk transuretraalne eesnäärme intsisioon - väikesemahulise eesnäärme korral piisab seemisest lõikusest kuni kapslini. Suuremahulisuse korral eemaldatakse adenoomi kude transkapsulaarselt või transvesikaalselt.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "da3b46e19ded",
+      "section": "uroloogia",
+      "question": "Adjuvantne hormoonravi on näidustatud kõrge riski grupis",
+      "choices": {
+        "a": "Lisaks kiirutsravile",
+        "b": "lisaks radikaalsele prostetktoomiale ja kiiritusravile",
+        "c": "lisaks radikaalsele protektoomiale",
+        "d": "radikaalse lokaalse ravi korral adjuvant hormoonravi ei tehta"
+      },
+      "answer": "a\nAdjuvantne kastratsioonravi peale kiiritusravi parandab patsiendi prognoosi keskmise ja kõrge riski grupis. Adjuvantne kastratsioonravi ei ole rutiinselt näidustatud peale radikaalset prostatektoomiat, kuid kombineeritud ravi parandab prognoosi positiivsete lümfisõlmede korral.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2c9cffb000fa",
+      "section": "uroloogia",
+      "question": "Eesnäärme adenoom meestel põhjustab milliseid sümptoome?",
+      "choices": {
+        "a": "kulg on tavaliselt asümptomaatiline kuni mõne tüsistuseni",
+        "b": "nii takistusega seotuid - kui ärritustüüpi kaebuseid",
+        "c": "urineerimistakistusega seotud",
+        "d": "ärritustüüpi nähud"
+      },
+      "answer": "b?",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4ea5ff4cae97",
+      "section": "uroloogia",
+      "question": "Metastaatilise eesnäärme vähi korral on õige milline väide",
+      "choices": {
+        "a": "kõik metastasid tuleks kirurgiliselt eemaldada kul see on tehniliselt võimalik",
+        "b": "hormoonravi võimaldab osadel patsientidel metastaasidest terveneda",
+        "c": "keemiaravi ei kasutata eesnäärme vähi korral vähese efektiivsuse tõttu",
+        "d": "kirurgiline kastratsioon ei ole efektiivsem kui keemiline kastratsioon"
+      },
+      "answer": "d\nMetastaaside kirurgiline eemaldamine pt prognoosi ei paranda, kuigi kiiritusravi võib teha teatud juhtudel oligometastaatilise haiguse korral koos algkolde kiiritusega. Hormoonravi on palliatiivne mitte sümptomaatiline. Keemiline ja kirurgiline kastratsioon on onkoloogiliselt võrdse efektiivsusega. Kombineeritud süsteemravi parandab patsiendi elulemust võrreldes kastratsiooniraviga üksi kõrge riski eesnäärme vähi grupis.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d15a6404fe77",
+      "section": "uroloogia",
+      "question": "Elusdoonorina neeru loovutamiseks ei sobi isik, kellel on:",
+      "choices": {
+        "a": "mikrohematuuria",
+        "b": "vaimne alaareng",
+        "c": "arterite anomaalia (kaks arteris)",
+        "d": "hüpertoonia"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "27a6129af5bd",
+      "section": "uroloogia",
+      "question": "Mis on kõige sagedasem obstruktiivse püelonefriidi tekitaja",
+      "choices": {
+        "a": "e.coli",
+        "b": "klebsiella",
+        "c": "pseudomonas",
+        "d": "proteus"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d7caeced0e9c",
+      "section": "uroloogia",
+      "question": "Eesnäärme healoomuline hüperplaasia - ravi: operatiivne ravi:",
+      "choices": {
+        "a": "näidustused",
+        "b": "kuldstandard",
+        "c": "teine variant, millal"
+      },
+      "answer": "a. medikamentoosne ravi efektita, tüsistunud kulg (retensioon, pais neerus, põiekivi, korduvad UTI, põie dekompens., hematuuriad)\n\nb. Eesnäärme transuretaalne resekstioon (TURP) - kuldstandard\n- Eesnääre, põie sisemine sulgurlihas \"hööveldatakse\" ära (pidamine jääb välimise (tahtele alluv) sulgurlih.)\n\nc. Lahtine/laparoskoopiline adenomektoomia (suurte (>100 ml) eesnäärmete korral).",
+      "type": "mc",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "dad9e53af67a",
+      "section": "uroloogia",
+      "question": "Tamsulosiini on mõistlik proovida miliste kivide väljutamiseks",
+      "choices": {
+        "a": "5-10mm kivide korral",
+        "b": "kuni 5mm kividel",
+        "c": "kuni 10mm kividel"
+      },
+      "answer": "a\nKuni 5 mm kivid tulevad tavaliselt ise välja, kuigi pole keelatud medikamendi kasutamine. Suurte kuni 10 mm kivide korral on spontaanne väljumise tõenäosus väike ka spasmolüütilise ravi lisandumisega.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8f85a4d385ca",
+      "section": "uroloogia",
+      "question": "Milline neist ei ole obstruktiivse püelonefriidi raviprioriteet?",
+      "choices": {
+        "a": "takistuse põhjuse eemaldamine",
+        "b": "obstruktsiooni dreneerimine",
+        "c": "AB ravi",
+        "d": "üldseisundi toetamine"
+      },
+      "answer": "a\nObstruktsioon tuleb dreneerida kuid ägeda infektsiooni tingimustes on põhjuse likvideerimine , nt kivi eemaldamine väga kõrge tüsistuste riskiga.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8a007e087b7b",
+      "section": "uroloogia",
+      "question": "Milline neist kasvajatest ei ole omane vastavale lokalisatsioonile",
+      "choices": {
+        "a": "eesnäärme adenokartsinoom",
+        "b": "põie transitoorrakuline vähk",
+        "c": "neeru adenokartsioom",
+        "d": "munandi sarkoom"
+      },
+      "answer": "d\n- munandis sagedaseim seminoom",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5a4a736695b4",
+      "section": "uroloogia",
+      "question": "Milline väide on vale obstruktiivse püelonefriidi käsitluse kohta?",
+      "choices": {
+        "a": "kliiniliselt ei ole enamasti eristatav tavalisest püelonefriidist",
+        "b": "Kui AB ravi 3 päevaga ei toimi, tuleb kaaluda dreneerimist",
+        "c": "võib vajada intensiivravi",
+        "d": "vajab reeglina hospitaliseerimist"
+      },
+      "answer": "b\nObstruktiivne püelonefriit vajab lisaks antibakteriaalsele ravile paranemiseks ka neeruvaagna dreneerimist. Seda ei pea tegema vältimatult kohe (nt öösel) kuid on soovitav siiski esimesel võimalusel tööpäeva jooksul. Kuna kulg võib olla raskem siis osad patsiendid vajavad üldseisundit toetavat ravi haiglas või üksikutel juhtudel intensiivravi. Ainult kliinilise leiu järgi ilma piltdiagnostikata on raske eristada obstruktiivset ja mitteobstruktiivset püelonefriiti.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7be36e515a99",
+      "section": "uroloogia",
+      "question": "Milline on metastaatilise eesnäärmevähi kõige tüüpilisem avaldumine?",
+      "choices": {
+        "a": "hematuuria",
+        "b": "luuvalud jt skeletipoolsed sümptoomid",
+        "c": "kõhukinnisus",
+        "d": "urineerimistakistus"
+      },
+      "answer": "b\nKaugelearenenud prostata vähk võib avalduda kõikide loetletud sümptoomide kaudu, kuid kõige tüüpilisemad on metastaasid luudes, mis avalduvad luuvalude, patoloogiliste murdude jms näol.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4b2419f1e492",
+      "section": "uroloogia",
+      "question": "Mikrohematuuria spetsiifilisus põievähi esinemise suhtes on ligikaudu",
+      "choices": {
+        "a": "50%",
+        "b": "1%",
+        "c": "10%",
+        "d": "25%"
+      },
+      "answer": "b",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d7e0765b8740",
+      "section": "uroloogia",
+      "question": "Milline väide ei ole siirdamise (ägeda äratõukereaktsiooni) kohta õige?",
+      "choices": {
+        "a": "humoraalne äge äratõuge on parema prognoosiga kui rakuline",
+        "b": "esmavaliku raviks suurtes doosides glükokortikoide",
+        "c": "tekib halva ravisoostumise tõttu",
+        "d": "alguses asümptomaatiline"
+      },
+      "answer": "a",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e2da73748041",
+      "section": "uroloogia",
+      "question": "Kivitõve diagnostikas kasutatavad uuringumeetodid, õige on milline väide?",
+      "choices": {
+        "a": "ilma kontrastita KT hüdronefroosi diagnoosimiseks ei sobi",
+        "b": "kontrasti lisamine KT-s langetab sensitiivsust kivi suhtes teatud juhtudel",
+        "c": "UH on hea tundlikkusega kuid madala spetsiifilisusega",
+        "d": "kontrasti lisamine KT uuringus tõstab uuringu sensitiivsust kuid ka kiirgus-doosi"
+      },
+      "answer": "b\nUH tundlikkus neerukivi diagnostikas on madalam kui natiiv KT-l, eriti suur on erinevus ureeteri kovide korral. Kontrasti lisamine kivi avastamise suhtes sensitiivsust ei tõsta, kontrast võib hilisfaasis isegi kivi olemasolu varjata (nt väikesed suhteliselt madala tigedusega kivid)",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1750854dd601",
+      "section": "uroloogia",
+      "question": "Millisel juhul ei ole vaja hospitaliseerida uriini retensiooniga patsienti?",
+      "choices": {
+        "a": "äge neerupuudulikkus",
+        "b": "krooniline retensioon (ülevoolu põis)",
+        "c": "kaasnev tugev hematuuria",
+        "d": "raske kuseteede infektsioon"
+      },
+      "answer": "b\nÄge ja krooniline retensioon vajavad mõlemad põie dreneerimist, kuid statsionaarset ravi ei vaja kui ei esine muid tüsistusi. Äge neerupuudulikkus võib vajada dialüüsi ja elektrolüütide monitooringut. Raske infektsioon parenteraalset antibakteriaalsset ravi ja tugev hematuuria põiest hüüvete väljaloputamist ja Hgb jälgimist.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f98bca10e45d",
+      "section": "uroloogia",
+      "question": "Lokaalse eenäärmevähi radikaalne ravi on näidustatud kui pt oodatav elulemus",
+      "choices": {
+        "a": "on üle 15a",
+        "b": "on üle 5a",
+        "c": "ravi otsus ei sõltu pt vanusest vaid vähi agressiivsusest",
+        "d": "on üle 10a"
+      },
+      "answer": "d\nKõrge riski agressiivse kasvaja korral võib radikaalset ravi kaaluda ka lühema elulemuse korral alternatiivina süsteemravile",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8a2cf4e7de16",
+      "section": "uroloogia",
+      "question": "Järgnevatest väidetest neerusiiriku ägeda äratõuke kohta on õiged kõik, v.a:",
+      "choices": {
+        "a": "äratõuke esmane ravi on suures doosis glükokortikoidid",
+        "b": "äratõuge diagnoositakse ureemia tekke tõttu",
+        "c": "humoraalne äratõuge on halvema prognoosiga ja raskemini ravitav kui tsellulaarne",
+        "d": "hilise äratõuke sagedaseim põhjus on raviskeemi mittejälgimine"
+      },
+      "answer": "b\nÄratõuge avaldub esmasena neerufunktsiooni langusena, kuid regulaarse järelkontrolli korral ei jõua ureemia ehk terminaalne neerupuudulikkus enamasti tekkida",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7ee62553a404",
+      "section": "uroloogia",
+      "question": "Kui PSA väärtus langeb nn halli tsooni siis võetakse arvesse maliigsusriski hindamisel:",
+      "choices": {
+        "a": "eesnäärme mahtu",
+        "b": "PSA dünaamikat ajas",
+        "c": "kõiki nimetatuid",
+        "d": "vaba PSA prtosent"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "108e21373525",
+      "section": "uroloogia",
+      "question": "Keemiliseks kastratsiooniks ei kasutata millist ravimklassi madalama efektiivsuse tõttu",
+      "choices": {
+        "a": "kõik on võrdselt efektiivsed",
+        "b": "LHRH analoog",
+        "c": "antiandrogeenid",
+        "d": "LHRH antagonist"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "978f328661d6",
+      "section": "uroloogia",
+      "question": "60a mees, kellel on suurenenud eesnääre ja OAB kaebused juhtivalt. Esmane ravi on milline?",
+      "choices": {
+        "a": "botox süstid detruusorisse",
+        "b": "m-kolinoblokaator",
+        "c": "alfa-adrenoblokker",
+        "d": "5-alfa-reduktaasi inhibiitor"
+      },
+      "answer": "c\nEsmane ravi vanemaealisel mehel peaks olema alfa-blok ebastabiilsele põie sündroomile viitavad kaebused on sagelisekundaarsed healoomulisele prostata suurenemisele. M- kolinoblokaatorid jt OAB ravimid on näidustatud lisaks üksikutel raviresistentsetel juhtudel kui on välistatud obstruktsioon. 5- alfa- reduktaasi inhibiitorite toime saabub väga aeglaselt.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a8b9280217d5",
+      "section": "uroloogia",
+      "question": "Pt-l on hematuuria suurte hüüvetega, mis takistavad urineerimist, milline väide ei ole õige",
+      "choices": {
+        "a": "kasutada tuleks hematuuria kateetrit",
+        "b": "kateeter tuleks panna ainult siis kui on urineerimistakistus",
+        "c": "sobib igasugune piisavalt suur kateeter (vähemalt 22Fr)",
+        "d": "võimalusel teha tsüstoskoopiline põie puhastus hüüvetest"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e0ab268f4b3d",
+      "section": "uroloogia",
+      "question": "Kuidas eristada kliiniliselt isheemilist ja mitte-isheemilist priapismi, milline väide on vale?",
+      "choices": {
+        "a": "isheemilisele vormile on iseloomulik valulikkus",
+        "b": "mõlemad vormid tekitavad impotentsust",
+        "c": "Mitte-isheemilisele vormile on iseloomulik osaline erektsioon",
+        "d": "isheemilisel vormil on korgaskehad jäigastunud kuid glans pehme"
+      },
+      "answer": "b\nIheemilisele priapismile on iseloomulik jäigastunud korgaskehad ja glans penis, mitteiheemilisel on glans pehme ja korgaskehad on sageli ainult pooljäigastunud. Mitteisheemilist priapismi põhjustab suurenenud arteriaalse vere pealevool (nt traumaatiline fistel) ja seetõttu korgaskehade isheemiat ja impotentsust ei teki.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6e4a3a9ca7a1",
+      "section": "uroloogia",
+      "question": "Pt on kroonilise neurogeense ebastabiilse põiega (vms), mida näitab meile voolutsüstomeetria uuring",
+      "choices": {
+        "a": "uriini koostist",
+        "b": "jääkuriini",
+        "c": "lekke raskusastet"
+      },
+      "answer": "c",
+      "type": "mc",
+      "sources": [
+        "quizlet:870677240"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7da9abc33dd8",
+      "section": "uroloogia",
+      "question": "Infiltratiivse põievähi radikaalses ravis on uriinii derivatsioonidest on pt üldseisundile ja neerudele kõige vähem koormavam (st sobilik vanemale kehvemale pt-le)\na.Brickeri juha (ureeteroilostoom)",
+      "choices": {
+        "b": "kontinentne reservuaar jämesoolest",
+        "c": "ureeterokutaneostoomia",
+        "d": "substituutpõis peensoolest"
+      },
+      "answer": "a\nUreeterokutaneostoomiad on väga kõrge striktuuri tekke riskiga ja seetõttu on neist üldiselt loobutud. Substituutpõie ja kontinentse reservuaari korral tekib põie täitumisest sõltuv põie osaline tagasiimendumine soole limaskesta kaudu ja refluks ülemistesse kuseteedesse. Ureeteroileostoomi korral uriin väljub koheselt ja seetõttu on kokkupuuteaeg soolega lühike.",
+      "type": "mc",
+      "sources": [
+        "quizlet:693308234"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "93825afce95d",
+      "section": "uroloogia",
+      "question": "Eesnäärme healoomuline hüperplaasia - medikamentoosne ravi",
+      "choices": {},
+      "answer": "1. LUTS -> α-adrenoblokaatorid\n2. PSA ↓, eesnäärme suurus ↓ -> androgeenblokaad (5α-reduktaasi inhibiitorid)\n\nSageli kombineerime",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663",
+        "quizlet:910019316"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "37be20f5353a",
+      "section": "uroloogia",
+      "question": "Põie maht",
+      "choices": {},
+      "answer": "N 400 ml\nM 500 ml",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8b7e1432dbd2",
+      "section": "uroloogia",
+      "question": "koolikuvalu",
+      "choices": {},
+      "answer": "koletsüstiit, neerukivid, iileus",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "78bf689ef35c",
+      "section": "uroloogia",
+      "question": "IPSS skaala",
+      "choices": {},
+      "answer": "IPSS abil võimalik hinnata eesnäärme adenoomi sümptomite raskusastet. Hinnatakse põie mittetäielikku tühjenemist, urineerimissagedust, katkendlikkust, pakitsustunne (urgency), joa nõrkust, straining, noktuuriat. \n0-7 kerged sümptomid\n8-19 mõõdukad sümptomid\n20-35 rasked sümptomid",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f0583d30a1dd",
+      "section": "uroloogia",
+      "question": "Hemodialüüs",
+      "choices": {},
+      "answer": "Vaja rajada arteriovenossne fistel (vaja paar kuud peale tee rajamist oodata, et seda kasutada saaks, et laieneks arteriaalse pulsatsiooni foonil), võimalik kasutada ka proteesi, kui on väga kehvad sooned. Juhul kui liiga vara fistlit kasutama hakata, siis liiga kitsas tee tromboseerub kiiremini.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "12d06990123b",
+      "section": "uroloogia",
+      "question": "Mis on PSA?",
+      "choices": {},
+      "answer": "PSA on valk (antigeen), mida sünteesitakse eesnäärme rakkude poolt. Täpsemalt on PSA proteaas, mida on vaja seemnevedeliku piisavalt lahjana hoidmiseks (ilma PSA-ta muutuks seemnevedelik väga viskoosseks ega saaks väljuda).",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c558d607f33f",
+      "section": "uroloogia",
+      "question": "alakõhu valu",
+      "choices": {},
+      "answer": "uti, emaka väline rasedus, prostatiit, tsüstiit, divertikuliit",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "849cc1b7e000",
+      "section": "uroloogia",
+      "question": "MRT režiimid",
+      "choices": {},
+      "answer": "T1 - rasv must, vesi valge\nT2 - rasv ja vesi valge, kasvaja tumedam\nDWI - difusiooniuuring, näitab vee liikumist, kasvaja heledam\nADC - difusiooni negatiiv, kasvaja must\nDCE - kontrast (gadoliinium), verevarustus",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4ae6db90cbdb",
+      "section": "uroloogia",
+      "question": "Gleason skoor",
+      "choices": {},
+      "answer": "Eesnäärmevähi diferentseerumise astme hindamiseks rakkude näärmelise mustri järgi (see tavaline G1-G5 astmega hindamine hindab tuumasid, aga eesnäärme puhul neid tuumamuutuseid ei esine väga). \nGleason koosneb kahest numbrist (kõige suurem muutus + kõige väiksem muutus). Nende numbrite summa ≥ 6 on pahaloomuline kasvaja, ≤ 5 ei loeta veel vähiks.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "49c511d58392",
+      "section": "uroloogia",
+      "question": "Jääkuriini maht",
+      "choices": {},
+      "answer": "Normis < 50 ml (< 100 ml on ok)\nRetensioon > 300-400 ml, kaaluda tühjendamist, epitsüstot (samas nt kui eesnäärme adenoom ja pole varem ravi saanud, siis võib ikkagi esialgu medikamentoosselt proovida, sageli laheneb ära mõne nädalaga siis)\nVahepealne hall ala, oleneb kaebustest ka, nt kas kaasneb tugev valu vms, aga üldjoontes ei pea tormama kateetrit panema",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3d232d1f8487",
+      "section": "uroloogia",
+      "question": "NAR näidustused",
+      "choices": {},
+      "answer": "1. Krooniline terminaalne neerupuudulikkus - dialüüsi vajadus või ennetav neerusiirdamine raske neerupuudulikkuse korral enne dialüüsravi vajadust",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a57097079103",
+      "section": "uroloogia",
+      "question": "Mis on ajusurm?",
+      "choices": {},
+      "answer": "Ajusurm on ajutüve pöördumatu funktsioonide lakkamine (ajutüve refleksid puuduvad). Diagnoosimisel hinnatakse ajutüve reflekse (nt hingamine, pupillaar-, korneaalrefleks) ning tehakse apnoe test (peab olema positiivne). Lisaks sageli EEG.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "303301a04ea2",
+      "section": "uroloogia",
+      "question": "Priapism - ravi",
+      "choices": {},
+      "answer": "Ravi tuleb alustada kohe (> 6 h kestnud isheemiline priapism põhjustab 50%-l impotentsust)\n- Konservatiivne ravi - ühekordne i/m analgeetikum, külmaaplikatsioon, trepist üles-alla kõndimine - sageli ebaefektiivne\n- Invasiivsed protseduurid - vere aspiratsioon korgaskehadest ja loputus füsioloogilise lahusega → kui efektita, siis Winteri protseduur (distaalne šunt glans-i ja corpora cavernosa vahel)\n\nKui põhjuseks on impotentsiravimid, võib korgaskehasse süstida epinefriini või efedriini\n\nMitte-isheemiline priapism võib laheneda isegi ilma ravita, ei põhjusta impotentsust",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f9a074378354",
+      "section": "uroloogia",
+      "question": "Parafimoosi ravi",
+      "choices": {},
+      "answer": "Valuvaigistite toimel eesnaha reponeerimine\nEbaõnnestub -> kirurgia: pitsumisvao läbimine dorsaalintsisiooni teel; tugeva turse ja põletiku korral lisalõiked\nParanemise järgselt circumcisio",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "acb655028638",
+      "section": "uroloogia",
+      "question": "Mis tõstab PSA-d?",
+      "choices": {},
+      "answer": "1. Eesnäärmevähk\n2. Prostatiit\n3. Eesnäärme healoomuline hüperplaasia\n4. Tõusnud kuni 48h peale seksuaalvahekorda\n5. Jalgarattasõit (eriti kitsa sadulaga)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a8137dacdaf4",
+      "section": "uroloogia",
+      "question": "Prostatiit - ravi",
+      "choices": {},
+      "answer": "1. AB (bakteriaalne prostatiit, 80% E. coli) - TMP/SMX, tsiprofloksatsiin\n2. Sümptomaatiline ravi - α-blokaatorid (kuseteede sümptomaatika leevendamiseks), NSAID-id, finasteriid (5ARI), lihasrelaksandid (Baclofen, Diazepam), antidepressandid\n3. Füsioteraapia, massaaž (ainult krooniline, ägedaga vastunäidustatud!!!), soe vann, vältida põit ärritavaid toite-jooke",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d86f84b52b2b",
+      "section": "uroloogia",
+      "question": "Põietrauma - ravi",
+      "choices": {},
+      "answer": "- Kirurgiline vs kateteriseerimine + seejärel uuringud, et näha, kas vigastus on paranenud\n- Konservatiivse ravi näidustused - väikesed ekstraperitoneaalsed rebendid, kombineeritud vigastuste puudumine, kusitist mahub läbi suure läbimõõduga kateeter",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6c3eec8a15f3",
+      "section": "uroloogia",
+      "question": "Peritoneaaldialüüs",
+      "choices": {},
+      "answer": "Peritoneaaldialüüs on dialüüsimeetod, kus poolläbilaskva membraanina kasutatakse kõhukelmet: kateetri kaudu viiakse kõhuõõnde dialüsaat, jääkained ja liigne vedelik liiguvad difusiooni/osmoosi teel verest dialüsaati, mis seejärel välja lastakse.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "b285aa10c073",
+      "section": "uroloogia",
+      "question": "Testisevähk - ravi",
+      "choices": {},
+      "answer": "Ravitulemused väga head! Enne ravi fertiilsustestid ning sperma säilitamine. Enamasti raviks orhiofunikulektoomia e testise täielik eemaldamine. Pärast kirurgilist eemaldamist on näidustatud testise histopatoloogiline uurimine ning seerumi tuumormarkerite määramine (dünaamikas). Alates II staadiumist ka retroperitoneaalsete LS eemaldamine. Kirurgilisele ravile lisaks vajadusel keemia- ja/või kiiritusravi.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bfc364e64e99",
+      "section": "uroloogia",
+      "question": "Neerutrauma - ravi",
+      "choices": {},
+      "answer": "- Konservatiivne ravi (voodirežiim + AB + hemostüptiline (veresooni ahendav) ravi) juhul, kui puuduvad profuusne makrohematuuria ja jätkuva verejooksu ning uriin-infiltratsiooni tunnused\n- Kirurgiline ravi juhul, kui neerutraumaga kaasnevad kõhuõõne- ja rindkereelundite vigastused, esinevad jätkuvad verejooksu tunnused ja/või profuusne makrohematuuria, uroflegmooni olemasolu. Nefrektoomia, kui suured hulgirebendid, suurte magistraalveresoonte vigastus",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cbdbbdcb596f",
+      "section": "uroloogia",
+      "question": "Põiekivide käsitlus",
+      "choices": {},
+      "answer": "1. Endoskoobi kaudu kivi purustus (tsüstolitotripsia) \n2. Transvesikaalne tsüstolitotripsia \n3. Põhjuse likvideerimine",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c30375da6660",
+      "section": "uroloogia",
+      "question": "Parafimoosi esmaabi",
+      "choices": {},
+      "answer": "1. Valuravi + proovida reponeerida\n2. Kui reponeerimine ei õnnestu → lõige eespinnale ehk dorsaalpinnale\n3. Paranemise järgselt circumsisio",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e8bc8796b85e",
+      "section": "uroloogia",
+      "question": "Mis on hüdrotseele?",
+      "choices": {},
+      "answer": "Hüdrotseele korral on vedelik munandi ümber. Palpatsioonil ühtlaselt tihenenud, vetruv. Võib olla valulik.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cdd357d1ec94",
+      "section": "uroloogia",
+      "question": "Pasternatski sümptom",
+      "choices": {},
+      "answer": "Selja pealt alumisele roidekaarele labakäsi peale ja õrnalt koputada, võrdlevalt mõlemalt poolt, valu korral positiivne",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "145fda628e52",
+      "section": "uroloogia",
+      "question": "Parafimoos - põhjused",
+      "choices": {},
+      "answer": "1. Kitsas eesnahk, põletik, puudulik hügieen\n2. Manipulatsioonid; protseduurid peenisel, kui ei tõmmata nahka tagasi",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cd9b01788b7c",
+      "section": "uroloogia",
+      "question": "Neeru abstsess - ravi",
+      "choices": {},
+      "answer": "< 3 cm kolded - i/v AB (fluorokinoloonid)\n> 3 cm kolded - perkutaanne drenaaž + AB",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8033cfc942b4",
+      "section": "uroloogia",
+      "question": "Ureetra trauma - ravi",
+      "choices": {},
+      "answer": "Ravi on enamasti kirurgiline. Eemaldatakse rebenemisdefektid (kusiti plastika) ning paigaldatakse epitsüstostoom. Konservatiivselt võib ravida ainult mittetäielikku, limaskesta haaravat vigastust (kateteriseerimine + AB-ravi).",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4ad671f7e300",
+      "section": "uroloogia",
+      "question": "Neerukooliku sümptomid",
+      "choices": {},
+      "answer": "Äkki tekkiv väga tugev, algab seljast, kiirgub piki külge alakõhtu, kubemesse\n- Valu ei kao üheski asendis\n\nLisaks: iiveldus, oksendamine, tahhükardia, RR ↑, pos. Pasternatski sümpt. (käsi neeru projektsiooni -> koputa)",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d93fd20bcf8b",
+      "section": "uroloogia",
+      "question": "Neerukoolik - uuringud",
+      "choices": {},
+      "answer": "1. UH-uuring - kivi suurus, pais neerus, vaadeldavad neerud ja täitunud kusepõis, ureeter ei ole (UH võiks olla esimene, kui oskad teha ja hinnata, madal tundlikkus)\n2. KT - esmavalik!! kivi suurus, neerupais, urotrakt kogu ulatuses vaadeldav, natiivuuringu kivirežiim (kõige väiksem kiirgus, kontrasti ei kasuta, kontrast võib hilisfaasis väiksemad kivid ära varjata), 99% kivid nähtavad\n3. Röntgen tühiülesvõte - tänapäeval ei kasutata, 15% kividest ei ole röntgenkontrastsed, asukohta raske hinnata\n4. Vereanalüüs - põletikunäitajad (ei pruugi olla tõusnud)\n5. Uriinianalüüs + külv - korras uriinianalüüs viitab pigem sellele, et uriin tuleb terve neeru poolt ainult ja teiselpool takistus\n\nKui UH-ga näha neerus pais, siis isegi kui kivi ei leia, on suur tõenäosus, et kuskil allpool on kivi",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a6d06f76fabe",
+      "section": "uroloogia",
+      "question": "Makrohematuuria - ravi",
+      "choices": {},
+      "answer": "1. Medikamentoosne ravi - vere hüübivuse suurendamine loputustega, mõnepäevane ravi tavaliselt piisab (v.a verevedeldajate kasutajatel võib minna nädalaid), lahtise otsaga hematuuriakateeter (ei ummistu nii kergelt). Hüübivat ainet EI TOHI sisestada otse põide, tekivad suured verehüübed ja kusepõie tamponaad.\n2. Edasi sõltuvalt tekkepõhjusest",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "419b536dd573",
+      "section": "uroloogia",
+      "question": "Inkontinentsi põhjused",
+      "choices": {},
+      "answer": "Risk kasvab vanusega, neuroloogilised häired, operatsiooni/kiirituse järgselt ekstrauretraalne fistel\nSekundaarne tunginkontinents: suht võrdselt M ja N, põiepõletik, kivid, eesnäärme probleemid\nStressinkontinents: rohkem N (vaagnapõhjalihaste nõrkus, nt sünnitusjärgselt), aga M nt iatrogeenselt (enamasti siis radikaalse prostatektoomia järgselt)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d6819e72da67",
+      "section": "uroloogia",
+      "question": "Äge äratõukereaktsioon",
+      "choices": {},
+      "answer": "Imuunsüsteemi aktivatsioon ja rünnak antikehade või tsütotoksiliste rakkudega võõrkoe vastu. Võib tekkida ka mitu aastat peale siirdamist, aga risk väheneb aja jooksul. Diagnoosimiseks vajalik biopsia.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6676835ebf68",
+      "section": "uroloogia",
+      "question": "PSA väärtuse referents",
+      "choices": {},
+      "answer": "≤ 49a - < 1,4 μg/L \n50 - 59a - < 1,8 μg/L \n60 - 69a - < 2,8 μg/L \n≥ 70a - < 3 μg/L\n\nÜhesõnaga referentsid on vanusest sõltuvad, ei ole konkreetset numbrit. Neid väärtuseid ei pea otseselt peast vist teadma nii...",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "aeb68e7bd9e7",
+      "section": "uroloogia",
+      "question": "Ureeteri trauma - ravi",
+      "choices": {},
+      "answer": "Ligatuuri korral selle eemaldamine, perforatsiooni korral selle kinniõmblemine (NB! ainult värske vigastuse korral). Hilistel juhtudel stenoseerunud/vigastatud kusejuha osad eemaldada ning rakendada ureeteri plastikat.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e1cb810afef2",
+      "section": "uroloogia",
+      "question": "Põietrauma - sümptomid",
+      "choices": {},
+      "answer": "Klassikaline triaad - suprapubikaalne valu ja hellus, raskused uriini väljutamisel/uriinipeetus, hematuuria. Lisaks võib esineda kõhu distensioon, iileus (põhjuseks uriin kõhuõõnes).",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1597ced1dc10",
+      "section": "uroloogia",
+      "question": "Neerukivide ennetamine",
+      "choices": {},
+      "answer": "Piisav vee tarbimine, vähendada soola ja oksalaatisisaldavate toitude tarbimist, normaalne kaltsiumirikaste toitude osakaalu (kaltsium seob oksalaate), vähem liha",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "516a29f17571",
+      "section": "uroloogia",
+      "question": "koletsüstiidi sümptomid",
+      "choices": {},
+      "answer": "koolikuvalu, iiveldus, oksendamine, palavik",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "88672ca65b2b",
+      "section": "uroloogia",
+      "question": "Hematuuria põhjused (3)",
+      "choices": {},
+      "answer": "1. Medikamentoosne\n2. Nefroloogilised - glomerulaarsed, interstitsiaalne nefriit → proteinuuria\n3. Uroloogilised (kirurgilised) - uroteliaalne kasvaja, neerurakuline kasvaja, eesnäärme kasvajad, kivid, UTI → proteinuuriat enamasti ei esine",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7f7678cb3ea5",
+      "section": "uroloogia",
+      "question": "Mis viitab abstsessile?",
+      "choices": {},
+      "answer": "Väga valus, põletikunäitajate tõus, ei vasta AB ravile, palpatsioonil eesnäärmes tunda vetrumist",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bc0f74f39ae4",
+      "section": "uroloogia",
+      "question": "Tunginkontinents - ravi",
+      "choices": {},
+      "answer": "1. Põiekontrolli õppimine, ennetavalt käia iga mõne aja tagant urineerimas, et ei täituks liigselt\n2. Füsioteraapia - vaagnapõhja lihaste tugevdamine võib mõnevõrra aidata\n3. M-kolinoblokaatorid ja β-mimeetikumid - tõstavad põie detruusori kontraktiilsust, kontraktsiooni tugevust (KT suukuivus, kõhukinnisus, rütmihäired jms, võivad olla üsna häirivad)\n\nSekundaarse korral ravida algpõhjust",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "712c114896bd",
+      "section": "uroloogia",
+      "question": "Milline doonor ei sobi?",
+      "choices": {},
+      "answer": "1. Pahaloomulised kasvajad (kõigile tehakse KT, elusdoonorile KT-angio)\n2. Ravimata infektsioonid (nt septiline pt)\n3. Oligoanuuriline neerupuudulikkus\n4. Palju riskifaktoreid neerukahjustuseks\n5. Kiirbiopsial raske nefroskleroos",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c373b141874c",
+      "section": "uroloogia",
+      "question": "Eesnäärmevähi riskirühm",
+      "choices": {},
+      "answer": "Mehed 55-75a",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "06a0e2413f01",
+      "section": "uroloogia",
+      "question": "Neeruvähk - diagnostika",
+      "choices": {},
+      "answer": "1. Sümptomid - valu (tuim seljavalu), hematuuria, palpeeritav mass, palavik, aneemia, kaalukaotus, nõrkus\n2. UH - skriining\n3. KT kontrastiga - valikmeetod, parenhümatoosne faas (tüüpilise leiu korral EI PEA biopsiat tegema, st ei ole vaja histoloogilist tõestust diagnoosiks ja ravimeetodi valikuks)\n4. MRT - kui neerupuudulikkuse tõttu KT kontrastiga ei saa teha\n5. Biopsia - kui KT leid ebaselge",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e319b33fbafa",
+      "section": "uroloogia",
+      "question": "Peenise fraktuur - ravi",
+      "choices": {},
+      "answer": "- Kirurgiline ravi - tunica albuginea fraktuuri koha eksponeerimine, hematoomi evakuatsioon ja defekti sulgemine - Konservatiivne ravi - külmaaplikatsioon, valuvaigistid, seksuaaltegevusest hoidumine paar kuud",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5af4fe137a16",
+      "section": "uroloogia",
+      "question": "Ureetra striktuur - ravi",
+      "choices": {},
+      "answer": "1. Bueerimine e mehaaniline laiendamine (väiksemad striktuurid)\n2. Endoskoopiline ureetrotoomia e kitsenenud kohtade lahtilõikamine (suuremad striktuurid) \n3. Lahtine ureetra plastika → eemaldatakse kogu armkude",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "79d3e871da49",
+      "section": "uroloogia",
+      "question": "Prostatiit - diagnostika",
+      "choices": {},
+      "answer": "1. Anamnees\n2. Sümptomid, objektiivne leid (DRE) - tugev valulikkus\n3. Uriinikülv, ribaanalüüs, mikroskoopia\n4. Vereanalüüs - PSA, CRV\n5. Segmenteeritud uriini ja prostata sekreedi uuring (klassikaline 4 klaasi test/modifitseeritud 2 klaasi test) - kroonilise prostatiidi puhul\n6. Lisaks vajadusel rektaalne UH, KT (abstsessi välistamiseks)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "887da67f9a3a",
+      "section": "uroloogia",
+      "question": "Põietrauma - diagnostika",
+      "choices": {},
+      "answer": "1. Retrograadne tsüstogramm, KT tsüstograafia. NB! Põis peab olema piisavalt välja venitatud (kontrastainega, vähemalt 400 ml), muidu ei pruugi traumat näha olla\n2. Kasutatakse ka kateteriseerimist (võib läbi perforatsiooni väljuda → on palpatsioonil tunda)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "63347022e65e",
+      "section": "uroloogia",
+      "question": "Mis on korallkivi? Ravi?",
+      "choices": {},
+      "answer": "Neerukivi, mis on olemuselt struviitkivi ja täidab kogu neeruõõne. Tekivad enamasti korduvate infektsioonide foonil ureaasi tootvate bakteritega (nt Proteus, Klebsiella, Pseudomonas) ehk tegemist infektsioonkividega. Teket soodustab uriini aluseline pH. Enamasti asümptomaatilised, aga võib tekkida palavik, tugev valu, sepsis, neerupuudulikkus. \nSelle eemaldamiseks vajalik perkutaanne nefrolitotoomia (litotrüpsia)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9b4689992fa4",
+      "section": "uroloogia",
+      "question": "mis on fournier gangreen",
+      "choices": {},
+      "answer": "Fournier' gangreen on väliste suguelundite, perineumi ja perianaalpiirkonna nekrotiseeriv fastsiit (sageli polümikroobne). Eluohtlik kirurgiline erakorraline seisund; ravi: kiire ulatuslik kirurgiline nekrektoomia (debridement) + laia toimespektriga antibiootikumid + toetav ravi.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "f89399aed7e5",
+      "section": "uroloogia",
+      "question": "Stressinkontinents - ravi",
+      "choices": {},
+      "answer": "1. Füsioteraapia - vaagnapõhja lihaste tugevdamine\n2. Operatiivne ravi, kui füsio ei aita - lingud, võrgud, tupeplastika (oleneb põhjusest), väga raske inkontinentsi korral sfinkteri panemine kusepõide",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f9f902ac5f83",
+      "section": "uroloogia",
+      "question": "Eesnäärmevähi riskigrupid",
+      "choices": {},
+      "answer": "Madal risk: PSA < 10 JA cT1c (ei ole palpeeritavat tuumorit) JA Gleason 6\nKeskmine risk: PSA 10-20 VÕI cT2a/b (ühes sagaras palpeeritav tuumor) VÕI Gleason 7\nKõrge risk: PSA > 20 VÕI cT2c (mõlemas sagaras palpeeritav tuumor) VÕI Gleason > 7",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "93497222be0d",
+      "section": "uroloogia",
+      "question": "Prostatiidi riskifaktorid",
+      "choices": {},
+      "answer": "Eesnaha olemasolu\nSeksuaalne aktiivsus\nEesnäärme healoomuline hüperplaasia\nUreetra ahenemine\nPõie kaela hüpertroofia\nKuseteede kateteriseerimine\nAnatoomiline eelsoodumus retrograadseks levikuks intraprostaatilistest kanalitest",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "769cc49ad62c",
+      "section": "uroloogia",
+      "question": "Neerutrauma - diagnostika",
+      "choices": {},
+      "answer": "1. Sümptomid - makrohematuuria, nimme- ja kõhupiirkonna valu, hematoomid, turse (pmst trauma sümptomid)\n2. Anamnees - õnnetuse tagajärjel? iseenesest?\n3. Radioloogia",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c8c1f92c5687",
+      "section": "uroloogia",
+      "question": "Prostatiit - sümptom + dgn",
+      "choices": {},
+      "answer": "Valu\n- Ägedal väga tugev, kroonilisel veidi vähem\nKusemiskaebused\n\nDgn:\n- uriinikülv\n- 4/2 klaasi (Nickeli) test\n- tsütoskoopia",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cb3b33236c77",
+      "section": "uroloogia",
+      "question": "Neerukoolik - valu asukoht",
+      "choices": {},
+      "answer": "Ureeteri ülosa - lumbaalpiirkond\nUreeteri keskosa - kesk- ja alakõht, valu piki ureeteri kulgu (ei anna peritoneaalärritusnähte, kõhulihased ei ole pinges)\nUreeteri alaosa - kube ja suguelundid, sümfüüsitagune valu, tsüstiidi või uretriidi sümptomid",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "459d1cad6889",
+      "section": "uroloogia",
+      "question": "Inkontinents - diagnostika",
+      "choices": {},
+      "answer": "1. Sümptomid ja anamnees - sh kusemispäevik\n2. Objektiivne leid - stressinkontinentsi korral eriti oluline, täitunud põiega lasta patsiendil pressida/köhatada/kükitada vms; meestel vaadata ka eesnahk üle\nNende põhjal enamasti diagnoos olemas. \n\nLisaks: jääkuriin, urodünaamika, tsüstomeetria, tüstoskoopia jne, pmst üldse kõik urotrakti uuringud võimalik teha, kui ei leia põhjust vms",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5622815070b4",
+      "section": "uroloogia",
+      "question": "Neeruasendusravi variandid",
+      "choices": {},
+      "answer": "1. Hemodialüüs\n2. Peritoneaaldialüüs\n3. Neeru transplantatsioon",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ea9426443c12",
+      "section": "uroloogia",
+      "question": "Neerusiirik vs hemodialüüs",
+      "choices": {},
+      "answer": "Siirdamise puhul pikem eluiga (u 10a), patsient ei sõltu dialüüsist (vaja teha mitu x nädalas), ei ole dieedi piiranguid, ravimaksumus väiksem.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "60f9442cb667",
+      "section": "uroloogia",
+      "question": "Neerutrauma - raskusastmed",
+      "choices": {},
+      "answer": "1. Kerge - kontusioon (tekib neeru järsust surumisest roiete ja lülisamba vahele), subkapsulaarne hematoom ilma parenhüümi rebendita.\n2. Keskmise raskusega - erineva sügavusega rebendid (raskem, kui on kaasatud neeruarteri või -veeni kahjustus). NB! Oht uroflegmoonide ja peritoniidi tekkeks\n3. Raske - täielikult purustunud neer või neeruvärati elementide rebendid (eluohtlikud verejooksud)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0ba47dc9e657",
+      "section": "uroloogia",
+      "question": "Põietrauma - tekkepõhjused",
+      "choices": {},
+      "answer": "Põietraumat (sh perforatsiooni) võivad põhjustada TURB/TURP, tsüstoskoopia, alakõhu/selja penetreeriv trauma, (erakorraline) keisrilõige, tömp vaagnatrauma, järsu aeglustuse korral kujunev trauma (nt järsk pidurdus+turvavöö täis põiega)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "aeb0a305a76a",
+      "section": "uroloogia",
+      "question": "Ureetra trauma - sümptomid",
+      "choices": {},
+      "answer": "Traumaatilise šoki puudumisel esinevad uriinipeetus, verejooks ureetrast (tavaliselt membraanosa vigastuse korral), munandikoti ja perineumi hematoom (tavaliselt ureetra tagumise osa vigastuse tunnus), väikevaagna uriininfiltraat, palavik",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "875f1cd17fdb",
+      "section": "uroloogia",
+      "question": "Mis on tsüstotseele? Ravi?",
+      "choices": {},
+      "answer": "Tupe eesseina prolaps ehk tsüstotseele ehk kusepõie song - põie võlvumine läbi tupe eesseina tuppe või tõsisema allavaje korral ka tupest välja. Asümptomaatiline ravi ei vaja, sümptomaatilise korral nii kirurgilised kui mittekirurgilised (elustiili muutused) ravivõimalused.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "9c23462570b7",
+      "section": "uroloogia",
+      "question": "Eesnäärmevähi riskifaktorid",
+      "choices": {},
+      "answer": "vanus >60a, perekondlik eelsoodumus\n\nKeskkonna saaste mõju, eesnäärme põletikulised muutused, rasvarikas toit",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ccbca8fe6210",
+      "section": "uroloogia",
+      "question": "Uriini retensiooni põhjused",
+      "choices": {},
+      "answer": "a. Mehed: eesnääre (hüperplaasia, kasvaja), ureetra striktuur, fimoos, äge prostatiit\nb. Naised: vaagna prolaps, inkontinentsi lõikus, günekoloogilised op-d\nc. M ja N: kivi, ureetra trauma, neuroloogiline, anesteesia järgne, kõhukinnisus",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b805ee93b288",
+      "section": "uroloogia",
+      "question": "Äge uriiniretensioon - ravi",
+      "choices": {},
+      "answer": "1. Transuretraalne kateteriseerimine - ühekordne või püsikateeter (kõige suurema infektsiooniriskiga toru, ei tohi igaks juhuks sees hoida), kateeter sisse nii sügavale, kuni uriini hakkab tulema, siis ballooni täitmine (põies balloon läheb kergelt täis, kui ei ole veel põies, siis ballooni täitmiseks vaja jõudu), kateetri suurus M > 18\n2. Epitsüstostoom - toru otse põide, torge kaks põikisõrme sümfüüsi kohal (kindlasti mitte kohe sümfüüsi peale), tagasi aspireerides peab uriini tulema; kateetri sisestamisel kohe sõrm peale ja ühendada kogumiskotiga (ei tohi uriini välja lasta joosta, sest toru tuleb põiest välja, kui põis tühjeneb), koti vahetamine kord nädalas, toru vahetamine 1,5-2k tagant; näidustatud kui ureetra kaudu kateteriseerimine ei õnnestu nt trauma või striktuuri tõttu ning kui kaasnevad mädased genitaalsed infektsioonid",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fc91a4bcb8b6",
+      "section": "uroloogia",
+      "question": "Stress- vs tunginkontinents",
+      "choices": {},
+      "answer": "Stressinkontinents - füüsilisel pingutusel tekib leke\nTunginkontinents - pissihäda tulemise korral ei suuda kinni hoida",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "eea969f7d714",
+      "section": "uroloogia",
+      "question": "Neeruvähk (lokaalne) - ravi",
+      "choices": {},
+      "answer": "1. (Tuumor)nefrektoomia - eemaldatakse neer koos rasvkapsli, neerupealise ja lümfipaketiga (st kogu Gerota fastsia sisu). Kasvajad > 7 cm või kasvaja halvas asukohas, ei saa neeru säästa\n2. Neeruresektsioon - suurem tüsistuste risk (veritsus läbi lõigatud veresoonte harudest, uriini leke neerukarikast → hilisem infitseerumine; arteri klemmimisel isheemiline kahjustus). Resekteeritakse kasvajaid suuruses 3-5 cm.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "bf5035fa1c96",
+      "section": "uroloogia",
+      "question": "Neerutrauma - tekkepõhjused",
+      "choices": {},
+      "answer": "Neerutraumad moodustavad kõikidest urotrakti-traumadest ~70%, esikohal on liiklus- ja tööstustraumad. Traumad klassifitseeritakse penetreerivateks ja tömpideks traumadeks. Neerutrauma tekkimisel on oluline osa nn hüdraulilisel löögil (trauma tekkemomendil tõuseb neeru sees järsult vedelike surve, mis põhjustab elundi rebenemist). Kuna neerud on hästi kaitstud, peab kahjustust tekitav jõud olema võrdlemisi tugev (lastel perirenaalset rasvkude vähem → kahjustused tekivad kergemini). Neeru iseeneslikud rebendid võivad tekkida mõne haiguse (kasvaja, hüdronefroos) tõttu kahjustunud neerus. Põhjuseks võib olla ka antikoagulantravi üledoseerimine.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5d9211cbc936",
+      "section": "uroloogia",
+      "question": "Ureeteri trauma - sümptomid",
+      "choices": {},
+      "answer": "Esinevad ureeteri obstruktsiooni sümptomid, kujunev uriininfiltraat (sh urinaarne sepsis), nõrk ja tuim kõhuvalu (koolikuid ei teki), pikaleveniv postoperatiivne palavik ja hilisem flegmoon. Uriini kogunemisel peritoneaalõõnde võib välja kujuneda iileus.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2b3fb0052e2b",
+      "section": "uroloogia",
+      "question": "Peenise fraktur - sümptomid",
+      "choices": {},
+      "answer": "Võib olla kuulda murdumine ja/või tuntakse valu peenises + erektsiooni äravajumine. Enamasti tekib verevalum, kui kahjustada on saanud Buck'i fastsia, tekib perineumi piirkonda turse ja liblikakujuline verevalum.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f70dd85facca",
+      "section": "uroloogia",
+      "question": "DGF - delayed graft function",
+      "choices": {},
+      "answer": "Kui neer ei hakka nädala jooksul tööle ja vaja veel dialüüsi, kuni tööle hakkab. Põhjused võivad olla doonori kõrge vanus, halvasti ravitud, tehnilised rakused. Retsipiendil hüpovoleemia, ülekaal, veresoonte anastomooside teostamise pikk aeg,",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "713832554a38",
+      "section": "uroloogia",
+      "question": "Immuunsupressiooni hindamine",
+      "choices": {},
+      "answer": "1. Ravimi kontsentratsiooni/ekspositsiooni mõõtmine - kontsentratsiooni-toimetugevuse seos osadel preparaatidel väga nõrk, kasutatakse kitsa terapeutilise akna korral (KNI-d) \n2. Neerufunktsiooni jälgimine - kreatiniin, GFR, diurees - hea funktsiooni korral ei saa olla äratõuget (ehk aladoseerimist) \n3. Kõrvatoimete monitooring - ravim-spetsiifilised KT-d, ülesuppressiooni tunnused \n4. Protokollbiopsiad - neerubiopsia, mida tehakse ettemääratud ajahetkel sõltumata neerufunktsioonist. Hinnatakse immuunaktivatsiooni tunnused enne äratõuke kliinilist avaldumist ja nefrotoksilisuse histoloogilisi tunnuseid",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2b33572334d4",
+      "section": "uroloogia",
+      "question": "Pindmine kusepõievähk - ravi",
+      "choices": {},
+      "answer": "Tervendav ravi on kirurgiline (TURB), millele võib vajadusel järgneda kusepõiesisene keemia- või immuunravi veise tuberkuloosibakteriga (BCG ravi). Intravesikaalse ravi eesmärk on vältida retsidiive, progressiooni ja terapeutiline kasvajakoe eemaldamine. Madala riski korral üks kemoteraapia doos, keskmise/kõrge riski korral induktsioon kemoteraapia",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b7ba14f52dde",
+      "section": "uroloogia",
+      "question": "Neeru abstsess - diagnostika",
+      "choices": {},
+      "answer": "1. Sümptomid - külmavärinad, febriilsed temp., kostovertebraalnurga valulikkus (positiivne Pasternatski sümptom), düsuuria, kõhuvalu, iiveldus, oksendamine\n2. Vereanalüüs - CRV tõus, leukotsütoos\n3. Verekülv",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0726c39ae6ee",
+      "section": "uroloogia",
+      "question": "Perinefriumi abstsess - ravi",
+      "choices": {},
+      "answer": "Nekrootiliste kudede eemaldamine, drenaaž, vajadusel nefrektoomia, AB (NB! Ainult AB-raviga suremus kuni 65%)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7c4f848afa82",
+      "section": "uroloogia",
+      "question": "Ureeteri trauma - tüsistused",
+      "choices": {},
+      "answer": "Armkoeliste muutuste tõttu võib ureetri valendik kitseneda (kujuneb hüdronefroos, krooniline püelonefriit). Kõige sagedamini tekivad fistulid (sagedasemad lokalisatsioonid: emaka, ureetra, naha, peritoneaalõõnega).",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3e6af3ca8788",
+      "section": "uroloogia",
+      "question": "Ureetra trauma - diagnostika",
+      "choices": {},
+      "answer": "1. Sümptomid, anamnees\n2. Diagnostiline kateteriseerimine\n3. Retrograadne ureterogramm\n4. Rö vaagnast (trauma tõttu, luude terviklikkuse hindamine)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "289482f9f05c",
+      "section": "uroloogia",
+      "question": "Uriini deviatsiooni meetodid",
+      "choices": {},
+      "answer": "1. Ureeterokutaneostoomia - kõrge striktuuri risk, pigem ei kasutata\n2. Substituutpõis peensoolest - jääkained imenduvad osaliselt tagasi, pikem kokkupuuteaeg soolega, refleks ülemistesse kuseteedesse\n3. Kontinentne reservuaar jämesoolest - jääkained imenduvad osaliselt tagasi, pikem kokkupuuteaeg soolega, refleks ülemistesse kuseteedesse\n4. Bricker'i juha e ureeterileostoom - uriin väljub koheselt, kokkupuuteaeg soolega lühike, eelistatud halvemas tervislikus seisundis patsientidel",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ba77f098f3a5",
+      "section": "uroloogia",
+      "question": "Neerukivi konservatiivne ravi",
+      "choices": {},
+      "answer": "a. Neerukoolika kupeerimine\n- Esmavalik: NSAID, paratsetamool (spasmolüütikumi lisamine ei paranda valu)\n- Sek. valik: opiaadid (hüdromorfiin, tramadool)\n\nb. Kivi tekke preventsioon: dieet -> juua rohkem vett, Ca vajalik, piirata loomseid valke, soola, rohkem kiudaineid\n\nc. Kivide väljumist soodustav ravi (KVR): diureesi suurendamine, α-blokaatorid, Ca-kanali blokaatorid\n- Proovida kivide korral mis võivad välja tulla piisava tõenäosusega (5mm - 10mm)",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fe95cba4df74",
+      "section": "uroloogia",
+      "question": "Krooniline äratõukereaktsioon",
+      "choices": {},
+      "answer": "Püsivast immuunreaktsioonist (nt korduva ägeda äratõuke järel) tekib lõpuks krooniline koekahjustus, fibroos, skleroos, tubulaaratroofia jne. Ravi ei ole, vaja ennetada. Tekib süvenev neerupuudulikkus ja proteinuuria.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "11d6da49cd67",
+      "section": "uroloogia",
+      "question": "Mitu % eesnäärmevähist BRCA2?",
+      "choices": {},
+      "answer": "3,7%",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "87ddf7c27585",
+      "section": "uroloogia",
+      "question": "Priapism - olemus, etioloogia",
+      "choices": {},
+      "answer": "Priapism on ebaloomulikult kaua (üle 4 h) kestev erektsioon, mida ei põhjusta seksuaalne erutus. Võib esineda igas vanuses ning kesta päevi, nädalaid. Sageli kaasnevad valu ja urineerimisraskus (aga mitte uriini retensioon!!)\nPõhjused: idiopaatilised (30-50%), ravimid (impotentsiravimid, antikoagulandid, närvisüsteemi mõjutavad preparaadid), uimastid (alkohol, kokaiin, marihuaana), vaagna kasvajad, leukeemia, sirprakuline aneemia, diabeetiline neuropaatia, väikevaagna/lahkliha/seljaaju traumad",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "042d08ddf5b8",
+      "section": "uroloogia",
+      "question": "Ureeteri trauma - diagnostika",
+      "choices": {},
+      "answer": "1. KT\n2. i/v püelogramm (kontrastaine ekstravasatsioon perforatsiooni korral)\n3. iatrogeense trauma diagnostikas kasutusel ka retrograadne urograafia",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d02769612d57",
+      "section": "uroloogia",
+      "question": "Millest koosneb struviitkivi?",
+      "choices": {},
+      "answer": "Magneesium ammoonium fosfaat koos süsinikuga",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8332c50ad856",
+      "section": "uroloogia",
+      "question": "Eesnäärmevähi esimene ilming?",
+      "choices": {},
+      "answer": "PSA tõus",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6221659caaa0",
+      "section": "uroloogia",
+      "question": "Kivi erakorraline olukord kui:",
+      "choices": {},
+      "answer": "Püsiv valu ja obstr.\nneerufunktsiooni ↓ (anuuria, kreatiniini tõus)\nInfektsioon\nSuur ureeteri kivi (>10 mm)",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "615e234c93bd",
+      "section": "uroloogia",
+      "question": "Antiandrogeenravi kõrvaltoimed",
+      "choices": {},
+      "answer": "Impotents, osteoporoos, kardio- ja hepatotoksilisus",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4740ef91ecab",
+      "section": "uroloogia",
+      "question": "Prostatiit - olemus, sümptomid",
+      "choices": {},
+      "answer": "Prostatiit e eesnäärme põletik on kõige sagedasem uroloogiline patoloogia < 50 a meestel. Äge prostatiit on bakteriaalne, krooniline prostatiit võib olla nii bakteriaalne kui mitte. Põhiline kaebus on tugev valu digitaalsel palpatsioonil. Lisaks valu kubemes, kõhus, alaseljas, perineumi piirkonnas. Võivad kaasneda urineerimis- või erektsioonihäired. Ägeda bakteriaalse prostatiidiga palavik, külmavärinad, lihasvalud.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c7d242f94833",
+      "section": "uroloogia",
+      "question": "Pindmine kusepõievähk - olemus",
+      "choices": {},
+      "answer": "Pindmine (lihasinvasioonita) kusepõievähk kahjustab vaid limaskesta ning ei levi kusepõie seina lihaskihti. Jaotub prognoosilt ja haiguskulult 3 rühma: Ta (mitteinvasiivne), T1 (invasiivne) ja CIS",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6e2fefd6109f",
+      "section": "uroloogia",
+      "question": "Ureetra trauma - tekkepõhjused",
+      "choices": {},
+      "answer": "Kõige sagedasemaks trauma põhjuseks on liiklustrauma (vaagnaluude murd). Kusiti eesmise osa vigastuse peamine mehhanism on otsene trauma (instrumentaalne uuring), tagumise osa korral on vigastused enamasti kombineeritud. Naistel esinevad ureetra traumad harva, kuna naiste ureetra on lühike ja häbemeluuga nõrgalt seotud; enamasti kaasnevad rektaalsed/vaginaalsed vigastused.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "689cfbf571b4",
+      "section": "uroloogia",
+      "question": "Ureeteri trauma - tekkepõhjused",
+      "choices": {},
+      "answer": "Ureeteri e kusejuha traumad jagunevad iatrogeenseteks (tekivad instrumentaaluuringute (sagedamini retrograadne püelograafia) ja operatsioonide käigus (günekoloogilised ja jämesoole op-id)) ja välisteks traumadeks (tömbid ja teravad traumad). Perforatsioonid tekivad kusejuha kolmes füsioloogilises kitsuses. Traumad: kusejuha osaline/täielik läbilõikamine, ureeteri ligatuur",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "728a87e9a4c5",
+      "section": "uroloogia",
+      "question": "Kas neeruvähk sagedasem M või N?",
+      "choices": {},
+      "answer": "M 2x rohkem kui N",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "abb44b569b0f",
+      "section": "uroloogia",
+      "question": "Neeruvähi morfoloogilised vormid",
+      "choices": {},
+      "answer": "Helerakk-kartsinoom 75%\nPapillaarne kartsinoom 15%\nKromofoobne kartsinoom 5%\n\nEristamine on oluline medikamentoosse ravi valikul metastaatilise vähi korral",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c6b8d0f17449",
+      "section": "uroloogia",
+      "question": "Neerukoolika konservatiivne ravi:",
+      "choices": {},
+      "answer": "1. Kõigile: analgeetikumid: diclofenac/ketoprofeen (opioidid), spasmolüütikud: no-spa, infusioon\n- Vajadusel: antiemeetikumid (metoklopramiid), AB\n2. Jälgimine ≤5 mm",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "857fed8d58db",
+      "section": "uroloogia",
+      "question": "Neeruvähk (metastaatiline) - ravi",
+      "choices": {},
+      "answer": "1. Kirurgiliselt algkolde + võimalusel metastaaside eemaldamine\n2. Süsteemne medikamentoosne ravi - immuunteraapia (nt interferoon-α, IL-2, Nivolumab), anti-VEGF ravimid (e angiogeneesi vastased ravimid: türosiinkinaasi inhibiitorid), mTOR inhibiitorid\n\nNB! Kemoteraapia väheefektiivne ja ei ole esmase rea ravis näidustatud.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "710c07f1587d",
+      "section": "uroloogia",
+      "question": "Ureetra trauma - klassifikatsioon",
+      "choices": {},
+      "answer": "1. Kinnised (kontusioon, osaline/täielik kusiti rebend, kusiti katkemine) ja lahtised (läbiv/osaliselt läbiv vigastus)\n2. Lokalisatsiooni järgi (eesmise/tagumise osa vigastus)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "41aa0d5177f7",
+      "section": "uroloogia",
+      "question": "Peenise fraktuur - tekkemehhanism",
+      "choices": {},
+      "answer": "Erekteerunud peenise traumaatiline tunica albuginea ruptuur (jõuga painutamine, tugev jõuvektor vastu partneri sümfüüsi või perineumi). Tunica albuginea on peenise sisekompartmentide ümbris, mis õheneb erektsiooni ajal ~8x. Ruptureeruda võib ühe või mitme kompartmendi tunica albuginea.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f4ba4c1c6028",
+      "section": "uroloogia",
+      "question": "Neerusiirdamise koesobivusuuringud",
+      "choices": {},
+      "answer": "a. HLA tüpiseerimine - võimalikult sarnane -> vähem äratõuget\nb. HLA Ak skriining - millised HLA Ak retsipiendil (eelnev vereülekanne, kordussiirdamised)\nc. Ristreaktsioon - kas esineb konkreetse doonori HLA vastaseid tsütotoksilisi Ak, kui pos -> ei saa siirata, muidu tekib hüperäge äratõukereatsioon (tekib minutitega)",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "37369329d706",
+      "section": "uroloogia",
+      "question": "Äge uriiniretensioon - diagnostika",
+      "choices": {},
+      "answer": "1. Sümptomid - äkki tekkinud urineerimisraskus, põis ei tühjene urineerimisel, jääkuriin põies\n2. UH - täitunud põis\n3. Tsüstoskoopia - põhjuse välja selgitamine, ureetra striktuur vs suurenenud eesnääre",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f5a063892bd2",
+      "section": "uroloogia",
+      "question": "Ägeda äratõukereaktsiooni põhjused",
+      "choices": {},
+      "answer": "- Kõik ägeda neerupuudulikkuse põhjused\n- Nii pre- kui postrenaalne: hemodünaamika häired, hüpovoleemia, obstruktsioon\nSpetsiifilised põhjused: isheemiline kahjustus, äratõuge, siiriku verevarustuse häire, tsüklosporiini nefrotoksilisus",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "03b72d1a348d",
+      "section": "uroloogia",
+      "question": "Neerusiiriku isheemiline kahjustus",
+      "choices": {},
+      "answer": "Morfoloogiliselt juhtiv äge tubulaarnekroos \nTegurid: doonori ebastabiilsus (ebastabiilne RR, hüpovoleemia, elektrolüütide häired, pikalt IRO-s), doonornefrektoomia ja perfusiooniga seotud, pikk isheemia aeg, retsipiendi seisund revaskulariseerimise ajal, intraoperatiivsed tegurid",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "11f7eb5d8a56",
+      "section": "uroloogia",
+      "question": "Kuhu metastaseerub eesnäärme vähk?",
+      "choices": {},
+      "answer": "Kõige sagedasem lümfisõlmed ja skelett, harvem kops ja maks.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a97c7ebcd40d",
+      "section": "uroloogia",
+      "question": "Krooniline bakteriaalne prostatiit",
+      "choices": {},
+      "answer": "Eesnäärme bakteriaalne infektsioon, mis kestab tavaliselt > 3 kuu, mida iseloomustavad korduvad, vahelduvad kuseteede infektsiooni sümptomid",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0d663e84fdc3",
+      "section": "uroloogia",
+      "question": "Testisevähk (seminoom) - sümptomid",
+      "choices": {},
+      "answer": "Enamasti valutu, aeglaselt kasvav tihe sõlmeline ja ebaühtlane mass/moodustis testises, raskus- ja/või venitustunne kubemes, nahaalused hematoomid kubemes (raske testise tõttu purunevad väikesed veresooned). Valu esineb 27% juhtudest.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "dcfafe50e9b7",
+      "section": "uroloogia",
+      "question": "Mis struktuurid ümbritsevad neeru?",
+      "choices": {},
+      "answer": "Rasvkapsel ja gerota fastsia",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "35b9888a786b",
+      "section": "uroloogia",
+      "question": "Neerukoolik - medikemanetoosne ravi",
+      "choices": {},
+      "answer": "< 10mm kivide puhul (< 5mm ilmselt väljuvad ka ilma ravita), kui ei kaasne suurt paisu, põletikku vms\n1. Spasmolüütikumid ja analgeetikumid - no-spa, diclofenac, ketoprofeen (ibuprofen ja paratsetamool ei anna efekti), väga tugeva valu korral lisaks opiaadid (võib kombineerida)\n2. Antiemeetikumid - sümptomaatiline iivelduse ravi\n3. AB - kui kaasneb palavik, põletikunäitajate tõus veres (enamasti ei ole vaja)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "28ee2dbe9767",
+      "section": "uroloogia",
+      "question": "Transplantaadipuudulikkuse põhjused",
+      "choices": {},
+      "answer": "1. Krooniline nefropaatia (CAN)/krooniline äratõukereaktsioon 40-50%\n2. Äge äratõukereaktsioon 10-20%\n3. Põhihaiguse (nt glomerulonefriit, diabeet) retsidiiv siirikus 10% \n4. Surm töötava siirikuga 20-30% \n5. Kirurgilised tüsistused <5%",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c2d2c5fafa43",
+      "section": "uroloogia",
+      "question": "Kõrge riskiga eesnäärme vähk - ravi",
+      "choices": {},
+      "answer": "1. Kirurgiline ravi - eesnäärme ja lähedalasuvate lümfisõlmede eemaldamine\n2. Kiiritusravi - kiiritatakse eesnääret ja lümfisõlmi\n3. Antiandrogeenid (testosterooni retseptorite blokaad, hormoonravi)\n4. LHRH analoogid (medikamentoosne kastratsioon) - LHRH pärssimine, adjuvantselt peale kiiritust (positiivsete LS korral ka peale kirurgiat)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "56f7af09be77",
+      "section": "uroloogia",
+      "question": "Kas kusepõievähk sagedasem M või N?",
+      "choices": {},
+      "answer": "M üle 2x rohkem kui N",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "91eb2e996c17",
+      "section": "uroloogia",
+      "question": "Testisevähk - esinemine, etioloogia",
+      "choices": {},
+      "answer": "Testisevähk moodustab 1-2% kõigist meestel esinevatest vähijuhtumitest ning esineb enam 25-40 a meestel. Enamasti tegemist seminoomiga.\nEtioloogia: krüptorhism või munandite laskumatus, testisevähk kontralateraalses testises (vaid 1-2% juhtudest mõlemapoolne), infertiilsus, Klinefelter'i sündroom, munandivähi esinemine lähisugulasel (vend/isa), testikulaarne intratubulaarne neoplaasia (Tis).",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "42cb1cf58662",
+      "section": "uroloogia",
+      "question": "Perinefriumi abstsess - diagnostika",
+      "choices": {},
+      "answer": "1. Sümptomid - palavik (⅓ temp. normaalne), düsuuria, selja-/küljevalu\n2. UH ja KT\n3. Uriinikülv positiivne ⅓-l, verekülv 50%-l",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "44e5688796af",
+      "section": "uroloogia",
+      "question": "Neerukivi kõige sagedasem komponent",
+      "choices": {},
+      "answer": "Kaltsiumoksalaat",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "56e4c5bcbf8e",
+      "section": "uroloogia",
+      "question": "Milleks kasutatakse KT urograafiat?",
+      "choices": {},
+      "answer": "Annab parima ülevaate ülemiste kuseteede anatoomiast, saab nt diagnoosida ülemiste kuseteede kasvajaido",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "20713fc4ce88",
+      "section": "uroloogia",
+      "question": "Mis on hüdronefroosi esmane uuring?",
+      "choices": {},
+      "answer": "UH neerudest",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "615cfb74d389",
+      "section": "uroloogia",
+      "question": "rektaalne UH - mida vaatame ja näeme",
+      "choices": {},
+      "answer": "Eesnäärme suurus, hüperehhogeensed kolded (vähk), kivid, jääkuriin (norm <100ml)",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "524415f16d58",
+      "section": "uroloogia",
+      "question": "Madala riskiga eesnäärme vähk - ravi",
+      "choices": {},
+      "answer": "1. Aktiivne jälgimine - eesnäärmevähk areneb aeglaselt, iga 4-6k tagant PSA, 1x aastas MRT → muutuse korral uus biopsia\n2. Kirurgiline ravi - u 7% patsientidest, kes ei ole nõus jälgimisega",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "19ef7d11433f",
+      "section": "uroloogia",
+      "question": "CIS kusepõievähi olulisemad omadused",
+      "choices": {},
+      "answer": "CIS põievähki on raske diagnoosida ja see on halva prognoosiga, kiire kasvuga, kõrge maliigsusriskiga, madalalt diferentseerunud. Olemuselt pindmine, aga võib üle minne lihasinvasiivseks. Ravi põhineb intravesikaalsel BCG ravil.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3d06ad6c0078",
+      "section": "uroloogia",
+      "question": "Äge orhiit - patogenees, diagnostika",
+      "choices": {},
+      "answer": "Orhiidi põhjuseks hematogeenne külv bakteriaalse/viirusliku haigestumise järgselt ning trauma. Esineb äkki alanud (1-2 päevaga) valu ja turse, palpatsioonil väga valulik, skrootum võib olla punetav, testise tõstmine vähendab valu, cremaster refleks säilinud. Doppler-uuringul intensiivne verevool.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4b7b842e42b9",
+      "section": "uroloogia",
+      "question": "Fournier gangreen - patogenees, ravi",
+      "choices": {},
+      "answer": "Fournier ehk skrootumi gangreen on ägeda alguse ja kiire kuluga. Infektsioon lähtub peeniselt/skrootumilt. Tekib naha erüteem, villid, nekroos, anaeroobse infektsiooni korral naha krepitatsioon. Infektsioon levib kiiresti mööda lihasfastsiaid, haarates ka lahkliha piirkonna. Haigestumisele on vastuvõtlikumad langenud immuunsusega inimesed. Suremus ~50%, põhiliseks tüsistuseks on sepsis. Raviks nekroosi eemaldamine ja AB.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a1343c0d1812",
+      "section": "uroloogia",
+      "question": "Priapismi vormid ja nende eristamine",
+      "choices": {},
+      "answer": "Priapism jaguneb isheemiliseks ja mitte-isheemiliseks\n1. Obj leid ja anamnees - isheemiline tugeva valuga ja jäigem, mitte-isheemiline sageli mingi trauma järel ja vähem jäik, alkoholi intoks võib põhjustada isheemilist\n2. Doppler UH peenisest - isheemiline nõrga verevooluga, mitte-isheemiline tugev verevool\n3. Astrupi analüüs korgaskehast punkteeritud verest - isheemiline madal pO2 ja kõrge pCO2, mitte-isheemiline kõrge pO2 ja madal pCO2",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3b060c0d6ede",
+      "section": "uroloogia",
+      "question": "Urodünaamika uuringuid, mida näitavad",
+      "choices": {},
+      "answer": "Uurinivoolu-meetria - uriinijoa mõõtmine\nTsüstomeetria - kirjeldab põie funktsiooni",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "dbbbf17ebea7",
+      "section": "uroloogia",
+      "question": "Neerukivitõbi - mis kive kõige rohkem",
+      "choices": {},
+      "answer": "Oksalaat (60-70%)\nCa-fosfaat (20%)\nUraat/kusihape (annab retsidiive)\nStruviit/inf. kivid\nTsüstiin",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "595a27e0dbe8",
+      "section": "uroloogia",
+      "question": "Urineerimistakistuse põhjused meestel",
+      "choices": {},
+      "answer": "Kusiti striktuur, eesnäärme healoomuline hüperplaasia (kõige sagedasem), kivid, põiepõletik (pseudoretensioon), prostatiit (pigem ägeda korral, krooniline mitte nii väga), maliigsed protsessid (nt eesnäärme vähk)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "06001126b62c",
+      "section": "uroloogia",
+      "question": "Funktsionaalne põiepidamatus - olemus",
+      "choices": {},
+      "answer": "Pidamatus ei teki põieprobleemi tõttu, vaid sellepärast, et ei saa õigel ajal õiges olukorras vetsu. Põis nii üle täitunud, et ei suuda kinni hoida.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4103ea47b44f",
+      "section": "uroloogia",
+      "question": "Ortotoopne vs heterotoopne siirdamine",
+      "choices": {},
+      "answer": "Ortotoopne siirdamine - uus organ siirdatakse vana organi asemel täpselt samasse asukohta (nt maks)\nHeterotoopne siirdamine - uus organ siirdatakse erinevasse asukohta, vana organit ei eemaldata (nt neerud)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "97f75bf9b2a4",
+      "section": "uroloogia",
+      "question": "Ureetra striktuur - olemus, sümptomid",
+      "choices": {},
+      "answer": "Ureetra striktuur on kusiti valendiku ahenemine seoses ureetra enese või tema ümbruse kudede armkoeliste muutustega. Võimalikud põhjused: vaagnatraumad, kateteriseerimised, kiiritus vaagnale, endoskoopilised operatsioonid, uretriidid. Sage haigus meestel, naistel esineb harva. Sümptomid on uriinijoa muutumine, järeltilkumine. Striktuuri järgselt võib tekkida krooniline prostatiit.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "aac2ceeb88b5",
+      "section": "uroloogia",
+      "question": "Neeruvähk (lokaalselt levinud) - ravi",
+      "choices": {},
+      "answer": "Agressiivne kirurgiline ravi koos lümfadenektoomiaga",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1023e2f834fc",
+      "section": "uroloogia",
+      "question": "Millest areneb enamasti kusepõievähk?",
+      "choices": {},
+      "answer": "Uroteelist (transitoorrakuline e uroteliaalne kartsinoom), üle 90%",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "baea32f592c9",
+      "section": "uroloogia",
+      "question": "Äge epididümiit - olemus, diagnostika",
+      "choices": {},
+      "answer": "Epididümiidi korral mõelda Chlamydia (STD), N. gonorrhoeae (STD) ja TB peale. Esineb äkki alanud (1-2 päevaga) valu ja turse, palpatsioonil väga valulik, skrootum võib olla punetav, testise tõstmine vähendab valu, cremaster refleks sälilinud. Doppler-uuringul intensiivne verevool.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d54481bfa7fd",
+      "section": "uroloogia",
+      "question": "Mis on varikotseele? Sümptomid? Ravi?",
+      "choices": {},
+      "answer": "Varikotseele korral suurenevad munandikotis olevad veenid. Palpatsioonil on tunda looklevad veresooned, nagu ussid. Paremini tuntav seistes, väheneb lamades. Ravi on kirurgiline, asümptomaatiline ravi ei vaja.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "45c7eedd6136",
+      "section": "uroloogia",
+      "question": "Mis suurendab uraatkivide tekkeriski?",
+      "choices": {},
+      "answer": "Rasvumine, metaboolne sündroom, podagra, happeline uriin, puriinirikka toidu söömine, eriti liha, aga ka nt alkohol ja teatud mereannid",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e3011dec7c21",
+      "section": "uroloogia",
+      "question": "Makrohematuuria - etioloogia, käsitlus",
+      "choices": {},
+      "answer": "Kõige sagedasem põhjus kasvaja, teisel kohal verevedeldajate kasutamine. Harvem infektsioonid, konkramendid, eesnäärme healoomuline hüperplaasia, neeru parenhüümi kahjustus, traumad jms. KT uuring kontrastiga ja tsüstoskoopia. Ei vaja erakorralist käsitlust ega hospitaliseerimist (kui ei kaasne verekaotusnähte või urineerimishäiret)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "881337023111",
+      "section": "uroloogia",
+      "question": "Imuunsupressioon peale neerusiirdamist",
+      "choices": {},
+      "answer": "Suukaudne baasravi tüüpiliselt kolmikravi:\n1. Kaltsineuriini inhibiitor - tsüklosporiin, takroliimus (nefrotox)\n2. Mükofenolaat\n3. Prednisoloon\n\nImmuunsupressioon jääb eluaegselt, aga doosid vähenevad aja jooksul. Mükofenolaadi doos enamasti jääb stabiilseks, võimalik et KNI ja GKS jäävad lõpuks täiesti ära.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "df2c5e9a6b9c",
+      "section": "uroloogia",
+      "question": "Äratõukereaktsiooni tekkimise põhjused",
+      "choices": {},
+      "answer": "1. Ebapiisav immuunsuppressioon \n2. Ravimite võtmata jätmine \n3. Infektsiooni või kõrvaltoimete poolt tingitud liigne doosi \n4. Raviskeemi muutus \n5. Imendumishäired",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "972fde2381bc",
+      "section": "uroloogia",
+      "question": "Infektsioonid neerusiirdamise järgselt",
+      "choices": {},
+      "answer": "Sümptomid ja laboratoorsete näitajate tõus võib olla vähem väljendunud, pigem mittespetsiifilised nähud. Esimese kuu jooksul kõige sagedasem UTI, lisaks haavainfektsioonid, kopsupõletik (harva oportunistlikud). Esimese poolaasta jooksul võivad esineda oportunistlikud (nt CMV) ning postop tüsistustest ja ülemäärasest immuunsupressioonist tingitud infektsioonid. Alates teisest poolaastast, kui neerusiirik toimib ja IS taset alandatakse, siis tavalised respiratoorsed infektsioonid. Korduva või kroonilise äratõuke korral, kui kõrge IS tase, võivad esineda oportunistlikud infektsioonid. ip",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "da090a807ba5",
+      "section": "uroloogia",
+      "question": "Keskmise riskiga eesnäärme vähk - ravi",
+      "choices": {},
+      "answer": "1. Kirurgiline ravi esmavalik (92% efektiivsus, 8% retsidiivid) - eesnäärme eemaldamine (totaalne prostektoomia)\n2. Kiiritusravi (92% efektiivsus, 8% retsidiivid) - tänapäeval väga täpne, aga mingi risk ikkagi pärasoole ja põie kahjustamiseks jääb\nVältida antiandrogeene\n\nEsmavalik kirurgiline, sest kui peale kiiritust tekib retsidiiv, siis ei saa eesnääret enam eemaldada kudede sidekoestumise pärast. Kui peale eemaldamist tekib retsidiiv, siis kiiritada saab. Kui on vanem pt või mitmete kaasuvate haigustega pt, siis esmavalik kiiritus.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2e47e316ae7c",
+      "section": "uroloogia",
+      "question": "Testise torsioon - olemus, diagnostika",
+      "choices": {},
+      "answer": "Munandi ja seemneväädi pöördumine ümber vertikaaltelje, mis põhjustab verevarustuse häiret, venoosset turset ning munandi infarkti. Esineb järsku alanud valu ja testise turse, palpatsioonil väga valulik, testis asub skrootumis kõrgel ning skrootumi tõstmine valu ei vähenda. Cremaster refleks ei ole säilinud. Doppler-uuringul langenud verevool. Oluline on kiire (6 h jooksul) kirurgiline ravi!",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2628e4fde641",
+      "section": "uroloogia",
+      "question": "Neerukoolik - sümptomaatika, patogenees",
+      "choices": {},
+      "answer": "Äkki tekkinud väga tugev valu, mis algab seljast ja kiirgub piki külge alakõhtu ja kubemesse. Valu maksimum tavaliselt 1-2h peale algust ja püsib konstantsena 1-4h. Patsient on rahutu, ei ole leevendavat asendit, võib esineda iiveldust ja oksendamist, tahhükardia ja RR tõus, dünaamiline iileus. Pasternatski positiivne. Neerukoolikut põhjustavad ureeteri kivid, mille tõttu tekib ureeteri spasm ja neeruvaagnas rõhu tõus (→ hüdronefroos). Kivid tekivad enamasti karika tipus, alumiste karikate kivid sageli ei lähe liikuma.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a93260afaee5",
+      "section": "uroloogia",
+      "question": "Kuhu metastaseerub peamiselt neeruvähk?",
+      "choices": {},
+      "answer": "Kops",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "81ff1427f5fb",
+      "section": "uroloogia",
+      "question": "Neeru abstsess - etioloogia, patogenees",
+      "choices": {},
+      "answer": "Põhjuseks astsendeeruvad infektsioonid (tekitajad enamasti G- (E. coli, Klebsiella)) koos tubulaarse obstruktsiooniga varasemast infektsioonist või kivid. Riski tõstavad refluks kusepõiest, neurogeenne põis, diabeet.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "aeeebbce3d78",
+      "section": "uroloogia",
+      "question": "kuidas ravida parafimoosi (cicrumcisio)",
+      "choices": {},
+      "answer": "Esmalt manuaalne repositsioon (glansi komprimeerimine turse vähendamiseks ja eesnaha tagasiviimine normaalasendisse). Kui ebaõnnestub — dorsaalne sisselõige; korduvuse vältimiseks/definitiivne ravi on tsirkumtsisioon.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "4142a472688e",
+      "section": "uroloogia",
+      "question": "Mis parameeter näitab luudestruktsiooni?",
+      "choices": {},
+      "answer": "ALP",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "06f9cca6c680",
+      "section": "uroloogia",
+      "question": "Asümptomaatiline põletikuline prostatiit",
+      "choices": {},
+      "answer": "Diagnoositakse tavaliselt juhuslikult teise probleemi (nt eesnäärmevähi biopsia) hindamisel. Patsiendid on asümptomaatilised ja neil on leitud kõrge leukotsüütide kontsentratsioon seemnevedelikus",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b40c5613c919",
+      "section": "uroloogia",
+      "question": "Mis põhjustab kahepoolset hüdronefroosi?",
+      "choices": {},
+      "answer": "Põhjustatud kusepõie tühjenemise häirest. Meestel enamasti eesnäärme suurenemisest põhjustatud, (vanematel) naistel enamasti emaka allavaje.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "afe0f381c3ec",
+      "section": "uroloogia",
+      "question": "Neerukoolika invasiivne ravi - mida teeme",
+      "choices": {},
+      "answer": "1. Ureetri stentimine (tänapäeval täissilikoonist:\n- Parem taluvus, saab kauem sees hoida): alt -> üles\n- Ei sobi põletiku korral\n\n2. Perkutaanne nefrostoomia ± k/a süstimine (kivi lokal.)\n- Invasiivne: otse koldesse; ülevalt -> alla\n- Kasutus: põletikus neer/stent ei mahu mööda",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "abb4aca82119",
+      "section": "uroloogia",
+      "question": "Äge uriiniretensioon - olemus, patogenees",
+      "choices": {},
+      "answer": "Äkki tekkinud võimetus urineerida, peamiselt meestel esinev probleem suurenenud eesnäärme või eesnäärme vähi tõttu (lisaks võimalikud põhjused ureetra striktuur, fimoos, äge prostatiit). Sageli anamneesis varasem urineerimisraskus. Vanematel naistel kõige sagedasem põhjus vaagna prolaps.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "536966e46cda",
+      "section": "uroloogia",
+      "question": "Kuidas hinnata inkontinentsi raskusastet?",
+      "choices": {},
+      "answer": "Raskusastme määramiseks kusemispäeviku järgi hinnata lekkemomentide sagedust, kasutatud mähkmete/sidemete arvu ja kaaluda kasutatud mähkmeid/sidemeid. Raskusastme määramiseks patsiendi enda hinnang ei ole eriti informatiivne.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3eeccfb626aa",
+      "section": "uroloogia",
+      "question": "Mis on tsüstomeetria? Millal näidustatud?",
+      "choices": {},
+      "answer": "Tsüstomeetria on põie urodünaamiline uuring, mille puhul põis täidetakse ning mõõdetakse rõhku täitumis- ja tühjenemisfaasis, rõhu tõusu puudumine viitab põie atooniale. Ei tehta esmavalikuna, aga kui nt inkontinentsi või ebastabiilse põie korral ravi ei toimi",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2b7d4b8072b9",
+      "section": "uroloogia",
+      "question": "Immuunsuppressioon\n- manustamine + ravimid",
+      "choices": {},
+      "answer": "p.o baasravi tüüpiliselt kolme erineva toimemehhanismiga preparaadiga:\n1. Kaltsineuriini inhibiitor: tsüklosporiin,takroliimus -> IL-2 ekspres. T-lümfotüütidel ↓\n2. Mükofenolaat -> inh. puriinide sünteesi ja sellega lümfotsüütide proliferatsiooni\n3. Glükokortikoidid: metüülprednisoloon\n\nParenteraalne induktsioonravi: mono-/polüklonaalsed antilümfotsütaarsed Ak",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d8af5c8b2686",
+      "section": "uroloogia",
+      "question": "Kusepõievähi tüübid ja nende riskifaktorid",
+      "choices": {},
+      "answer": "1. Uroteliaalne kartsinoom (üle 90%) - suitsetamine!! → mitteinvasiivsed (papillaarne, lame), invasiivsed\n2. Adenokartsinoom (5%) - sagedased põletikud, krooniline ärritus\n3. Lamerakuline kartsinoom (2%) - krooniline põletik",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "97bf037929bc",
+      "section": "uroloogia",
+      "question": "Infiltratiivne kusepõievähk - olemus, ravi",
+      "choices": {},
+      "answer": "Tegemist alati high grade tuumoritega (m. detrusor'i infiltratsioon). \nRavi: valikmeetodiks on tsüstektoomia +/- neoadjuvantne keemiaravi. Radikaalne tsüstektoomia on suure opi-trauma ja komplikatsioonide riskiga! Pärast radikaalset tsüstektoomiat vajalik uriini derivatsioon (Brickeri juha/kontinentne kateteriseeritav reservuaar/asenduspõis).",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ed54f172f1d5",
+      "section": "uroloogia",
+      "question": "Neerukivide hospitaliseerimise näidustused",
+      "choices": {},
+      "answer": "Kõrge palavik, anuuria, valu ei allu suukaudsele valuvagistile\n\nUreeteri stentimine hospitaliseerimist reeglina ei vaja",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ee0c3dbaad80",
+      "section": "uroloogia",
+      "question": "Kas vähk on neerusiirdamise vastunäidustus?",
+      "choices": {},
+      "answer": "Ei ole, kui:\n- Madala riskiga vähk ja > 2a möödas vähi radikaalses ravist, retsidiive vms ei ole, kasvajavaba\n- Kõrge riskiga vähk (emakavähk, rinnavähk, melanoom, kolorektaalne vähk) ja > 5a möödas vähi radikaalsest ravist, retsidiive vms ei ole, kasvajavaba",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "5f5c776ee85e",
+      "section": "uroloogia",
+      "question": "Kumba neeru siirdatakse esmavalikuna? Miks?",
+      "choices": {},
+      "answer": "Esmavalikuna vasak. Vasakut neeru lihtsam retsipiendile siirdada, sest neeruveen on pikem (peale klipsimist jääb ikka üsna pikk veen alles, paremal pool jääb väga lühike). Arter suht sama pikk mõlemal pool ja venib hästi, sellega pole probleemi. Veenide ligeerimine ei ole probleem (kui on nt topeltveen), aga topeltarteri korral ei siirdata. Kui topeltarter vasakul, siis võetakse parem neer.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "77a76687cd90",
+      "section": "uroloogia",
+      "question": "Millal on neerukivi ravis näidustatud ESWL?",
+      "choices": {},
+      "answer": "ESWL ehk kehaväline neerukivide purustamine lööklainega on näidustatud üldiselt 5-20mm suurusega kivide puhul, pigem ureeteri algusosas ja neerus paiknevad kivid",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "11595ecd87a3",
+      "section": "uroloogia",
+      "question": "Milline urotrakti vähk ei allu kiiritusele?",
+      "choices": {},
+      "answer": "Neeruvähk",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "22d2bfa54a81",
+      "section": "uroloogia",
+      "question": "Prostatiit e eesnäärme põletik - mis vanuses",
+      "choices": {},
+      "answer": "<50 a mehed",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "327ce0f357cd",
+      "section": "uroloogia",
+      "question": "Kõige halvema prognoosiga uroloogiline vähk?",
+      "choices": {},
+      "answer": "Neeruvähk, avastatakse üldiselt siis, kui ravivõimalused juba piiratud",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ab52e9ea8a2d",
+      "section": "uroloogia",
+      "question": "Hüperaktiivne e. ebastabiilne põis - süptomid",
+      "choices": {},
+      "answer": "tung ± sage, öine urineerimine",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "606475e009b3",
+      "section": "uroloogia",
+      "question": "Neerukoolik - kivide eemaldamine, näidustused",
+      "choices": {},
+      "answer": "1. Eemaldamist ei vaja < 1 cm asümpt ureeteri kivid\n2. Ekstrakorporaalne kivide purustamine (ESWL) 1-2 cm kividele neerus/prox. ureeteris\n3. Endoskoopiline litotripsia - ureeteroskoopia/ureeteroskoopiline litotrüpsia URS (1-2 cm kivid), perkutaanne nefrolitotoomia PCNL (> 2 cm neerukivid, korallkivid)\n4. Lahtine/laparoskoopiline litotoomia - põis täis kive",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f939e5d19f83",
+      "section": "uroloogia",
+      "question": "Humoraalne vs rakuline äge äratõukereaktsioon",
+      "choices": {},
+      "answer": "Rakuline tekib T-rakulise aktivatsiooni tõttu, tekivad tubuliit ja vaskuliit. Raviks metüülprednisoloon ja polüklonaalsed Ak-d. Prognoos üsna hea.\nHumoraalne tekib doonor-spetsiifiliste Ak-de ja komplemendi aktivatsiooni tõttu (c4d marker), tekib kapillariit, vaskuliit, tromboos (biopsia, DSA). Raviks Ak-de mehaaniline eemaldamine, anti-CD20, IVIG. Prognoos halb.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "802f620a7436",
+      "section": "uroloogia",
+      "question": "Metastaatilise eesnäärmevähi ravi preparaadid",
+      "choices": {},
+      "answer": "1. Hormoonravi - keemiline (LHRH analoogid, antiandrogeenid) või kirurgiline kastreerimine (enamasti keemiline) → eluaegne\n2. Keemiaravi - dotsetakseel (mõnda aega toimib, PSA väga madal, ühel hetkel hakab PSA jälle tõusma, sest kasvajarakud hakkavad ise testosterooni sünteesima ja kasutama)\n3. Abirateroon - blokeerib steroidide sünteesi (kasutatakse koos prednisolooniga, et vältida hüpertensiooni, vedeliku retensiooni ja hüpokaleemiat)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8b14fd297d4f",
+      "section": "uroloogia",
+      "question": "Operatiivselt kivide eemaldamine (2 võimalust)",
+      "choices": {},
+      "answer": "1. Endoskoopiline litotripsia\na. Ureeteri kaudu - ureeteroskoopia\n- Kivid ureeteris, väiksed kivid karikates\n- Suurem töökanal, tugevam loputus, parem vaateväli, töökindlus, kallim, vajab laserit\nb. Perkutaanselt - perkutaanne nefroskoopia \n- Suured kivid neerus (>2 cm), korallkivid\n\n2. Lahtine/laparoskoopiline litotoomia\n- Vajalik samaaegselt rekonstruktiivne op",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7837918d2d70",
+      "section": "uroloogia",
+      "question": "Eesnäärme healoomuline hüperplaasia tüsistused",
+      "choices": {},
+      "answer": "Ureetra kompressioon\nPõie ületäitumine (põrkpõis, põie kivi, uriini retentsioon) \nDil. ureeter\nHüdronefroos",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7fca3b346885",
+      "section": "uroloogia",
+      "question": "Millised neerukivid ei ole röntgenkontrastsed?",
+      "choices": {},
+      "answer": "Uraatkivid",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "50de37fdad04",
+      "section": "uroloogia",
+      "question": "Millal saab lastele siirdada täiskasvanuneeru?",
+      "choices": {},
+      "answer": "Juhul kui lapse kaal > 15-20kg, alla 5-aastased saadetakse Helsingisse",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f3f0f961beff",
+      "section": "uroloogia",
+      "question": "Kõige sagedasem pahaloomuline kasvaja meestel?",
+      "choices": {},
+      "answer": "Eesnäärmevähk",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "1c568eeaeada",
+      "section": "uroloogia",
+      "question": "Perinefriumi abstsess - etioloogia, patogenees",
+      "choices": {},
+      "answer": "Infektsioon piirdub Gerota fastsiaga (kui murrab läbi, on tegemist paranefriumi abstsessiga). Suremus ~56% (atüüpiline kliinik → diagnoosi venimine). Hematogeenne külv või neerust astsendeeruv infektsioon. Tekitajad G- (E. coli, Klebsiella).",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6abd04bebb87",
+      "section": "uroloogia",
+      "question": "Eesnäärme vähi lokaalse vormi ravi - madal risk",
+      "choices": {},
+      "answer": "Aktiivne jälgimine: \n- iga 3-4 kuu tagant PSA\n- kord aastas MRT -> muutused: korduv biopsia",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "86961ff6b570",
+      "section": "uroloogia",
+      "question": "Eesnäärme vähi lokaalse vormi ravi - kõrge risk",
+      "choices": {},
+      "answer": "Lõikus - vaja võtta ka lümfisõlmed\n\nKiiritus - kiiritame ka lümfisõlmi + keemiline gastratioon e. hormoonaravi 2a (kõrvaltoimed hakkavad 2a pärast tekkima)\n- Hormoonravi: LHRH analoogid (/kirurgiliselt)\n\nLõikus + kiiritus",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "972d7710c899",
+      "section": "uroloogia",
+      "question": "Transplantatsiooni absoluutsed vastunäidustused",
+      "choices": {},
+      "answer": "1. Lühike prognoositav eluiga (aga konkreetset vanusepiirangut ei ole)\n2. Aktiivne infektsioon (sh hambaarsti visiit enne siirdamist)\n3. Agressiivne ravimata vähk\n4. Koostöövõimetus, alkoholism, narkomaania jms\n5. Tsütotoksiliste antikehade olemasolu doonori vastu",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "110ff1649a42",
+      "section": "uroloogia",
+      "question": "Eesnäärme eemaldamine - kõrvaltoimed/tüsistused",
+      "choices": {},
+      "answer": "1. 75% pärast impotentsed, ei teki erektsiooni. Kui närve säilitav lõikus, siis 75%-l taastub 1,5a jooksul. \n2. Uriinipidamatus 3-4k",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a02615377cf8",
+      "section": "uroloogia",
+      "question": "Metastaalise eesnäärme vähi ravi etappide kaupa",
+      "choices": {},
+      "answer": "I etapp (kastratsioontundlik): keemiline või kirurgiline kastratsioon +/- antiandrogeenid, üksikute metastaaside stereotaktiline kiiritus\nII etapp (kastratsioon-resistentne): dotsetakseel + prednisoloon (kemoteraapia + steroid)\nIII etapp (dotsetakseel-resistentne): kabasitakseel + abirateroon (kemoteraapia + steroid)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "603353da2918",
+      "section": "uroloogia",
+      "question": "Milline uroloogiline kasvaja on hormoontundlik?",
+      "choices": {},
+      "answer": "Eesnäärme",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "416cb3f72a8d",
+      "section": "uroloogia",
+      "question": "millisele haigusele on kooliku valu iseloomulik?",
+      "choices": {},
+      "answer": "neerukividega ja ka koletsüstiidiga",
+      "type": "open",
+      "sources": [
+        "quizlet:701251228"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2cec92e43970",
+      "section": "uroloogia",
+      "question": "Tunginkontinents - millega kaasneb\nLekkekogused?",
+      "choices": {},
+      "answer": "Ebastabiilse põie sündroomiga kaasnev pidamatus \nLekkekogused pigem suured",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "13223dc94555",
+      "section": "uroloogia",
+      "question": "Kas on võimalik neeru siirdada, kui AB0 ei sobi?",
+      "choices": {},
+      "answer": "On võimalik, kui teostatakse desensibiliseeriv ravi (nt plasmafereesi abil viiakse Ak tase piisavalt madalale) ja tänu immuunsüsteemi kohanemise fenomenile (Ak tiiter hiljem küll tõuseb, aga mitte nii kõrgele, et tekiks äratõuge).",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "689f8d522817",
+      "section": "uroloogia",
+      "question": "Eesnäärme kiiritusravi - kõrvaltoimed/tüsistused",
+      "choices": {},
+      "answer": "1. Kiirgustsüstiit, kiirgusproktiit\n2. Impotentsus - veresoonte sidekoestumine, ei ole võimalik kuidagi takistada",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "127bd30872fc",
+      "section": "uroloogia",
+      "question": "Milleks kasutatakse tsütoloogiat põievähi puhul?",
+      "choices": {},
+      "answer": "Ülemiste kuseteede ja põievähi skriining, high grade ja CIS tuumori avastamine. Ei sobi low grade tuumori avastamiseks, sest rakuline atüüpia väheväljendunud ja enamasti valenegatiivne vastus.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "123e0aa93e79",
+      "section": "uroloogia",
+      "question": "Eesnäärme healoomuline hüperplaasia - diagnostika",
+      "choices": {},
+      "answer": "1. Sümptomid\n2. Verenalüüs - PSA (maliigsuse difdiagnostika), põletikunäitajad, kreatiniin (neerufunktsioon?)\n3. Uriinianalüüs - põletik?\n4. Rektaalne digitaalne palpatsioon - suurus, pinna iseloom (sile vs krobeline), valulikkus (prostatiit?)\n5. Rektaalne UH - mittespetsiifiline, aga annab täpset infot eesnäärme mahu osas (medikamentoosse ravi määramine)\n6. Voolumeetria - voolutugevus (kaudne obstruktsiooni parameeter)\n7. Jääkuriini hindamine\n8. Tsüstoskoopia - striktuuri hindamine, põrgalisus, eesnääre võib olla kasvanud kesksagara arvelt ja pressib põie väljumisosale, seda pole UH pealt näha\n9. Põie urodünaamiline uuring (tsüstomeetria) - põis täidetakse ning mõõdetakse rõhku täitumis- ja tühjenemisfaasis, rõhu tõusu puudumine viitab põie atooniale\n\nKõiki uuringuid ei tehta korraga, tehakse vastavalt sellele, kas see annab ravitaktika osas midagi juurde",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0f01a7082ae4",
+      "section": "uroloogia",
+      "question": "Millised uuringud tehakse pärast neerusiirdamist?",
+      "choices": {},
+      "answer": "1. UH - pais neeruvaagnas, vedelikukogumid neeru ümber, verevool neerus\n2. Biopsia - äratõukereaktsioon, tubulaarekroos (oodata ja teha dialüüsi, kuni siirik tööle hakkab, enamasti paari nädalaga),",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fe0f78b177bd",
+      "section": "uroloogia",
+      "question": "Millest sõltub lokaalse eesnäärmevähi ravitaktika?",
+      "choices": {},
+      "answer": "Riskigrupist ja vanusest",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "6880a73bf0f0",
+      "section": "uroloogia",
+      "question": "Kuhu neerusiirik paigutatakse? Millega ühendatakse?",
+      "choices": {},
+      "answer": "Neerusiirik paigutatakse vasakule või paremale niudelohku ekstraperitoneaalselt. Siirikneer ühendatakse enamasti a. iliaca externa-ga, ureeter ühendatakse põiega. Vana(d) neer(ud) jäetakse alles, v.a juhul kui nt ülisuured polütsüstilised neerud ja ilma eemaldamata ei mahuks siirik(ud) ära.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c66441dda49e",
+      "section": "uroloogia",
+      "question": "Kõige sagedasem neerusiirdamise postop infektsioon?",
+      "choices": {},
+      "answer": "UTI",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "2181fdbc92f1",
+      "section": "uroloogia",
+      "question": "Miks ei võeta kusepõievähist perkutaanset biopsiat?",
+      "choices": {},
+      "answer": "Kusepõievähk külvab ennast väga lihtsalt laiali, sp perkutaanset biopsiat ei tehta",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d0b916dcce5e",
+      "section": "uroloogia",
+      "question": "Ravi valikmeetod ≥ 3 cm (≥ 2 cm??) neerukivi korral",
+      "choices": {},
+      "answer": "Perkutaanne nefrolitotoomia (PCNL)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0f22bc7936ee",
+      "section": "uroloogia",
+      "question": "Põie funkts. häired jagunevad + põhjused + sümptomid",
+      "choices": {},
+      "answer": "1. Kogumishäire: detruusori hüperakiivsus., põie ülitundlikkus, sulgurmehhanismi puudulikkus\n- Sage urineerimine, nüktuuria, kontrollimatu urineerimistung, uriinipidamatus\n\n2. Väljutamishäire: põie atoonia, obstr., detruusori-sfinkteri düssünergia e. DSD\n- Raskendatud urineerimine, jääkuriin, retensioon (välistada anatoomiline takistus!)",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0e2bb32ecb0a",
+      "section": "uroloogia",
+      "question": "Krooniline uriiniretensioon - etioloogia, patogenees",
+      "choices": {},
+      "answer": "Põhjused kas neuroloogilised häired (müopaatiline, neuropaatiline kusepõis, diabeet), ravimid, psühhogeenne. Detruusor ei kontraheeru piisavalt. Enamasti naistel ja noorematel meestel.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c264e82d7ffb",
+      "section": "uroloogia",
+      "question": "Millele viitab kõige tõenäolisemalt eritis kusitist?",
+      "choices": {},
+      "answer": "Suguhaigus, uretriit",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "129a1b91f19d",
+      "section": "uroloogia",
+      "question": "Krooniline prostatiit/krooniline vaagnavalu sündroom",
+      "choices": {},
+      "answer": "Viitab teadmata põhjusega sümptomaatilisele prostatiidile. Moodustab umbes 90% prostatiidi juhtudest. Infektsiooni tunnused puuduvad. Tegu on välistamise diagnoosiga",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "45f52952815a",
+      "section": "uroloogia",
+      "question": "Millises vanuses avaldub enamasti eesnäärme adenoom?",
+      "choices": {},
+      "answer": "> 70a",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3919eb80c3f2",
+      "section": "uroloogia",
+      "question": "Neeru harvestamis'e vastunäidustused (doonoripoolsed)",
+      "choices": {},
+      "answer": "Vanus alla 18 eluaasta, diabeet, krooniline neeruhaigus, neerukivitõbi, krooniline kopsuhaigus, rasvtõbi, psühhiaatriline haigus, südame- ja neerukahjustusega kõrgvererõhktõbi, tromboosi või trombemboolia anamnees",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4d71d2000e64",
+      "section": "uroloogia",
+      "question": "Mis uuringu alusel diagnoositakse äratõukereaktsioon?",
+      "choices": {},
+      "answer": "Biopsia",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e19608195998",
+      "section": "uroloogia",
+      "question": "Obstruktiivne püelonefriit - kõige sagedasem tekitaja",
+      "choices": {},
+      "answer": "E. coli",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "56310b2caba5",
+      "section": "uroloogia",
+      "question": "Eesnäärme healoomuline hüperplaasia - komplikatsioonid",
+      "choices": {},
+      "answer": "- Uriini retensiooni tagajärjel mõlemapoolne (nt kivi korral ühepoolne) hüdronefroos ja põletik → neerupuudulikkus\n- Põrkpõis - diagnoosimiseks tsüstoskoopia (kaudselt UH põieseina paksuse hindamiseks)\n- Korduvad uroinfektsioonid\n- Põie atoonia\n- Kivid",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f98a36a21a78",
+      "section": "uroloogia",
+      "question": "Eesnäärme healoomuline hüperplaasia - kirurgiline ravi",
+      "choices": {},
+      "answer": "Näidustused: jääkuriin korduval mõõtmisel > 300 ml, suur kusepõie divertiikel, korduv mikroskoopiline hematuuria, korduv UTI, kaebused ei vähene vähemalt 6-kuuse medikamentoosse raviga, kusepõie kivid, eesnäärme maht > 100 ml\n\n1. TURP - transuretraalne prostata resektsioon\n2. TUIP - transuretraalne prostata intsisioon\n3. Lahtine või laparoskoopiline adenomektoomia\n\nRadikaalset prostatektoomia ei tehta, see ainult vähiravis, rohkem tüsistusi.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "882b634acf4f",
+      "section": "uroloogia",
+      "question": "Ebastabiilse põie sündroom - olemus, diagnostika, ravi",
+      "choices": {},
+      "answer": "Hüperaktiivne e ebastabiilne põis on kliiniline sündroom, mida iseloomustab äkki tekkiv pakiline urineerimisvajadus, mis ei allu inimese tahtele ning mõjutab seetõttu oluliselt elukvaliteeti. Suht võrdselt M ja N. Kujuneb lõpuks välja tunginkontinents. Uriinileke kaasneb raskematel juhtudel. Põhjused samad nagu inkontinentsil (eesnäärme adenoom, põletik, neuroloogiline jne). Meestel ∽ 50% tekib eesnäärme adenoomi tõttu. Diagnostika sama nagu inkontinentsi puhul, urineerimispäevik eriti oluline. Ravi põhimõtteliselt sama nagu tunginkontinentsi korral.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fcb94f46263c",
+      "section": "uroloogia",
+      "question": "Kellel näidustatud neeru ja pankrease koos siirdamine?",
+      "choices": {},
+      "answer": "I tüüpi diabeetikud",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d564c6a2c21f",
+      "section": "uroloogia",
+      "question": "Eesnäärme vähi uurimine/diagnoosimine uroloogi juures?",
+      "choices": {},
+      "answer": "1. Uuesti anamnees\n2. Uuesti PSA määramine\n3. Uuesti digitaalne rektaalne palpatsioon\n4. Kahtlus püsib → TRUS + biopsia (vähemalt 12tk, alates baasisest, mida suurem eesnääre seda rohkem tükke) → neg biopsia võib tähendada, et lihtsalt ei tabanud kasvajat\n5. Biopsia neg, aga kahtlus püsib → PSA jälgimine või MRT (3-4k pärast, eesnäärme puhul T2, DWI, ADC, DCE)\nKasvaja on T2 tume, DWI hele, ADC must\n6. MRTs leitud kolle → tehakse joonis/plaan → suunatud UH biopsia (fusioonbiopsia, 3-4tk)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "4143dcccf5a2",
+      "section": "uroloogia",
+      "question": "Hüperaktiivne e. ebastabiilne põis - võimalikud vormid:",
+      "choices": {},
+      "answer": "Neurogeenne\nSekundaarne (inf/põletik, kivi, kasvaja, obstruktsioon)\nIdiopaatiline\nSegatüüpi",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c70507cc364f",
+      "section": "uroloogia",
+      "question": "Millal vajab nefrolitiaas kiiret invasiivset sekkumist?",
+      "choices": {},
+      "answer": "Kõrge kreatiniini tase (viitab neerukahjustusele), püelonefroos, valuvaigistile allumatu valu",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "ce21bdc15328",
+      "section": "uroloogia",
+      "question": "Ureeteri striktuuri plastika (neerusiirdamise järgselt)",
+      "choices": {},
+      "answer": "Sõltub ahenemise asukohast ja ulatusest \n1. Dilateerimine stendiga - kui lühikesel alal ja puudub ulatuslik fibroos \n2. Kirurgiline korrektsioon - ots-otsaga anastomoos või asendusplastika",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d03ec16a3883",
+      "section": "uroloogia",
+      "question": "Hüperaktiivne e. ebastabiilne põis - medikamentoosne ravi",
+      "choices": {},
+      "answer": "M-kolinoblok. Kasutamist limiteerivad: vastunäidustused (suletud nurga glaukoom, GIT motoorika häired, Myasthenia gravis), ravimtaluvus ja kõrvaltoimed (nt suukuivus)\n\nβ3-adrenorets. agonistid - detruusori otsene lõõgastav toime; üsna hästi talutav, vähe kõrvaltoimeid.\n\nAntikolinergilised preparaadid\n\nBPH + OAB ravi: α1 adrenoblokaator + β3-adrenoretseptorite agonist",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "17d330605b72",
+      "section": "uroloogia",
+      "question": "Kuidas eristada lümfotseelet ja uriini lekkimist neerust?",
+      "choices": {},
+      "answer": "Vedelikukogumist kreatiniini taseme määramine. Urotseele korral on kreatiniini tase u 10x (ehk 1000%) kõrgem kui lümfotseele puhul. Lümfotseeles kreatiniini tase sarnane seerumi kreatiniinile",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f2ba4d2a199f",
+      "section": "uroloogia",
+      "question": "Millised koesobivusuuringud tehakse enne neerusiirdamist?",
+      "choices": {},
+      "answer": "1. HLA tüpiseerimine\n2. HLA antikehade skriining\n3. Ristreaktsioon e crossmatch",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a4297da8f0e0",
+      "section": "uroloogia",
+      "question": "Kuseteede obstruktsiooni põhjused neerusiirdamise järgselt",
+      "choices": {},
+      "answer": "Varane obstruktsioon: tehnilised probleemid anastomoosiga, lümfotseelest kompressioon\nHiline obstruktsioon: isheemia, äratõuge",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "27bde184390b",
+      "section": "uroloogia",
+      "question": "Eesnäärme healoomulise hüperplaasia vs vähi lokalisatsioon",
+      "choices": {},
+      "answer": "Enamasti healoomuline hüperplaasia pigem tsentraalselt (täpsemalt transitoorne tsoon) ja vähk pigem perifeerselt. Digitaalsel palpatsioonil palpeeritakse perifeerset osa.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8b4ca26b678f",
+      "section": "uroloogia",
+      "question": "Biopsial avastatud eesnäärmevähk (Gleason > 5), mis edasi?",
+      "choices": {},
+      "answer": "1. Gleason skoor + PSA + kliiniline staadium (mis on palpeerimisel tunda) → riskigrupi määramine\n2. Madal ja keskmine risk edasisi uuringuid ei vaja (kahtluse korral osadele keskmise riskiga ka)\n3. Kõrge risk → leviku-uuringud\n\nLeviku-uuringud\n1. KT - lümfsiõlmed (eesnäärmevähi puhul luumetastaase KT-s ei näe, sest need sama tihedusega)\n2. Stsintigraafia - luumetastaasid (uuring tehneetsiumiga, mis on sarnane Ca ehitusega ja sp osteoblastid neelavad seda endasse)\n3. PSMA-PET",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "32bd9a1cf477",
+      "section": "uroloogia",
+      "question": "Millele viitab neerusiirdamise järgses biopsias c4d marker?",
+      "choices": {},
+      "answer": "Humoraalsele äratõukele",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "d84da1feb633",
+      "section": "uroloogia",
+      "question": "Millised tegurid tõstavad neerusiirdamise kirurgilisi riski?",
+      "choices": {},
+      "answer": "Adipoossus, väljendunud veresoonte (eriti iliakaalsete) skleroos, eelnevad operatsioonid (korduslõikus samas piirkonnas alati keerulisem)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "8c04ff626840",
+      "section": "uroloogia",
+      "question": "Milline uroloogiline kasvaja noortel meestel kõige sagedasem?",
+      "choices": {},
+      "answer": "Testise kasvaja",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e9eddfac155a",
+      "section": "uroloogia",
+      "question": "Millal tehti esimene edukas neerusiirdamine maailmas? Tartus?",
+      "choices": {},
+      "answer": "1954 maailmas, 1968 Tartus",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b02ac40cbca4",
+      "section": "uroloogia",
+      "question": "Eesnäärme healoomuline hüperplaasia - tekkepõhjused, sümptomid",
+      "choices": {},
+      "answer": "Kõige sagedasem uroloogiline probleem meestel > 50-60a (vanusega lineaarne esinemissageduse kasv). Tekkes oluline vanus ja testosteroon, aga patogenees ei ole täpselt teada. Tekivad urineerimishäired: raske alustamine, juga katkendlik, põis ei tühjene korralikult, öine urineerimine, urineerimise pikenemine, järeltilkumine, ärritusnähud.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0e64d4f87a7a",
+      "section": "uroloogia",
+      "question": "Mida näitab ristreaktsioon ehk crossmatch? Kuidas teostatakse?",
+      "choices": {},
+      "answer": "See näitab tsütotoksiliste antikehade olemasolu. Teostamiseks lisatakse doonori lümfotsüüdid retsipiendi plasmale.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0b81b580801a",
+      "section": "uroloogia",
+      "question": "Milliste ureeteri kivide väljutamisel näidustatud tamsulosiin?",
+      "choices": {},
+      "answer": "5-10mm kivid",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "185702924627",
+      "section": "uroloogia",
+      "question": "Milliseid ravimklasse kasutatakse keemiliseks kastratsiooniks?",
+      "choices": {},
+      "answer": "LHRH analoogid (agonistid) ja antagonistid",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "59be2cc61c2e",
+      "section": "uroloogia",
+      "question": "Epitsüstostoomi võimalikud tüsistused + riski tõstab oluliselt:",
+      "choices": {},
+      "answer": "Soole perforatsioon (otse või läbi põie)\nEkstravesikaalne asetsus\nUriini ekstravasatsioon või uriini (steriilne) peritoniit\nVeritsus: põie seinast, eesnäärmest\n\nRiski tõstab oluliselt: väike põie maht, alakõhu operatsioonid, kiiritus, hüübimishäired, adipoossus",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "e69cdb61093f",
+      "section": "uroloogia",
+      "question": "Kui spetsiifiline on mikrohematuuria põievähi esinemise suhtes?",
+      "choices": {},
+      "answer": "u 1%",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c9c72e749d32",
+      "section": "uroloogia",
+      "question": "Millal on põievähi korral näidustatud radikaalne tsüstektoomia?",
+      "choices": {},
+      "answer": "T1 G3, T2-T4 staadiumid\nEi ole näidustatud metastaatilise haiguse korral",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "abbb1906665f",
+      "section": "uroloogia",
+      "question": "Mille alusel otsustatakse, kes neerusiiriku ootenimekirjas saab?",
+      "choices": {},
+      "answer": "1. HLA sobivus (max 6/6, enamasti siirdatakse 2-3/6)\n2. Kui mitmel patsiendil sobivus sama hea, siis saab see, kes kõige kauem oodanud\n\nHea tava, et doonori vanusest +/- 15 aastat retsipiendiga",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c5979db797fb",
+      "section": "uroloogia",
+      "question": "Kui kiiresti peaks doonorilt võetud neeru retsipiendile siirdama?",
+      "choices": {},
+      "answer": "< 20h (Eesti sisesed siirdamised tehakse < 10h)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c5655125b030",
+      "section": "uroloogia",
+      "question": "Kirurgilised tüsistused neerusiirdamisel - mis kõige sagedasemad?",
+      "choices": {},
+      "answer": "Üldised postoperatiivsed tüsistused:\n- hingamisteed: atelektaas, aspiratsioon, kopsuturse \n- haav: infektsioon, eventratsioon\n- kuseteede infektsioon (kõige sagedasem infektsioon)\n- ileus \n- tromboembolism\n\nTransplantaadiga seotud tüsistused:\n- veresoonte tromboos 0,5-2% (kiire dgn doppler-UH/angiograafiaga, siis teoorias võimalik trombektoomia)\n- veritsus haavast, hematoom 2-3%\n- uriini leke < 5%\n- lümfi leke, lümfotseele < 10% (kõige sagedasem, UH)\n- kuseteede obstruktsioon < 5%",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "20b91ef58c17",
+      "section": "uroloogia",
+      "question": "Mis on tüüpiliselt neerusiiriku äratõuke esmaseks avaldusvormiks?",
+      "choices": {},
+      "answer": "Tekib neerufunktsiooni langus ja kreatiniini taseme tõus",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "057b23834caa",
+      "section": "uroloogia",
+      "question": "Mida teha, kui skriinimisel perearsti juures tuleb välja PSA tõus?",
+      "choices": {},
+      "answer": "Perearsti tasemel:\n1. Anamnees - perekonnaanamnees (isa eesnäärmevähk, ema rinnavähk), seksuaalne aktiivsus (PSA tõus peale vahekorda kuni 48h), kas sõidab jalgrattaga?\n2. Digitaalne rektaalne palpatsioon - valu (prostatiit?), pinna iseloom (sile/krobeline), sõlmed (23% sõrmega tuntavatest sõlmedest on vähk), vagu (palpeeritav/mitte), sagarad võrdse suurusega\n3. Transrektaalne-UH - maht, ehhogeensus, jääkuriin (ei ole tegelt vähi diagnostikas vajalik, aga perearstid vist teevad ikka)\nKui mingeid muid riskifaktoreid välja ei tule, ainult PSA tõus, siis võib nt 4-6k pärast uuesti kutsuda ja uuesti PSA määrata. Kui edasi tõuseb, siis e-konsultatsioon uroloogile.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "7263ecc15808",
+      "section": "uroloogia",
+      "question": "Milline uuring annab parima ülevaate ülemiste kuseteede anatoomiast?",
+      "choices": {},
+      "answer": "Trifaasiline KT uuring, hilisfaasis urograafia KT kontrastiga",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0a05e5fbc181",
+      "section": "uroloogia",
+      "question": "Pindmise (lihasinvasioonita) kusepõievähi ravi + meetodid ja eesmärgid",
+      "choices": {},
+      "answer": "Kirurgiline:\n\n1. TURB + postop intravesikaalne kemoteraapia/BCG - tervendav\n\n2. Intravesikaalne BCG ravi (immuunravi) - vähendab retsidiive + progresseerumist",
+      "type": "open",
+      "sources": [
+        "quizlet:871252663"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "3faf94fb0002",
+      "section": "uroloogia",
+      "question": "Neerukoolik - mittemedikamentoosne ravi (kui pole vaja kivi eemaldada)",
+      "choices": {},
+      "answer": "5-10mm kivide puhul\nHüdronefroos tuleb ära lahendada!\nPatsienti hüdreerida füsioloogilises mahus, ülehüdreerimine ei anna positiivset efekti\n1. Ureeteri stentimine - esmavalik, kui vähene pais, põletikku ei ole/väga kerge, stent võib sees olla kuni 6k\n2. Perkutaanne nefrostoomia - rajatakse nefrostoomiga uus väljapääs otse neerust, kasutatakse siis, kui pitsunud kivi või tugev põletik, nefrostoomi koti vahetamine kord nädalas, toru vahetus 1,5k tagant, torud ballooniga ja ilma (rohkem kasutatakse ballooniga, raskem välja tõmmata)",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "327e8074ae61",
+      "section": "uroloogia",
+      "question": "Immunoloogiline vs mitte-immunoloogiline krooniline äratõukereaktsioon",
+      "choices": {},
+      "answer": "Immunoloogilise korral on kas rakuline või humoraalne reaktsioon. Põhjused: halb koesobivus, anti-HLA Ak-d, äratõuke episood(id), ebapiisav immuunsuppressioonravi, ravist loobumine või raviskeemi mitte-jälgimine. Ravina võib proovida immuunsupressiooni tõsta.\n\nMitte-immunoloogilise korral on tekkinud skleroos/fibroos ilma tubuliidita. Põhjused: doonori kõrge vanus, isheemiline kahjustus, tsüklosporiini nefrotoksilisus, hüpertensioon, infektsioonid (CMV, BK), metaboolne sündroom. Ravi ei ole.\nPrognoos mõlemal halb, parim ravi on ennetamine.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "fc7e4fe5688e",
+      "section": "uroloogia",
+      "question": "Kui suur on spontaanse väljumise tõenäosus olenevalt neerukivi suurusest?",
+      "choices": {},
+      "answer": "< 4 mm > 90%\n4-6 mm ∽ 50%\n> 6 mm < 10%",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "f97e425bd8c8",
+      "section": "uroloogia",
+      "question": "Millisel juhul urotrakti põletikuga (nt tsüstiidiga) pt uroloogi pärusmaa?",
+      "choices": {},
+      "answer": "Kui kaasneb uriini retensioon, neerude probleemid vms, kus võib olla vajalik kirurgiline sekkumine",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "568f00f5e365",
+      "section": "uroloogia",
+      "question": "Miks eesnäärmevähi metastaasi uuringutes ei ole võimalik kasutada FDG-PET?",
+      "choices": {},
+      "answer": "FDG-PET ei sobi, sest eesnäärme vähi rakud nii aeglase ainevahetusega, et ei neela glükoosi oluliselt rohkem norm koest",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "88868ad1568b",
+      "section": "uroloogia",
+      "question": "Milline protseduur on näidustatud distaalses kusejuhas paikneva kivi korral?",
+      "choices": {},
+      "answer": "URS ehk ureteroskoopia",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c9e5f6e075c6",
+      "section": "uroloogia",
+      "question": "Millist tüüpi inkontinentsi puhul on kateteriseerimine üks võimalik ravimeetod?",
+      "choices": {},
+      "answer": "Ülevoolu inkontinents, mis on kõige sagedamini põhjustatud uriini retensioonist",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "b5bbdd0dc106",
+      "section": "uroloogia",
+      "question": "Neeruvähi kirurgiline ravi - transabdominaalne vs retroperitoneaalne lähenemine",
+      "choices": {},
+      "answer": "- Transabdominaalne - kasvaja neeru eespinnal ja/või lokaalselt levinud, võimaldab ulatuslikku lümfadenektoomiat, v. cava trombektoomiat. \n- Retroperitoneaalne - väiksem trauma, kiirem paranemine. Kasvaja suhteliselt väike ja/või paikneb neeru tagapinnal. Kõrge vanus ja/või palju riskifaktoreid.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "53bc46df582d",
+      "section": "uroloogia",
+      "question": "Millise oodatava elueaga on näidustatud lokaalse eesnäärmevähi radikaalne ravi?",
+      "choices": {},
+      "answer": "Oodatav eluiga üle 10a",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "0c99b2db288d",
+      "section": "uroloogia",
+      "question": "Kas eesnäärmevähi korral on efektiivsem kirurgiline või keemiline kastreerimine?",
+      "choices": {},
+      "answer": "Võrdväärse efektiivsusega",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "cd2ef69a7a5b",
+      "section": "uroloogia",
+      "question": "Infitseerunud hüdronefroos, püonefroos (ehk obstruktiivne püelonefriit) - olemus",
+      "choices": {},
+      "answer": "Infitseerunud hüdronefroos on bakteriaalne infektsioon hüdronefrootilises neerus. Püonefroosi korral infitseerunud hüdronefroos koos neeru parenhüümi destruktsiooniga (kaasneb oluline/täielik neerufunktsiooni kadumine). Mõlema korral pt septiline, külmavärinate ja seljavaludega, võib esineda temp. tõus ja GIT düskomfort. Kliiniliselt raske eristada tavalisest püelonefriidist. Enamasti eelneb kivi, infektsioon ja/või operatsioon urotraktis. Vajab reeglina hospitaliseerimist, võib vajada intensiivravi.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "c6c50b82710d",
+      "section": "uroloogia",
+      "question": "millist äratõuget näitab peale neerusiirdamist cd4 marker? (humoraalset, rakulist, …)",
+      "choices": {},
+      "answer": "Rakuline (T-rakk-vahendatud) äratõukereaktsioon — CD4 on T-abistajarakkude marker.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "031972dc919b",
+      "section": "uroloogia",
+      "question": "Infitseerunud hüdronefroos, püonefroos (ehk obstruktiivne püelonefriit) - diagnostika, ravi",
+      "choices": {},
+      "answer": "Diagnoosimine UH ja KT abil (pais neerus, parenhüümi muutused). Raviks AB + drenaaž (drenaaž esimesel võimalusel, 24h jooksul). Takistuse põhjust EI HAKATA ägeda infektsiooni tingimustes likvideerima.",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "a2658f49b198",
+      "section": "uroloogia",
+      "question": "Millisel juhul ei ole adrenoblokaatorid efektiivsed urineermishäire ja -takistuse leevendamisel?",
+      "choices": {},
+      "answer": "Kusiti ahenemise korral",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "31d388a6d016",
+      "section": "uroloogia",
+      "question": "Kui on tekkinud uriini retensioon, kas on alati näidustatud kirurgiline ravi eesnäärme suurenemise korral?",
+      "choices": {},
+      "answer": "Ei, u 1/3 laheneb ka siis ravimite abil",
+      "type": "open",
+      "sources": [
+        "quizlet:910019316"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "438ec4904699",
+      "section": "uroloogia",
+      "question": "kellele on võimalik siirdada kaks neeru (doonori neerud on subkompenseeritud; inimesele suure kehamassiga…)",
+      "choices": {},
+      "answer": "Kahe neeru siirdamine ühele retsipiendile on näidustatud, kui doonori neerud on marginaalse/subkompenseeritud funktsiooniga (laiendatud kriteeriumitega/vanemad doonorid) ja ühe neeru nefronimassist ei piisaks; suure kehamassiga retsipient vajab samuti rohkem nefronimassi.",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    },
+    {
+      "id": "68da878f39cd",
+      "section": "uroloogia",
+      "question": "millises neist sisenetakse läbi loomulike kehaõõnte? (nefrostoom, epitsüstoom, ureeteri mingi uuring, või kõik)",
+      "choices": {},
+      "answer": "Ureteri uuring/tsüstoskoopia (ureteroskoopia) — siseneb läbi kusiti, mis on loomulik kehaava. Nefrostoom ja epitsüstoom rajatakse perkutaanselt (läbi naha).",
+      "type": "open",
+      "sources": [
+        "pdf:Kirurgia_eksam_2024"
+      ],
+      "source_count": 1,
+      "answer_source": "ai"
+    }
+  ]
+}
